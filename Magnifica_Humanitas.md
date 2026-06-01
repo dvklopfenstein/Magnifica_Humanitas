@@ -7,6 +7,8 @@ IN THE TIME OF ARTIFICIAL INTELLIGENCE
 # Monday, May 25, 2006 Presentation of the Encyclical
 * [**PRESENTATION AND PROMULGATION OF THE ENCYCLICAL LETTER *Magnifca Humanitas***](#presentation-and-promulgation-of-the-encyclical-letter-magnifca-humanitas)
     * [VIDEO](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)
+    * [S. Em. Card. Pietro Parolin](#s-em-card-pietro-parolin)
+    * [S. Em. Card. Victor Manuel Fernández](#s-em-card-victor-manuel-fernandez}
     * [Prof.ssa Anna Rowlands](#profssa-anna-rowlands)
     * [Christopher Olah](#christopher-olah)
     * [Prof.ssa Leocadie Lushombo i.t.](#profssa-leocadie-lushombo-it)
@@ -1060,22 +1062,67 @@ Given in Rome, at Saint Peter’s, on 15 May, in the year 2026, the second of my
 # Presentation and promulgation of the Encyclical Letter ***Magnifca Humanitas***
 [VIDEO](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)
 
-## Prof.ssa Anna Rowlands
-Departments di Techologia e Religione della Durham University, Regno Unito
+## S. Em. Card. Pietro Parolin
+0:04:08
 
-Eminences, excellences, sisters and brothers.
-"I came that they might have life and habit abundantly," proclaimed Jesus
-in this magnificent humanity asks what does it mean to be a flourishing human being in a time of AI this letter is not a neutral consideration of that question any more than today’s technologies and body neutral world views this cyclical brings the vision of the gospel to bear on the cultures of AI.
-It warns of a growing culture of power that is work, families, education, and political life.
-It causes to transform modes of power that dominate into forms of shared power, and to measure technological developments by their contributions to true social and ethical progress 11 years ago, Lato C called us to an urgent and urgent care for the Earth and for the poorest war warning of a technocratic paradigm that measures human worth by utility today hopefully Leo shows, but to overcome this techno Democratic paradigm requires us now to just as urgently safeguard the human.
-An integral psychology requires an integral humanism centered on Jesus Christ.
+## S. Em. Card. Victor Manuel Fernández
+0:17:00
+
+## Prof.ssa Anna Rowlands
+Departments di Techologia e Religione della Durham University, Regno Unito    
+0:36:16
+
+Holy Father, Eminences, excellences, sisters and brothers.
+
+"I came that they might have life and habit abundantly," proclaimed Jesus.
+in this light *Magnifca Humanitas* asks what does it mean to be a flourishing human being in a time of AI.
+This letter is not a neutral consideration of that question any more than today’s technologies embody neutral world views.
+This cyclical brings the vision of the gospel to bear on the cultures of AI.
+It warns of a growing culture of power that is reshaping work, families, education, and political life.
+It calls us to transform modes of power that dominate into forms of shared power,
+and to measure technological developments by their contributions to true social and ethical progress.
+
+11 years ago, Pope Francis' [Laudato Sí](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html)
+called us to an urgent, *an urgent*, care for the Earth and for the poorest.
+Warning of a technocratic paradigm that measures human worth by utility.
+Today, Pope Leo shows, that to overcome this technocratic paradigm requires us now to just as urgently safeguard the human.
+An integral ecology requires an integral humanism centered on Jesus Christ.
+
 This appeal is no platitude.
-No idea is more central to modern society than that of the free human being yet this ideal is now breaking point this leads to grief to anger to despair, others to a desire to overcome our humanity, striving to become our own gods instead, Magnifier human presents human freedom as a gift anchored in a truth that is personal embodied and relational.
-Our freedom and intelligence expressed themselves in a knowing that is irreplaceably embodied through work, care, contemplation, suffering, even and friendship, the cyclical names, free human beings, as a loved creation, equal in dignity created for relationship, rational shapers of the world, and a Neighbourhood without exception the power that we have is the capacity to nurture this truth together without such guiding truths or freedom becomes little more than an instrument in the hands of arbitrary powers distilling these trees for a time of AI Magnifier humanity offers a new synthesis of the churches, social doctrine as recent times have perhaps shown when the church speaks on social matters some complain of unwelcome interference yet the Church rightly speaks because mission is to reveal the face of God in history and to accompany humanity as it struggles towards its true Good and foster unity discerning.
-Our path in history is a communal task in dialogue with cultures with sciences with people of all faith and beliefs many social vacations.
-There are special responsibility for this task.
-However, a healthy social dialogue means that we must step out of our silo and recognizing ourselves as more than tools of the state market agents or users, user tools of an algorithmic order the churches, social doctrine invites us into a space of encounter and mutual accompaniment to share in a collective search for truth for justice and for flourishing in this space, the most vulnerable and victims the newly enslaved have faces and names and they are heard first magnify Humana task offers social principles to assist this dialogue over 135 years the popes have taught that the foundation of the social order is the dignified human person that the common Good cannot truly be sought without the recognition and the participation of all that the resources of the Earth are on how to meet the needs of all, including future generations, and that Jesus Christ makes those neighs bound structural and personal solidarity.
-The power must be transparent and accountable and exercised at multiple social level levels this and cyclical insists that these principles apply inside the church as well as outside the bethanechol tradition.
+No idea is more central to modern society than that of the free human being.
+Yet this ideal is now at breaking point.
+This leads some to grief, to anger, to despair.
+Others, to a desire to overcome our humanity, striving to become our own gods.
+
+Instead, *Magnifca Humanitas* presents human freedom as a gift, anchored in a truth, that is personal, embodied, and relational.
+Our freedom and intelligence expressed themselves in a knowing that is irreplaceably embodied
+through work, care, contemplation, suffering even, and friendship.
+
+The Encyclical names free human beings as a loved creation; equal in dignity, created for relationship, rational shapers of the world, and a neighbour without exception.
+The power that we have is the capacity to nurture this truth together.
+Without such guiding truths our freedom becomes little more than an instrument in the hands of arbitrary powers.
+
+Distilling these truths for a time of AI, *Magnifca Humanitas* offers a new synthesis of the Churches social doctrine.
+As recent times have perhaps shown when the Church speaks on social matters some complain of unwelcome interference.
+Yet the Church rightly speaks because her mission is to reveal the face of God in history and to accompany humanity as it struggles towards its true good and foster unity.
+
+Discerning our path in history is a communal task in dialogue with cultures, with sciences, with people of all faith and beliefs.
+Many social vocations bear a special responsibility for this task.
+
+However, a healthy social dialogue means that we must step out of our silos
+and recognize ourselves as more than tools of the state, market agents, or user tools of an algorithmic order.
+The Churches social doctrine invites us into a space of encounter and mutual accompaniment to share in a collective search for truth, for justice, and for flourishing.
+In this space, the most vulnerable and victims, the newly enslaved, have faces and names and they are heard first.
+
+*Magnifca Humanitas* offers social principles to assist this dialogue.
+Over 135 years, the popes have taught that the foundation of the social order is the dignified human person.
+That the common good cannot truly be sought without the recognition and the participation of all,
+that the resources of the Earth are to meet the needs of all, including future generations,
+and that Jesus Christ makes us neighbors bound in structural and personal solidarity.
+The power must be transparent and accountable, and exercised at multiple social levels.
+
+0:41:00    
+This Encyclical insists that these principles apply inside the Church as well as outside the bethanechol tradition.
 Also traditionally exposes, false idols.
 The popes of taught Thuy will not not be saved by the market nor by historical forces, nor by the nation state today, hopefully Leo cautions that we will not be saved by AI either or by its post and trans humanism such ideologies present total autonomy, radical automation machine, consciousness, and the overcoming of human limits as saving goals in doing so they create new dependencies exclusions, and inequalities to quote the holy father instead limits, all part of how we learn compassion, generosity, and healthy into dependence, part of how the heart is pierced, and how it expands towards communion and part of how the soul grows in a wisdom that is more than main knowledge yet the tradition we should be clear tells a fundamentally positive story about tech technologies since our origins humans have created technologies the augment their freedom, alleviate suffering, and real needs when technologies remain tools, serving a clear good they can be viewed as an extension of the freedom that God gives us in Genesis to tell and keep the land technologies belong therefore within the terms of the covenant between God and humanity, serving the human vocation to decent work to raise families to seek truth as a common good to build community and to foster peace and unity.
 The traditions question is therefore constructive.
