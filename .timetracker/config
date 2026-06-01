@@ -1,0 +1,6 @@
+# TimeTracker project configuration file
+
+project = "Magnifica_Humanitas"
+
+[csv]
+filename = "../timetrackers/timetracker_Magnifica_Humanitas_$USER$.csv"
