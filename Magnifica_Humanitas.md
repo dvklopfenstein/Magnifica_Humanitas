@@ -8,7 +8,7 @@ IN THE TIME OF ARTIFICIAL INTELLIGENCE
 * [**PRESENTATION AND PROMULGATION OF THE ENCYCLICAL LETTER *Magnifca Humanitas***](#presentation-and-promulgation-of-the-encyclical-letter-magnifca-humanitas)
     * [VIDEO](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)
     * [S. Em. Card. Pietro Parolin](#s-em-card-pietro-parolin)
-    * [S. Em. Card. Victor Manuel Fernández](#s-em-card-victor-manuel-fernandez}
+    * [S. Em. Card. Victor Manuel Fernández](#s-em-card-victor-manuel-fernandez)
     * [Prof.ssa Anna Rowlands](#profssa-anna-rowlands)
     * [Christopher Olah](#christopher-olah)
     * [Prof.ssa Leocadie Lushombo i.t.](#profssa-leocadie-lushombo-it)
@@ -97,14 +97,14 @@ IN THE TIME OF ARTIFICIAL INTELLIGENCE
 <!-- ==================================================================================== -->
 ## INTRODUCTION
 
-1. Humanity, created by God in all its grandeur, is today facing a pivotal choice: either to construct a new Tower of Babel or to build the city in which God and humanity dwell together. Each generation inherits the task of shaping its own era, of guiding history to become a place where the dignity of every person is safeguarded, justice is promoted and fraternity is made possible. Yet every era also runs the risk of creating an inhumane and more unjust world. Whenever humanity is in danger of marring its true identity, we Christians lift our eyes to the Incarnate God, knowing that it is “only in the mystery of the Word made flesh that the mystery of humanity truly becomes clear.”[1][1] In Jesus Christ, this humanity in its grandeur becomes the Way, the Truth and the Life, opening the path for each of us to grow toward fullness.
+1. Humanity, created by God in all its grandeur, is today facing a pivotal choice: either to construct a new Tower of Babel or to build the city in which God and humanity dwell together. Each generation inherits the task of shaping its own era, of guiding history to become a place where the dignity of every person is safeguarded, justice is promoted and fraternity is made possible. Yet every era also runs the risk of creating an inhumane and more unjust world. Whenever humanity is in danger of marring its true identity, we Christians lift our eyes to the Incarnate God, knowing that it is “only in the mystery of the Word made flesh that the mystery of humanity truly becomes clear.”[^1] In Jesus Christ, this humanity in its grandeur becomes the Way, the Truth and the Life, opening the path for each of us to grow toward fullness.
 
-2. Founded on Christ, the living stone, we experience the powerful and mysterious action of the Holy Spirit, and we believe that every authentic human effort to cooperate with him for the good will be blessed by our heavenly Father, in whom we place our hope. For this reason, we can diligently contribute to every initiative that builds a more just world, and we can call others to collaborate in promoting the integral development of every human being. We wish to engage in dialogue with all men and women of our time, with whom we share in the events, questions and aspirations of humanity.[2][2] Together with them, we seek to identify new paths for the common good and for promoting a dignified life for all. Indeed, openness to dialogue is an integral part of the Church’s vocation because, constituted in Christ as “a sacrament… of communion with God and of the unity of the entire human race,”[3][3] she recognizes history as the place where the Gospel challenges and directs human experience.
+2. Founded on Christ, the living stone, we experience the powerful and mysterious action of the Holy Spirit, and we believe that every authentic human effort to cooperate with him for the good will be blessed by our heavenly Father, in whom we place our hope. For this reason, we can diligently contribute to every initiative that builds a more just world, and we can call others to collaborate in promoting the integral development of every human being. We wish to engage in dialogue with all men and women of our time, with whom we share in the events, questions and aspirations of humanity.[^2] Together with them, we seek to identify new paths for the common good and for promoting a dignified life for all. Indeed, openness to dialogue is an integral part of the Church’s vocation because, constituted in Christ as “a sacrament… of communion with God and of the unity of the entire human race,”[^3] she recognizes history as the place where the Gospel challenges and directs human experience.
 
 <!-- https://www.americamagazine.org/podcasts/2026/05/28/pope-leo-ai-encyclical-podcast/ 12:00 -->
 3. In this spirit,
 Pope Leo XIII published his Encyclical Rerum Novarum in 1891, the 135 th anniversary of which we celebrate with deep gratitude this year.
-With that document, my beloved predecessor gave impetus to the reflection on society, the economy and politics, which is now known as the “Social Doctrine of the Church.” When some objected that the Church should not waste energy on worldly matters, but instead focus on communicating the message of eternal life, Leo XIII responded with realism and wisdom, saying that the proclamation of the Gospel cannot overlook the concrete lives of people.[4][4] Many decades have passed since then, and the Magisterium, pastors, theologians and faithful have continued to reflect on social issues in the light of the Gospel. Today, the Social Doctrine of the Church is a legacy of wisdom, where we find principles for thought, criteria for discernment and judgment, and concrete guidelines for action. Founded on Sacred Scripture and Tradition, and in engagement with the sciences, it helps us clearly interpret the challenges of the present and identify appropriate ways for living out a clear Christian witness, with joy and in service to the world. It is not an inert set of concepts, but a living corpus of truth that safeguards and interprets humanity’s vocation to a full and just life. I therefore wish to add my own voice to this living tradition, invoking the help of the Spirit of wisdom, who has dwelt in the world since its beginning (cf. Prov 8:22-31).
+With that document, my beloved predecessor gave impetus to the reflection on society, the economy and politics, which is now known as the “Social Doctrine of the Church.” When some objected that the Church should not waste energy on worldly matters, but instead focus on communicating the message of eternal life, Leo XIII responded with realism and wisdom, saying that the proclamation of the Gospel cannot overlook the concrete lives of people.[^4] Many decades have passed since then, and the Magisterium, pastors, theologians and faithful have continued to reflect on social issues in the light of the Gospel. Today, the Social Doctrine of the Church is a legacy of wisdom, where we find principles for thought, criteria for discernment and judgment, and concrete guidelines for action. Founded on Sacred Scripture and Tradition, and in engagement with the sciences, it helps us clearly interpret the challenges of the present and identify appropriate ways for living out a clear Christian witness, with joy and in service to the world. It is not an inert set of concepts, but a living corpus of truth that safeguards and interprets humanity’s vocation to a full and just life. I therefore wish to add my own voice to this living tradition, invoking the help of the Spirit of wisdom, who has dwelt in the world since its beginning (cf. Prov 8:22-31).
 
 ### The *res novae* of our time
 
@@ -834,230 +834,230 @@ If you are the body and members of Christ, then it is your sacrament that is pla
 Given in Rome, at Saint Peter’s, on 15 May, in the year 2026, the second of my Pontificate.
 
 ## References
-[1]: Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes, 22: AAS 58 (1966), 1042.    
-[2]: Cf. ibid., 11: AAS 58 (1966), 1033-1034.    
-[3]: Second Vatican Ecumenical Council, Dogmatic Constitution Lumen Gentium, 1: AAS 57 (1965), 5.    
-[4]: Cf. Leo XIII, Encyclical Letter Rerum Novarum (15 May 1891), 22: ASS 23 (1890-1891), 653.    
-[5]: Benedict XVI, Encyclical Letter Caritas in Veritate (29 June 2009), 69: AAS 101 (2009), 702.    
-[6]: Francis, Encyclical Letter Laudato Si ’ (24 May 2015), 104: AAS 107 (2015), 888.    
-[7]: Ibid.    
-[8]: Saint Augustine, Confessions, I, 1, 1: CCSL 27, Turnhout 1981, 1.    
-[9]: Francis, Apostolic Exhortation Evangelii Gaudium (24 November 2013), 183: AAS 105 (2013), 1097.    
-[10]: Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes, 36: AAS 58 (1966), 1054; cf. Decree on the Apostolate of the Laity Apostolicam Actuositatem, 7: AAS 58 (1966), 843-844.    
-[11]: Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes, 44: AAS 58 (1966), 1065.    
-[12]: Francis, Apostolic Exhortation Evangelii Gaudium (24 November 2013), 257; AAS 105 (2013), 1123.    
-[13]: Saint John Paul II, Apostolic Letter issued “Motu Proprio” Socialium Scientiarum (1 January 1994): AAS 86 (1994), 209.    
-[14]: Francis, Encyclical Letter Laudato Si ’ (24 May 2015), 61: AAS 107 (2015), 871.    
-[15]: Cf. Saint John Paul II, Encyclical Letter Sollicitudo Rei Socialis (30 December 1987), 41: AAS  80 (1988), 570-572.    
-[16]: Saint John Paul II, Apostolic Letter Tertio Millennio Adveniente (10 November 1994), 35: AAS 87 (1995), 27.    
-[17]: Address to the Members of the “Centesimus Annus Pro Pontifice” Foundation (17 May 2025): AAS 117 (2025), 696.    
-[18]: Francis, Apostolic Exhortation Evangelii Gaudium (24 November 2013), 222: AAS 105 (2013), 1111.    
-[19]: Cf. ibid., 236: AAS 105 (2013), 1115; Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 215: AAS 112 (2020), 1045-1046.    
-[20]: Second Vatican Ecumenical Council, Dogmatic Constitution Lumen Gentium, 13: AAS 57 (1965), 17.    
-[21]: Cf. Saint Paul VI, Apostolic Letter Octogesima Adveniens (14 May 1971), 4: AAS 63 (1971), 403.    
-[22]: Cf. Francis, Apostolic Exhortation Evangelii Gaudium (24 November 2013), 243: AAS 105 (2013), 1118.    
-[23]: Cf. Pius XII, Apostolic Exhortation Menti Nostrae (23 September 1950): AAS 42 (1950), 657-702.    
-[24]: Saint John Paul II, Encyclical Letter Centesimus Annus (1 May 1991), 5: AAS 83 (1991), 799.    
-[25]: Pius XI, Encyclical Letter Quadragesimo Anno (15 May 1931), 39: AAS 23 (1931), 189; cf. Pius XII, Radio Message on the 50th Anniversary of “Rerum Novarum”: AAS 33 (1941), 198.    
-[26]: Cf. Pius XII, Address to the Sacred College of Cardinals and the Roman Prelature (24 December 1940): AAS 33 (1941), 13.    
-[27]: Cf. Saint John XXIII, Encyclical Letter Mater et Magistra (15 May 1961), 2-3: AAS 53 (1961), 402.    
-[28]: Cf. Saint John XXIII, Encyclical Letter Pacem in Terris (11 April 1963), 87: AAS 55 (1963), 301.    
-[29]: Cf. Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes , 26: AAS 58 (1966), 1046-1047.    
-[30]: Cfr. Second Vatican Ecumenical Council, Declaration Dignitatis Humanae, 2: AAS 58 (1966), 930-931.    
-[31]: Saint Paul VI, Encyclical Letter Populorum Progressio (26 March 1967), 14: AAS 59 (1967), 264.    
-[32]: Ibid ., 76: AAS 59 (1967), 299.    
-[33]: Cf. Saint Paul VI, Apostolic Letter Octogesima Adveniens (14 May 1971), 4-7: AAS 63 (1971); 404-406.    
-[34]: Saint John Paul II, Encyclical Letter Sollicitudo Rei Socialis (30 December 1987), 36: AAS 80 (1988), 561.    
-[35]: Cf. Saint John Paul II, Encyclical Letter Laborem Exercens (14 September 1981), 19: AAS 73 (1981), 625-629.    
-[36]: Cf. ibid, 10: AAS 73 (1981), 600-602.    
-[37]: Cf. Saint John Paul II, Encyclical Letter Sollicitudo Rei Socialis (30 December 1987), 14: AAS 80 (1988), 526-528.    
-[38]: Cf. ibid., 16: AAS 80 (1988), 531.    
-[39]: Cf. ibid., 31-33: AAS 80 (1988), 555-559.    
-[40]: Cf. Saint John Paul II, Encyclical Letter Centesimus Annus (1 May 1991), 46: AAS 83 (1991), 850-851.    
-[41]: Cf. ibid., 42: AAS 83 (1991), 844-846.    
-[42]: Benedict XVI, Encyclical Letter Caritas in Veritate (29 June 2009), 21: AAS 101 (2009), 656.    
-[43]: Cf. ibid., 22: AAS 101 (2009), 657.    
-[44]: Cf. ibid., 24: AAS 101 (2009), 658-659.    
-[45]: Cf. ibid., 36: AAS 101 (2009), 671-672.    
-[46]: Ibid., 2: AAS 101 (2009), 642.    
-[47]: Cf. Francis, Apostolic Exhortation Evangelii Gaudium (24 November 2013), 198: AAS 105 (2013), 1103.    
-[48]: Francis, Encyclical Letter Laudato Si ’ (24 May 2015), 49: AAS 107 (2015), 866.    
-[49]: Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 127: AAS 112 (2020), 1013.    
-[50]: Francis, Encyclical Letter Dilexit Nos (24 October 2024), 167: AAS 116 (2024), 1421.    
-[51]: Cf. Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church, Vatican City 2004, 32.    
-[52]: Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes, 24: AAS 58 (1966), 1045.    
-[53]: Ibid., 22: AAS 58 (1966), 1042.    
-[54]: Cf. Pontifical Council For Justice and Peace, Compendium of the Social Doctrine of the Church, 38.    
-[55]: Saint John Paul II, Encyclical Letter Redemptor Hominis (4 March 1979), 14: AAS 71 (1979), 284.    
-[56]: Cf. Benedict XVI, Encyclical Letter Caritas in Veritate (29 June 2009), 11: AAS 101 (2009), 647-648.    
-[57]: Saint John Paul II, Encyclical Letter Veritatis Splendor (6 August 1993), 31: AAS 85 (1993), 1159.    
-[58]: Cf. Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes, 26: AAS 58 (1966), 1046-1047.    
-[59]: Cf. Saint John Paul II, Encyclical Letter Centesimus Annus (1 May 1991), 11: AAS 83 (1991), 806-807.    
-[60]: Cf. Dicastery for the Doctrine of the Faith, Declaration Dignitas Infinita (2 April 2024), 7: AAS 116 (2024), 592-593.    
-[61]: Cf. ibid., 8: AAS 116 (2024), 593-594.    
-[62]: Ibid., 1: AAS 116 (2024), 589-590.    
-[63]: Cf. Saint John Paul II, Angelus with disabled people in the Cathedral of Osnabrück (16 November 1980): Insegnamenti di Giovanni Paolo II, vol. III/2, Vatican City 1980, 1232.    
-[64]: Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church, 152.    
-[65]: Cf. Saint John Paul II, Address to the 50th General Assembly of the United Nations (5 October 1995), 2: Insegnamenti di Giovanni Paolo II, vol. XVIII/2, Vatican City 1998, 731.    
-[66]: Saint John Paul II, Address to the 34th General Assembly of the United Nations (2 October 1979), 7: AAS 71 (1979), 1148.    
-[67]: Saint John Paul II, Message for the 32nd World Day of Peace (1 January 1999), 3: AAS 91 (1999), 379.    
-[68]: Cf. Saint John XXIII, Encyclical Letter Pacem in Terris (11 April 1963), 5: AAS 55 (1963), 259.    
-[69]: Saint Paul VI, Message to the International Conference on Human Rights (15 April 1968): AAS 60 (1968), 285.    
-[70]: Cf. Saint John Paul II, Encyclical Letter Evangelium Vitae (25 March 1995), 2: AAS 87 (1995), 402.    
-[71]: Cf. Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes, 27: AAS 58 (1966), 1047-1048; cf. Saint John Paul II, Encyclical Letter Veritatis Splendor (6 August 1993), 80: AAS 85 (1993), 1197-1198; cf. Saint John Paul II, Encyclical Letter Evangelium Vitae (25 March 1995), 7-28: AAS 87 (1995), 408-427.    
-[72]: Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 208: AAS 112 (2020), 1043.    
-[73]: Cf. ibid., 209: AAS 112 (2020), 1043-1044.    
-[74]: Ibid., 23: AAS 112 (2020), 977. Cf. Apostolic Exhortation Evangelii Gaudium (24 November 2013), 212: AAS 105 (2013), 1108.    
-[75]: Benedict XVI, Apostolic Exhortation Sacramentum Caritatis (22 February 2007), 83: AAS 99 (2007), 169.    
-[76]: Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes , 26, AAS 58 (1966), 1046-1047.    
-[77]: Cf. Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church , 164.    
-[78]: Francis, Apostolic Exhortation Evangelii Gaudium (24 November 2013), 235: AAS 105 (2013), 1115.    
-[79]: Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 105: AAS 112 (2020), 1005.    
-[80]: Saint John Paul II, Encyclical Letter Sollicitudo Rei Socialis (30 December 1987), 38: AAS 80 (1988), 564.    
-[81]: Francis, Apostolic Exhortation Evangelii Gaudium (24 November 2013), 220: AAS 105 (2013), 1110.    
-[82]: Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church , 169.    
-[83]: Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 16: AAS 112 (2020), 974.    
-[84]: Cf. Saint John Paul II, Address to the 50th General Assembly of the United Nations (5 October 1995), 8: Insegnamenti di Giovanni Paolo II, vol. XVIII/2, 735.    
-[85]: Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church, 171.    
-[86]: Saint John Paul II, Encyclical Letter Centesimus Annus (1 May 1991), 31: AAS 83 (1991), 831.    
-[87]: Saint John Paul II, Homily during the Mass celebrated for farmers at Recife (7 July 1980), 4: AAS 72 (1980), 926.    
-[88]: Saint John Paul II, Encyclical Letter Laborem Exercens (14 September 1981), 19: AAS 73 (1981), 626.    
-[89]: Francis, Encyclical Letter Laudato Si ’ (24 May 2015), 93: AAS 107 (2015), 884; cf. Encyclical Letter Fratelli Tutti (3 October 2020), 120: AAS 112 (2020), 1010.    
-[90]: Francis, Apostolic Exhortation Evangelii Gaudium (24 November 2013), 189: AAS 105 (2013), 1099.    
-[91]: Cf. Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church, 187.    
-[92]: Cf. Leo XIII, Encyclical Letter Rerum Novarum (15 May 1891), 26: ASS 23 (1890-1891), 656.    
-[93]: Cf. Saint John Paul II, Encyclical Letter Centesimus Annus (1 May 1991), 11: AAS 83 (1991), 806-807.    
-[94]: Cf. ibid.    
-[95]: Cf. ibid., 48: AAS 83 (1991), 852-854.    
-[96]: Cf. Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 169: AAS 112 (2020), 1028.    
-[97]: Cf. ibid., 168: AAS 112 (2020), 1027-1028.    
-[98]: Cf. Saint Paul VI, Encyclical Letter Populorum Progressio (26 March 1967), 17: AAS 59 (1967), 265-266.    
-[99]: Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 32 and 54: AAS 112 (2020), 980 and 988.    
-[100]: Cf. Benedict XVI, Encyclical Letter Caritas in Veritate (29 June 2009), 58: AAS 101 (2009), 693-694.    
-[101]: Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 116: AAS 112 (2020), 1009.    
-[102]: Saint John Paul II, Encyclical Letter Sollicitudo Rei Socialis (30 December 1987), 38: AAS 80 (1988), 564.    
-[103]: Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 116: AAS 112 (2020), 1009.    
-[104]: Cf. Benedict XVI, Encyclical Letter Caritas in Veritate (29 June 2009), 48: AAS 101 (2009), 685.    
-[105]: Cf. Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes, 25: AAS 58 (1966), 1045-1046.    
-[106]: Cf. Saint John Paul II, Encyclical Letter Sollicitudo Rei Socialis (30 December 1987), 42: AAS 80 (1988), 572-574.    
-[107]: Francis, Apostolic Exhortation Evangelii Gaudium (24 November 2013), 53: AAS 105 (2013), 1042.    
-[108]: Cf. Saint John Paul II, Encyclical Letter Sollicitudo Rei Socialis (30 December 1987), 36-37: AAS 80 (1988), 561-564.    
-[109]: Cf. Francis, Message for the 110th World Day of Migrants and Refugees (29 September 2024): AAS 116 (2024), 735.    
-[110]: Saint Paul VI, Encyclical Letter Populorum Progressio (26 March 1967), 14: AAS 59 (1967), 264.    
-[111]: Cf. ibid., 17: AAS 59 (1967), 265-266; Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 125-127: AAS 112 (2020), 1012-1013.    
-[112]: Cf. Saint Paul VI, Encyclical Letter Populorum Progressio (26 March 1967), 14: AAS 59 (1967), 264; Benedict XVI, Address to the Diplomatic Corps accredited to the Holy See (8 January 2007): AAS 99 (2007), 73; Francis, Address to Participants of the 3rd Global Meeting of the Indigenous Peoples’ Forum of the International Fund for Agricultural Development (15 February 2017): AAS 109 (2017), 244-245.    
-[113]: Final Document of the Second Session of the XVI Ordinary General Assembly of the Synod of Bishops (26 October 2024), 17.    
-[114]: Cf. ibid. , 11.    
-[115]: Cf. ibid. , 103-108.    
-[116]: Cf. ibid., 100-101.    
-[117]: Cf. Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 94: AAS 112 (2020), 1001.    
-[118]: Cf. Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church, 53.    
-[119]: Cf. Francis, Encyclical Letter Laudato Si ’, (24 May 2015), 106-109: AAS 107 (2015), 889-891.    
-[120]: R. Guardini, Das Ende der Neuzeit, Würzburg 1951, 89.    
-[121]: Saint Paul VI, Address on the occasion of the 25th Anniversary of the FAO (16 November 1970): AAS 62 (1970), 833.    
-[122]: Cf. Francis, Address to the Council for an Inclusive Capitalism (11 November 2019): L’Osservatore Romano, 11-12 November 2019, 8.    
-[123]: Cf. Dicastery for the Doctrine of the Faith – Dicastery for Culture and Education, Note Antiqua et Nova (14 January 2025): AAS 117 (2025), 159-210; Francis, Message for the 57th World Day of Peace (8 December 2023): AAS 116 (2024), 54-64; Francis, Message for the 58th World Day of Social Communications (24 January 2024): AAS 116 (2024), 261-266; Francis, Address to the G7 Session on Artificial Intelligence: “An exciting and fearsome tool” (14 June 2024): AAS 116 (2024), 866-875; International Theological Commission, Quo vadis, humanitas? Thinking about Christian anthropology in the face of some scenarios on the future of humanity (9 February 2026); Message for the 60th World Day of Social Communications (24 January 2026): L’Osservatore Romano, 24 January 2026, 2-3.    
-[124]: Cf. Dicastery for the Doctrine of the Faith – Dicastery for Culture and Education, Note Antiqua et Nova (14 January 2025), 96: AAS 117 (2025), 201.    
-[125]: Francis, Address to Participants at the Meeting of the “Minerva Dialogues” promoted by the Dicastery for Culture and Education (27 March 2023): AAS 115 (2023), 465.    
-[126]: Cf. Dicastery for the Doctrine of the Faith – Dicastery for Culture and Education, Note Antiqua et Nova (14 January 2025), 41: AAS 117 (2025), 178.    
-[127]: Cf. ibid., 44-45: AAS 117 (2025), 179-180.    
-[128]: Cf. Saint John Paul II, Encyclical Letter Centesimus Annus (1 May 1991), 40: AAS 83 (1991), 843.    
-[129]: Cf. International Theological Commission, Quo vadis, humanitas? Thinking about Christian anthropology in the face of some scenarios on the future of humanity (9 February 2026), 63.    
-[130]: Cf. Saint Paul VI, Discourse on the occasion of the 25th anniversary of the FAO (16 November 1970): AAS 62 (1970), 833.    
-[131]: International Theological Commission, Quo vadis, humanitas? Thinking about Christian anthropology in the face of some scenarios on the future of humanity (9 February 2026), 3.    
-[132]: “If we devalue the heart, we also devalue what it means to speak from the heart, to act with the heart, to cultivate and heal the heart. If we fail to appreciate the specificity of the heart, we miss the messages that the mind alone cannot communicate; we miss out on the richness of our encounters with others; we miss out on poetry. We also lose track of history and our own past, since our real personal history is built with the heart.  At the end of our lives, that alone will matter.” Francis, Encyclical Letter Dilexit Nos (24 October 2024), 11: AAS 116 (2024), 1372.    
-[133]: V. Frankl, Man’s Search for Meaning. An Introduction to Logotherapy, Boston 1963, 213.    
-[134]: Saint Thomas Aquinas, Summa Theologiae, I-II, q. 112, a. 1, co; q. 114, a, 5, co.: ed. Leonina, VII, Rome 1892, 323 and 349.    
-[135]: Cf. ibid., q. 114, a. 1, co.: ed. Leonina, VII, 344.    
-[136]: Cf. Saint Thomas Aquinas, Super Boetium de Trinitate, q. 1, a. 2, ad 3: ed. Leonina, L, Rome 1992, 96; Summa Theologiae, I, q. 7, a. 1, ad 3: ed. Leonina, IV, Rome 1888, 72.    
-[137]: Francis, Apostolic Exhortation Evangelii Gaudium, (24 November 2013), 8: AAS 105 (2013), 1022.    
-[138]: Saint John Paul II, Encyclical Letter Redemptor Hominis (4 March 1979), 15: AAS 71 (1979), 286-287.    
-[139]: Saint Augustine, De civitate Dei, XIV, 28: CCSL 48, Turnhout 1955, 451.    
-[140]: Benedict XVI, Encyclical Letter Caritas in Veritate (29 June 2009), 34: AAS 101 (2009), 668-669.    
-[141]: Saint John Paul II, Encyclical Letter Veritatis Splendor (6 August 1993), 32: AAS 85 (1993), 1159.    
-[142]: Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 207: AAS 112 (2020), 1043.    
-[143]: H. Arendt, The Origins of Totalitarianism, III , New York 1962, 474 .    
-[144]: Address to Representatives of the Media (12 May 2025): AAS 117 (2025), 681-682.    
-[145]: Benedict XVI, Message for the 47th World Day of Social Communications (24 January 2013): AAS 105 (2013), 183.    
-[146]: Francis, Address on the occasion of the Conferral of the rank of Knight and Dame of the Grand Cross of the Pian Order to Mr Philip Pullella and Ms Valentina Alazraki (13 November 2021): L’Osservatore Romano, 13 November 2021, 12.    
-[147]: Cf. Plato, Letter VII, 344b-c: ed. Souilhé, XIII/1, Paris 1931 ( CUF, Série grecque 63), 54.    
-[148]: Cf. Address to the Participants in the Conference “The Dignity of Children and Adolescents in the Age of Artificial Intelligence” (13 November 2025): L’Osservatore Romano, 13 November 2025, 3.    
-[149]: Cf. Address to the members of the Advisory Board of the RCS Academy (7 November 2025): L’Osservatore Romano 7 November 2025, 4.    
-[150]: Saint John Paul II, Encyclical Letter Laborem Exercens (14 September 1981), 3: AAS 73 (1981), 584.    
-[151]: Cf. Francis, Encyclical Letter Laudato Si ’ (24 May 2015), 128: AAS 107 (2015), 898.    
-[152]: Dicastery for the Doctrine of the Faith — Dicastery for Culture and Education, Note Antiqua et Nova (14 January 2025), 67: AAS 117 (2025), 188-189.    
-[153]: Cf. Saint John Paul II, Encyclical Letter Laborem Exercens, (14 September 1981), 18: AAS 73 (1981), 622-625.    
-[154]: Cf. Francis, Encyclical Letter Laudato Si ’ (24 May 2015), 109: AAS 107 (2015), 891.    
-[155]: Cf. Benedict XVI, Encyclical Letter Caritas in Veritate (29 June 2009), 32: AAS 101 (2009), 666.    
-[156]: Cf. Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church, 268.    
-[157]: Cf. Benedict XVI, Encyclical Letter Caritas in Veritate (29 June 2009), 64: AAS 101 (2009), 698.    
-[158]:Cf. Francis, Encyclical Letter Laudato Si ’ (24 May 2015), 129: AAS 107 (2015), 899.    
-[159]: Cf. ibid.    
-[160]: Cf. Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 108: AAS 112 (2020), 1006.    
-[161]: Cf. Dicastery for the Doctrine of the Faith — Dicastery for the Promotion of Integral Human Development, Oeconomicae et Pecuniariae Quaestiones. Considerations for an Ethical Discernment Regarding some Aspects of the Present Economic-Financial System (6 January 2018), 6: AAS 110 (2018), 772.    
-[162]: Francis, Greeting to the staff of the International Fund for Agricultural Development (IFAD) (14 February 2019): AAS 111 (2019), 309. Cfr. Benedict XVI, Encyclical Letter Caritas in Veritate (29 June 2009), 22: AAS 101 (2009), 657.    
-[163]: Cf . ibid., 36: AAS 101 (2009), 671-672.    
-[164]: Cf. Francis, Apostolic Exhortation Evangelii Gaudium (24 November 2013), 204: AAS 105 (2013), 1105-1106.    
-[165]: Cf. Saint Paul VI, Encyclical Letter Populorum Progressio (26 March 1967), 87: AAS 59 (1967), 299.    
-[166]: Cf. Saint John Paul II, Encyclical Letter Centesimus Annus (1 May 1991), 39: AAS 83 (1991), 841.    
-[167]: Cf. Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church, 211.    
-[168]: Cf. Saint John Paul II, Letter to Families Gratissimam Sane (2 February 1994), 17: AAS 86 (1994), 903-906.    
-[169]: Cf. United States Conference of Catholic Bishops, Sons and Daughters of the Light: A Pastoral Plan for Ministry with Young Adults (12 November 1996), Washington D.C., 1996, I, 3.    
-[170]: Cf. Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church, 290.    
-[171]: Cf. ibid., 214.    
-[172]: Cf. Francis, Message for the Celebration of the 48th World Day of Youth for Peace (8 December 2014), 4: AAS 107 (2015), 70-71.    
-[173]: Cf. International Theological Commission, Memory and Reconciliation the Church and the Faults of the Past , Vatican City 2000, 5.3.    
-[174]: As in the Papal Bulls Sicut Dudum (13 January 1435) and Etsi Suscepti (9 January 1442) of Eugenius IV, and in the Papal Bulls Dum Diversas (18 June 1452) and Romanus Pontifex (8 January 1455) of Nicholas V. Political and, at times, even economic needs overcame the demands of the Gospel. The need for evangelization was frequently compromised or at least misunderstood with regard to the needs of worldly powers, thus relativizing the problematic incompatibility of slavery with the Christian conscience.    
-[175]: Cf. Leo XIII, Encyclical Letter In Plurimis (5 May 1888), Acta Leonis XIII, VIII, Rome, 1889, 169-192. Consider that, as late as 1866, the Holy Office distinguished between the immoral and moral aspects of slavery, without fully condemning it: Instruction of the Holy Office on various doubts of Monsignor Massaia, Vicar Apostolic in the country of the Galla, April 1866, response to question no. 15.    
-[176]: Cf. Saint John Paul II, Bull Incarnationis Mysterium (29 November 1998), 11: AAS 91 (1999), 139-141.    
-[177]: Cf. Saint Paul VI, Regina Caeli (17 May 1970): Insegnamenti di Paolo VI, vol.  VIII, 506.    
-[178]: Cf. Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 183: AAS 112 (2020), 1033-1034.    
-[179]: Cf. Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes, 26: AAS 58 (1966), 1046-1047.    
-[180]: Saint Paul VI, Address to the 20th General Assembly of the United Nations (4 October 1965): AAS 57 (1965), 881.    
-[181]: United Nations, United Nations Charter, San Francisco (26 June 1945), Preamble.    
-[182]: Cf. Francis , Encyclical Letter Fratelli Tutti (3 October 2020), 258: AAS 112 (2020), 1061: “In recent decades, every single war has been ostensibly ‘justified.’ The Catechism of the Catholic Church speaks of the possibility of legitimate defense by means of military force, which involves demonstrating that certain ‘rigorous conditions of moral legitimacy’ have been met.  Yet it is easy to fall into an overly broad interpretation of this potential right.  In this way, some would also wrongly justify even ‘preventive’ attacks or acts of war that can hardly avoid entailing ‘evils and disorders graver than the evil to be eliminated.’”    
-[183]: Cf. Dicastery for the Doctrine of the Faith — Dicastery for Culture and Education, Note Antiqua et Nova (14 January 2025), 99: AAS 117 (2025), 202-203.    
-[184]: Cf.  ibid., 103: AAS 117 (2025), 204.    
-[185]: Cf. Address to the Participants in the Plenary Session of the “Reunion of Aid Agencies for the Oriental Churches (ROACO)” (26 June 2025): AAS 117 (2025), 847-849.    
-[186]: Cf. Francis, Message for the 53rd World Day of Peace (8 December 2019): AAS 112 (2020), 54-61.    
-[187]: J.R.R. Tolkien, The Lord of the Rings. The Return of the King, Part III, Book Five, Chapter IX, New York 1965, 190.    
-[188]: Address to Representatives of the Media, (12 May 2025): AAS 117 (2025), 682.    
-[189]: Ibid.    
-[190]: Saint John Paul II, Message for the 31st World Day of Peace, (1 January 1998), 1: AAS 90 (1988), 147.    
-[191]: Saint Augustine, Enarrationes in Psalmos, 84, 12: CCSL 39, Turnhout 1956, 1172-1173.    
-[192]: Cf. Francis, Encyclical Letter Dilexit Nos (24 October 2024), 22: AAS 116 (2024), 1375-1376.    
-[193]: Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 115: AAS 112 (2020), 1008-1009.    
-[194]: Cf. ibid., 261: AAS 112 (2020), 1062.    
-[195]: Cf. Saint Paul VI, Address to the 20th General Assembly of the United Nations (4 October 1965): AAS 57 (1965), 878-879.    
-[196]: Cf. Pius XII, Radio Message A Grave Hour (24 August 1939): AAS 31 (1939), 334.    
-[197]: Giorgio La Pira, Riflessioni sul Concilio.  Address of Professor Giorgio La Pira, Mayor of Florence, to the “Guides de France”(Rome, 4 September 1962), Florence 1962, 6.    
-[198]: Address to Participants in the Jubilee of Oriental Churches (14 May 2025): AAS 117 (2025), 686.    
-[199]: Cf.  Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 271: AAS 112 (2020), 1066.    
-[200]: Cf. Francis, Appeal for Peace at Assisi for the World Day of Prayer for Peace “Thirst for Peace: Faiths and Cultures in Dialogue” (20 September 2016): AAS 108 (2016), 1124.    
-[201]: Francis, Address to Members of the Diplomatic Corps accredited to the Holy See (9 January 2025): AAS 117 (2025), 110.    
-[202]: Cf. Francis, Address to the Participants in the 38th Conference of the FAO (20 June 2013): AAS 105 (2013), 616-617.    
-[203]: First “Urbi et Orbi”  Blessing (8 May 2025): AAS 117 (2025), 660.    
-[204]: Ibid.    
-[205]: Cf. Homily at First Vespers on the Solemnity of Mary the Most Holy Mother of God (31 December 2025): L’Osservatore Romano, 2 January 2026, 1-2.    
-[206]: Cf. Homily of the Mass during the Day (25 December 2025): L’Osservatore Romano, 27 December 2025, 3.    
-[207]: Cf. ibid.    
-[208]: Cf. Angelus on the Solemnity of the Epiphany (6 January 2026): L’Osservatore Romano, 7 January 2026, 3.    
-[209]: Cf. Homily of the Mass during the Night (24 December 2025): L’Osservatore Romano, 27 December 2025, 2.    
-[210]: P. de Bérulle, Discours de l’état et des grandeurs de Jésus, Discours IV, Unité de Dieu en l’incarnation: Œuvres complètes, Paris 1856, col. 218.    
-[211]: Ibid .    
-[212]: Cf. Address to the Conference “Artificial Intelligence and Care of Our Common Home” (5 December 2025): L’Osservatore Romano, 5 December 2025, 2.    
-[213]: Benedict XVI, Encyclical Letter Deus Caritas Est (25 December 2005), 14: AAS 98 (2006), 228.    
-[214]: Saint Augustine, Sermons, 272: In die Pentecostes ad infantes de sacramento: PL 38, Paris 1865, col. 1247.    
-[215]: Benedict XVI, Homily at the Mass of the Lord’s Supper (21 April 2011): AAS 103 (2011), 321.    
-[216]: Address to the Roma Curia for the Exchange of Christmas Greetings (22 December 2025): L’Osservatore Romano, 22 December 2025, 6-7.    
-[217]: Cf. above, nos. 11-14.    
-[218]: Cf. Address to the Conference “The Dignity of Children and Adolescents in the Age of Artificial Intelligence” (13 November 2025): L’Osservatore Romano, 13 November 2025, 3.    
-[219]: Cf. Benedict XVI, Encyclical Letter Caritas in Veritate (29 June 2009), 34: AAS 101 (2009), 668-670.    
-[220]: Francis, Apostolic Exhortation Laudate Deum (4 October 2023), 67: AAS 115 (2023), 1059.    
-[221]: Cf. Angelus on the Solemnity of the Epiphany (6 January 2026): L’Osservatore Romano, 7 January 2026, 3.    
-[222]: Benedict XVI, General Audience (15 February 2006): L’Osservatore Romano, 16 February 2006, 4.    
-[223]: Meditation on the occasion of the Prayer Vigil and Rosary for Peace (11 October 2025): L’Osservatore Romano, 13 October 2025, 2.    
-[224]: Saint Paul VI, Homily at the Marian Shrine of Our Lady of Bonaria, (24 April 1970): AAS 62 (1970), 301.    
+[^1]: Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes, 22: AAS 58 (1966), 1042.    
+[^2]: Cf. ibid., 11: AAS 58 (1966), 1033-1034.    
+[^3]: Second Vatican Ecumenical Council, Dogmatic Constitution Lumen Gentium, 1: AAS 57 (1965), 5.    
+[^4]: Cf. Leo XIII, Encyclical Letter Rerum Novarum (15 May 1891), 22: ASS 23 (1890-1891), 653.    
+[^5]: Benedict XVI, Encyclical Letter Caritas in Veritate (29 June 2009), 69: AAS 101 (2009), 702.    
+[^6]: Francis, Encyclical Letter Laudato Si ’ (24 May 2015), 104: AAS 107 (2015), 888.    
+[^7]: Ibid.    
+[^8]: Saint Augustine, Confessions, I, 1, 1: CCSL 27, Turnhout 1981, 1.    
+[^9]: Francis, Apostolic Exhortation Evangelii Gaudium (24 November 2013), 183: AAS 105 (2013), 1097.    
+[^10]: Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes, 36: AAS 58 (1966), 1054; cf. Decree on the Apostolate of the Laity Apostolicam Actuositatem, 7: AAS 58 (1966), 843-844.    
+[^11]: Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes, 44: AAS 58 (1966), 1065.    
+[^12]: Francis, Apostolic Exhortation Evangelii Gaudium (24 November 2013), 257; AAS 105 (2013), 1123.    
+[^13]: Saint John Paul II, Apostolic Letter issued “Motu Proprio” Socialium Scientiarum (1 January 1994): AAS 86 (1994), 209.    
+[^14]: Francis, Encyclical Letter Laudato Si ’ (24 May 2015), 61: AAS 107 (2015), 871.    
+[^15]: Cf. Saint John Paul II, Encyclical Letter Sollicitudo Rei Socialis (30 December 1987), 41: AAS  80 (1988), 570-572.    
+[^16]: Saint John Paul II, Apostolic Letter Tertio Millennio Adveniente (10 November 1994), 35: AAS 87 (1995), 27.    
+[^17]: Address to the Members of the “Centesimus Annus Pro Pontifice” Foundation (17 May 2025): AAS 117 (2025), 696.    
+[^18]: Francis, Apostolic Exhortation Evangelii Gaudium (24 November 2013), 222: AAS 105 (2013), 1111.    
+[^19]: Cf. ibid., 236: AAS 105 (2013), 1115; Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 215: AAS 112 (2020), 1045-1046.    
+[^20]: Second Vatican Ecumenical Council, Dogmatic Constitution Lumen Gentium, 13: AAS 57 (1965), 17.    
+[^21]: Cf. Saint Paul VI, Apostolic Letter Octogesima Adveniens (14 May 1971), 4: AAS 63 (1971), 403.    
+[^22]: Cf. Francis, Apostolic Exhortation Evangelii Gaudium (24 November 2013), 243: AAS 105 (2013), 1118.    
+[^23]: Cf. Pius XII, Apostolic Exhortation Menti Nostrae (23 September 1950): AAS 42 (1950), 657-702.    
+[^24]: Saint John Paul II, Encyclical Letter Centesimus Annus (1 May 1991), 5: AAS 83 (1991), 799.    
+[^25]: Pius XI, Encyclical Letter Quadragesimo Anno (15 May 1931), 39: AAS 23 (1931), 189; cf. Pius XII, Radio Message on the 50th Anniversary of “Rerum Novarum”: AAS 33 (1941), 198.    
+[^26]: Cf. Pius XII, Address to the Sacred College of Cardinals and the Roman Prelature (24 December 1940): AAS 33 (1941), 13.    
+[^27]: Cf. Saint John XXIII, Encyclical Letter Mater et Magistra (15 May 1961), 2-3: AAS 53 (1961), 402.    
+[^28]: Cf. Saint John XXIII, Encyclical Letter Pacem in Terris (11 April 1963), 87: AAS 55 (1963), 301.    
+[^29]: Cf. Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes , 26: AAS 58 (1966), 1046-1047.    
+[^30]: Cfr. Second Vatican Ecumenical Council, Declaration Dignitatis Humanae, 2: AAS 58 (1966), 930-931.    
+[^31]: Saint Paul VI, Encyclical Letter Populorum Progressio (26 March 1967), 14: AAS 59 (1967), 264.    
+[^32]: Ibid ., 76: AAS 59 (1967), 299.    
+[^33]: Cf. Saint Paul VI, Apostolic Letter Octogesima Adveniens (14 May 1971), 4-7: AAS 63 (1971); 404-406.    
+[^34]: Saint John Paul II, Encyclical Letter Sollicitudo Rei Socialis (30 December 1987), 36: AAS 80 (1988), 561.    
+[^35]: Cf. Saint John Paul II, Encyclical Letter Laborem Exercens (14 September 1981), 19: AAS 73 (1981), 625-629.    
+[^36]: Cf. ibid, 10: AAS 73 (1981), 600-602.    
+[^37]: Cf. Saint John Paul II, Encyclical Letter Sollicitudo Rei Socialis (30 December 1987), 14: AAS 80 (1988), 526-528.    
+[^38]: Cf. ibid., 16: AAS 80 (1988), 531.    
+[^39]: Cf. ibid., 31-33: AAS 80 (1988), 555-559.    
+[^40]: Cf. Saint John Paul II, Encyclical Letter Centesimus Annus (1 May 1991), 46: AAS 83 (1991), 850-851.    
+[^41]: Cf. ibid., 42: AAS 83 (1991), 844-846.    
+[^42]: Benedict XVI, Encyclical Letter Caritas in Veritate (29 June 2009), 21: AAS 101 (2009), 656.    
+[^43]: Cf. ibid., 22: AAS 101 (2009), 657.    
+[^44]: Cf. ibid., 24: AAS 101 (2009), 658-659.    
+[^45]: Cf. ibid., 36: AAS 101 (2009), 671-672.    
+[^46]: Ibid., 2: AAS 101 (2009), 642.    
+[^47]: Cf. Francis, Apostolic Exhortation Evangelii Gaudium (24 November 2013), 198: AAS 105 (2013), 1103.    
+[^48]: Francis, Encyclical Letter Laudato Si ’ (24 May 2015), 49: AAS 107 (2015), 866.    
+[^49]: Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 127: AAS 112 (2020), 1013.    
+[^50]: Francis, Encyclical Letter Dilexit Nos (24 October 2024), 167: AAS 116 (2024), 1421.    
+[^51]: Cf. Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church, Vatican City 2004, 32.    
+[^52]: Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes, 24: AAS 58 (1966), 1045.    
+[^53]: Ibid., 22: AAS 58 (1966), 1042.    
+[^54]: Cf. Pontifical Council For Justice and Peace, Compendium of the Social Doctrine of the Church, 38.    
+[^55]: Saint John Paul II, Encyclical Letter Redemptor Hominis (4 March 1979), 14: AAS 71 (1979), 284.    
+[^56]: Cf. Benedict XVI, Encyclical Letter Caritas in Veritate (29 June 2009), 11: AAS 101 (2009), 647-648.    
+[^57]: Saint John Paul II, Encyclical Letter Veritatis Splendor (6 August 1993), 31: AAS 85 (1993), 1159.    
+[^58]: Cf. Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes, 26: AAS 58 (1966), 1046-1047.    
+[^59]: Cf. Saint John Paul II, Encyclical Letter Centesimus Annus (1 May 1991), 11: AAS 83 (1991), 806-807.    
+[^60]: Cf. Dicastery for the Doctrine of the Faith, Declaration Dignitas Infinita (2 April 2024), 7: AAS 116 (2024), 592-593.    
+[^61]: Cf. ibid., 8: AAS 116 (2024), 593-594.    
+[^62]: Ibid., 1: AAS 116 (2024), 589-590.    
+[^63]: Cf. Saint John Paul II, Angelus with disabled people in the Cathedral of Osnabrück (16 November 1980): Insegnamenti di Giovanni Paolo II, vol. III/2, Vatican City 1980, 1232.    
+[^64]: Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church, 152.    
+[^65]: Cf. Saint John Paul II, Address to the 50th General Assembly of the United Nations (5 October 1995), 2: Insegnamenti di Giovanni Paolo II, vol. XVIII/2, Vatican City 1998, 731.    
+[^66]: Saint John Paul II, Address to the 34th General Assembly of the United Nations (2 October 1979), 7: AAS 71 (1979), 1148.    
+[^67]: Saint John Paul II, Message for the 32nd World Day of Peace (1 January 1999), 3: AAS 91 (1999), 379.    
+[^68]: Cf. Saint John XXIII, Encyclical Letter Pacem in Terris (11 April 1963), 5: AAS 55 (1963), 259.    
+[^69]: Saint Paul VI, Message to the International Conference on Human Rights (15 April 1968): AAS 60 (1968), 285.    
+[^70]: Cf. Saint John Paul II, Encyclical Letter Evangelium Vitae (25 March 1995), 2: AAS 87 (1995), 402.    
+[^71]: Cf. Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes, 27: AAS 58 (1966), 1047-1048; cf. Saint John Paul II, Encyclical Letter Veritatis Splendor (6 August 1993), 80: AAS 85 (1993), 1197-1198; cf. Saint John Paul II, Encyclical Letter Evangelium Vitae (25 March 1995), 7-28: AAS 87 (1995), 408-427.    
+[^72]: Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 208: AAS 112 (2020), 1043.    
+[^73]: Cf. ibid., 209: AAS 112 (2020), 1043-1044.    
+[^74]: Ibid., 23: AAS 112 (2020), 977. Cf. Apostolic Exhortation Evangelii Gaudium (24 November 2013), 212: AAS 105 (2013), 1108.    
+[^75]: Benedict XVI, Apostolic Exhortation Sacramentum Caritatis (22 February 2007), 83: AAS 99 (2007), 169.    
+[^76]: Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes , 26, AAS 58 (1966), 1046-1047.    
+[^77]: Cf. Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church , 164.    
+[^78]: Francis, Apostolic Exhortation Evangelii Gaudium (24 November 2013), 235: AAS 105 (2013), 1115.    
+[^79]: Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 105: AAS 112 (2020), 1005.    
+[^80]: Saint John Paul II, Encyclical Letter Sollicitudo Rei Socialis (30 December 1987), 38: AAS 80 (1988), 564.    
+[^81]: Francis, Apostolic Exhortation Evangelii Gaudium (24 November 2013), 220: AAS 105 (2013), 1110.    
+[^82]: Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church , 169.    
+[^83]: Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 16: AAS 112 (2020), 974.    
+[^84]: Cf. Saint John Paul II, Address to the 50th General Assembly of the United Nations (5 October 1995), 8: Insegnamenti di Giovanni Paolo II, vol. XVIII/2, 735.    
+[^85]: Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church, 171.    
+[^86]: Saint John Paul II, Encyclical Letter Centesimus Annus (1 May 1991), 31: AAS 83 (1991), 831.    
+[^87]: Saint John Paul II, Homily during the Mass celebrated for farmers at Recife (7 July 1980), 4: AAS 72 (1980), 926.    
+[^88]: Saint John Paul II, Encyclical Letter Laborem Exercens (14 September 1981), 19: AAS 73 (1981), 626.    
+[^89]: Francis, Encyclical Letter Laudato Si ’ (24 May 2015), 93: AAS 107 (2015), 884; cf. Encyclical Letter Fratelli Tutti (3 October 2020), 120: AAS 112 (2020), 1010.    
+[^90]: Francis, Apostolic Exhortation Evangelii Gaudium (24 November 2013), 189: AAS 105 (2013), 1099.    
+[^91]: Cf. Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church, 187.    
+[^92]: Cf. Leo XIII, Encyclical Letter Rerum Novarum (15 May 1891), 26: ASS 23 (1890-1891), 656.    
+[^93]: Cf. Saint John Paul II, Encyclical Letter Centesimus Annus (1 May 1991), 11: AAS 83 (1991), 806-807.    
+[^94]: Cf. ibid.    
+[^95]: Cf. ibid., 48: AAS 83 (1991), 852-854.    
+[^96]: Cf. Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 169: AAS 112 (2020), 1028.    
+[^97]: Cf. ibid., 168: AAS 112 (2020), 1027-1028.    
+[^98]: Cf. Saint Paul VI, Encyclical Letter Populorum Progressio (26 March 1967), 17: AAS 59 (1967), 265-266.    
+[^99]: Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 32 and 54: AAS 112 (2020), 980 and 988.    
+[^100]: Cf. Benedict XVI, Encyclical Letter Caritas in Veritate (29 June 2009), 58: AAS 101 (2009), 693-694.    
+[^101]: Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 116: AAS 112 (2020), 1009.    
+[^102]: Saint John Paul II, Encyclical Letter Sollicitudo Rei Socialis (30 December 1987), 38: AAS 80 (1988), 564.    
+[^103]: Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 116: AAS 112 (2020), 1009.    
+[^104]: Cf. Benedict XVI, Encyclical Letter Caritas in Veritate (29 June 2009), 48: AAS 101 (2009), 685.    
+[^105]: Cf. Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes, 25: AAS 58 (1966), 1045-1046.    
+[^106]: Cf. Saint John Paul II, Encyclical Letter Sollicitudo Rei Socialis (30 December 1987), 42: AAS 80 (1988), 572-574.    
+[^107]: Francis, Apostolic Exhortation Evangelii Gaudium (24 November 2013), 53: AAS 105 (2013), 1042.    
+[^108]: Cf. Saint John Paul II, Encyclical Letter Sollicitudo Rei Socialis (30 December 1987), 36-37: AAS 80 (1988), 561-564.    
+[^109]: Cf. Francis, Message for the 110th World Day of Migrants and Refugees (29 September 2024): AAS 116 (2024), 735.    
+[^110]: Saint Paul VI, Encyclical Letter Populorum Progressio (26 March 1967), 14: AAS 59 (1967), 264.    
+[^111]: Cf. ibid., 17: AAS 59 (1967), 265-266; Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 125-127: AAS 112 (2020), 1012-1013.    
+[^112]: Cf. Saint Paul VI, Encyclical Letter Populorum Progressio (26 March 1967), 14: AAS 59 (1967), 264; Benedict XVI, Address to the Diplomatic Corps accredited to the Holy See (8 January 2007): AAS 99 (2007), 73; Francis, Address to Participants of the 3rd Global Meeting of the Indigenous Peoples’ Forum of the International Fund for Agricultural Development (15 February 2017): AAS 109 (2017), 244-245.    
+[^113]: Final Document of the Second Session of the XVI Ordinary General Assembly of the Synod of Bishops (26 October 2024), 17.    
+[^114]: Cf. ibid. , 11.    
+[^115]: Cf. ibid. , 103-108.    
+[^116]: Cf. ibid., 100-101.    
+[^117]: Cf. Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 94: AAS 112 (2020), 1001.    
+[^118]: Cf. Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church, 53.    
+[^119]: Cf. Francis, Encyclical Letter Laudato Si ’, (24 May 2015), 106-109: AAS 107 (2015), 889-891.    
+[^120]: R. Guardini, Das Ende der Neuzeit, Würzburg 1951, 89.    
+[^121]: Saint Paul VI, Address on the occasion of the 25th Anniversary of the FAO (16 November 1970): AAS 62 (1970), 833.    
+[^122]: Cf. Francis, Address to the Council for an Inclusive Capitalism (11 November 2019): L’Osservatore Romano, 11-12 November 2019, 8.    
+[^123]: Cf. Dicastery for the Doctrine of the Faith – Dicastery for Culture and Education, Note Antiqua et Nova (14 January 2025): AAS 117 (2025), 159-210; Francis, Message for the 57th World Day of Peace (8 December 2023): AAS 116 (2024), 54-64; Francis, Message for the 58th World Day of Social Communications (24 January 2024): AAS 116 (2024), 261-266; Francis, Address to the G7 Session on Artificial Intelligence: “An exciting and fearsome tool” (14 June 2024): AAS 116 (2024), 866-875; International Theological Commission, Quo vadis, humanitas? Thinking about Christian anthropology in the face of some scenarios on the future of humanity (9 February 2026); Message for the 60th World Day of Social Communications (24 January 2026): L’Osservatore Romano, 24 January 2026, 2-3.    
+[^124]: Cf. Dicastery for the Doctrine of the Faith – Dicastery for Culture and Education, Note Antiqua et Nova (14 January 2025), 96: AAS 117 (2025), 201.    
+[^125]: Francis, Address to Participants at the Meeting of the “Minerva Dialogues” promoted by the Dicastery for Culture and Education (27 March 2023): AAS 115 (2023), 465.    
+[^126]: Cf. Dicastery for the Doctrine of the Faith – Dicastery for Culture and Education, Note Antiqua et Nova (14 January 2025), 41: AAS 117 (2025), 178.    
+[^127]: Cf. ibid., 44-45: AAS 117 (2025), 179-180.    
+[^128]: Cf. Saint John Paul II, Encyclical Letter Centesimus Annus (1 May 1991), 40: AAS 83 (1991), 843.    
+[^129]: Cf. International Theological Commission, Quo vadis, humanitas? Thinking about Christian anthropology in the face of some scenarios on the future of humanity (9 February 2026), 63.    
+[^130]: Cf. Saint Paul VI, Discourse on the occasion of the 25th anniversary of the FAO (16 November 1970): AAS 62 (1970), 833.    
+[^131]: International Theological Commission, Quo vadis, humanitas? Thinking about Christian anthropology in the face of some scenarios on the future of humanity (9 February 2026), 3.    
+[^132]: “If we devalue the heart, we also devalue what it means to speak from the heart, to act with the heart, to cultivate and heal the heart. If we fail to appreciate the specificity of the heart, we miss the messages that the mind alone cannot communicate; we miss out on the richness of our encounters with others; we miss out on poetry. We also lose track of history and our own past, since our real personal history is built with the heart.  At the end of our lives, that alone will matter.” Francis, Encyclical Letter Dilexit Nos (24 October 2024), 11: AAS 116 (2024), 1372.    
+[^133]: V. Frankl, Man’s Search for Meaning. An Introduction to Logotherapy, Boston 1963, 213.    
+[^134]: Saint Thomas Aquinas, Summa Theologiae, I-II, q. 112, a. 1, co; q. 114, a, 5, co.: ed. Leonina, VII, Rome 1892, 323 and 349.    
+[^135]: Cf. ibid., q. 114, a. 1, co.: ed. Leonina, VII, 344.    
+[^136]: Cf. Saint Thomas Aquinas, Super Boetium de Trinitate, q. 1, a. 2, ad 3: ed. Leonina, L, Rome 1992, 96; Summa Theologiae, I, q. 7, a. 1, ad 3: ed. Leonina, IV, Rome 1888, 72.    
+[^137]: Francis, Apostolic Exhortation Evangelii Gaudium, (24 November 2013), 8: AAS 105 (2013), 1022.    
+[^138]: Saint John Paul II, Encyclical Letter Redemptor Hominis (4 March 1979), 15: AAS 71 (1979), 286-287.    
+[^139]: Saint Augustine, De civitate Dei, XIV, 28: CCSL 48, Turnhout 1955, 451.    
+[^140]: Benedict XVI, Encyclical Letter Caritas in Veritate (29 June 2009), 34: AAS 101 (2009), 668-669.    
+[^141]: Saint John Paul II, Encyclical Letter Veritatis Splendor (6 August 1993), 32: AAS 85 (1993), 1159.    
+[^142]: Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 207: AAS 112 (2020), 1043.    
+[^143]: H. Arendt, The Origins of Totalitarianism, III , New York 1962, 474 .    
+[^144]: Address to Representatives of the Media (12 May 2025): AAS 117 (2025), 681-682.    
+[^145]: Benedict XVI, Message for the 47th World Day of Social Communications (24 January 2013): AAS 105 (2013), 183.    
+[^146]: Francis, Address on the occasion of the Conferral of the rank of Knight and Dame of the Grand Cross of the Pian Order to Mr Philip Pullella and Ms Valentina Alazraki (13 November 2021): L’Osservatore Romano, 13 November 2021, 12.    
+[^147]: Cf. Plato, Letter VII, 344b-c: ed. Souilhé, XIII/1, Paris 1931 ( CUF, Série grecque 63), 54.    
+[^148]: Cf. Address to the Participants in the Conference “The Dignity of Children and Adolescents in the Age of Artificial Intelligence” (13 November 2025): L’Osservatore Romano, 13 November 2025, 3.    
+[^149]: Cf. Address to the members of the Advisory Board of the RCS Academy (7 November 2025): L’Osservatore Romano 7 November 2025, 4.    
+[^150]: Saint John Paul II, Encyclical Letter Laborem Exercens (14 September 1981), 3: AAS 73 (1981), 584.    
+[^151]: Cf. Francis, Encyclical Letter Laudato Si ’ (24 May 2015), 128: AAS 107 (2015), 898.    
+[^152]: Dicastery for the Doctrine of the Faith — Dicastery for Culture and Education, Note Antiqua et Nova (14 January 2025), 67: AAS 117 (2025), 188-189.    
+[^153]: Cf. Saint John Paul II, Encyclical Letter Laborem Exercens, (14 September 1981), 18: AAS 73 (1981), 622-625.    
+[^154]: Cf. Francis, Encyclical Letter Laudato Si ’ (24 May 2015), 109: AAS 107 (2015), 891.    
+[^155]: Cf. Benedict XVI, Encyclical Letter Caritas in Veritate (29 June 2009), 32: AAS 101 (2009), 666.    
+[^156]: Cf. Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church, 268.    
+[^157]: Cf. Benedict XVI, Encyclical Letter Caritas in Veritate (29 June 2009), 64: AAS 101 (2009), 698.    
+[^158]:Cf. Francis, Encyclical Letter Laudato Si ’ (24 May 2015), 129: AAS 107 (2015), 899.    
+[^159]: Cf. ibid.    
+[^160]: Cf. Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 108: AAS 112 (2020), 1006.    
+[^161]: Cf. Dicastery for the Doctrine of the Faith — Dicastery for the Promotion of Integral Human Development, Oeconomicae et Pecuniariae Quaestiones. Considerations for an Ethical Discernment Regarding some Aspects of the Present Economic-Financial System (6 January 2018), 6: AAS 110 (2018), 772.    
+[^162]: Francis, Greeting to the staff of the International Fund for Agricultural Development (IFAD) (14 February 2019): AAS 111 (2019), 309. Cfr. Benedict XVI, Encyclical Letter Caritas in Veritate (29 June 2009), 22: AAS 101 (2009), 657.    
+[^163]: Cf . ibid., 36: AAS 101 (2009), 671-672.    
+[^164]: Cf. Francis, Apostolic Exhortation Evangelii Gaudium (24 November 2013), 204: AAS 105 (2013), 1105-1106.    
+[^165]: Cf. Saint Paul VI, Encyclical Letter Populorum Progressio (26 March 1967), 87: AAS 59 (1967), 299.    
+[^166]: Cf. Saint John Paul II, Encyclical Letter Centesimus Annus (1 May 1991), 39: AAS 83 (1991), 841.    
+[^167]: Cf. Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church, 211.    
+[^168]: Cf. Saint John Paul II, Letter to Families Gratissimam Sane (2 February 1994), 17: AAS 86 (1994), 903-906.    
+[^169]: Cf. United States Conference of Catholic Bishops, Sons and Daughters of the Light: A Pastoral Plan for Ministry with Young Adults (12 November 1996), Washington D.C., 1996, I, 3.    
+[^170]: Cf. Pontifical Council for Justice and Peace, Compendium of the Social Doctrine of the Church, 290.    
+[^171]: Cf. ibid., 214.    
+[^172]: Cf. Francis, Message for the Celebration of the 48th World Day of Youth for Peace (8 December 2014), 4: AAS 107 (2015), 70-71.    
+[^173]: Cf. International Theological Commission, Memory and Reconciliation the Church and the Faults of the Past , Vatican City 2000, 5.3.    
+[^174]: As in the Papal Bulls Sicut Dudum (13 January 1435) and Etsi Suscepti (9 January 1442) of Eugenius IV, and in the Papal Bulls Dum Diversas (18 June 1452) and Romanus Pontifex (8 January 1455) of Nicholas V. Political and, at times, even economic needs overcame the demands of the Gospel. The need for evangelization was frequently compromised or at least misunderstood with regard to the needs of worldly powers, thus relativizing the problematic incompatibility of slavery with the Christian conscience.    
+[^175]: Cf. Leo XIII, Encyclical Letter In Plurimis (5 May 1888), Acta Leonis XIII, VIII, Rome, 1889, 169-192. Consider that, as late as 1866, the Holy Office distinguished between the immoral and moral aspects of slavery, without fully condemning it: Instruction of the Holy Office on various doubts of Monsignor Massaia, Vicar Apostolic in the country of the Galla, April 1866, response to question no. 15.    
+[^176]: Cf. Saint John Paul II, Bull Incarnationis Mysterium (29 November 1998), 11: AAS 91 (1999), 139-141.    
+[^177]: Cf. Saint Paul VI, Regina Caeli (17 May 1970): Insegnamenti di Paolo VI, vol.  VIII, 506.    
+[^178]: Cf. Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 183: AAS 112 (2020), 1033-1034.    
+[^179]: Cf. Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes, 26: AAS 58 (1966), 1046-1047.    
+[^180]: Saint Paul VI, Address to the 20th General Assembly of the United Nations (4 October 1965): AAS 57 (1965), 881.    
+[^181]: United Nations, United Nations Charter, San Francisco (26 June 1945), Preamble.    
+[^182]: Cf. Francis , Encyclical Letter Fratelli Tutti (3 October 2020), 258: AAS 112 (2020), 1061: “In recent decades, every single war has been ostensibly ‘justified.’ The Catechism of the Catholic Church speaks of the possibility of legitimate defense by means of military force, which involves demonstrating that certain ‘rigorous conditions of moral legitimacy’ have been met.  Yet it is easy to fall into an overly broad interpretation of this potential right.  In this way, some would also wrongly justify even ‘preventive’ attacks or acts of war that can hardly avoid entailing ‘evils and disorders graver than the evil to be eliminated.’”    
+[^183]: Cf. Dicastery for the Doctrine of the Faith — Dicastery for Culture and Education, Note Antiqua et Nova (14 January 2025), 99: AAS 117 (2025), 202-203.    
+[^184]: Cf.  ibid., 103: AAS 117 (2025), 204.    
+[^185]: Cf. Address to the Participants in the Plenary Session of the “Reunion of Aid Agencies for the Oriental Churches (ROACO)” (26 June 2025): AAS 117 (2025), 847-849.    
+[^186]: Cf. Francis, Message for the 53rd World Day of Peace (8 December 2019): AAS 112 (2020), 54-61.    
+[^187]: J.R.R. Tolkien, The Lord of the Rings. The Return of the King, Part III, Book Five, Chapter IX, New York 1965, 190.    
+[^188]: Address to Representatives of the Media, (12 May 2025): AAS 117 (2025), 682.    
+[^189]: Ibid.    
+[^190]: Saint John Paul II, Message for the 31st World Day of Peace, (1 January 1998), 1: AAS 90 (1988), 147.    
+[^191]: Saint Augustine, Enarrationes in Psalmos, 84, 12: CCSL 39, Turnhout 1956, 1172-1173.    
+[^192]: Cf. Francis, Encyclical Letter Dilexit Nos (24 October 2024), 22: AAS 116 (2024), 1375-1376.    
+[^193]: Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 115: AAS 112 (2020), 1008-1009.    
+[^194]: Cf. ibid., 261: AAS 112 (2020), 1062.    
+[^195]: Cf. Saint Paul VI, Address to the 20th General Assembly of the United Nations (4 October 1965): AAS 57 (1965), 878-879.    
+[^196]: Cf. Pius XII, Radio Message A Grave Hour (24 August 1939): AAS 31 (1939), 334.    
+[^197]: Giorgio La Pira, Riflessioni sul Concilio.  Address of Professor Giorgio La Pira, Mayor of Florence, to the “Guides de France”(Rome, 4 September 1962), Florence 1962, 6.    
+[^198]: Address to Participants in the Jubilee of Oriental Churches (14 May 2025): AAS 117 (2025), 686.    
+[^199]: Cf.  Francis, Encyclical Letter Fratelli Tutti (3 October 2020), 271: AAS 112 (2020), 1066.    
+[^200]: Cf. Francis, Appeal for Peace at Assisi for the World Day of Prayer for Peace “Thirst for Peace: Faiths and Cultures in Dialogue” (20 September 2016): AAS 108 (2016), 1124.    
+[^201]: Francis, Address to Members of the Diplomatic Corps accredited to the Holy See (9 January 2025): AAS 117 (2025), 110.    
+[^202]: Cf. Francis, Address to the Participants in the 38th Conference of the FAO (20 June 2013): AAS 105 (2013), 616-617.    
+[^203]: First “Urbi et Orbi”  Blessing (8 May 2025): AAS 117 (2025), 660.    
+[^204]: Ibid.    
+[^205]: Cf. Homily at First Vespers on the Solemnity of Mary the Most Holy Mother of God (31 December 2025): L’Osservatore Romano, 2 January 2026, 1-2.    
+[^206]: Cf. Homily of the Mass during the Day (25 December 2025): L’Osservatore Romano, 27 December 2025, 3.    
+[^207]: Cf. ibid.    
+[^208]: Cf. Angelus on the Solemnity of the Epiphany (6 January 2026): L’Osservatore Romano, 7 January 2026, 3.    
+[^209]: Cf. Homily of the Mass during the Night (24 December 2025): L’Osservatore Romano, 27 December 2025, 2.    
+[^210]: P. de Bérulle, Discours de l’état et des grandeurs de Jésus, Discours IV, Unité de Dieu en l’incarnation: Œuvres complètes, Paris 1856, col. 218.    
+[^211]: Ibid .    
+[^212]: Cf. Address to the Conference “Artificial Intelligence and Care of Our Common Home” (5 December 2025): L’Osservatore Romano, 5 December 2025, 2.    
+[^213]: Benedict XVI, Encyclical Letter Deus Caritas Est (25 December 2005), 14: AAS 98 (2006), 228.    
+[^214]: Saint Augustine, Sermons, 272: In die Pentecostes ad infantes de sacramento: PL 38, Paris 1865, col. 1247.    
+[^215]: Benedict XVI, Homily at the Mass of the Lord’s Supper (21 April 2011): AAS 103 (2011), 321.    
+[^216]: Address to the Roma Curia for the Exchange of Christmas Greetings (22 December 2025): L’Osservatore Romano, 22 December 2025, 6-7.    
+[^217]: Cf. above, nos. 11-14.    
+[^218]: Cf. Address to the Conference “The Dignity of Children and Adolescents in the Age of Artificial Intelligence” (13 November 2025): L’Osservatore Romano, 13 November 2025, 3.    
+[^219]: Cf. Benedict XVI, Encyclical Letter Caritas in Veritate (29 June 2009), 34: AAS 101 (2009), 668-670.    
+[^220]: Francis, Apostolic Exhortation Laudate Deum (4 October 2023), 67: AAS 115 (2023), 1059.    
+[^221]: Cf. Angelus on the Solemnity of the Epiphany (6 January 2026): L’Osservatore Romano, 7 January 2026, 3.    
+[^222]: Benedict XVI, General Audience (15 February 2006): L’Osservatore Romano, 16 February 2006, 4.    
+[^223]: Meditation on the occasion of the Prayer Vigil and Rosary for Peace (11 October 2025): L’Osservatore Romano, 13 October 2025, 2.    
+[^224]: Saint Paul VI, Homily at the Marian Shrine of Our Lady of Bonaria, (24 April 1970): AAS 62 (1970), 301.    
 
 # Presentation and promulgation of the Encyclical Letter ***Magnifca Humanitas***
 [VIDEO](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)
