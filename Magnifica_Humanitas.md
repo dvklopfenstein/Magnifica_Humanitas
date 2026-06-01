@@ -1,11 +1,12 @@
 # [Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
-Magnifica_Humanitas
+MAGNIFICA HUMANITAS    
 OF HIS HOLINESS **POPE LEO XIV**    
 ON SAFEGUARDING THE HUMAN PERSON    
 IN THE TIME OF ARTIFICIAL INTELLIGENCE    
 
 # Monday, May 25, 2006 Presentation of the Encyclical
 * [**PRESENTATION AND PROMULGATION OF THE ENCYCLICAL LETTER *Magnifca Humanitas***](#presentation-and-promulgation-of-the-encyclical-letter-magnifca-humanitas)
+    * [VIDEO](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)
     * [Prof.ssa Anna Rowlands](#profssa-anna-rowlands)
     * [Christopher Olah](#christopher-olah)
     * [Prof.ssa Leocadie Lushombo i.t.](#profssa-leocadie-lushombo-it)

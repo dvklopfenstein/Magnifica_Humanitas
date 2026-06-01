@@ -2,11 +2,12 @@
 The 2026 Encyclical of his Holiness, Pope Leo XIV on safeguarding the human person in the time of AI
 
 
-[*Magnifica Humanitas*](y2026_05_25_PopeLeoXIV_Magnifica_Humanitas.md)
+[*Magnifica Humanitas*](Magnifica_Humanitas.md)
 in markdown, for those who prefer writing their notes in plaintext.
 
 <!-- ---------------------------------------------------------------------------- -->
-## [INTRO VIDEO](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html) at the Presentation of the Encyclical
+# [INTRO VIDEO](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.htmlt)
+[INTRO VIDEO](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html) at [the Presentation of the Encyclical](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)
 ### 0:00 Popes between Pope Leo XIII and Pope Leo XIV
 
  i| Years     | Pope
