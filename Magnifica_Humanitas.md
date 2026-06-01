@@ -312,7 +312,7 @@ Consequently, “it is not in accordance with God’s plan to use this gift in s
 66. Certainly there is a right to private property, which has its own specific meaning and purpose, yet it is always subordinate to the universal destination of goods.
 According to John Paul II, this subordination is the golden rule of social conduct and the “first principle of the whole ethical and social order.”[^88]
 In the Church’s tradition, property has been viewed as a means of protecting and managing goods so that they may better serve the common good. Since “the Christian tradition has never recognized the right to private property as absolute or inviolable,”[^89] its social function must not be considered a mere theological opinion, but a doctrine of the Church, already present in Sacred Scripture and in the writings of the Church Fathers. For this reason, Pope Francis reminded us that solidarity, when lived out in its fullest sense, also means “to restore to the poor what belongs to them.”[^90]
-[O
+
 67. Today, among the goods that are universally intended for everyone, we must also include new forms of property, such as patents, algorithms, digital platforms, technological infrastructure and data. In a context where the wealth of nations depends increasingly on knowledge and technology, when these goods remain concentrated in the hands of a few, without adequate forms of sharing and access, a new imbalance is created that contradicts the universal destination of goods. In turn, it widens the gap between the included and the excluded, between those who can participate in the digital revolution and those who remain on the margins. Furthermore, care for our common home and our responsibility toward the poor and future generations require that the use of the goods of creation and the new possibilities offered by technology be regulated in such a way as to respect the environment, avoid waste and prevent new forms of exploitation.
 
 #### The principle of subsidiarity
@@ -1070,14 +1070,14 @@ Given in Rome, at Saint Peter’s, on 15 May, in the year 2026, the second of my
 
 ## Prof.ssa Anna Rowlands
 Departments di Techologia e Religione della Durham University, Regno Unito    
-0:36:16
+0:35:00
 
-Holy Father, Eminences, excellences, sisters and brothers.
+Holy Father, Eminences, Excellences, sisters and brothers.
 
-"I came that they might have life and habit abundantly," proclaimed Jesus.
-in this light *Magnifca Humanitas* asks what does it mean to be a flourishing human being in a time of AI.
+"I came that they might have life and have it abundantly," proclaimed Jesus.
+in this light *Magnifca Humanitas* asks: what does it mean to be a flourishing human being in a time of AI?
 This letter is not a neutral consideration of that question any more than today’s technologies embody neutral world views.
-This cyclical brings the vision of the gospel to bear on the cultures of AI.
+This Encyclical brings the vision of the gospel to bear on the cultures of AI.
 It warns of a growing culture of power that is reshaping work, families, education, and political life.
 It calls us to transform modes of power that dominate into forms of shared power,
 and to measure technological developments by their contributions to true social and ethical progress.
@@ -1099,40 +1099,79 @@ Our freedom and intelligence expressed themselves in a knowing that is irreplace
 through work, care, contemplation, suffering even, and friendship.
 
 The Encyclical names free human beings as a loved creation; equal in dignity, created for relationship, rational shapers of the world, and a neighbour without exception.
-The power that we have is the capacity to nurture this truth together.
+**The power that we have is the capacity to nurture this truth together.**
 Without such guiding truths our freedom becomes little more than an instrument in the hands of arbitrary powers.
 
 Distilling these truths for a time of AI, *Magnifca Humanitas* offers a new synthesis of the Churches social doctrine.
-As recent times have perhaps shown when the Church speaks on social matters some complain of unwelcome interference.
-Yet the Church rightly speaks because her mission is to reveal the face of God in history and to accompany humanity as it struggles towards its true good and foster unity.
+As recent times have perhaps shown when the Church speaks on social matters, some complain of unwelcome interference.
+Yet, the Church rightly speaks, because her mission is to reveal the face of God in history and to accompany humanity as it struggles towards its true good and to foster unity.
 
-Discerning our path in history is a communal task in dialogue with cultures, with sciences, with people of all faith and beliefs.
+Discerning our path in history is a communal task in dialogue with cultures, with sciences, with people of all faiths and beliefs.
 Many social vocations bear a special responsibility for this task.
 
 However, a healthy social dialogue means that we must step out of our silos
 and recognize ourselves as more than tools of the state, market agents, or user tools of an algorithmic order.
-The Churches social doctrine invites us into a space of encounter and mutual accompaniment to share in a collective search for truth, for justice, and for flourishing.
-In this space, the most vulnerable and victims, the newly enslaved, have faces and names and they are heard first.
+The Church's social doctrine invites us into a space of encounter and mutual accompaniment to share in a collective search for truth, for justice, and for flourishing.
+In this space, the most vulnerable, and victims, the newly enslaved, have faces and names and they are heard first.
 
 *Magnifca Humanitas* offers social principles to assist this dialogue.
 Over 135 years, the popes have taught that the foundation of the social order is the dignified human person.
 That the common good cannot truly be sought without the recognition and the participation of all,
 that the resources of the Earth are to meet the needs of all, including future generations,
 and that Jesus Christ makes us neighbors bound in structural and personal solidarity.
-The power must be transparent and accountable, and exercised at multiple social levels.
+That power must be transparent and accountable, *and* exercised at multiple social levels.
 
 0:41:00    
-This Encyclical insists that these principles apply inside the Church as well as outside the bethanechol tradition.
-Also traditionally exposes, false idols.
-The popes of taught Thuy will not not be saved by the market nor by historical forces, nor by the nation state today, hopefully Leo cautions that we will not be saved by AI either or by its post and trans humanism such ideologies present total autonomy, radical automation machine, consciousness, and the overcoming of human limits as saving goals in doing so they create new dependencies exclusions, and inequalities to quote the holy father instead limits, all part of how we learn compassion, generosity, and healthy into dependence, part of how the heart is pierced, and how it expands towards communion and part of how the soul grows in a wisdom that is more than main knowledge yet the tradition we should be clear tells a fundamentally positive story about tech technologies since our origins humans have created technologies the augment their freedom, alleviate suffering, and real needs when technologies remain tools, serving a clear good they can be viewed as an extension of the freedom that God gives us in Genesis to tell and keep the land technologies belong therefore within the terms of the covenant between God and humanity, serving the human vocation to decent work to raise families to seek truth as a common good to build community and to foster peace and unity.
+This Encyclical insists that these principles apply inside the Church, as well as outside.
+The Encyclical tradition also traditionally exposes, false idols.
+The popes have taught: we will not not be saved by the market; nor by historical forces; nor by the nation state.
+Today, Pope Leo cautions that we will not be saved by AI either or by its post- and trans-humanisms.
+Such ideologies present total autonomy, radical automation, machine consciousness, and the overcoming of human limits as "saving goals."
+In doing so they create new dependencies, exclusions, and inequalities---to quote the Holy father.
+
+Instead, limits are part of how we learn compassion, generosity, and healthy interdependence.
+Part of how the heart is pierced, and how it expands towards communion and part of how the soul grows in a wisdom that is more than mere knowledge.
+Yet the encyclical tradition, we should be clear, tells a fundamentally positive story about technologies.
+Since our origins, humans have created technologies the augment their freedom, alleviate suffering, and meet real needs.
+When technologies remain tools, serving a clear good, they can be viewed as an extension of the freedom that God gives us in Genesis to till and keep the land.
+Technologies belong therefore within the terms of the covenant between God and humanity, serving the human vocation to decent work, to raise families, to seek truth as a common good, to build community, and to foster peace and unity.
+
 The traditions question is therefore constructive.
-How do we cultivate technologies that are truly good news for all today’s sophisticated technologies are not my tools, but tools that like the languages, they harvest cultures and their moral architectures human task notes that the powers of innovation that have traditionally reside with states today, concentrated in the hands of a few wealthy individuals whose cultures are concealed from common goods, scrutiny and risk appearing as a new imperium Paleo prompt us to ask in the interest of the common Good how can we resist such distorted concentrations of power in the hands of the few how can we reengage technologies as a matter of the common good accountable to the good of every human and all humanity magnificent human task acknowledges but many of us perhaps feeding in this room today do not feel confident to explore these questions this letter and powers each of us to play our part asking what kind of vision of human excellence do I encounter here in this time of AI or image of human worth and who determines that worth for our freedom to be augmented and not habituated or coerced or rated, we must be free in work in education and families to use these tech technologies or not to support them or not quotes Romano Guardi observation made nearly a century ago “contemporary man has not been trained to use power well “the spiritual diagnosis runs like connecting thread through the cyclical, addressing how technology is reshaping multilateral politics, diagnosis a deep connection between poverties of relationship relationship and a culture of power, characterized by polarization and violence.
-He describes deep connections between what he caused the false realism but normalize war and social domination that automate reality and reduce the person to data and lockers into friend collective identities he observes that mighty right masquerade it pretends to be strength, but is simply force that reveals impoverished relationships behind its mask those rich in relationships, know how to dialogue how to negotiate, and how to speak across languages without domination.
-Cyclical helps us to discern when a culture, risk risks, recognizing and disorder, virtue and advice, strength, and weakness courage and cowardice Magnifica human task helps us to see that the desire for domination Augustine called the libido, and Andy might be loaded by the world as strength, but it is never a Christian virtue instead we are called twist civilization of love Hope.
-Leo says this means de-escalating conflict by disarming our words, focusing on justice as the basis for peace adopting the perspective of the victims cultivating a healthy, not a false realism reviving dialogue and multilateralism and praying Mary’s magnificent concludes this cyclical alongside Christ cry of dereliction on the cross.
-Mary’s him is perhaps the most viscerally embodied cry in the New Testament echoing today in our disembodied age it is the hymn of a woman abundant with new life with the life of God who proclaimed the terms of the common good hearing suffering first, she points to a human history, where God reigns here the hungry fed the mighty overthrown and the lowly are raised up.
-Her magnificent cat gives flesh to the insistent question of this cyclical.
-How can we form communities in an act age of accelerating technological change place the human first cultivating spiritual and ethical growth, justice and unity and celebrate that humanities author, architect, and soul Savior is the Trinitarian God in whom we place our trust.
+How do we cultivate technologies that are truly good news for all.
+Today’s sophisticated technologies are not mere tools, but tools that like the languages they harvest, carry cultures and bear moral architectures.
+*Magnifca Humanitas* notes that the powers of innovation that have traditionally resided with states are today concentrated in the hands of a few wealthy individuals---whose cultures are concealed from common good scrutiny and risk appearing as a new emperium.
+
+Pope Leo prompts us to ask in the interest of the common good, how can we resist such distorted concentrations of power in the hands of the few?
+How can we reengage technologies as a matter of the common good, accountable to the good of every human and all humanity?
+
+*Magnifca Humanitas* acknowledges that many of us, perhaps including in this room today, do not feel confident to explore these questions.
+**This letter empowers each of us to play our part.**
+
+Asking what kind of vision of human excellence do I encounter here in this time of AI?
+What image of human worth?
+And who determines that worth?
+For our freedom to be augmented, and not habituated, or coerced or erroded, we must be free in work, in education, and in families to use these technologies (or not), to support them (or not).
+
+Pope Leo quotes Romano Guardini observation made nearly a century ago “contemporary man has not been trained to use power well.“
+This spiritual diagnosis runs like connecting thread through the Encyclical, addressing how technology is reshaping multilateral politics, Pope Leo diagnosis a deep connection between poverties of relationship and a culture of power, characterized by polarization and violence.
+He describes deep connections between what he calls the false realisms that normalize war and social domination, that automate reality and reduce the person to data, and that lock us into friend/foe collective identities.
+He observes that "might is right" masquerades, it pretends to be strength; but is simply force that reveals impoverished relationships behind its mask.
+
+Those rich in relationships, know how to dialogue, how to negotiate, and how to speak across languages without domination.
+This Encyclical helps us to discern when a culture risks misrecognizing and disordering: virtue and vice; strength and weakness; courage and cowardice.
+
+*Magnifca Humanitas* helps us to see that the desire for domination, what Saint Augustine called the libido dominandi, might be lauded by the world as strength, but it is never a Christian virtue.
+Instead we are called to a civilization of Love.
+Pope Leo says this means de-escalating conflict by disarming our words, focusing on justice as the basis for peace, adopting the perspective of the victims, cultivating a healthy not a false realism, reviving dialogue and multilateralism, and praying.
+
+Mary’s Magnificat concludes this Encyclical alongside Christs cry of dereliction on the cross.
+Mary’s hymn is perhaps the most viscerally embodied cry in the New Testament.
+Echoing today in our disembodied age, it is the hymn of a woman abundant with new life, with the life of God, who proclaims the terms of the common good.
+Hearing suffering first, she points to a human history, where God reigns.
+Here the hungry are fed, the mighty overthrown, and the lowly are raised up.
+Her Magnificat gives flesh to the insistent question of this Encyclical.
+
+How can we form communities that in an age of accelerating technological change, place the human first, cultivating spiritual and ethical growth, justice and unity, and celebrate that humanity's author, architect, and sole Savior is the Trinitarian God in whom we place our trust.
 
 ## Christopher Olah
 Co-founatore di Anthropic (USA)    
