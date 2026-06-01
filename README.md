@@ -2,13 +2,14 @@
 The 2026 Encyclical of his Holiness, Pope Leo XIV on safeguarding the human person in the time of AI
 
 
-[*Magnifica Humanitas*](Magnifica_Humanitas.md)
-in markdown, for those who prefer writing their notes in plaintext.
+[*Magnifica Humanitas*](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html.md)
+[in markdown](Magnifica_Humanitas.md), for those who prefer writing notes in plaintext.
 
 <!-- ---------------------------------------------------------------------------- -->
 # [INTRO VIDEO](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.htmlt)
-[Intro video](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html) at [the Presentation of the Encyclical](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)
-### 0:00 Popes between Pope Leo XIII and Pope Leo XIV
+[Four minute intro video](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html) at [the Presentation of the Encyclical](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)
+
+### 0:00 Popes over 147 years: From Leo XIII to Leo XIV
 
  i| Years     | Pope
 --|-----------|---------------------
@@ -88,7 +89,7 @@ Leo PP. XIV
 
 <!-- ---------------------------------------------------------------------------- -->
 # Credits and License
-The official [Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
+The [Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
 is copyrighted by the Vatican:
 
 Copyright © Dicastery for Communication - Libreria Editrice Vaticana
