@@ -1,22 +1,13 @@
 # [Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
-2026 Encyclical of his Holiness, Pope Leo XIV on safeguarding the human person in the time of AI
+The 2026 Encyclical of his Holiness, Pope Leo XIV on safeguarding the human person in the time of AI
 
 
-[*Magnifica Humanitas* in markdown](y2026_05_25_PopeLeoXIV_Magnifica_Humanitas.md),
-for those who prefer writing out notes in plaintext.
+[*Magnifica Humanitas*](y2026_05_25_PopeLeoXIV_Magnifica_Humanitas.md)
+in markdown, for those who prefer writing their notes in plaintext.
 
-## Other links to *Magnifica Humanitas*
-* Official [Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html) from the Vatican
-* [@juanalbertoramos](https://github.com/juanalbertoramos/magnifica-humanitas)
-
-## Guides
-
-## News
-* 2026/05/25 [Pope Leo’s ‘Magnifica humanitas’: AI must serve humanity not concentrate power](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html)
-* 2025/05/13 [Faith Meets AI And Tech In Vatican’s Bold Move Under Pope Leo XIV](https://www.forbes.com/sites/torconstantino/2025/05/13/faith-meets-ai-and-tech-in-vaticans-bold-move-under-pope-leo-xiv/)
-* 2024/04/24 [Cisco Systems joins Microsoft, IBM in Vatican pledge to ensure ethical use and development of AI](https://apnews.com/article/pope-ai-artificial-intelligence-cisco-microsoft-ibm-79b279570b2e7a2d945c452852a19657)
-
-## [VIDEO: Popes between Pope Leo XIII and Pope Leo XIV](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html)
+<!-- ---------------------------------------------------------------------------- -->
+## [INTRO VIDEO at the Presentation of the Encyclical](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html)
+### Popes between Pope Leo XIII and Pope Leo XIV
 
  i| Years     | Pope
 --|-----------|---------------------
@@ -79,6 +70,23 @@ Fraternally in the episcopate,
 Leo PP. XIV
 
 
+<!-- ---------------------------------------------------------------------------- -->
+## Other links to *Magnifica Humanitas*
+* Official [Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html) from the Vatican
+* [@juanalbertoramos](https://github.com/juanalbertoramos/magnifica-humanitas)
+
+<!-- ---------------------------------------------------------------------------- -->
+## Guides
+
+
+<!-- ---------------------------------------------------------------------------- -->
+## News
+* 2026/05/25 [Pope Leo’s ‘Magnifica humanitas’: AI must serve humanity not concentrate power](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html)
+* 2025/05/13 [Faith Meets AI And Tech In Vatican’s Bold Move Under Pope Leo XIV](https://www.forbes.com/sites/torconstantino/2025/05/13/faith-meets-ai-and-tech-in-vaticans-bold-move-under-pope-leo-xiv/)
+* 2024/04/24 [Cisco Systems joins Microsoft, IBM in Vatican pledge to ensure ethical use and development of AI](https://apnews.com/article/pope-ai-artificial-intelligence-cisco-microsoft-ibm-79b279570b2e7a2d945c452852a19657)
+
+
+<!-- ---------------------------------------------------------------------------- -->
 ## Credits and License
 The official [Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
 is copyrighted by the Vatican:
