@@ -4,8 +4,9 @@ The 2026 Encyclical of his Holiness, Pope Leo XIV on safeguarding the human pers
 *Magnifica Humanitas* [in markdown](Magnifica_Humanitas.md), for those who prefer writing notes in plaintext.
 
 <!-- ---------------------------------------------------------------------------- -->
-# [INTRO VIDEO](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.htmlt)
-[Four minute intro video](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html) at [the Presentation of the Encyclical](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)
+# [INTRO VIDEO](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html)
+[Four minute intro video](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html) at
+[the Presentation of the Encyclical](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)
 
 ### 0:00 Popes over 147 years: From Leo XIII to Leo XIV
 
@@ -13,15 +14,15 @@ The 2026 Encyclical of his Holiness, Pope Leo XIV on safeguarding the human pers
 --|-----------|----------------|--------
  1| 1878-1903 | Leo XIII       |?; ?; ?; Pope; Diesel Train; Dark industrial smog
  2| 1903-1914 | St Pius X      |Pope; soldiers;
- 3| 1914-1922 | Benedict XV    |
+ 3| 1914-1922 | Benedict XV    |Power grid; airplane bombs
  4| 1922-1939 | Pius XI        |
  5| 1939-1958 | Ven. Pius XII  |
  6| 1958-1963 | St John XXIII  |
  7| 1963-1978 | St Paul VI     |
  8| 1978      | BI. John Paul I|
- 9| 1978-2005 | St John Paul II|
+ 9| 1978-2005 | St John Paul II|floppy drive;
 10| 2005-2013 | Benedict XVI   |
-11| 2013-2025 | Francis        |
+11| 2013-2025 | Francis        |tablets; phones
 12| 2025-     | Leo XIV        |
 
 ### 1:30 A quote by Pope Leo XIV (translated to English from Italian)

@@ -8,11 +8,12 @@ IN THE TIME OF ARTIFICIAL INTELLIGENCE
 * [**PRESENTATION AND PROMULGATION OF THE ENCYCLICAL LETTER *Magnifca Humanitas***](#presentation-and-promulgation-of-the-encyclical-letter-magnifca-humanitas)
     * [VIDEO](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)
     * [S. Em. Card. Pietro Parolin](#s-em-card-pietro-parolin)
-    * [S. Em. Card. Victor Manuel Fernández](#s-em-card-victor-manuel-fernandez)
-    * [Prof.ssa Anna Rowlands](#profssa-anna-rowlands)
-    * [Christopher Olah](#christopher-olah)
-    * [Prof.ssa Leocadie Lushombo i.t.](#profssa-leocadie-lushombo-it)
-    * [S. Em. Card. Michael Caerny S.J.](#s-em-card-michael-caerny-sj)
+    * **Distinguished Speakers**
+        * [S. Em. Card. Victor Manuel Fernández](#s-em-card-victor-manuel-fernandez)
+        * [Prof.ssa Anna Rowlands](#profssa-anna-rowlands)
+        * [Christopher Olah](#christopher-olah)
+        * [Prof.ssa Leocadie Lushombo i.t.](#profssa-leocadie-lushombo-it)
+        * [S. Em. Card. Michael Caerny S.J.](#s-em-card-michael-caerny-sj)
     * [Pope Leo XIV](#pope-leo-xiv)
 
 # TOC: *Magnifica Humanitas* Encyclical
@@ -1289,8 +1290,14 @@ Arising out of the problems of the people consciousness arises from among the po
 It is the poor who tell us what the world is, and what the Church service to the Word should be."
 
 1:00:00    
-It is the poor who raise our consciousness that those devoid of human faces to recover humanness for day two like all of us are embodiment of magnificent humanity consciousness also leaving the gospel, genuinely from work and marriage from Ambar intercultural, and enter context to a relationship which will hardly be made through AI, the optimization of learning that is going to AI to learn rather than learning from the one another is destructive of the share in return of communities we learn the best when we are loved and encourage to be confident confident with our abilities we cannot authorize our cognitive capacities without the love of others in most communal culture of Africa.
-There is this concept of a philosophical concept that is according to Desmond philosopher John B I called I am because I belong I participate I share end of school.
+The poor who raise our consciousness that those devoid of human faces to recover humanness.
+For they too, like all of us, are embodiment of magnificent humanity.
+Consciousness also arises through living the gospel, genuinely from work and marriage from embodied intercultural, and intercontextual relationship which will hardly be made through AI.
+The optimization of learning, that is going to AI to learn rather than learning from the one another, is destructive of the share in return of communities.
+We learn the best when we are loved and encouraged to be confident confident with our abilities.
+We cannot authorize our cognitive capacities without the love of others.
+
+In most communal culture of Africa there is this concept of a philosophical concept that is according to Desmond philosopher John B I called I am because I belong I participate I share end of school.
 They were African anthropological vision, resonate deeply with the communal culture of Asia in Korea we have the cause of the in the sense of emotional connectedness that value that we over the individual success in Indonesia in Malaysia we have the concept of Goong Royal meaning to share and carry heavy burden together in the Philippine.
 There is this concept to buy any which is a mutual support within villages that whole communities together, so most tribal and indigenous cosmological vision teachers that human environment are in a biotic relationship, affirming self is the person existing beyond the material focus on efficiency and accumulation that Magnifica call owners not to lose this human values to AIAI can lead people to treat learning as an artificial isolated transactional process rather than a communion biological one, so there is therefore a danger that those culture that understand learning is a matter of relationship community and dialogue will be eroded.
 This would make those culture even more vulnerable to colonial extract, for this reason, I emphasize claim that they could even today colonial lease assumes new forms it’s no longer dominate on the bodies, but appropriate data transforming personal lives into exploitable information end of quote yes AI can very easily be colonial because it’s time, social imagination, creativity and insight the speed of AI extinguish as the desire to ask a questions that knowing is not merely an accumulation of data already stimulated by technology, but rather the ability to engage in the four basic human vaccine activities that loaner gun suggested that experience experiencing understanding, judging and deciding knowing goes with this for operation or caution us not to forfeit wonder to AI and to remember that I caught nothing in the word of AI is in material or magical and of course he suggest rethinking the role of teachers schools and evaluation method to provide an authentically integrated education that forms the inner and the whole Person enabling grow in virtue one way the church and society in the global south could leverage this technology for good it’s by giving people voice, making good use of the local means that preserve the culture of encounters all the mini culture the mini structure of brotherhood and sisterhood that we have where we can hold each other accountable where we can touch each other we can cry with each other.
