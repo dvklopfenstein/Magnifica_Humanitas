@@ -1,29 +1,29 @@
 # [Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
 The 2026 Encyclical of his Holiness, Pope Leo XIV on safeguarding the human person in the time of AI
 
-
-[*Magnifica Humanitas*](Magnifica_Humanitas.md)
-in markdown, for those who prefer writing their notes in plaintext.
+*Magnifica Humanitas* [in markdown](Magnifica_Humanitas.md), for those who prefer writing notes in plaintext.
 
 <!-- ---------------------------------------------------------------------------- -->
-# [INTRO VIDEO](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.htmlt)
-[Intro video](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html) at [the Presentation of the Encyclical](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)
-### 0:00 Popes between Pope Leo XIII and Pope Leo XIV
+# [INTRO VIDEO](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html)
+[Four minute intro video](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html) at
+[the Presentation of the Encyclical](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)
 
- i| Years     | Pope
---|-----------|---------------------
- 1| 1878-1903 | Leo XIII
- 2| 1903-1914 | St Pius X
- 3| 1914-1922 | Benedict XV
- 4| 1922-1939 | Pius XI
- 5| 1939-1958 | Ven. Pius XII
- 6| 1958-1963 | St John XXIII
- 7| 1963-1978 | St Paul VI
- 8| 1978      | BI. John Paul I
- 9| 1978-2005 | St John Paul II
-10| 2005-2013 | Benedict XVI
-11| 2013-2025 | Francis
-12| 2025-     | Leo XIV
+### 0:00 Popes over 147 years: From Leo XIII to Leo XIV
+
+ i| Years     | Pope           | Images
+--|-----------|----------------|--------
+ 1| 1878-1903 | Leo XIII       |?; ?; ?; Pope; Diesel Train; Dark industrial smog
+ 2| 1903-1914 | St Pius X      |Pope; soldiers;
+ 3| 1914-1922 | Benedict XV    |Power grid; airplane bombs
+ 4| 1922-1939 | Pius XI        |
+ 5| 1939-1958 | Ven. Pius XII  |
+ 6| 1958-1963 | St John XXIII  |
+ 7| 1963-1978 | St Paul VI     |
+ 8| 1978      | BI. John Paul I|
+ 9| 1978-2005 | St John Paul II|floppy drive;
+10| 2005-2013 | Benedict XVI   |
+11| 2013-2025 | Francis        |tablets; phones
+12| 2025-     | Leo XIV        |
 
 ### 1:30 A quote by Pope Leo XIV (translated to English from Italian)
 In our own day, the Church offers to everyone the treasury of her social teaching
@@ -84,11 +84,14 @@ Leo PP. XIV
 <!-- ---------------------------------------------------------------------------- -->
 # Other links to *Magnifica Humanitas*
 * Official [Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html) from the Vatican
+* [Another markdown version](https://github.com/cucho/magnifica-humanitas/blob/master/markdown/en.md)
+* [GitHub Search](https://github.com/search?q=Magnifica+Humanitas&type=repositories)
 * [@juanalbertoramos](https://github.com/juanalbertoramos/magnifica-humanitas)
+* [@diegoluchetti](https://github.com/diegoluchetti/magnifica_humanitas)
 
 <!-- ---------------------------------------------------------------------------- -->
 # Credits and License
-The official [Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
+The [Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
 is copyrighted by the Vatican:
 
 Copyright © Dicastery for Communication - Libreria Editrice Vaticana
