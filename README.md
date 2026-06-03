@@ -8,19 +8,19 @@ The 2026 Encyclical of his Holiness, Pope Leo XIV on safeguarding the human pers
 [Four minute intro video](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html) at the two hour
 [Presentation of the Encyclical](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)
 
-### 0:00 Popes over 147 years: From Leo XIII to Leo XIV
+### 0:00 Popes for 147 years: From Leo XIII to Leo XIV
 
  i| Years     | Pope           | Images
 --|-----------|----------------|--------
  1| 1878-1903 | Leo XIII       |?; ?; ?; Pope; Diesel Train; Dark industrial smog; smoke stacks
  2| 1903-1914 | St Pius X      |soldiers: on battlefield, trenches, at canons
- 3| 1914-1922 | Benedict XV    |Power grid; Electric grid towers (lots); ?
+ 3| 1914-1922 | Benedict XV    |Power grid; Electric grid towers (lots and lots); ?
  4| 1922-1939 | Pius XI        |Company towns?; Typed letter; Newspapers made; Work ad for die makers; factory floor; soldiers; Nazi soldiers; Nazi pageantry; Nazi bombers; Nazi bombardment platoon; so many bombs dropped; huge explosion
  5| 1939-1958 | Ven. Pius XII  |Mainframe computer; cars; shoppers
  6| 1958-1963 | St John XXIII  |USA Rocket ship takeoff
  7| 1963-1978 | St Paul VI     |Pope looking through giant telescope; Pope speaking on a TV broadcast
  8| 1978      | BI. John Paul I|Pope speaking on TV; Pope at an atheletics arena event; military on wall w/"Peace" graffiti; Wall being torn down; ?
- 9| 1978-2005 | St John Paul II|Pope meeting Russian Leader, Mikhail Gorbachev (Historic event); floppy drive; Pope walking w/another important politician; Black and White PC monitor; Programs on PC monitor; floppy drive; tape drive; Color PC monitor; Programs running in GUI; mouse; keyboard; Pope being shown PC laptop; 9/11 Terror Attack on twin towers; People on ground watching NYC's twin towers burn; Facebook; People together, but interacting on their phones; Doom-scrolling
+ 9| 1978-2005 | St&nbsp;John&nbsp;Paul&nbsp;II|Pope meeting Russian Leader, Mikhail Gorbachev (Historic event); floppy drive; Pope walking w/another important politician; Black and White PC monitor; Programs on PC monitor; floppy drive; tape drive; Color PC monitor; Programs running in GUI; mouse; keyboard; Pope being shown PC laptop; 9/11 Terror Attack on twin towers; People on ground watching NYC's twin towers burn; Facebook; People together, but interacting on their phones; Doom-scrolling
 10| 2005-2013 | Benedict XVI   |Pope selects menu on tablet
 11| 2013-2025 | Francis        |People videoing Pope on phone cameras; Francis high-fiving lots of people; TV broadcast
 12| 2025-     | Leo XIV        |People videoing Pope on phone cameras; Pope waving at inauguration
@@ -73,7 +73,7 @@ Leo PP. XIV
 <!-- ---------------------------------------------------------------------------- -->
 # News
 * 2026/06/02 [Mathematicians issue public cry for help and call to action regarding AI](https://leidendeclaration.ai/)
-* 2026/05/28 [Petet Thiel leaves the United States](https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html)
+* 2026/05/28 [Peter Thiel leaves the United States](https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html)
 * 2026/05/28 [Is Pope Leo’s Gandalf quote a dig at Peter Thiel?](https://wherepeteris.com/is-pope-leos-gandalf-quote-a-dig-at-peter-thiel/)
 * 2026/05/25 [Is Magnifica Humanitas aimed at Peter Thiel’s techno-political empire?](https://thecatholicherald.com/article/is-magnifica-humanitas-aimed-at-peter-thiels-techno-political-empire)
 * 2026/05/25 [Pope Leo XIV makes historic apology for Holy See's own role in legitimizing slavery](https://abcnews.com/International/wireStory/pope-leo-xiv-makes-historic-apology-holy-sees-133279925)
