@@ -14,9 +14,9 @@ The 2026 Encyclical of his Holiness, Pope Leo XIV on safeguarding the human pers
 --|-----------|----------------|--------
  1| 1878-1903 | Leo XIII       |?; ?; ?; Pope; Diesel Train; Dark industrial smog; smoke stacks
  2| 1903-1914 | St Pius X      |soldiers: on battlefield, trenches, at canons
- 3| 1914-1922 | Benedict XV    |Power grid; Electric grid towers (lots); ?
+ 3| 1914-1922 | Benedict XV    |Power grid; Electric grid towers (lots and lots); ?
  4| 1922-1939 | Pius XI        |Company towns?; Typed letter; Newspapers made; Work ad for die makers; factory floor; soldiers; Nazi soldiers; Nazi pageantry; Nazi bombers; Nazi bombardment platoon; so many bombs dropped; huge explosion
- 5| 1939-1958 | Ven. Pius XII  |Mainframe computer; cars; shoppers
+ 5| 1939-1958 | Ven.&nbsp;Pius&nbsp;XII  |Mainframe computer; cars; shoppers
  6| 1958-1963 | St John XXIII  |USA Rocket ship takeoff
  7| 1963-1978 | St Paul VI     |Pope looking through giant telescope; Pope speaking on a TV broadcast
  8| 1978      | BI. John Paul I|Pope speaking on TV; Pope at an atheletics arena event; military on wall w/"Peace" graffiti; Wall being torn down; ?
