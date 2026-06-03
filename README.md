@@ -16,11 +16,11 @@ The 2026 Encyclical of his Holiness, Pope Leo XIV on safeguarding the human pers
  2| 1903-1914 | St Pius X      |soldiers: on battlefield, trenches, at canons
  3| 1914-1922 | Benedict XV    |Power grid; Electric grid towers (lots and lots); ?
  4| 1922-1939 | Pius XI        |Company towns?; Typed letter; Newspapers made; Work ad for die makers; factory floor; soldiers; Nazi soldiers; Nazi pageantry; Nazi bombers; Nazi bombardment platoon; so many bombs dropped; huge explosion
- 5| 1939-1958 | Ven.&nbsp;Pius&nbsp;XII  |Mainframe computer; cars; shoppers
+ 5| 1939-1958 | Ven. Pius XII  |Mainframe computer; cars; shoppers
  6| 1958-1963 | St John XXIII  |USA Rocket ship takeoff
  7| 1963-1978 | St Paul VI     |Pope looking through giant telescope; Pope speaking on a TV broadcast
  8| 1978      | BI. John Paul I|Pope speaking on TV; Pope at an atheletics arena event; military on wall w/"Peace" graffiti; Wall being torn down; ?
- 9| 1978-2005 | St John Paul II|Pope meeting Russian Leader, Mikhail Gorbachev (Historic event); floppy drive; Pope walking w/another important politician; Black and White PC monitor; Programs on PC monitor; floppy drive; tape drive; Color PC monitor; Programs running in GUI; mouse; keyboard; Pope being shown PC laptop; 9/11 Terror Attack on twin towers; People on ground watching NYC's twin towers burn; Facebook; People together, but interacting on their phones; Doom-scrolling
+ 9| 1978-2005 | St&nbsp;John&nbsp;Paul&nbsp;II|Pope meeting Russian Leader, Mikhail Gorbachev (Historic event); floppy drive; Pope walking w/another important politician; Black and White PC monitor; Programs on PC monitor; floppy drive; tape drive; Color PC monitor; Programs running in GUI; mouse; keyboard; Pope being shown PC laptop; 9/11 Terror Attack on twin towers; People on ground watching NYC's twin towers burn; Facebook; People together, but interacting on their phones; Doom-scrolling
 10| 2005-2013 | Benedict XVI   |Pope selects menu on tablet
 11| 2013-2025 | Francis        |People videoing Pope on phone cameras; Francis high-fiving lots of people; TV broadcast
 12| 2025-     | Leo XIV        |People videoing Pope on phone cameras; Pope waving at inauguration
