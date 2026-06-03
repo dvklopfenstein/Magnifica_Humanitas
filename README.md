@@ -8,7 +8,7 @@ The 2026 Encyclical of his Holiness, Pope Leo XIV on safeguarding the human pers
 [Four minute intro video](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html) at the two hour
 [Presentation of the Encyclical](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)
 
-### 0:00 Popes over 147 years: From Leo XIII to Leo XIV
+### 0:00 Popes for 147 years: From Leo XIII to Leo XIV
 
  i| Years     | Pope           | Images
 --|-----------|----------------|--------
@@ -73,7 +73,7 @@ Leo PP. XIV
 <!-- ---------------------------------------------------------------------------- -->
 # News
 * 2026/06/02 [Mathematicians issue public cry for help and call to action regarding AI](https://leidendeclaration.ai/)
-* 2026/05/28 [Petet Thiel leaves the United States](https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html)
+* 2026/05/28 [Peter Thiel leaves the United States](https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html)
 * 2026/05/28 [Is Pope Leo’s Gandalf quote a dig at Peter Thiel?](https://wherepeteris.com/is-pope-leos-gandalf-quote-a-dig-at-peter-thiel/)
 * 2026/05/25 [Is Magnifica Humanitas aimed at Peter Thiel’s techno-political empire?](https://thecatholicherald.com/article/is-magnifica-humanitas-aimed-at-peter-thiels-techno-political-empire)
 * 2026/05/25 [Pope Leo XIV makes historic apology for Holy See's own role in legitimizing slavery](https://abcnews.com/International/wireStory/pope-leo-xiv-makes-historic-apology-holy-sees-133279925)
