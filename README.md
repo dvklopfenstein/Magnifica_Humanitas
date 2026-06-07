@@ -1,29 +1,38 @@
 # [Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
 The 2026 Encyclical of his Holiness, Pope Leo XIV on safeguarding the human person in the time of AI
 
-*Magnifica Humanitas* in [markdown](Magnifica_Humanitas.md), for those who prefer writing notes in plaintext.
+*Magnifica Humanitas* in plain, beautiful [markdown](Magnifica_Humanitas.md), for those who prefer writing notes in plaintext.
+
+Do not miss the profound and beautiful
+[**Presentation of the Encyclical**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)
 
 <!-- ---------------------------------------------------------------------------- -->
-# [INTRO VIDEO](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html)
-[Four minute intro video](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html) at the two hour
-[Presentation of the Encyclical](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)
+# Presentation of the Encyclical
+* FOUR-MINUTE INTRO VIDEO
+* [**Presentation of the Encyclical**](#presentation-of-the-encyclical)
+
+<!-- ---------------------------------------------------------------------------- -->
+## FOUR-MINUTE INTRO VIDEO
+[Four-minute intro video](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html) at the two-hour
+[**Presentation of the Encyclical**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)
+(scroll down to see the video)
 
 ### 0:00 Popes for 147 years: From Leo XIII to Leo XIV
 
  i| Years     | Pope           | Images
 --|-----------|----------------|--------
- 1| 1878-1903 | Leo XIII       |?; ?; ?; Pope; Diesel Train; Dark industrial smog; smoke stacks
- 2| 1903-1914 | St Pius X      |soldiers: on battlefield, trenches, at canons
- 3| 1914-1922 | Benedict XV    |Power grid; Electric grid towers (lots and lots); ?
+ 1| 1878-1903 | Leo XIII       |Giant military antenna?; Vatican?; Dignitary? in fancy horse carriage; Pope; Diesel Train; Dark industrial smog; smoke stacks
+ 2| 1903-1914 | St Pius X      |soldiers: on battlefield, in trenches, firing canons
+ 3| 1914-1922 | Benedict XV    |Power station; Electric grid towers (lots and lots); Communications device?
  4| 1922-1939 | Pius XI        |Company towns?; Typed letter; Newspapers made; Work ad for die makers; factory floor; soldiers; Nazi soldiers; Nazi pageantry; Nazi bombers; Nazi bombardment platoon; so many bombs dropped; huge explosion
- 5| 1939-1958 | Ven. Pius XII  |Mainframe computer; cars; shoppers
+ 5| 1939-1958 | Ven. Pius XII  |Pope next to mainframe computer; automobiles; shoppers
  6| 1958-1963 | St John XXIII  |USA Rocket ship takeoff
  7| 1963-1978 | St Paul VI     |Pope looking through giant telescope; Pope speaking on a TV broadcast
- 8| 1978      | BI. John Paul I|Pope speaking on TV; Pope at an atheletics arena event; military on wall w/"Peace" graffiti; Wall being torn down; ?
- 9| 1978-2005 | St&nbsp;John&nbsp;Paul&nbsp;II|Pope meeting Russian Leader, Mikhail Gorbachev (Historic event); floppy drive; Pope walking w/another important politician; Black and White PC monitor; Programs on PC monitor; floppy drive; tape drive; Color PC monitor; Programs running in GUI; mouse; keyboard; Pope being shown PC laptop; 9/11 Terror Attack on twin towers; People on ground watching NYC's twin towers burn; Facebook; People together, but interacting on their phones; Doom-scrolling
+ 8| 1978      | BI. John Paul I|Pope speaking on TV; Pope at an atheletics stadium event and on the Jumbotron; Military on wall painted with "Peace" graffiti; Wall being torn down; ?
+ 9| 1978-2005 | St&nbsp;John&nbsp;Paul&nbsp;II|Pope meeting Russian Leader, Mikhail Gorbachev (Historic event); floppy drive; Pope walking w/another important politician; Black and White PC monitor; Programs on PC monitor; floppy drive; tape drive; Color PC monitor; Programs running in GUI; mouse; keyboard; Pope being shown PC laptop; 9/11 Terror Attack on twin towers; People on ground watching NYC's twin towers burn; Facebook; People together physically, but focused only on their own phones; Doom-scrolling
 10| 2005-2013 | Benedict XVI   |Pope selects menu on tablet
-11| 2013-2025 | Francis        |People videoing Pope on phone cameras; Francis high-fiving lots of people; TV broadcast
-12| 2025-     | Leo XIV        |People videoing Pope on phone cameras; Pope waving at inauguration
+11| 2013-2025 | Francis        |People videoing Pope Francis on phone cameras becomes Pope Francis smiling warmly and high-fiving lots of people (human-to-human contact); TV broadcast
+12| 2025-     | Leo XIV        |People videoing Pope Leo on phone cameras; Pope waving at inauguration
 
 ### 1:30 A quote by Pope Leo XIV (translated to English from Italian)
 In our own day, the Church offers to everyone the treasury of her social teaching
@@ -71,6 +80,10 @@ Fraternally in the episcopate,
 Leo PP. XIV
 
 <!-- ---------------------------------------------------------------------------- -->
+## Presentation of the Encyclical
+[**VIDEO**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html) (scroll down to see video)    
+
+<!-- ---------------------------------------------------------------------------- -->
 # News
 * 2026/06/02 [Mathematicians issue public cry for help and call to action regarding AI](https://leidendeclaration.ai/)
 * 2026/05/28 [Peter Thiel leaves the United States](https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html)
@@ -84,7 +97,8 @@ Leo PP. XIV
 
 <!-- ---------------------------------------------------------------------------- -->
 # Other links to *Magnifica Humanitas*
-* Official [Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html) from the Vatican
+* [**Two hour Presentation by Pope Leo and Distinguished Speakers of the Encyclical**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)
+* Official [***Magnifica Humanitas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html) from the Vatican
 * [Another markdown version](https://github.com/cucho/magnifica-humanitas/blob/master/markdown/en.md)
 * [GitHub Search for *Magnifica Humanitas*](https://github.com/search?q=Magnifica+Humanitas&type=repositories)
 * [@juanalbertoramos](https://github.com/juanalbertoramos/magnifica-humanitas) HTML version and AI audio of *Magnifica Humanitas*
