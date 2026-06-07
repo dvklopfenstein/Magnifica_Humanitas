@@ -1260,9 +1260,10 @@ Thank you.
 ## Prof.ssa Leocadie Lushombo i.t.
 00:57:00    
 
-Holy father, your Emminence, your Excellence, distinguished speakers, ladies and gentlemen.
-Pope Leo XIV *Magnifica Humanitas*  sites four concerns regarding artificial intelligence and free ones issuing a call to discern its 
-its effect on human flourishing and to deepen our understanding of Christian theological anthropology.
+Holy father, your Emminences, your Excellences, Distinguished Speakers, Ladies and Gentlemen.
+Pope Leo XIV *Magnifica Humanitas*  cites four concerns regarding artificial intelligence and free ones(?)
+issuing a call to discern its its effect on human flourishing
+and to deepen our understanding of Christian theological anthropology.
 
 **The first** cautions concern safeguarding the capacity of mind to attend truth.
 Pope Leo reminds us that machine ought not to replace our responsibility to apprehend the truth, according to our own intellectual agency.
@@ -1271,40 +1272,100 @@ We must find the truth in ourself and in relation to others growing in conscient
 
 **The second** cautions center on preserving inner freedom.
 Pope Leo remind us to be aware of digital platforms that are "designed to capture user time and attention, exploring their vulnerability, and weakening the internal freedom."
-Pope Leo continues, I quote again, "what prevails is efficiency rather than respect for freedom and the human dignity."
+Pope Leo continues, "what prevails is efficiency rather than respect for freedom and the human dignity."
 
 We may know many things, but lack a sense of purpose.
-Human can know not only a set of facts, but also make coherent a sense of information by building a world view.
-Pope Leo means that if we offload our judgment onto machine, then we will no longer strive to know the whole---and we consign ourselves to mere recognition of partial aspect.
+Human can know not only a set of facts, but also make coherent a sense of information, thereby building a world view.
+Pope Leo means: if we offload our judgment onto machine, then we will no longer strive to know the whole---and we consign ourselves to mere recognition of partial aspect.
 Pope Leo argues that maintaining internal freedom requires a healthy attitude, characterized by: attitude, such as: silence, deep study, reading and careful analysis.
 
-**The third** caution, *Magnifica Humanitas* raised regards the fact that truth is deeply relational.
+**The third** caution, *Magnifica Humanitas* raises regards the fact that truth is deeply relational.
 Data and fact are subject to, I quote Pope Leo, "verification, cross checking of sources, and responsible argumentation."
 He means that knowledge is relational, for it is built through bonds of trust and shared practice; as well as an honest exchange with others, and with the Word.
-A point made by a theologian, the 20th century Jesuit philosopher, ???Bel non lonian fit-well-here???,
+A point made by a theologian, the 20th century Jesuit philosopher, Bernard Lonergran's which fits well here,
 when he says that a scientific collaboration requires trust.
 Knowledge is fundamentally communal, because it’s fundamentally rooted in our trust of one another and our openness to dialogue.
-So the social and the relational nature of consciousness and learning is announced by diverse historical experiences: human ties, emotions, joy, sorrow.
-It grows with families and the multi-faces cultures and expression that we have including what we call in Latin America and Conjunto and Latiano.???
-Arising out of the problems of the people consciousness arises from among the poor as claimed by Oscar Romero, I caught him.
-It is the poor who tell us what the world is, and what the Church service to the Word should be."
+
+So the social and the relational nature of consciousness and learning is announced by diverse historical experiences: human ties, emotions, joys, sorrow.
+It grows with families and the multifaceted cultures and expression that we have including what we call in Latin America: Convivencia; and Conjunto??; and Contindiano.??
+Arising out of the problems of the people---consciousness
+arises from among the poor as claimed by [Saint Oscar Romero](https://www.vaticannews.va/en/saints/03/24/st--oscar-romero--martyr.html):
+"It is the poor who tell us what the world is, and what the Church's service to the Word should be."
 
 1:00:00    
-The poor who raise our consciousness that those devoid of human faces to recover humanness.
-For they too, like all of us, are embodiment of magnificent humanity.
-Consciousness also arises through living the gospel, genuinely from work and marriage from embodied intercultural, and intercontextual relationship which will hardly be made through AI.
-The optimization of learning, that is going to AI to learn rather than learning from the one another, is destructive of the share in return of communities.
-We learn the best when we are loved and encouraged to be confident confident with our abilities.
-We cannot authorize our cognitive capacities without the love of others.
+The poor raise our consciousness that those devoid of human faces are to recover humanness.
+For they too, like all of us, are the embodiment of magnificent humanity.
+Consciousness also arises through living the gospel, genuinely ??? from work and marriage from embodied intercultural,
+and intercontextual relationship, which will hardly be made through AI.
 
-In most communal culture of Africa there is this concept of a philosophical concept that is according to Desmond philosopher John B I called I am because I belong I participate I share end of school.
-They were African anthropological vision, resonate deeply with the communal culture of Asia in Korea we have the cause of the in the sense of emotional connectedness that value that we over the individual success in Indonesia in Malaysia we have the concept of Goong Royal meaning to share and carry heavy burden together in the Philippine.
-There is this concept to buy any which is a mutual support within villages that whole communities together, so most tribal and indigenous cosmological vision teachers that human environment are in a biotic relationship, affirming self is the person existing beyond the material focus on efficiency and accumulation that Magnifica call owners not to lose this human values to AIAI can lead people to treat learning as an artificial isolated transactional process rather than a communion biological one, so there is therefore a danger that those culture that understand learning is a matter of relationship community and dialogue will be eroded.
-This would make those culture even more vulnerable to colonial extract, for this reason, I emphasize claim that they could even today colonial lease assumes new forms it’s no longer dominate on the bodies, but appropriate data transforming personal lives into exploitable information end of quote yes AI can very easily be colonial because it’s time, social imagination, creativity and insight the speed of AI extinguish as the desire to ask a questions that knowing is not merely an accumulation of data already stimulated by technology, but rather the ability to engage in the four basic human vaccine activities that loaner gun suggested that experience experiencing understanding, judging and deciding knowing goes with this for operation or caution us not to forfeit wonder to AI and to remember that I caught nothing in the word of AI is in material or magical and of course he suggest rethinking the role of teachers schools and evaluation method to provide an authentically integrated education that forms the inner and the whole Person enabling grow in virtue one way the church and society in the global south could leverage this technology for good it’s by giving people voice, making good use of the local means that preserve the culture of encounters all the mini culture the mini structure of brotherhood and sisterhood that we have where we can hold each other accountable where we can touch each other we can cry with each other.
-Finally, the four cushions articulate it by concern the protection of workers, especially the vulnerable workers.
-AI is increasing the vulnerability of those seeking jobs, especially in developing countries, magnificent human recall the need to look beyond GDP and like for Francis to care for our common home and break I caught the chance of new forms of slavery.
-These chance need to be disarmed technology need to be disarmed, but that does not mean renouncing it but using it as a means not as a in itself call for the irreplaceable social function of credit in creating jobs Eugene to reject finance for its one sec so technology should serve human flourishing and human dignity, not control conscience conscience, technological development that replace humanity and widen the gap between the reach and the poor is AI to do following the patterns of economic globalization as Port Francis already suggested in the world today peace letter in January 2024 I called technologies of development that do not lead it when improvement in the quality of life of all humanity, but on the contrary, aggravate, inequalities and conflict can never count is true progress and of course human manage to share the light on the trans national actors and international forces play that benefit from AI to the detriment of the poor, especially the workers or the poorest, and they could popular saying who pay the highest price at the poorest of the promise, automatic general prosperity of improved to be ill, and of course he goes beyond mutuality popular goes beyond reciprocity to emphasize authority.
-That is the awareness of the victim and here I remember Gutierre when I read, saying El existing También existence is a demand to make a space for the visible ordinance of Christ in the list of these as it’s written in Matthew 25 says I caught in some regions of the word, especially in the global self, which is Miami Emphasis children, and adolescent to work in dangerous conditions, crushing the material from which element are extracted the bodies of the people are injured and worn down so that computer Chanel flow may continue and interrupted, and of course, indeed same mining workers the mining workers define the place and condition of work as we work in our own grave, the obligation to shutter these or chance and define the right of vulnerable workers rest with us all and to conclude Magnifier monitor reminders that the dignity of all workers is fundamental to the common good, especially in the age of AI where workers suffering often goes, and notice in the global supply chain as AI provide user with immediate result, leaving them without understanding who’s life made those result possible and here I think, specially of all immigrant workers, including the farm workers most of them put food on our tables.
+The automization of learning, that is going to AI to learn rather than learning from the one another, is destructive of the shared inheritance of communities.
+We learn the best when we are loved and encouraged to be confident with our abilities.
+We cannot actualize our cognitive capacities without the love of others.
+
+In most communal cultures of Africa,
+there is this concept of Ubuntu, a philosophical concept that is according to Desmond Tutu, philosopher of Bantu??, "I am, because I belong. I participate, I share."
+
+The Ubuntu African anthropological vision resonates deeply with the communal culture of Asia.
+In Korea, we have the concept of Chemyeon?, in the sense of emotional connectedness that value that we over the individual success.
+In Indonesia and in Malaysia we have the concept of Goong Royal?, meaning to share and carry heavy burden together.
+In the Philippines, there is this concept tobuyanyhan??, which is a mutual support within villages that hold communities together.
+So most tribal and indigenous cosmological vision teach us that human and the environment are in a symbiotic relationship,
+affirming the self is muntu???, the person existing beyond the material focus on efficiency and accumulation.
+
+That *Magnifica Humanitas* call on us not to lose this human values to AI.
+AI can lead people to treat learning as an artificial isolated transactional process rather than a communion biological one,
+so there is therefore a danger that those cultures that understand learning is a matter of relationship, community, and dialogue will be eroded.
+This would make those cultures even more vulnerable to colonial extractivism.
+
+For this reason, I emphasize Pope Leo's claim that "Even today, colonial lease assumes new forms;
+it’s no longer dominated on the bodies, but appropriated data transforming personal lives into exploitable information."
+
+Yes, AI can very easily be colonial;
+because it’s time???, social imagination, creativity and insight.
+
+The speed of AI extinguishes the desire to ask the questions.
+Pope Leo warns us that knowing is not merely an accumulation of data already stimulated by technology,
+but rather the ability to engage in the four basic human basic activities that loaner gun suggested that experience:
+experiencing, understanding, judging and deciding.
+
+Knowing goes with this for operation.
+Pope Leo cautions us not to forfeit wonder to AI.
+And to remember that, "Nothing in the world of AI is immaterial or magical."
+
+He suggests rethinking the role of teachers schools and evaluation method to provide an authentically integrated education that forms the inner and the whole Person enabling grow in virtue.
+One way the church and society in the global south could leverage this technology for good is by giving people a voice, making good use of the local means that preserve the culture of encounters
+All the many culture, the many structure of brotherhood and sisterhood that we have:
+where we can hold each other accountable; where we can touch each other; we can cry with each other.
+
+Finally, the four cautions articulated by Pope Leo concern the protection of workers, especially the vulnerable workers.
+AI is increasing the vulnerability of those seeking jobs, especially in developing countries.
+
+*Magnificent humanitas* recall the need to look beyond GDP, and like for Francis to care for our common home and break "the chains of new forms of slavery."
+
+These chains need to be disarmed.
+Technology needs to be disarmed.
+But that does not mean renouncing it.
+But using it as a means, not as an end in itself.
+
+Pope Leo calls for the irreplaceable social function of credit in creating jobs.
+Urging us to reject finance for its one sec?.
+
+So technology should serve human flourishing and human dignity, not control conscienceness.
+
+Pope Leo denounce a technological development that replace humanity and widens the gap between the rich and the poor, as AI tends to do---following the patterns of economic globalization.
+
+As Pope Francis already suggested in the world today peace letter in January 2024,
+"technological development that do not lead it to an improvement in the quality of life of all humanity,
+but on the contrary, aggravate, inequalities and conflict can never count is true progress."
+
+*Magnificent humanitas* shed the light on the trans-national actors and international forces at play that benefit from AI to the detriment of the poor, especially the workers who are the poorest.
+
+And I quote Pope Leo saying, "who pay the highest price at the poorest of the promise, automatic general prosperity of improved to be illusory."
+He goes beyond mutuality.
+Pope Leo goes beyond reciprocity to emphasize authority: that is the otherness of the victim.
+
+And here I remember Gustavo Gutierrez when I read, saying El existing También existence
+It is a demand to make a space for the visible ordinance of Christ in the list of these as it’s written in Matthew 25 says I caught in some regions of the word, especially in the global self, which is Miami Emphasis children, and adolescent to work in dangerous conditions, crushing the material from which element are extracted the bodies of the people are injured and worn down so that computer Chanel flow may continue and interrupted, and of course, indeed same mining workers the mining workers define the place and condition of work as we work in our own grave, the obligation to shutter these or chance and define the right of vulnerable workers rest with us all and to conclude Magnifier monitor reminders that the dignity of all workers is fundamental to the common good, especially in the age of AI where workers suffering often goes, and notice in the global supply chain as AI provide user with immediate result, leaving them without understanding who’s life made those result possible and here I think, specially of all immigrant workers, including the farm workers most of them put food on our tables.
 Thank you.
 
 ## S. Em. Card. Michael Caerny S.J.
