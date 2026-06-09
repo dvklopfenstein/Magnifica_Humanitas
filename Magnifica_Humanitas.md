@@ -5,7 +5,7 @@ ON SAFEGUARDING THE HUMAN PERSON
 IN THE TIME OF ARTIFICIAL INTELLIGENCE    
 
 # Monday, May 25, 2006 Presentation of the Encyclical
-* [**PRESENTATION AND PROMULGATION OF THE ENCYCLICAL LETTER *Magnifca Humanitas***](#presentation-and-promulgation-of-the-encyclical-letter-magnifca-humanitas)
+* [**PRESENTATION AND PROMULGATION OF THE ENCYCLICAL LETTER, *Magnifca Humanitas***](#presentation-and-promulgation-of-the-encyclical-letter-magnifca-humanitas)
     * [VIDEO](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)
     * [S. Em. Card. Pietro Parolin](#s-em-card-pietro-parolin)
     * **Distinguished Speakers**
