@@ -36,6 +36,7 @@ for those who prefer writing and
 * [GitHub Search for *Magnifica Humanitas*](https://github.com/search?q=Magnifica+Humanitas&type=repositories)
 * [@juanalbertoramos](https://github.com/juanalbertoramos/magnifica-humanitas) HTML version and AI audio of *Magnifica Humanitas*
 * [@diegoluchetti](https://github.com/diegoluchetti/magnifica_humanitas): *Magnifica Humanitas* as an AI skill to keep the human person at the center
+* [This repo](https://dvklopfenstein.github.io/Magnifica_Humanitas/)
 
 <!-- ---------------------------------------------------------------------------- -->
 # Credits and License
