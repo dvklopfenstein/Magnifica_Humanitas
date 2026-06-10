@@ -1061,7 +1061,7 @@ Given in Rome, at Saint Peter’s, on 15 May, in the year 2026, the second of my
 [^220]: Francis, Apostolic Exhortation Laudate Deum (4 October 2023), 67: AAS 115 (2023), 1059.    
 [^221]: Cf. Angelus on the Solemnity of the Epiphany (6 January 2026): L’Osservatore Romano, 7 January 2026, 3.    
 [^222]: Benedict XVI, General Audience (15 February 2006): L’Osservatore Romano, 16 February 2006, 4.    
-[^223]: Meditation on the occasion of the Prayer Vigil and Rosary for Peace (11 October 2025): L’Osservatore Romano, 13 October 2025, 2.    
+[^223]: [Meditation on the occasion of the Prayer Vigil and Rosary for Peace](doc/refs/y2025_10_13_LOsservatore_Romano.md) (11 October 2025): L’Osservatore Romano, 13 October 2025, 2.    
 [^224]: Saint Paul VI, Homily at the Marian Shrine of Our Lady of Bonaria, (24 April 1970): AAS 62 (1970), 301.    
 
 Copyright © Dicastery for Communication - Libreria Editrice Vaticana

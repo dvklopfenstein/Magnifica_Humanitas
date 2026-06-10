@@ -1,5 +1,5 @@
 # Monday, May 25, 2006 Presentation of the Encyclical
-* [**PRESENTATION AND PROMULGATION**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html) OF THE ENCYCLICAL LETTER, [***Magnifca Humanitas***]()
+* [**PRESENTATION AND PROMULGATION**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html) OF THE ENCYCLICAL LETTER, [***Magnifica Humanitas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
     * **VIDEOS**
       * [**Short movie**](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html) at the beginning of the Presentation
       * [**Full Presentation**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html), including Distinguished Speakers
