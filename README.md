@@ -1,18 +1,19 @@
 # [Remaining human in the age of AI](https://www.vaticannews.va/en/pope/news/2026-05/encyclical-magnifica-humanitas-editorial-tornielli-ai-pope-leo.html)
-The 2026 Encyclical of his Holiness, Pope Leo XIV on safeguarding the human person in the time of AI:
+The 2026 Encyclical of his Holiness, Pope Leo XIV, on safeguarding the human person in the time of AI:
 
-[***Magnifica Humanitas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
-in plain, beautiful [**markdown**](Magnifica_Humanitas.md),
+The Encyclical, [***Magnifica Humanitas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html):
 for those who prefer writing and
-[**viewing**](https://github.com/biaojiang/mdviewer) notes in markdown.
+[**viewing**](https://github.com/biaojiang/mdviewer)
+their notes in plain, beautiful
+[**markdown**](Magnifica_Humanitas.md).
 
 [![People Together](doc/images/people_together.jpeg)](https://www.vaticannews.va/en/pope/news/2026-05/encyclical-magnifica-humanitas-editorial-tornielli-ai-pope-leo.html)
 
 
 <!-- ---------------------------------------------------------------------------- -->
-# Presentation of the Encyclical
-* Introduction short movie  ([**VIDEO**](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html) and [**notes**](doc/intro_movie.md))
-* Full Presentation, including distinguished speakers ([**VIDEO**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html) and [**transcript**](doc/distinguished_speakers.md))
+# The Presentation of the Encyclical
+* Presentation's short Introduction ([**VIDEO**](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html) and [**notes**](doc/intro_movie.md))
+* Full Presentation, including Distinguished Speakers ([**VIDEO**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html) and [**transcript**](doc/distinguished_speakers.md))
 
 <!-- ---------------------------------------------------------------------------- -->
 # News
