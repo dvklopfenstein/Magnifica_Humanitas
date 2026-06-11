@@ -1,7 +1,7 @@
 # [Remaining human in the age of AI](https://www.vaticannews.va/en/pope/news/2026-05/encyclical-magnifica-humanitas-editorial-tornielli-ai-pope-leo.html)
 The 2026 Encyclical of his Holiness, Pope Leo XIV, on safeguarding the human person in the time of AI:
 
-The Encyclical, [***Magnifica Humanitas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html):
+The Encyclical (a novel-length letter), [***Magnifica Humanitas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html):
 for those who prefer writing and
 [**viewing**](https://github.com/biaojiang/mdviewer)
 their notes in plain, beautiful
