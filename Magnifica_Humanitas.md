@@ -5,17 +5,17 @@ ON SAFEGUARDING THE HUMAN PERSON
 IN THE TIME OF ARTIFICIAL INTELLIGENCE    
 
 # Monday, May 25, 2006 Presentation of the Encyclical
-* [**PRESENTATION AND PROMULGATION OF THE ENCYCLICAL LETTER, *Magnifca Humanitas***](doc/distinguished_speakers.md#monday-may-25-2006-presentation-of-the-encyclical)
+* [**PRESENTATION AND PROMULGATION OF THE ENCYCLICAL LETTER, *Magnifca Humanitas***](doc/Magnifica_Humanitas_Presentation.md#monday-may-25-2006-presentation-of-the-encyclical)
     * [VIDEO: Introduction short movie (four-minute)](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html)
     * [VIDEO: Full Presentation (two-hour; scroll down for video)](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)
-    * [S. Em. Card. Pietro Parolin](doc/distinguished_speakers.md#s-em-card-pietro-parolin)
+    * [S. Em. Card. Pietro Parolin](doc/Magnifica_Humanitas_Presentation.md#s-em-card-pietro-parolin)
     * **Distinguished Speakers**
-        * [S. Em. Card. Victor Manuel Fernández](doc/distinguished_speakers.md#s-em-card-victor-manuel-fernández)
-        * [Prof.ssa Anna Rowlands](doc/distinguished_speakers.md#profssa-anna-rowlands)
-        * [Christopher Olah](doc/distinguished_speakers.md#christopher-olah)
-        * [Prof.ssa Leocadie Lushombo i.t.](doc/distinguished_speakers.md#profssa-leocadie-lushombo-it)
-        * [S. Em. Card. Michael Caerny S.J.](doc/distinguished_speakers.md#s-em-card-michael-caerny-sj)
-    * [Pope Leo XIV](doc/distinguished_speakers.md#pope-leo-xiv)
+        * [S. Em. Card. Victor Manuel Fernández](doc/Magnifica_Humanitas_Presentation.md#s-em-card-victor-manuel-fernández)
+        * [Prof.ssa Anna Rowlands](doc/Magnifica_Humanitas_Presentation.md#profssa-anna-rowlands)
+        * [Christopher Olah](doc/Magnifica_Humanitas_Presentation.md#christopher-olah)
+        * [Prof.ssa Leocadie Lushombo i.t.](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)
+        * [S. Em. Card. Michael Caerny S.J.](doc/Magnifica_Humanitas_Presentation.md#s-em-card-michael-caerny-sj)
+    * [Pope Leo XIV](doc/Magnifica_Humanitas_Presentation.md#pope-leo-xiv)
 
 # TOC: *Magnifica Humanitas* Encyclical
 * [**INTRODUCTION**](#introduction)
