@@ -33,7 +33,7 @@ Departments di Techologia e Religione della Durham University, Regno Unito
 Holy Father, Eminences, Excellences, sisters and brothers.
 
 "I came that they might have life and have it abundantly," proclaimed Jesus.
-in this light *Magnifca Humanitas* asks: what does it mean to be a flourishing human being in a time of AI?
+in this light *Magnifica Humanitas* asks: what does it mean to be a flourishing human being in a time of AI?
 This letter is not a neutral consideration of that question any more than today’s technologies embody neutral world views.
 This Encyclical brings the vision of the gospel to bear on the cultures of AI.
 It warns of a growing culture of power that is reshaping work, families, education, and political life.
@@ -52,7 +52,7 @@ Yet this ideal is now at breaking point.
 This leads some to grief, to anger, to despair.
 Others, to a desire to overcome our humanity, striving to become our own gods.
 
-Instead, *Magnifca Humanitas* presents human freedom as a gift, anchored in a truth, that is personal, embodied, and relational.
+Instead, *Magnifica Humanitas* presents human freedom as a gift, anchored in a truth, that is personal, embodied, and relational.
 Our freedom and intelligence expressed themselves in a knowing that is irreplaceably embodied
 through work, care, contemplation, suffering even, and friendship.
 
@@ -60,7 +60,7 @@ The Encyclical names free human beings as a loved creation; equal in dignity, cr
 **The power that we have is the capacity to nurture this truth together.**
 Without such guiding truths our freedom becomes little more than an instrument in the hands of arbitrary powers.
 
-Distilling these truths for a time of AI, *Magnifca Humanitas* offers a new synthesis of the Churches social doctrine.
+Distilling these truths for a time of AI, *Magnifica Humanitas* offers a new synthesis of the Churches social doctrine.
 As recent times have perhaps shown when the Church speaks on social matters, some complain of unwelcome interference.
 Yet, the Church rightly speaks, because her mission is to reveal the face of God in history and to accompany humanity as it struggles towards its true good and to foster unity.
 
@@ -72,7 +72,7 @@ and recognize ourselves as more than tools of the state, market agents, or user 
 The Church's social doctrine invites us into a space of encounter and mutual accompaniment to share in a collective search for truth, for justice, and for flourishing.
 In this space, the most vulnerable, and victims, the newly enslaved, have faces and names and they are heard first.
 
-*Magnifca Humanitas* offers social principles to assist this dialogue.
+*Magnifica Humanitas* offers social principles to assist this dialogue.
 Over 135 years, the popes have taught that the foundation of the social order is the dignified human person.
 That the common good cannot truly be sought without the recognition and the participation of all,
 that the resources of the Earth are to meet the needs of all, including future generations,
@@ -97,12 +97,12 @@ Technologies belong therefore within the terms of the covenant between God and h
 The traditions question is therefore constructive.
 How do we cultivate technologies that are truly good news for all.
 Today’s sophisticated technologies are not mere tools, but tools that like the languages they harvest, carry cultures and bear moral architectures.
-*Magnifca Humanitas* notes that the powers of innovation that have traditionally resided with states are today concentrated in the hands of a few wealthy individuals---whose cultures are concealed from common good scrutiny and risk appearing as a new emperium.
+*Magnifica Humanitas* notes that the powers of innovation that have traditionally resided with states are today concentrated in the hands of a few wealthy individuals---whose cultures are concealed from common good scrutiny and risk appearing as a new emperium.
 
 Pope Leo prompts us to ask in the interest of the common good, how can we resist such distorted concentrations of power in the hands of the few?
 How can we reengage technologies as a matter of the common good, accountable to the good of every human and all humanity?
 
-*Magnifca Humanitas* acknowledges that many of us, perhaps including in this room today, do not feel confident to explore these questions.
+*Magnifica Humanitas* acknowledges that many of us, perhaps including in this room today, do not feel confident to explore these questions.
 **This letter empowers each of us to play our part.**
 
 Asking what kind of vision of human excellence do I encounter here in this time of AI?
@@ -118,7 +118,7 @@ He observes that "might is right" masquerades, it pretends to be strength; but i
 Those rich in relationships, know how to dialogue, how to negotiate, and how to speak across languages without domination.
 This Encyclical helps us to discern when a culture risks misrecognizing and disordering: virtue and vice; strength and weakness; courage and cowardice.
 
-*Magnifca Humanitas* helps us to see that the desire for domination, what Saint Augustine called the libido dominandi, might be lauded by the world as strength, but it is never a Christian virtue.
+*Magnifica Humanitas* helps us to see that the desire for domination, what Saint Augustine called the libido dominandi, might be lauded by the world as strength, but it is never a Christian virtue.
 Instead we are called to a civilization of Love.
 Pope Leo says this means de-escalating conflict by disarming our words, focusing on justice as the basis for peace, adopting the perspective of the victims, cultivating a healthy not a false realism, reviving dialogue and multilateralism, and praying.
 
