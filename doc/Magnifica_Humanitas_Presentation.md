@@ -317,7 +317,7 @@ As Pope Francis already suggested in the world today peace letter in January 202
 "technological development that do not lead it to an improvement in the quality of life of all humanity,
 but on the contrary, aggravate, inequalities and conflict can never count is true progress."
 
-*Magnificent humanitas* shed the light on the trans-national actors and international forces at play that benefit from AI to the detriment of the poor, especially the workers who are the poorest.
+*Magnificent Humanitas* shed the light on the trans-national actors and international forces at play that benefit from AI to the detriment of the poor, especially the workers who are the poorest.
 
 And I quote Pope Leo saying, "who pay the highest price at the poorest of the promise, automatic general prosperity of improved to be illusory."
 He goes beyond mutuality.
@@ -332,14 +332,14 @@ Thank you.
 [**Presentation (no ads)**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)    
 
 <!-- -------------------------------------------------------------------------- -->
-Dear Holy Father, your eminences and excellence, distinguish speakers and ladies and gentlemen.
+Dear Holy Father, your eminences and excellences, distinguish speakers and ladies and gentlemen.
 I’m so grateful for this opportunity to speak on the occasion of immense significance when
 Pope Leo XIV presents *Magnifica Humanitas* to the Church and to the world,
 asking us to view the age of artificial intelligence with clarity and hope.
 My address centers on **three** expressions and their different perspectives: ingenuity, consciousness and conscience, and care.
 
 <!-- -------------------------------------------------------------------------- -->
-The **first** word is ingenuity, artificial intelligence is one of the great accomplishments of human ingenuity.
+The **first word is ingenuity**, artificial intelligence is one of the great accomplishments of human ingenuity.
 It gives ample proof of extraordinary capacities for research and design.
 Humanity can rightly be proud of what so many men and women of science and technology have been able to achieve.
 There is however, something even deeper that deserves to be recognized.
@@ -351,13 +351,15 @@ men and women made in the image of God and participating in a finite way in divi
 <!-- -------------------------------------------------------------------------- -->
 This perspective allows us to face the challenges of artificial intelligence with gratitude, as well as discernment.
 Extremes of uncritical enthusiasm, and paralyzing fear are understandable.
-Since changes brought out by new technologies are advancing at a pace that outstrips the cultural, political, and educational processes through which societies used to assimilate major historical transformations.
+Since changes brought out by new technologies are advancing at a pace that
+outstrips the cultural, political, and educational processes
+through which societies used to assimilate major historical transformations.
 While the industrial revolution gradually transformed work, the city, the family, and the economy;
 the digital transition proceeds in leaps and bounds, sometimes within the space of a few months.
 In fact, it seems like a few weeks.
 
 <!-- -------------------------------------------------------------------------- -->
-It is in this context that Encyclical invites us to enter consciously into the construction site of our time.
+It is in this context that **the Encyclical invites us to enter consciously into the construction site of our time**.
 The image is both sobering and evocative.
 What is being built in this construction site is open and unfinished; a place in the making.<!--
 -->
@@ -366,10 +368,41 @@ It requires diverse skills, coordination, and above all a shared vision.
 <!-- -------------------------------------------------------------------------- -->
 No one really builds alone.
 Everyone’s choices affect the whole project.
-The future of artificial intelligence is a building site can contribute to a more coexistence support the care of our common home and serve the development of peoples, but it can also concentrate power, exacerbate inequalities, and leave behind those who are already on the margins the direction that AI takes is not written into the technology itself.
-It depends on our choices on the institutions that host and underpin that choosing and on our ability to manage innovation, responsibly to serve the common good, the second expression is consciousness and conscience in Italian and other romance languages we have only one word questions we have two and I think both are at proposes a clear vision and focus.
-The human being is a creature embedded in a network of relationships with other things and with all the creation, artificial intelligence affect the quality of our relieved relationship relationships, and shapes of human environment, environment, in which our decisions occur and our relationships developed the question of technology becomes inseparable from the question of humanity, who we are how we inhabit the world and how we treat each other related question debated is whether and in what sense we can speak of consciousness or conscience in relation to the most advanced, our artificial intelligence systems it is a serious question one that deserves attention and further study note, however, please that it is not merely a technical query more fundamentally.
-This is a philosophical question for it concerns the meaning of experience, interiority, subjectivity, and freedom as such it remains open to various interpretations the church welcomes these debates with respect and recognizes the value of the scientific and philosophical contributions her engagement in these matters stems from her own vision of the human person through evolution and developed within her living tradition.
+The future of artificial intelligence, too, is a building site.
+It can contribute to a more just coexistence, support the care of our common home, and serve the development of peoples.
+But it can also concentrate power, exacerbate inequalities, and leave behind those who are already on the margins.
+
+the direction that AI takes is not written into the technology itself.
+It depends on our choices on the institutions that host and underpin that choosing.
+And on our ability to manage innovation, responsibly to serve the common good.
+
+<!-- -------------------------------------------------------------------------- -->
+**The second expression is consciousness and conscience.**
+In Italian and other romance languages we have only one word, cosciente.
+But in English, we have two and I think both are at play.
+*Magnificent Humanitas* proposes a clear vision and focus.
+The human being is a creature embedded in a network of relationships with other living things and with all the creation.
+
+Artificial intelligence affect the quality of our lived relationship relationships,
+and shapes of human environment, in which our decisions occur.
+And our relationships develop.
+
+The question of technology becomes inseparable from the question of humanity:
+who we are; how we inhabit the world; and how we treat each other.
+A related question, much debated today, is whether and in what sense
+we can speak of consciousness or conscience in relation to the most advanced artificial intelligence systems.
+
+It is a serious question; one that deserves attention and further study.
+Note, however, please that it is not merely a technical query.
+
+More fundamentally, this is a philosophical question.
+For it concerns the meaning of experience, interiority, subjectivity, and freedom.
+
+As such, it remains open to various interpretations.
+The Church welcomes these debates with respect.
+And recognizes the value of the scientific and philosophical contributions.
+Her engagement in these matters stems from her own vision of the human person, received through revelation and developed within her living tradition.
+
 Here, the affirmation of the second Vatican council is indispensable “conscience is the most secret, core and sanctuary of a man there he is along with God, whose voice echoes in his steps, but as I said before, I think the sentence also has to be read with consciousness consciousness is the most secret, core, and sanctuary of a man there he is alone with God, whose voice echoes in his death, the council treats, consciousness and conscience as that most part of the person where the human being is touched by the voice of God recognizes what is good here’s the call of truth and becomes capable of responding.
 For this reason.
 It is part of the unique vocation of the human person to be God‘s interocular a partner in the covenant and a subject before him other religions and sector thought also contribute richly to our understanding of consciousness and conscience and the third and final word is care highlights the impact of artificial intelligence on our common home, and from this perspective stands in profound continuity with love to see and logged out in those texts of Francis taught that when technical power is separated from wisdom capable of safeguarding relationships it can turn into domination over humanity and over creation in the age of artificial intelligence.
