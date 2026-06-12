@@ -15,6 +15,7 @@ their notes in plain, beautiful
 * Presentation's short Introduction ([**VIDEO**](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html) and [**notes**](doc/intro_movie.md))
 * Full Presentation, including Distinguished Speakers ([**VIDEO**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html) and [**transcript**](doc/Magnifica_Humanitas_Presentation.md))
 
+
 <!-- ---------------------------------------------------------------------------- -->
 # News
 * 2026/06/02 [Mathematicians issue public cry for help and call to action regarding AI](https://leidendeclaration.ai/)
