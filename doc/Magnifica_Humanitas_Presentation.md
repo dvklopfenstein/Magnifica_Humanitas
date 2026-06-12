@@ -16,16 +16,19 @@
 
 
 ## S. Em. Card. Pietro Parolin
-[**0:04:08**](https://www.youtube.com/watch?v=JxcXcP6NyRM&t=968s)     
+[**0:04:08**](https://www.youtube.com/watch?v=JxcXcP6NyRM&t=968s) or
+[**Presentation (no ads)**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)    
 Text and translation from Italian needed
 
 ## S. Em. Card. Victor Manuel Fernández
-[**0:17:00**](https://youtu.be/JxcXcP6NyRM?si=AxGonwCWqD0djBT9&t=1019s)     
+[**0:17:00**](https://youtu.be/JxcXcP6NyRM?si=AxGonwCWqD0djBT9&t=1019s) or
+[**Presentation (no ads)**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)    
 Text and translation from Italian needed
 
 ## Prof.ssa Anna Rowlands
 Departments di Techologia e Religione della Durham University, Regno Unito    
-[**0:35:00**](https://youtu.be/JxcXcP6NyRM?si=6-dMAftlfNmKHKTr&t=2115s)
+[**0:35:00**](https://youtu.be/JxcXcP6NyRM?si=6-dMAftlfNmKHKTr&t=2115s) or
+[**Presentation (no ads)**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)    
 
 Holy Father, Eminences, Excellences, sisters and brothers.
 
@@ -130,7 +133,8 @@ How can we form communities that in an age of accelerating technological change,
 
 ## Christopher Olah
 Co-founatore di Anthropic (USA)    
-[**00:49:00**](https://youtu.be/JxcXcP6NyRM?si=Jyn5XftbaXlhywLD&t=2975s)
+[**00:49:00**](https://youtu.be/JxcXcP6NyRM?si=Jyn5XftbaXlhywLD&t=2975s) or
+[**Presentation (no ads)**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)    
 
 Holy Father, your Eminencies, your Excellencies, Distinguished Speakers, Ladies and gentlemen, good morning to you all.
 It’s an honor to be here today.
@@ -212,7 +216,8 @@ Let it also be a decisive step towards a hopeful future for a magnificent humani
 Thank you.
 
 ## Prof.ssa Leocadie Lushombo i.t.
-[**00:57:00**](https://youtu.be/JxcXcP6NyRM?si=sGyewfs3JgH1FGFv&t=3490s)    
+[**00:57:00**](https://youtu.be/JxcXcP6NyRM?si=sGyewfs3JgH1FGFv&t=3490s) or
+[**Presentation (no ads)**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)    
 
 Holy father, your Emminences, your Excellences, Distinguished Speakers, Ladies and Gentlemen.
 Pope Leo XIV *Magnifica Humanitas*  cites four concerns regarding artificial intelligence and free ones(?)
@@ -323,12 +328,14 @@ It is a demand to make a space for the visible ordinance of Christ in the list o
 Thank you.
 
 ## S. Em. Card. Michael Caerny S.J.
-[**01:15:00**](https://youtu.be/JxcXcP6NyRM?si=Yz-T9WYMGSJGXg5x&t=4560s)
+[**01:15:00**](https://youtu.be/JxcXcP6NyRM?si=Yz-T9WYMGSJGXg5x&t=4560s) or
+[**Presentation (no ads)**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)    
 
 Holy father, your eminences and excellence, distinguish speakers and ladies and gentlemen I’m so grateful for this opportunity to speak on the occasion of immense significance when the 14th presents magnificent monitor to the church and to the world, asking us to view the age of artificial intelligence with clarity and Hope my address centers on three expressions and they’re different perspectives, ingenuity consciousness, and conscience and care. The first word is in genuine, artificial intelligence is one of the great accomplishments of human ingenuity. It gives ample proof of extraordinary capacities for research and design design. Humanity can rightly be proud of what so many men and women of science and technology have been able to achieve there is however, something even deeper that deserves to be recognized in artificial intelligence humanity can glimpse a reflection of itself the capacity to abstract to learn, learn to seek order within complexity. Every genuine achievement of human intelligence reveals something of the greatness of the human person and for believers points to the mystery of creation men and women made in the image of God and participating in a finite way in divine creativity. Perspective allows us to face the challenges of artificial intelligence with gratitude, as well as discernment, extreme of unreal, enthusiasm, and paralyzing. Fear are understandable since changes brought out by new tech. Technologies are advancing at a pace that outstrips the cultural political and educational processes through which societies used to assimilate major historical transformations while the industrial revolution gradually transformed to work, the city, the family and the economy the digital translation transition proceeds in leaps and bounds sometimes within the space of a few months. In fact, it seems like a few weeks it is in this context that bethanechol invites us to enter consciously into the construction site of our time. The image is both sobering and vocative. what is being built in this construction site is open and unfinished a place in the making it requires diverse skills coordination, and above all a shared vision. No one really builds alone everyone’s choices affect the whole project. The future of artificial intelligence is a building site can contribute to a more coexistence support the care of our common home and serve the development of peoples, but it can also concentrate power, exacerbate inequalities, and leave behind those who are already on the margins the direction that AI takes is not written into the technology itself. It depends on our choices on the institutions that host and underpin that choosing and on our ability to manage innovation, responsibly to serve the common good, the second expression is consciousness and conscience in Italian and other romance languages we have only one word questions we have two and I think both are at proposes a clear vision and focus. The human being is a creature embedded in a network of relationships with other things and with all the creation, artificial intelligence affect the quality of our relieved relationship relationships, and shapes of human environment, environment, in which our decisions occur and our relationships developed the question of technology becomes inseparable from the question of humanity, who we are how we inhabit the world and how we treat each other related question debated is whether and in what sense we can speak of consciousness or conscience in relation to the most advanced, our artificial intelligence systems it is a serious question one that deserves attention and further study note, however, please that it is not merely a technical query more fundamentally. This is a philosophical question for it concerns the meaning of experience, interiority, subjectivity, and freedom as such it remains open to various interpretations the church welcomes these debates with respect and recognizes the value of the scientific and philosophical contributions her engagement in these matters stems from her own vision of the human person through evolution and developed within her living tradition. Here, the affirmation of the second Vatican council is indispensable “conscience is the most secret, core and sanctuary of a man there he is along with God, whose voice echoes in his steps, but as I said before, I think the sentence also has to be read with consciousness consciousness is the most secret, core, and sanctuary of a man there he is alone with God, whose voice echoes in his death, the council treats, consciousness and conscience as that most part of the person where the human being is touched by the voice of God recognizes what is good here’s the call of truth and becomes capable of responding. For this reason. It is part of the unique vocation of the human person to be God‘s interocular a partner in the covenant and a subject before him other religions and sector thought also contribute richly to our understanding of consciousness and conscience and the third and final word is care highlights the impact of artificial intelligence on our common home, and from this perspective stands in profound continuity with love to see and logged out in those texts of Francis taught that when technical power is separated from wisdom capable of safeguarding relationships it can turn into domination over humanity and over creation in the age of artificial intelligence. This awareness takes on new new urgency, the digital construction site and the construction site of our common home converge on the same question what kind of world are we building and what place does the human person have in it? This arises on the material level two given that the most advanced AI systems require energy infrastructure on a massive scale. The digital transition is also an ecological Issue. Moreover, caring for the future depends decisively on education. It is urgent to teach new generations. The technological evolution does not follow a predetermined path, but can be guided by personal and collective responsibility educating in the age of artificial intelligence means forming people capable of employing powerful tools while maintaining inner freedom, accessing vast amounts of information while retaining critical judgment and living in digital environments, without losing the joy of real listening, listening encounters and interpersonal relationships as Christians we enter this endeavor with a specific Hope rooted in the one who came down from heaven to create a new story here below our spring from the certainty that the Holy Spirit acting history also in this present supporting every choice that orient technology toward the Good expresses this with words of great intensity in the humble Fidelity of daily life, even the era of artificial intelligence can become a time in which the Holy Spirit spirit rings about the civil civilization of love in our lives. This invites us to look beyond the levels of techno technical control, or institutional regulation. The stakes are deeper the concern, the very nature of human existence, and the possibility that in the age of artificial intelligence people may grow in fraternity and developed in peace. This is perhaps the most original contribution that Christian faith brings to the debate on artificial intelligence, and I should say now, not so much to the debate, but the conversation the conversation on artificial intelligence, the conviction that human beings always transcend the son of their achievements, their data profiles, and any possible technical simulation because we are called to a fullness of life that finds its truth in relationship and it’s fulfillment in a constant and sincere gift of oneself to safeguard this truth and freedom facing the challenges of our time is the task task to us. Thank you so much.
 
 ## Pope Leo XIV
-[**01:33:00**](https://youtu.be/JxcXcP6NyRM?si=g7AXNfYcIBrqkwVL&t=5575)
+[**01:33:00**](https://youtu.be/JxcXcP6NyRM?si=g7AXNfYcIBrqkwVL&t=5575) or
+[**Presentation (no ads)**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)    
 
 <!-- -------------------------------------------------------------------------- -->
 Dear brothers and sisters, I want to thank all of you for being here today, for your interest.
@@ -347,12 +354,12 @@ as well as confidence that together we can discern the major questions of our ti
 At key moments in history, the church is called to decipher that new things, in the light of the gospel and the dignity of the human being.
 One-hundred and thirty-five years ago, my venerable predecessor, Leo XIII, observed the situation of factory workers.
 Their families, uprooted, and new forms of poverty generated by rapid industrial transformation.
-He understood that the church could not remain distant.
+**He understood that the church could not remain distant.**
 Within an epochal turning point menacing human dignity, the Encynical, *Rerum Novarum*, spoke its evangelical and social word about new things underway.<!--
 -->
 Today we find ourselves facing a transformation of similar magnitude, with perhaps even greater consequences.
 Artificial intelligence already touches many areas of our lives and affects decisions that shape human coexistence.
-It is also dramatically changing how war is waged.<!--
+**It is also dramatically changing how war is waged.**<!--
 -->
 Like the earlier Leo, I feel interested to look upon another huge transformation
 with eyes of faith,
@@ -371,91 +378,94 @@ Other very troubling voices have also reached me about increasingly autonomous w
 with practically beyond any human reach to govern them effectively.
 I hear very troubling a counsel of algorithms that block access to healthcare, employment, and security: on the basis of data, tainted by prejudice and injustice.
 And I’ve heard the silence of those who have no voice when decisions are made.
-Decisions likely to generate new forms of exclusion and suffering.
+Decisions likely to generate **new forms** of **exclusion and suffering**.
 
 <!-- -------------------------------------------------------------------------- -->
 From this listening, matured a disturbing conviction expressed in *Magnifica Manitas*: artificial intelligence needs to be disarmed.
 The word is strong, I know, but deliberately chosen because
 this moment needs words capable of attracting attention, awakening consciences, and indicating paths forward for humanity.
-The Church has long been working for nuclear disarmament, aware that every great technical power can affect people‘s lives,
+The Church has long been working for **nuclear disarmament**, aware that every great technical power can affect people‘s lives,
 and so must be accompanied by adequate moral discernment and public control.<!--
 -->
 Nuclear disarmerment remains a service to peace and the dignity of the human family.
-In a similar sense, artificial intelligence now demands to be disarmed-freed from logics that turn it into an instrument of domination, exclusion, and death.
+In a similar sense, **artificial intelligence now demands to be disarmed**-freed from logics that turn it into an instrument of domination, exclusion, and death.
 Like nuclear energy, it must be at the service of all, and of the common good.<!--
 -->
 Decisions about technology must never be separated from conscience responsibility.
 Let us not sleep, as others do, admonished the apostle Paul, but let us keep awake.
 Such vigilance is necessary today.
-Peace, not merely the absence of war, is justice at work.
+**Peace, not merely the absence of war, is justice at work**.
 But when technology weakens our critical sense, peace itself is at risk.
 
 <!-- -------------------------------------------------------------------------- -->
 Disarming, however, is not enough.
-We must build.
+**We must build**.
 The word, build, reminds me of my years as a missionary in Peru.
 In 2017, torrential rains and floods struck the north with the country.
 Many families saw their homes swallowed by mud; and many roads to.
 There I learned that rebuilding does that mean simply replacing what has been destroyed,
 it means repairing bonds, restoring trust, and re-awakening hope in the future.
-Moreover, no one rebuilds alone.<!--
--->
+Moreover, no one rebuilds alone.
+
+<!-- -------------------------------------------------------------------------- -->
 In *Magnifica Humanitas*, I recall the biblical prophet, Nehemiah.
 Before the ruined walls of Jerusalem he gathers discouraged people to bring about rebirth.
 The image of walls does that legitimize closures or divisions, but invites each and every one to do their part.
-Brick by brick for a more just coexistence takes shape,
-capable of safeguarding the dignity of all.
-
+**Brick by brick, a more just coexistence takes shape**,
+capable of safeguarding the dignity of all.<!--
+-->
 Nehemiah's effort speaks to our time.
 Artificial intelligence can be a construction site of history from within a horizon of communion in which technical progress learns to serve human life.
 Let each builder choose, with care, how to build.
 For in the words of Saint Paul: he does not fear the worksite, rather he warns against building without solid foundations.
 Let us not fear artificial intelligence, but constantly keep the question of the human in play.
-
 We cannot be careless with our most powerful technical instruments.
+
+<!-- -------------------------------------------------------------------------- -->
 To development, says Saint Paul VI, always concerns each man and the whole man:
 "each" means that no person can be left at the margins of digital transformation;
 "whole" means that no one can be reduced to productivity, to cognitive performance, or to mere data.
-The person bares within him or herself a freedom, an interiority, and the vocation to love and worship, that no machine can replace or block.
-
+The person bares within him or herself a freedom, an interiority, and the vocation to love and worship, that no machine can replace or block.<!--
+-->
 Only with such an integral vision can artificial intelligence be directed toward the common good.
 Only together, those who design systems, and those affected by them:
 richer countries and poorer ones;
 institutions and individuals;
 power centers and peripheries;
 will we be able to build a future, not for a privileged few, for the entire human family.
-This is the civilization of love, which Saint Paul VI spoke and which St. John Paul II so forcefully proclaimed is a horizon to seek together.
-
+This is the civilization of love, which Saint Paul VI spoke and which St. John Paul II so forcefully proclaimed is a horizon to seek together.<!--
+-->
 It’s not a naïve dream.
-It is a direction.
+**It is a direction**.
 It is the path that Jesus Christ opens within history.
 
+<!-- -------------------------------------------------------------------------- -->
 For this reason the church wishes, with humility and frankness, to be part of conversations on our artificial intelligence.
 We do not possess the technical answers.
-Nor do we seek to display those with expertise.
-
-But we bring a wisdom concerning the human that our present time desperately needs.
+Nor do we seek to display those with expertise.<!--
+-->
+But we bring a **wisdom concerning the human** that our present time desperately needs.
 Every person is
 unique and irreplaceable,
 of free and intelligence,
 subject with a conscience and capable of seeking God,
 serving one another, and
-caring for our common home.
-
+caring for our common home.<!--
+-->
 I therefore invite all members of the Church of the human family, let us:
 learn to listen to one another;
 face the present challenge with courage; and
 cooperate in building a more human and fraternal society.
 
 From this launch of *Magnifica Humanitas*,
-please take with you a commitment to stay awake and as artisans of hope,
+please take with you a commitment to stay awake and, as artisans of hope,
 to keep on building the work site of our time.
-With the spirit of the risen Lord sustain our work together.
+May the spirit of the risen Lord sustain our work together.
 I entrust each of you to our Mother Mary:
-her Magnificat sings of the greatness of God who uplifts the lowly.
+**her Magnificat sings of the greatness of God who uplifts the lowly**.
 May she teach us to recognize the true greatness of every man and every woman in loving and serving.
 With the Lord, make fruitful the great enterprise that today we entrust to his grace,
-letting the civilization of love mature in history
+**letting the civilization of love mature in history**
 And upon all of you, I heartily invoke God‘s blessing.
 
 The Lord be with you.
@@ -465,6 +475,7 @@ Amen.
 And may the blessing of almightly God, the father, the son, and the Holy Spirit
 come down upon you and remain with you forever.
 Amen.
+
 Thank you very much.
 
 Copyright © Dicastery for Communication - Libreria Editrice Vaticana
