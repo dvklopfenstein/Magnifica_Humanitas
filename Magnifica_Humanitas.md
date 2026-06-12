@@ -5,17 +5,18 @@ ON SAFEGUARDING THE HUMAN PERSON
 IN THE TIME OF ARTIFICIAL INTELLIGENCE    
 
 # Monday, May 25, 2006 Presentation of the Encyclical
-* [**PRESENTATION AND PROMULGATION OF THE ENCYCLICAL LETTER, *Magnifca Humanitas***](doc/distinguished_speakers.md#monday-may-25-2006-presentation-of-the-encyclical)
+
+* [**PRESENTATION AND PROMULGATION OF THE ENCYCLICAL LETTER, *Magnifca Humanitas***](doc/Magnifica_Humanitas_Presentation.md#monday-may-25-2006-presentation-of-the-encyclical)
     * [VIDEO: Introduction short movie (four-minute)](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html)
     * [VIDEO: Full Presentation (two-hour; scroll down for video)](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)
-    * [S. Em. Card. Pietro Parolin](doc/distinguished_speakers.md#s-em-card-pietro-parolin)
+    * [S. Em. Card. Pietro Parolin](doc/Magnifica_Humanitas_Presentation.md#s-em-card-pietro-parolin)
     * **Distinguished Speakers**
-        * [S. Em. Card. Victor Manuel Fernández](doc/distinguished_speakers.md#s-em-card-victor-manuel-fernández)
-        * [Prof.ssa Anna Rowlands](doc/distinguished_speakers.md#profssa-anna-rowlands)
-        * [Christopher Olah](doc/distinguished_speakers.md#christopher-olah)
-        * [Prof.ssa Leocadie Lushombo i.t.](doc/distinguished_speakers.md#profssa-leocadie-lushombo-it)
-        * [S. Em. Card. Michael Caerny S.J.](doc/distinguished_speakers.md#s-em-card-michael-caerny-sj)
-    * [Pope Leo XIV](doc/distinguished_speakers.md#pope-leo-xiv)
+        * [S. Em. Card. Victor Manuel Fernández](doc/Magnifica_Humanitas_Presentation.md#s-em-card-victor-manuel-fernández)
+        * [Prof.ssa Anna Rowlands](doc/Magnifica_Humanitas_Presentation.md#profssa-anna-rowlands)
+        * [Christopher Olah](doc/Magnifica_Humanitas_Presentation.md#christopher-olah)
+        * [Prof.ssa Leocadie Lushombo i.t.](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)
+        * [S. Em. Card. Michael Caerny S.J.](doc/Magnifica_Humanitas_Presentation.md#s-em-card-michael-caerny-sj)
+    * [Pope Leo XIV](doc/Magnifica_Humanitas_Presentation.md#pope-leo-xiv)
 
 # TOC: *Magnifica Humanitas* Encyclical
 * [**INTRODUCTION**](#introduction)
@@ -842,7 +843,7 @@ Given in Rome, at Saint Peter’s, on 15 May, in the year 2026, the second of my
 [^1]: Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes, 22: AAS 58 (1966), 1042.    
 [^2]: Cf. ibid., 11: AAS 58 (1966), 1033-1034.    
 [^3]: Second Vatican Ecumenical Council, Dogmatic Constitution Lumen Gentium, 1: AAS 57 (1965), 5.    
-[^4]: Cf. Leo XIII, Encyclical Letter Rerum Novarum (15 May 1891), 22: ASS 23 (1890-1891), 653.    
+[^4]: Cf. Leo XIII, Encyclical Letter [***Rerum Novarum***](doc/refs/r004_1891_05_15_Rerum_Novarum.md) (15 May 1891), 22: ASS 23 (1890-1891), 653.    
 [^5]: Benedict XVI, Encyclical Letter Caritas in Veritate (29 June 2009), 69: AAS 101 (2009), 702.    
 [^6]: Francis, Encyclical Letter Laudato Si ’ (24 May 2015), 104: AAS 107 (2015), 888.    
 [^7]: Ibid.    
@@ -1061,7 +1062,7 @@ Given in Rome, at Saint Peter’s, on 15 May, in the year 2026, the second of my
 [^220]: Francis, Apostolic Exhortation Laudate Deum (4 October 2023), 67: AAS 115 (2023), 1059.    
 [^221]: Cf. Angelus on the Solemnity of the Epiphany (6 January 2026): L’Osservatore Romano, 7 January 2026, 3.    
 [^222]: Benedict XVI, General Audience (15 February 2006): L’Osservatore Romano, 16 February 2006, 4.    
-[^223]: [Meditation on the occasion of the Prayer Vigil and Rosary for Peace](doc/refs/y2025_10_13_LOsservatore_Romano.md) (11 October 2025): L’Osservatore Romano, 13 October 2025, 2.    
+[^223]: [***Meditation on the occasion of the Prayer Vigil and Rosary for Peace***](doc/refs/r223_2025_10_13_LOsservatore_Romano.md) (11 October 2025): L’Osservatore Romano, 13 October 2025, 2.    
 [^224]: Saint Paul VI, Homily at the Marian Shrine of Our Lady of Bonaria, (24 April 1970): AAS 62 (1970), 301.    
 
 Copyright © Dicastery for Communication - Libreria Editrice Vaticana
