@@ -403,7 +403,7 @@ men and women made in the image of God and participating in a finite way in divi
 <!-- -------------------------------------------------------------------------- -->
 This perspective allows us to face the challenges of artificial intelligence with gratitude, as well as discernment.
 Extremes of uncritical enthusiasm, and paralyzing fear are understandable.
-Since changes brought out by new technologies are advancing at a pace that
+Since changes brought about by new technologies are advancing at a pace that
 outstrips the cultural, political, and educational processes
 through which societies used to assimilate major historical transformations.
 While the industrial revolution gradually transformed work, the city, the family, and the economy;
