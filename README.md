@@ -1,19 +1,26 @@
 # [Remaining human in the age of AI](https://www.vaticannews.va/en/pope/news/2026-05/encyclical-magnifica-humanitas-editorial-tornielli-ai-pope-leo.html)
-The 2026 Encyclical of his Holiness, Pope Leo XIV, on safeguarding the human person in the time of AI:
-
-The Encyclical (a novel-length letter), [***Magnifica Humanitas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html):
-for those who prefer writing and
-[**viewing**](https://github.com/biaojiang/mdviewer)
-their notes in plain, beautiful
-[**markdown**](Magnifica_Humanitas.md).
+Pope Leo XIV's Encyclical, [***Magnifica Humanitas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html),
+on safeguarding the human person in the time of AI.
 
 [![People Together](doc/images/people_together.jpeg)](https://www.vaticannews.va/en/pope/news/2026-05/encyclical-magnifica-humanitas-editorial-tornielli-ai-pope-leo.html)
 
 
 <!-- ---------------------------------------------------------------------------- -->
-# The Presentation of the Encyclical
-* Presentation's short Introduction ([**VIDEO**](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html) and [**notes**](doc/intro_movie.md))
-* Full Presentation, including Distinguished Speakers ([**VIDEO**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html) and [**transcript**](doc/Magnifica_Humanitas_Presentation.md))
+# 1. The Encyclical
+* Pope Leo's 42,000 word Encyclical, [***Magnifica Humantas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html), released Monday, May 25, 2026.
+  * [**markdown**](https://github.com/dvklopfenstein/Magnifica_Humanitas/blob/main/Magnifica_Humanitas.md) version for:
+    * [**adding notes**](https://github.com/dvklopfenstein/Magnifica_Humanitas/fork) or
+    * [**viewing**](https://github.com/biaojiang/mdviewer)
+
+
+The [**Unabridged Merriam-Webster**](https://unabridged.merriam-webster.com/) definition of *encyclical*:
+
+**encyclical**:
+an encyclical letter (as sent by a bishop of high church official) that treats a matter of grave or timely importance and is intended for extensive circulation  specifically : such a letter issued by a pope
+
+# 2. The Presentation
+* Full Presentation with Distinguished Speakers ([**VIDEO**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html) and [**markdown transcript**](doc/Magnifica_Humanitas_Presentation.md))
+* Short movie at the Presentation's start ([**VIDEO**](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html) and [**markdown notes**](doc/intro_movie.md))
 
 
 <!-- ---------------------------------------------------------------------------- -->
