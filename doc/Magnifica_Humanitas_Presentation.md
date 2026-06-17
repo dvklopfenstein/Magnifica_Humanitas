@@ -339,7 +339,7 @@ asking us to view the age of artificial intelligence with clarity and hope.
 My address centers on **three** expressions and their different perspectives: ingenuity, consciousness and conscience, and care.
 
 <!-- -------------------------------------------------------------------------- -->
-The **first word is ingenuity**, artificial intelligence is one of the great accomplishments of human ingenuity.
+***The first word is ingenuity***, artificial intelligence is one of the great accomplishments of human ingenuity.
 It gives ample proof of extraordinary capacities for research and design.
 Humanity can rightly be proud of what so many men and women of science and technology have been able to achieve.
 There is however, something even deeper that deserves to be recognized.
@@ -370,50 +370,121 @@ No one really builds alone.
 Everyone’s choices affect the whole project.
 The future of artificial intelligence, too, is a building site.
 It can contribute to a more just coexistence, support the care of our common home, and serve the development of peoples.
-But it can also concentrate power, exacerbate inequalities, and leave behind those who are already on the margins.
+But it can also concentrate power, exacerbate inequalities, and leave behind those who are already on the margins.<!--
+-->
+*The direction that AI takes is not written into the technology itself.*
+It depends on our choices,
+on the institutions that host and underpin that choosing,
+and on our ability to manage innovation responsibly to serve the common good.
 
-the direction that AI takes is not written into the technology itself.
-It depends on our choices on the institutions that host and underpin that choosing.
-And on our ability to manage innovation, responsibly to serve the common good.
-
-<!-- -------------------------------------------------------------------------- -->
-**The second expression is consciousness and conscience.**
+<!-- ======================================================================== -->
+***The second expression is consciousness and conscience.***
 In Italian and other romance languages we have only one word, cosciente.
 But in English, we have two and I think both are at play.
 *Magnificent Humanitas* proposes a clear vision and focus.
-The human being is a creature embedded in a network of relationships with other living things and with all the creation.
-
-Artificial intelligence affect the quality of our lived relationship relationships,
-and shapes of human environment, in which our decisions occur.
-And our relationships develop.
-
+The human being is a creature embedded in a network of relationships with other living things and with all the creation.<!--
+-->
+Artificial intelligence affects the quality of our lived relationships,
+and shapes of human environment, in which our decisions occur,
+and our relationships develop.<!--
+-->
 The question of technology becomes inseparable from the question of humanity:
-who we are; how we inhabit the world; and how we treat each other.
+who we are;
+how we inhabit the world;
+and how we treat each other.
+
+<!-- ------------------------------------------------------------------------ -->
 A related question, much debated today, is whether and in what sense
-we can speak of consciousness or conscience in relation to the most advanced artificial intelligence systems.
-
-It is a serious question; one that deserves attention and further study.
-Note, however, please that it is not merely a technical query.
-
-More fundamentally, this is a philosophical question.
-For it concerns the meaning of experience, interiority, subjectivity, and freedom.
-
+we can speak of consciousness or conscience in relation to the most advanced artificial intelligence systems.<!--
+-->
+It is a **serious question**; one that deserves attention and further study.
+Note, however, please that it is not merely a technical query.<!--
+-->
+More fundamentally, this is a **philosophical question**.
+For it concerns the meaning of
+experience,
+interiority[^interiority],
+subjectivity[^subjectivity],
+and freedom.<!--
+-->
 As such, it remains open to various interpretations.
 The Church welcomes these debates with respect.
 And recognizes the value of the scientific and philosophical contributions.
 Her engagement in these matters stems from her own vision of the human person, received through revelation and developed within her living tradition.
 
-Here, the affirmation of the second Vatican council is indispensable “conscience is the most secret, core and sanctuary of a man there he is along with God, whose voice echoes in his steps, but as I said before, I think the sentence also has to be read with consciousness consciousness is the most secret, core, and sanctuary of a man there he is alone with God, whose voice echoes in his death, the council treats, consciousness and conscience as that most part of the person where the human being is touched by the voice of God recognizes what is good here’s the call of truth and becomes capable of responding.
-For this reason.
-It is part of the unique vocation of the human person to be God‘s interocular a partner in the covenant and a subject before him other religions and sector thought also contribute richly to our understanding of consciousness and conscience and the third and final word is care highlights the impact of artificial intelligence on our common home, and from this perspective stands in profound continuity with love to see and logged out in those texts of Francis taught that when technical power is separated from wisdom capable of safeguarding relationships it can turn into domination over humanity and over creation in the age of artificial intelligence.
-This awareness takes on new new urgency, the digital construction site and the construction site of our common home converge on the same question what kind of world are we building and what place does the human person have in it? This arises on the material level two given that the most advanced AI systems require energy infrastructure on a massive scale.
-The digital transition is also an ecological Issue.
+<!-- ------------------------------------------------------------------------ -->
+Here, the affirmation of the second Vatican council is indispensable
+“*conscience is the most secret core and sanctuary of a man.
+There, he is alone with God whose voice echoes in his depths*."<!--
+-->
+But as I said before, I think the sentence also has to be read with consciousness:
+"*Consciousness is the most secret core and sanctuary of a man.
+There he is alone with God, whose voice echoes in his depths.*<!--
+-->
+The council treats consciousness and conscience as
+that innermost part of the person where the human being is touched by the voice of God,
+recognizes what is good, hears the call of truth, and becomes capable of responding.<!--
+-->
+For this reason, it is part of the unique vocation of the human person to be
+God‘s interlocutor,
+a partner in the covenant, and a subject before him.<!--
+-->
+Other religions and secular thought also contribute richly to our understanding of consciousness and conscience.
+
+<!-- ======================================================================== -->
+***And the third and final word is care***.
+*Magnifica Humanitas* highlights the impact of artificial intelligence on our common home.
+And from this perspective, stands in profound continuity with *Laudato Si'* and *Laudate Deum* (Praise God).
+In those texts, Pope Francis taught that when technical power is separated from wisdom capable of safeguarding relationships,
+it can turn into domination over humanity and over creation.<!--
+-->
+In the age of artificial intelligence, this awareness takes on new new urgency.
+The digital construction site and the construction site of our common home converge on the same question:
+"What kind of world are we building? And what place does the human person have in it?"<!--
+-->
+This arises on the material level too,
+given that the most advanced AI systems require energy infrastructure on a massive scale.
+
+<!-- ------------------------------------------------------------------------ -->
+*The digital transition is also an ecological issue.*
 Moreover, caring for the future depends decisively on education.
-It is urgent to teach new generations.
-The technological evolution does not follow a predetermined path, but can be guided by personal and collective responsibility educating in the age of artificial intelligence means forming people capable of employing powerful tools while maintaining inner freedom, accessing vast amounts of information while retaining critical judgment and living in digital environments, without losing the joy of real listening, listening encounters and interpersonal relationships as Christians we enter this endeavor with a specific Hope rooted in the one who came down from heaven to create a new story here below our spring from the certainty that the Holy Spirit acting history also in this present supporting every choice that orient technology toward the Good expresses this with words of great intensity in the humble Fidelity of daily life, even the era of artificial intelligence can become a time in which the Holy Spirit spirit rings about the civil civilization of love in our lives.
-This invites us to look beyond the levels of techno technical control, or institutional regulation.
-The stakes are deeper the concern, the very nature of human existence, and the possibility that in the age of artificial intelligence people may grow in fraternity and developed in peace.
-This is perhaps the most original contribution that Christian faith brings to the debate on artificial intelligence, and I should say now, not so much to the debate, but the conversation the conversation on artificial intelligence, the conviction that human beings always transcend the son of their achievements, their data profiles, and any possible technical simulation because we are called to a fullness of life that finds its truth in relationship and it’s fulfillment in a constant and sincere gift of oneself to safeguard this truth and freedom facing the challenges of our time is the task task to us.
+It is urgent to teach new generations
+that technological evolution does not follow a predetermined path,
+but can be guided by personal and collective responsibility.
+Educating in the age of artificial intelligence means forming people capable of:
+employing powerful tools while maintaining inner freedom;
+accessing vast amounts of information, while retaining critical judgment; and
+living in digital environments, without losing the joy of real listening, encounters, and interpersonal relationships.
+
+<!-- ------------------------------------------------------------------------ -->
+As Christians, we enter this endeavor with a specific hope,
+rooted in the one who came down from heaven to create a new story here below.
+Our hope springs from the certainty that the Holy Spirit acts in history and also in this present age
+supporting every choice that orients technology toward the good.<!--
+-->
+The encyclical expresses this with words of great intensity---*In the humble fidelity of daily life*,
+even the era of artificial intelligence,
+*can become a time in which the Holy Spirit spirit brings about the civil civilization of love in our lives*.<!--
+-->
+
+<!-- ------------------------------------------------------------------------ -->
+This invites us to look beyond the levels of technical control or institutional regulation.
+The stakes are deeper.
+They concern the very nature of human existence and the possibility that,
+in the age of artificial intelligence,
+people may grow in fraternity and develop in peace.<!--
+-->
+This is perhaps the most original contribution that Christian faith brings to the debate on artificial intelligence.
+And I should say now, not so much to the debate, but the conversation---the conversation on artificial intelligence.<!--
+-->
+The conviction that human beings always transcend
+the sum of their achievements,
+their data profiles, and
+any possible technical simulation,
+because we are called to a fullness of life that finds its truth in relationship and
+it’s fulfillment in a constant and sincere gift of oneself.
+To safeguard this truth and this freedom, facing the challenges of our time is the task that *Magnifica Humanitas* entrusts to us all.
+
 Thank you so much.
 
 ## Pope Leo XIV
@@ -508,7 +579,7 @@ We cannot be careless with our most powerful technical instruments.
 To development, says Saint Paul VI, always concerns each man and the whole man:
 "each" means that no person can be left at the margins of digital transformation;
 "whole" means that no one can be reduced to productivity, to cognitive performance, or to mere data.
-The person bares within him or herself a freedom, an interiority, and the vocation to love and worship, that no machine can replace or block.<!--
+The person bares within him or herself a freedom, an interiority[^interiority], and the vocation to love and worship, that no machine can replace or block.<!--
 -->
 Only with such an integral vision can artificial intelligence be directed toward the common good.
 Only together, those who design systems, and those affected by them:
@@ -560,5 +631,9 @@ come down upon you and remain with you forever.
 Amen.
 
 Thank you very much.
+
+# References
+[^interiority]: [**interiority**](https://unabridged.merriam-webster.com/collegiate/interiority): 1: interior quality or character 2: inner life or substance : psychological existence    
+[^subjectivity]: [**subjective**](https://unabridged.merriam-webster.com/unabridged/subjective):  2a: of or belonging to the real or essential being of that which supports qualities, attributes, or relations    
 
 Copyright © Dicastery for Communication - Libreria Editrice Vaticana
