@@ -627,7 +627,8 @@ The interdependence between peace and development, as Saint Paul VI propheticall
 170. Having reflected on truth and education, work and families, we must now consider the impact of the digital revolution on human freedom,
 addressing risks to both the mental health of individuals and broader social challenges.
 The subtler forms of addiction linked to the “digital attention economy” should not be underestimated,
-since platforms and services are often <a id=4capture>designed to capture users’ time and attention, exploiting their vulnerabilities and weakening their inner freedom</a>.
+since platforms and services are often <a id=4capture>[designed to capture users’ time and attention, exploiting their vulnerabilities and weakening their inner
+freedom](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)</a>.
 When business models thrive on human weakness, the person is treated as a means rather than as an end;
 those who design or finance such systems bear a moral responsibility that cannot be ignored.
 There is an urgent need to promote technologies that strengthen interior freedom by fostering education in digital sobriety and the protection of minors,
@@ -635,7 +636,13 @@ thus countering models that exploit vulnerability.
 
 171. A further risk, less visible but no less serious, is that of social control made possible by the massive collection of data and use of algorithmic systems. When every action—movements, purchases, relationships and preferences—leaves a trace, a new form of power emerges, namely the power to profile, predict and influence behavior, often without individuals being fully aware of it. If such kinds of data are used to make decisions affecting concrete opportunities — such as access to credit, employment or essential services — there is a risk of undermining freedom and discriminating against the most vulnerable. Furthermore, control is exercised not only through explicit prohibitions, but also through the architecture of visibility: what is amplified or rendered invisible, what is rewarded or penalized, ultimately shapes opinions and choices, fostering conformity and self-censorship. For this reason, freedom in the digital age is not merely a matter of interiority but also a public concern. It calls for clear rules, transparency, the possibility of recourse and proportionate limits on the use of intrusive technologies, so that technology will remain at the service of the human person and not become a form of control over consciences.
 
-172. At the root of these problems lies a technocratic and post-humanist mentality that tends to regard the human person as an object to be manipulated or a resource to be optimized, [^172] removing all safeguards against the unchecked pursuit of profit. What prevails is efficiency, rather than respect for freedom and human dignity. Some post-humanist currents even go so far as to envision “second-class” human beings, subordinate to the interests of elites who consider themselves superior. This troubling prospect becomes all the more serious when combined with technological tools that exponentially increase the capacity for control and selection. Even certain forms of structural indebtedness, which keep entire peoples in conditions of dependence, reflect the same mentality, in new forms, that tolerates relationships of subordination akin to slavery.
+172. At the root of these problems lies a technocratic and post-humanist mentality that tends to
+regard the human person as an object to be manipulated or a resource to be optimized,[^172]
+removing all safeguards against the unchecked pursuit of profit.
+<a id=4prevails>What prevails is efficiency, rather than respect for freedom and human dignity.<\a>
+Some post-humanist currents even go so far as to envision “second-class” human beings, subordinate to the interests of elites who consider themselves superior.
+This troubling prospect becomes all the more serious when combined with technological tools that exponentially increase the capacity for control and selection.
+Even certain forms of structural indebtedness, which keep entire peoples in conditions of dependence, reflect the same mentality, in new forms, that tolerates relationships of subordination akin to slavery.
 
 #### Breaking the chains of new forms of slavery
 
