@@ -237,7 +237,8 @@ We lose our ability to collaborate creatively with one another if we offload our
 We must find the truth in ourself and in relation to others growing in conscientiousness of who we truly are.
 
 **The second** cautions center on preserving inner freedom.
-Pope Leo remind us to be aware of digital platforms that are "designed to capture user time and attention, exploring their vulnerability, and weakening the internal freedom."
+Pope Leo remind us to be aware of digital platforms that are
+["designed to capture user time and attention, exploring their vulnerability, and weakening the internal freedom."](../Magnifica_Humanitas.md#4capture)
 Pope Leo continues, "what prevails is efficiency rather than respect for freedom and the human dignity."
 
 We may know many things, but lack a sense of purpose.
