@@ -20,11 +20,18 @@
 [**Presentation (no ads)**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)    
 Text and translation from Italian needed
 
+<!-- ======================================================================== -->
 ## S. Em. Card. Victor Manuel Fernández
 [**0:17:00**](https://youtu.be/JxcXcP6NyRM?si=AxGonwCWqD0djBT9&t=1019s) or
 [**Presentation (no ads)**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)    
 Text and translation from Italian needed
 
+[**WORK IN PROGRESS (WIP)**](doc/Cardinal_Victor_Manuel_Fernandez.md)
+I am learning Italian so that I may understand and translate Cardinal Fernández's resplendent reflections
+AND so I may have ears that can hear the homilies of Pope Leo.
+
+
+<!-- ======================================================================== -->
 ## Prof.ssa Anna Rowlands
 Departments di Techologia e Religione della Durham University, Regno Unito    
 [**0:35:00**](https://youtu.be/JxcXcP6NyRM?si=6-dMAftlfNmKHKTr&t=2115s) or

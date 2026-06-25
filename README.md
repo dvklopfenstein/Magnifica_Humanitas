@@ -8,6 +8,7 @@ on safeguarding the human person in the time of AI.
 <!-- ---------------------------------------------------------------------------- -->
 # 1. The Encyclical
 * Pope Leo's 42,000 word Encyclical, [***Magnifica Humantas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html), released Monday, May 25, 2026.
+  * [**Audiobook**](https://www.vaticannews.va/en/podcast/magnifica-humanitas.html)
   * [**markdown**](https://github.com/dvklopfenstein/Magnifica_Humanitas/blob/main/Magnifica_Humanitas.md) version for:
     * [**adding notes**](https://github.com/dvklopfenstein/Magnifica_Humanitas/fork) or
     * [**viewing**](https://github.com/biaojiang/mdviewer)
