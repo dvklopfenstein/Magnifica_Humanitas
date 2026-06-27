@@ -100,9 +100,9 @@ IN THE TIME OF ARTIFICIAL INTELLIGENCE
 <!-- ==================================================================================== -->
 ## INTRODUCTION
 
-1. Humanity, created by God in all its grandeur, is today facing a pivotal choice: either to construct a new Tower of Babel or to build the city in which God and humanity dwell together. Each generation inherits the task of shaping its own era, of guiding history to become a place where the dignity of every person is safeguarded, justice is promoted and fraternity is made possible. Yet every era also runs the risk of creating an inhumane and more unjust world. Whenever humanity is in danger of marring its true identity, we Christians lift our eyes to the Incarnate God, knowing that it is “only in the mystery of the Word made flesh that the mystery of humanity truly becomes clear.”[^1] In Jesus Christ, this humanity in its grandeur becomes the Way, the Truth and the Life, opening the path for each of us to grow toward fullness.
+1. Humanity, created by God in all its grandeur, is today facing a pivotal choice: either to construct a new Tower of Babel or to build the city in which God and humanity dwell together. Each generation inherits the task of shaping its own era, of guiding history to become a place where the dignity of every person is safeguarded, justice is promoted and fraternity is made possible. Yet every era also runs the risk of creating an inhumane and more unjust world. Whenever humanity is in danger of marring its true identity, we Christians lift our eyes to the Incarnate God, knowing that it is “only in the mystery of the Word made flesh that the mystery of humanity truly becomes clear.”[^apple] In Jesus Christ, this humanity in its grandeur becomes the Way, the Truth and the Life, opening the path for each of us to grow toward fullness.
 
-2. Founded on Christ, the living stone, we experience the powerful and mysterious action of the Holy Spirit, and we believe that every authentic human effort to cooperate with him for the good will be blessed by our heavenly Father, in whom we place our hope. For this reason, we can diligently contribute to every initiative that builds a more just world, and we can call others to collaborate in promoting the integral development of every human being. We wish to engage in dialogue with all men and women of our time, with whom we share in the events, questions and aspirations of humanity.[^2] Together with them, we seek to identify new paths for the common good and for promoting a dignified life for all. Indeed, openness to dialogue is an integral part of the Church’s vocation because, constituted in Christ as “a sacrament… of communion with God and of the unity of the entire human race,”[^3] she recognizes history as the place where the Gospel challenges and directs human experience.
+2. Founded on Christ, the living stone, we experience the powerful and mysterious action of the Holy Spirit, and we believe that every authentic human effort to cooperate with him for the good will be blessed by our heavenly Father, in whom we place our hope. For this reason, we can diligently contribute to every initiative that builds a more just world, and we can call others to collaborate in promoting the integral development of every human being. We wish to engage in dialogue with all men and women of our time, with whom we share in the events, questions and aspirations of humanity.[^pear] Together with them, we seek to identify new paths for the common good and for promoting a dignified life for all. Indeed, openness to dialogue is an integral part of the Church’s vocation because, constituted in Christ as “a sacrament… of communion with God and of the unity of the entire human race,”[^3] she recognizes history as the place where the Gospel challenges and directs human experience.
 
 <!-- https://www.americamagazine.org/podcasts/2026/05/28/pope-leo-ai-encyclical-podcast/ 12:00 -->
 3. In this spirit,
@@ -119,7 +119,26 @@ With that document, my beloved predecessor gave impetus to the reflection on soc
 
 ### Two biblical images
 
-7. In order to answer these questions and discern how to navigate responsibly the era of AI, I would like to bring to mind two scenes from the Bible: the construction of the Tower of Babel (cf. Gen 11:1-9) and the rebuilding of the walls of Jerusalem (cf. Neh 2–6). The story of Babel appears in the Book of Genesis, at the origins of humanity, immediately after the genealogies of Noah’s sons. After settling in a plain in the land of Shinar, the people decided to build a city and a tower “with its top in the heavens” (Gen 11:4). Fearing being scattered across the earth, they sought to guarantee stability and power for themselves, and above all to “make a name” for themselves. It was an impressive feat: a single language, a single technology, a single direction. However, the project concealed a profound danger. It was a project conceived without reference to God, supported by a uniformity that eliminated diversity and that chose homogenization over communion. When a city is built on pride and the claim to self-sufficiency, communication breaks down, languages are confused and people no longer understand each other. The result is not unity, but dispersion. Babel thus reveals the limits of any effort that, however grandiose, arises from self-affirmation, sacrifices human dignity for efficiency and aspires to reach heaven without God’s blessing.
+7. In order to answer these questions and discern how to navigate responsibly the era of AI,
+I would like to bring to mind two scenes from the Bible:
+the construction of the Tower of Babel (cf. Gen 11:1-9) and
+the rebuilding of the walls of Jerusalem (cf. Neh 2–6).<!--
+-->
+The story of Babel appears in the Book of Genesis, at the origins of humanity,
+immediately after the genealogies of Noah’s sons.
+After settling in a plain in the land of Shinar, the people decided to build a city and a tower “with its top in the heavens” (Gen 11:4).
+Fearing being scattered across the earth, they sought to guarantee stability and power for themselves,
+and above all to “make a name” for themselves.
+It was an impressive feat: a single language, a single technology, a single direction.
+However, the project concealed a profound danger.
+It was a project conceived without reference to God, supported by a uniformity that eliminated diversity and
+that chose homogenization over communion.
+<a id=ipride>When a city is built on pride and the claim to self-sufficiency,</a>
+communication breaks down, languages are confused and people no longer understand each other.
+The result is not unity, but dispersion.
+Babel thus reveals the limits of any effort that,
+however grandiose, arises from self-affirmation,
+sacrifices human dignity for efficiency and aspires to reach heaven without God’s blessing.
 
 8. The Book of Nehemiah, in turn, opens at a time of great vulnerability in the history of ancient Israel. After the Babylonian exile, a portion of the people returned to Jerusalem, but the city was still in ruins, the walls collapsed and the gates burned (cf. Neh 1–2). Nehemiah, a Jew in the service of the Persian King Artaxerxes, received news of the disastrous state of his ancestral city. Before taking action, he fasted, prayed and interceded for the people. He then asked the king for permission to return to Jerusalem and, upon arriving, examined the destroyed areas in silence.  He did not impose solutions from above. He convened the families, assigned each of them a section of the wall to rebuild, listened to their concerns, coordinated their efforts and addressed any opposition. The narrative shows how the city is reborn, not through the initiative of one man, but through the shared responsibility of all: men, women, priests, artisans, heads of households and young people all play a part. It is an undertaking with God at the center, which rebuilds relationships before rebuilding with stones. Thus, ancient Jerusalem rediscovers a common language — not one of uniformity, but one of communion, namely the harmony that arises when all persons assume their own role and recognize that their strength comes from the Lord.
 
@@ -226,14 +245,29 @@ Rather, beginning where people are marginalized, it must allow the Gospel to pas
 His Encyclical Laborem Exercens, written ninety years after the publication of Rerum Novarum, opened up a new avenue for reflection on work. It presents fair wages as the concrete means of verifying the justness of the entire socioeconomic system because they reveal whether the worker is treated as a person or merely as a cost of production.[^35] Work is not considered simply as a problem to be dealt with or a means of generating income, but a fundamental good for the person, a principle of economic activity and the key to the entire societal question. Through work, human beings bring their freedom, creativity and capacity for cooperation into play, contributing to the cultural and moral elevation of society.[^36] In light of this, the various kinds of job insecurity, fragmented career paths and automation must not be evaluated solely in terms of efficiency, but in relation to the dignity of the worker, the right to sufficient remuneration and the genuine possibility of participating in society.
 
 38. With his Encyclical Sollicitudo Rei Socialis, marking the twentieth anniversary of Populorum Progressio, John Paul II reexamined the scourge of underdevelopment.
-He acknowledged the failure of numerous attempts to accelerate the economic development of poor peoples and to assist them in the process of industrialization, noting the persistent and indeed widening gap between the world’s North and South.[^37] He also denounced the economic, financial and commercial mechanisms that, managed by the strongest economies, structurally favor their own interests while stifling weaker economies, and he asked that they be subjected to serious ethical, not just technical, scrutiny.[^38]
-In this context, solidarity was understood as a concrete, shared responsibility among individuals, peoples and nations — a form of social friendship or political charity oriented toward the “civilization of love” proposed by Paul VI.[^39]
+He acknowledged the failure of numerous attempts to accelerate the economic development of poor peoples and
+to assist them in the process of industrialization,
+noting the persistent and indeed widening gap between the world’s North and South.[^37]
+He also denounced the economic, financial and <a id=1acomm>commercial mechanisms</a> that, managed by the strongest economies,
+structurally favor their own interests while stifling weaker economies, and he asked that they be subjected to serious ethical, not just technical, scrutiny.[^38]
+In this context, solidarity was understood as a concrete, shared responsibility among individuals,
+peoples and nations — a form of social friendship or political charity oriented toward the “civilization of love” proposed by Paul VI.[^39]
 
 39. On the centenary of Rerum Novarum, the Encyclical Centesimus Annus offered a reflection on the collapse of the Soviet system and the rise of democracy and the market economy.
 Saint John Paul II reiterated Pius XII’s message that the Church values democracy insofar as it guarantees the effective participation of citizens, enables them to elect and peacefully replace their leaders and prevents power from being monopolized by small elite groups motivated by particular or ideological interests.[^40]
 Likewise, the Church recognizes the positive potential of the market and private initiative only if they remain subordinate to the moral law and are guided by the principle of solidarity, without sacrificing the most vulnerable to the rationale of profit.[^41] This adds a particularly relevant legacy to the Social Doctrine of the Church. The affirmation of the link between the dignity of work, solidarity among peoples, a critical assessment of democracy and the market economy continues to provide criteria for evaluating new forms of exploitation, exclusion and crises in political representation.
 
-40. In his social Encyclical Caritas in Veritate, Pope Benedict XVI sought to reassess and expand the concept of development presented in Populorum Progressio, interpreting it in light of globalization. He noted that such development should translate into “real growth, of benefit to everyone and genuinely sustainable.”[^42] That is, economic progress that is truly inclusive and respectful of the limits of creation. He reaffirmed, however, that in wealthy countries new kinds of poverty were emerging as well as unprecedented forms of exclusion, while, in poorer regions, small minorities lived in consumerist affluence alongside situations of dehumanizing poverty.[^43] In addition, he observed that the new global economic and financial system, marked by a vast mobility of capital and means of production, had reduced the political power of States and their ability to influence economic processes.[^44] For this reason, Benedict XVI reiterated that economic activity cannot claim to solve social problems simply through the expansion of a commercial mentality, but must be ordered toward the common good, for which the political community bears its own irreplaceable responsibility.[^45]
+40. In his social Encyclical Caritas in Veritate, Pope Benedict XVI sought to reassess and expand the concept of development presented in Populorum Progressio, interpreting it in light of globalization.
+He noted that such development should translate into “real growth, of benefit to everyone and genuinely sustainable.”[^42]
+That is, economic progress that is truly inclusive and respectful of the limits of creation.
+He reaffirmed, however, that in wealthy countries new kinds of poverty were emerging as well as unprecedented forms of exclusion,
+while, in poorer regions, small minorities lived in consumerist affluence alongside situations of dehumanizing poverty.[^43]
+In addition, he observed that the new global economic and financial system,
+marked by a vast mobility of capital and means of production,
+had reduced the political power of States and their ability to influence economic processes.[^44]
+For this reason, Benedict XVI reiterated that
+<a id=1bcomm>economic activity cannot claim to solve social problems simply through the expansion of a commercial mentality</a>,
+but must be ordered toward the common good, for which the political community bears its own irreplaceable responsibility.[^45]
 
 41. Benedict XVI placed charity at the center of his analysis, stating that it “is at the heart of the Church’s Social Doctrine,”[^46] provided that it is always united with truth. He also noted with concern that there is a tendency to dismiss moral relevance precisely within the social, legal, political and economic fields. The originality of his contribution lies in showing that development, justice, institutions and the market are not neutral realities, but spaces where charity in truth must find historical expression. This teaching is especially relevant today in light of growing inequalities, pressures in the financial markets, the environmental crisis and a lack of trust in politics. It stands as an invitation to evaluate every model of development on its ability to be inclusive and sustainable, to rebuild the relationship between economics and politics on the common good, and to acknowledge the critical and generative role of charity in public life.
 
@@ -409,7 +443,13 @@ In this way, the Church will be able to bear credible witness to society that se
 
 92. In his Encyclical Laudato Si’, Pope Francis denounced the growing dominance of a technocratic paradigm [^119] in our globalized world: the tendency to let the logic of efficiency, control and profit alone shape personal, social and economic decisions. This makes it clear that technology is not simply a tool. When it becomes the standard by which everything is judged, it begins to dictate what matters and what can be discarded, reducing creation to an object of exploitation and human beings to mere cogs in a system driven toward ever greater efficiency.
 
-93. This paradigm has spread rapidly in recent years, fueled in part by the expansion of artificial intelligence, cognitive science, nanotechnology, robotics and biotechnology. In themselves, these innovations can greatly serve integral human development and the care of our common home. Yet precisely because of their power, they can also hasten the expansion of the technocratic paradigm and therefore require a new spiritual, ethical and political framework. More power does not necessarily imply something better. In this respect, the words of Romano Guardini remain relevant: “Contemporary man has not been trained to use power well.”[^120]
+93. This paradigm has spread rapidly in recent years, fueled in part by the expansion of
+artificial intelligence, cognitive science, nanotechnology, robotics and biotechnology.
+In themselves, these innovations can greatly serve integral human development and the care of our common home.
+Yet precisely because of their power, they can also hasten the expansion of the technocratic paradigm and therefore
+require a new spiritual, ethical and political framework.
+More power does not necessarily imply something better.
+In this respect, the words of Romano Guardini remain relevant: <a id=3Guardini>[“Contemporary man has not been trained to use power well.”](doc/Magnifica_Humanitas_Presentation.md#profssa-anna-rowlands)</a>[^120]
 
 94. The danger of humanity becoming a victim of its own achievements was already clearly recognized by Saint Paul VI, who warned that “the most extraordinary scientific progress, the most astounding technical feats and the most amazing economic growth, unless accompanied by authentic moral and social progress, will in the long run go against man.”[^121]
 For this reason, technological progress — valuable in itself — requires careful discernment of the anthropological vision that guides it and the ends it pursues. If technological development advances without a corresponding ethical and social progress, the result may be an increase in means without a growth in humanity: “having more” without “being more.” In such a scenario, there is a risk that individuals will be evaluated principally according to the outcomes they produce.[^122]
@@ -423,15 +463,62 @@ For this reason, technological progress — valuable in itself — requires care
 
 97. It is not my intention here to offer a comprehensive treatment of artificial intelligence, nor to give an overview of the extensive relevant literature, since authoritative contributions already exist, including within the ecclesial context.[^123]  I limit myself to recalling a few essential elements for a moral and social discernment that safeguards the primacy of the human person, in order to ensure that it will always be human intelligence, with its conscience and freedom, that guides technical innovations and responsibly determines their use and limits.
 
-98. It is appropriate to preface this discussion with two considerations. First, any statement regarding AI risks becoming quickly outdated, given the remarkable pace at which these systems are developing. Second, all of us, including those who design them, possess only a limited understanding of their actual functioning. Indeed, current AI systems are more “cultivated” than “built,” for developers do not directly design every detail, but instead create a framework within which the intelligence “grows.” As a result, fundamental scientific aspects — such as the internal representations and computational processes of these systems — remain, at present, unknown. There thus emerges an urgent need for a twofold commitment: on the one hand, a deepening of scientific research; on the other, the exercise of moral and spiritual discernment.
+98. It is appropriate to preface this discussion with two considerations.
+First, any statement regarding AI risks becoming quickly outdated, given the remarkable pace at which these systems are developing.
+Second, all of us, including those who design them, possess only a limited understanding of their actual functioning.
+Indeed, current AI systems are more “cultivated” than “built,” for developers do not directly design every detail,
+but instead create a framework within which the intelligence “grows.”
+As a result, fundamental scientific aspects — such as the internal representations and computational processes of these systems — remain,
+at present, unknown.
+There thus emerges an urgent need for a twofold commitment:
+on the one hand, a deepening of scientific research;
+on the other, the exercise of moral and spiritual discernment.
 
-99. It is not possible to provide a single, comprehensive definition of AI. What can be stated, however, is that we must avoid the misconception of equating this type of “intelligence” with that of human beings. These systems merely imitate certain functions of human intelligence. In doing so, they often surpass human intelligence in speed and computational capacity, offering tangible benefits across many fields. Yet this power remains entirely tied to data processing. So-called artificial intelligences do not undergo experiences, do not possess a body, do not feel joy or pain, do not mature through relationships and do not know from within what love, work, friendship or responsibility mean. Nor do they have a moral conscience, since they do not judge good and evil, grasp the ultimate meaning of situations, or bear responsibility for consequences. They may imitate language, behavior and analytical skills, or even simulate empathy and understanding, but they do not understand what they produce, for they lack the affective, relational and spiritual perspective through which human beings grow in wisdom. Even when these tools are described as capable of “learning,” their way of doing so is different from that of a human person. It is not the experience of those who allow themselves to be shaped by life and grow over time through choices, mistakes, forgiveness and fidelity. Rather, it is a form of statistical adaptation based on data and feedback, which can be very effective, but does not imply inner growth.
+99. It is not possible to provide a single, comprehensive definition of AI.
+What can be stated, however, is that we must avoid the misconception of equating this type of “intelligence” with that of human beings.
+These systems merely imitate certain functions of human intelligence.
+In doing so, they often surpass human intelligence in speed and computational capacity, offering tangible benefits across many fields.
+Yet this power remains entirely tied to data processing.
+So-called artificial intelligences do not undergo experiences,
+do not possess a body, do not feel joy or pain, do not mature through relationships and do not know from within what love, work, friendship or responsibility mean.
+Nor do they have a moral conscience, since they do not judge good and evil, grasp the ultimate meaning of situations, or bear responsibility for consequences.
+They may imitate language, behavior and analytical skills, or even simulate empathy and understanding,
+but they do not understand what they produce, for they lack the affective, relational and spiritual perspective through which human beings grow in wisdom.
+Even when these tools are described as capable of “learning,” their way of doing so is different from that of a human person.
+It is not the experience of those who allow themselves to be shaped by life and grow over time through choices, mistakes, forgiveness and fidelity.
+Rather, it is a form of statistical adaptation based on data and feedback, which can be very effective, but does not imply inner growth.
 
 #### A valuable tool that requires vigilance
 
-100. In light of what has been said, we can better understand why AI can be a valuable tool and, at the same time, why it calls for a measured and vigilant approach. In recent years, its private use has expanded significantly, prompting growing reflection on both the opportunities it offers and the risks tied to its rapid spread. In personal use, three aspects in particular deserve careful consideration: the ease with which results are obtained, the impression of objectivity and the simulation of human communication. The speed and simplicity with which information, complex analyses, media content and practical assistance can be accessed undoubtedly makes life easier. Yet they can also encourage excessive reliance and the search for ready-made answers, and weaken personal creativity and judgment. The apparent objectivity of the responses and suggestions these systems provide can lead us to overlook the fact that they reflect the cultural assumptions of those who designed and trained them, with all their strengths and limitations. The artificial imitation of positive human communication — words of advice, empathy, friendship and even love — can be engaging and at times genuinely helpful. However, for less discerning users, it can also be misleading, creating the illusion of a relationship with a real personal subject. When words are simulated, they do not build genuine relationships, but only their appearance. The artificial imitation of care or support can become particularly risky when it enters contexts where real relationships and emotional bonds are lacking. Here, the danger is not so much that a person may believe they are communicating with another person, but rather that they may gradually lose the very desire to form genuine human connections.
+100. In light of what has been said, we can better understand why AI can be a valuable tool and, at the same time, why it calls for a measured and vigilant approach.
+In recent years, its private use has expanded significantly, prompting growing reflection on both the opportunities it offers and the risks tied to its rapid spread.<!--
+-->
+In personal use, three aspects in particular deserve careful consideration:
+the ease with which results are obtained,
+the impression of objectivity and
+the simulation of human communication.<!--
+-->
+The speed and simplicity with which information, complex analyses, media content and practical assistance can be accessed undoubtedly makes life easier.
+Yet they can also encourage excessive reliance and the search for ready-made answers, and weaken personal creativity and judgment.
+The apparent objectivity of the responses and suggestions these systems provide can lead us to overlook the fact that they reflect the cultural assumptions of those who designed and trained them, with all their strengths and limitations.
+The artificial imitation of positive human communication — words of advice, empathy, friendship and even love — can be engaging and at times genuinely helpful.
+However, for less discerning users, it can also be misleading, creating the illusion of a relationship with a real personal subject.
+When words are simulated, they do not build genuine relationships, but only their appearance.
+The artificial imitation of care or support can become particularly risky when it enters contexts where real relationships and emotional bonds are lacking.
+Here, the danger is not so much that a person may believe they are communicating with another person, but rather that they may gradually lose the very desire to form genuine human connections.
 
-101. Broadening our perspective to the use of AI in society, we see that it is now embedded in decision-making processes across many sectors and at multiple levels: in communication, management and control. The gains in efficiency and the potential to improve certain services are clear, yet rapidly and uncritically adopting them exposes us to a range of risks, including the tendency to overlook the environmental impact. Current AI systems require enormous amounts of energy and water, significantly influencing carbon dioxide emissions, and place heavy demands on natural resources. As their complexity increases, especially in the case of large language models, the need for computing power and storage capacity grows too, which requires an extensive network of machines, cables, data centers and energy-intensive infrastructure. For this reason, it is essential to develop more sustainable technological solutions that reduce environmental impact and help protect our common home.[^124]
+101. Broadening our perspective to the use of AI in society, we see that
+it is now embedded in decision-making processes across many sectors and at multiple levels: in communication, management and control.
+The gains in efficiency and the potential to improve certain services are clear,
+yet rapidly and uncritically adopting them exposes us to a range of risks,
+including the tendency to overlook the environmental impact.
+Current AI systems require enormous amounts of energy and water,
+significantly influencing carbon dioxide emissions,
+and place heavy demands on natural resources.
+As their complexity increases, especially in the case of large language models,
+the need for computing power and storage capacity grows too,
+which requires an extensive network of machines, cables, data centers and energy-intensive infrastructure.
+For this reason, it is essential to develop more sustainable technological solutions that reduce environmental impact and help protect our common home.[^124]
 
 #### Responsibility, transparency and the governance of AI
 
@@ -452,7 +539,20 @@ It is necessary to think creatively in order to manage data as a common or share
 
 109. The principles of Social Doctrine offer a framework for understanding this new reality. In a world where data, computational resources and regulatory influence remain in the hands of a few, to speak of the common good means exposing this new form of epistemic, economic and political asymmetry and naming the new monopolies of AI. To speak of the universal destination of goods means finding ways of ensuring universal access to both technologies and the education needed to use them. To speak of subsidiarity calls for protecting the ability of communities to make choices and corrections, rather than confining their role to mere oversight after the standards have been set elsewhere. To speak of solidarity obliges us to recognize the hidden, often exploited workers, who sustain algorithmic systems. To speak of justice requires questioning the global distribution of power that decides who in fact can train these models and who is merely subjected to them. Likewise, it means acknowledging that social justice is not only a goal to be safeguarded after technologies are deployed, but a condition that must shape their very design from the outset.
 
-110. Finally, I would like to employ the expression “to disarm,” which is close to my heart. Disarming AI means freeing it from the mentality of “armed” competition, which today is not limited simply to the military context, but is also an economic and cognitive phenomenon. This entails a race for ever more powerful algorithms and larger datasets, driven by the desire to secure geopolitical or commercial dominance. To disarm means discrediting the assumption that technical power automatically confers the right to govern. To disarm does not mean rejecting technology, but preventing it from dominating humanity. It means freeing technology from monopolistic control and opening it to discussion and debate, therefore making it human-friendly and restoring it to the plurality of human cultures and ways of life. Our task today is not only ethical or technical. It is ecological in the deepest sense, for it concerns a new dimension of our common home. AI is already an environment in which we are immersed, as well as a force with which we must engage. For this reason, merely regulating it is insufficient; it must be disarmed, welcoming and accessible.
+110. Finally, I would like to employ the expression “to disarm,” which is close to my heart.
+Disarming AI means freeing it from the mentality of “armed” competition,
+which today is not limited simply to the military context,
+but is also an economic and cognitive phenomenon.
+This entails a race for ever more powerful algorithms and larger datasets,
+<a id=3comm>driven by the desire to secure geopolitical or commercial dominance</a>.
+To disarm means discrediting the assumption that technical power automatically confers the right to govern.
+To disarm does not mean rejecting technology, but preventing it from dominating humanity.
+It means freeing technology from monopolistic control and opening it to discussion and debate,
+therefore making it human-friendly and restoring it to the plurality of human cultures and ways of life.
+Our task today is not only ethical or technical.
+It is ecological in the deepest sense, for it concerns a new dimension of our common home.
+AI is already an environment in which we are immersed, as well as a force with which we must engage.
+For this reason, merely regulating it is insufficient; it must be disarmed, welcoming and accessible.
 
 111. I wish to address a special appeal to those who develop artificial intelligence. In one sense, technological innovation can represent human participation in the divine act of creation. Developers, therefore, bear a particular ethical and spiritual responsibility, for every design choice reflects a vision of humanity. Just as the creator of an artistic or literary work must consider the values it conveys, so developers are called to embed values in their projects with due seriousness: with transparency, responsibility toward affected communities and careful attention to ensuring that what is being cultivated is a genuine good.
 
@@ -481,7 +581,14 @@ For this reason, a clear distinction must be made. It is one thing to integrate 
 
 119. It is precisely within our limitations that the following find a place: compassion, as well as a sincere concern for the needs of others; a generosity that can emerge even in the midst of darkness and failure; spiritual experience and the worship of God. We see this at many moments when our limits become tangible: when we face rejection, when we suffer the illness or loss of a loved one, when we encounter our own weakness or failure. Mysteriously, it is precisely in such moments that we can discover a new wisdom, tangibly experience the closeness of others and encounter the presence of the Lord.
 
-120. Even when limitations are experienced as inner suffering, human wisdom teaches us not to deny or suppress it, but to integrate it. To eliminate suffering entirely would mean, in the end, extinguishing love and desire as well. Those who love and desire cannot avoid passing through trial and suffering; and over the years, we carry within us lessons that leave their mark like scars, the memories of a journey shaped by freedom and failure, dreams and disappointments. It is only thanks to the interplay of these elements that the wonders of the soul occur within us, allowing us to sense the richness of our humanity.[^132] To renounce this adventure, both tragic and splendid, in the name of a presumed transcendence of all limits, could mean many things, but it would no longer be human.
+120. Even when limitations are experienced as inner suffering, human wisdom teaches us not to deny or suppress it, but to integrate it.
+To eliminate suffering entirely would mean, in the end, extinguishing love and desire as well.
+Those who love and desire cannot avoid passing through trial and suffering;
+and over the years, we carry within us lessons that leave their mark like scars,
+the memories of a journey shaped by freedom and failure, dreams and disappointments.
+<a id=3wonder>[It is only thanks to the interplay of these elements that the wonders of the soul occur within us](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)</a>,
+allowing us to sense the richness of our humanity.[^132]
+To renounce this adventure, both tragic and splendid, in the name of a presumed transcendence of all limits, could mean many things, but it would no longer be human.
 
 121. The moral corruption of our limitations as created beings — namely the evil that clearly agitates the human heart — ruins society and life, at times reaching extreme forms of inhumanity. Yet even these painful expressions of our limitations leave openings for the good. Even when persons dehumanize themselves and bring about tragedy, a small light continues to shine within humanity, one that can be rekindled, with God’s grace, along paths of conversion and reconciliation. As Viktor Frankl rightly observed, in moments of horror, “we have come to know man as he really is. After all, man is that being who invented the gas chambers of Auschwitz; however, he is also that being who entered those gas chambers upright, with the Lord’s Prayer or the Shema Yisrael on his lips.”[^133]
 
@@ -513,38 +620,104 @@ If, however, power grows while the heart withers and human bonds fray, then we a
 <!-- ==================================================================================== -->
 ## CHAPTER FOUR: SAFEGUARDING HUMANITY AT A TIME OF TRANSFORMATION; TRUTH, WORK, FREEDOM
 
-131. Having outlined the context in which the challenge of technological transformation is situated, especially those linked to AI and to transhumanist and posthumanist currents, we cannot remain at the level of general analysis alone. When languages and tools change, so do everyday actions and social relationships. For this reason, we must focus on certain areas in which these transformations have particularly concrete, and at times tragic, consequences. In light of the principles of the Church’s Social Doctrine, the digital transformation invites us to rediscover truth as a common good, to protect the dignity of work and to safeguard freedom against all forms of dependence and commercialization.
+131. Having outlined the context in which the challenge of technological transformation is situated,
+especially those linked to AI and to transhumanist and posthumanist currents,
+we cannot remain at the level of general analysis alone.
+When languages and tools change, so do everyday actions and social relationships.
+For this reason, we must focus on certain areas in which these transformations have particularly concrete, and at times tragic, consequences.
+In light of the principles of the Church’s Social Doctrine,
+the digital transformation invites us
+to rediscover truth as a common good,
+to protect the dignity of work and
+to <a id=4acomm>safeguard freedom against all forms of dependence and commercialization.</a>
 
 <!-- ------------------------------------------------------------------------------------ -->
 ### Truth as a common good
 
 #### Truth and democracy
 
-132. The use of digital platforms and AI systems is driving profound changes in public and political communication. Tools that could foster dialogue and participation are often used to construct distorted narratives and blur the boundaries between truth and falsehood, mixing facts with opinions. Disinformation did not begin with AI, yet today it finds a powerful amplifier in AI. The ability to manipulate content, images and videos exposes people to biased or misleading perspectives. This problem has both cultural and moral dimensions, since the quality of public communication depends directly on social trust and, in turn, shapes it. At the same time, truthful information does not arise from centralized or automated control. In public discourse, the truth of facts has a rational dimension, as it requires verification, cross-checking of sources and responsible argumentation. Moreover, it is deeply relational, built through bonds of trust and shared practices, as well as an honest exchange with others and with the world. Only the shared pursuit of the veracity of facts, perceived as a common good, can provide a solid foundation for just communication.
+132. The use of digital platforms and AI systems is driving profound changes in public and political communication.
+Tools that could foster dialogue and participation are often used to construct distorted narratives and blur the boundaries between truth and falsehood, mixing facts with opinions.
+Disinformation did not begin with AI, yet today it finds a powerful amplifier in AI.
+The ability to manipulate content, images and videos exposes people to biased or misleading perspectives.
+This problem has both cultural and moral dimensions, since the quality of public communication depends directly on social trust and, in turn, shapes it.
+At the same time, truthful information does not arise from centralized or automated control.
+In public discourse, the truth of facts has a rational dimension, as it requires
+<a id=4verification>[verification, cross-checking of sources and responsible argumentation](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it).</a>
+Moreover, it is deeply relational, built through bonds of trust and shared practices, as well as an honest exchange with others and with the world.
+Only the shared pursuit of the veracity of facts, perceived as a common good, can provide a solid foundation for just communication.
 
-133. Those who command powerful technological and economic resources, along with substantial human capital for intervention, possess significant capabilities for influencing cultural change. Ultimately, they can influence a significant number of people concerning the truth about humanity, the world, the meaning of existence, the family and even God. This is pure power detached from truth, which subtly or overtly imposes what it wishes others to accept as true. At its root lies a deeper and often unrecognized “sickness”: the fact that “modern man is wrongly convinced that he is the sole author of himself, his life and society. This is a presumption that follows from being selfishly closed in upon himself.”[^140] Consequently, people believe that they can construct reality, and that whatever best suits their claims corresponds to what is true.
-Saint John Paul II reflected on the consequences of this “crisis of truth,” going so far as to state that “once the idea of a universal truth about the good, knowable by human reason, is lost, inevitably the notion of conscience also changes.”[^141]
+133. Those who command powerful technological and economic resources, along with substantial human capital for intervention, possess significant capabilities for influencing cultural change.
+Ultimately, they can influence a significant number of people concerning the truth about humanity, the world, the meaning of existence, the family and even God.
+This is pure power detached from truth, which subtly or overtly imposes what it wishes others to accept as true.
+At its root lies a deeper and often unrecognized “sickness”: the fact that 
+“modern man is wrongly convinced that he is the sole author of himself, his life and society.
+ This is a presumption that follows from being selfishly closed in upon himself.”[^140]
+Consequently, people believe that they can construct reality, and that whatever best suits their claims corresponds to what is true.
+Saint John Paul II reflected on the consequences of this “crisis of truth,”
+going so far as to state that “once the idea of a universal truth about the good, knowable by human reason, is lost, inevitably the notion of conscience also changes.”[^141]
 In such a context, universally valid truths, which precede us and which conscience must accept, are no longer recognized. This led Pope Francis to ask with realism: “What is law without the conviction, born of age-old reflection and great wisdom, that each human being is sacred and inviolable?”  To which he concluded: “If society is to have a future, it must respect the truth of our human dignity and submit to that truth. Murder is not wrong simply because it is socially unacceptable and punished by law, but because of a deeper conviction. This is a non-negotiable truth attained by the use of reason and accepted in conscience. A society is noble and decent, not least for its support of the pursuit of truth and its adherence to the most basic of truths.”[^142]
 
 134. The search for truth is an essential element of democracy, which is itself a means of contributing to the common good. When questions about what is true lose their appeal, and a pragmatism takes hold that is content with what appears useful or effective, then democratic life is weakened. After all, democracy does not consist of rules and procedures alone, but above all of a solid concordance with the facts and a genuine commitment to the good of individuals and society as a whole.  Indifference to the truth leads, slowly but surely, to a descent into totalitarianism. As the philosopher Hannah Arendt wrote, the ideal subjects of such regimes are not so much those who are ideologically convinced, but rather “people for whom the distinction between fact and fiction (i.e., the reality of experience) and the distinction between true and false (i.e., the standards of thought) no longer exist.”[^143]
 
 #### Communication and the collective imagination
 
-135. In view of this, it is important to recall that communication “is not only the transmission of information, but it is also the creation of a culture.”[^144] The content that circulates within digital environments shapes how people perceive the world and introduces into the collective consciousness images and narratives that direct our desires and influence our daily choices. This is “not a parallel or purely virtual world,”[^145] since what originates online now becomes a part of people’s lives, especially of the youngest.
+135. In view of this, it is important to recall that communication “is not only the transmission of information, but it is also the creation of a culture.”[^144]
+The content that circulates within digital environments shapes how people perceive the world and
+introduces into the collective consciousness images and narratives that direct our desires and influence our daily choices.
+This is “not a parallel or purely virtual world,”[^145] since what originates online now becomes a part of people’s lives, especially of the youngest.
 
-136. For this reason, those who control digital platforms and means of communication have a considerable ability to affect the collective imagination and to present a particular vision of reality as desirable. Such power should be constantly guided by the pursuit of truth and respect for human dignity, so that the culture fostered on the internet does not become an instrument of excessive distraction, homogenization or dominance, but rather a setting in which inner freedom and critical thought can mature.
+136. For this reason, those who control digital platforms and means of communication
+have a considerable ability to affect the collective imagination and
+to present a particular vision of reality as desirable.
+Such power should be constantly guided by the pursuit of truth and respect for human dignity,
+so that the culture fostered on the internet does not become an instrument of excessive distraction,
+homogenization or dominance, but rather a setting in which inner freedom and critical thought can mature.
 
 #### Toward an ecology of communication
 
-137. Our first task is neither to demonize nor idolize technological tools, but to utilize them on the basis of a fundamental principle, namely that truth is a common good and not the property of those with power or influence. We must therefore promote an ecology of communication. On the level of public policy, this entails establishing norms so that the decision-making behind content selection and its development becomes more transparent and protects personal data. Regarding social and cultural aspects, this requires a strengthening of intermediary organizations, serious journalism and forums for debate, where reasoned argumentation and verification carry greater weight than immediate reaction. For families and schools, there is a growing need for new educational awareness and for formation concerning the proper and critical use of digital tools, AI and online commercial and financial platforms. In universities, the principal challenge lies in the integration of knowledge, cultivating both the capacity to connect and synthesize knowledge in order to grasp complexity, and the skills necessary to verify facts.
+137. Our first task is neither to demonize nor idolize technological tools,
+but to utilize them on the basis of a fundamental principle,
+namely that truth is a common good and not the property of those with power or influence.
+We must therefore promote an ecology of communication.
+On the level of public policy, this entails establishing norms so that the decision-making
+behind content selection and its development becomes more transparent and protects personal data.
+Regarding social and cultural aspects, this requires a strengthening of intermediary organizations,
+serious journalism and forums for debate,
+where reasoned argumentation and verification carry greater weight than immediate reaction.<!--
+-->
+For families and schools, there is a growing need for new educational awareness and
+for formation concerning the proper and critical use of
+digital tools,
+AI and
+<a id=4bcomm>online commercial and financial platforms.</a><!--
+-->
+In universities, the principal challenge lies in the integration of knowledge,
+cultivating both the capacity to connect and synthesize knowledge in order to grasp complexity,
+and the skills necessary to verify facts.
 
 138. Christian communities, too, are called to commit themselves to transparency in communication and to the honest pursuit of facts. Sadly, this has not always been the case. We have witnessed with shame the emergence of painful truths concerning even members of the Church and ecclesial realities. In particular, some journalists, driven by a passion for truth, have played a crucial role in bringing injustices and abuses to light. To them, I wish to repeat the words that Pope Francis used in speaking to journalists: “I also thank you for what you tell us about what goes wrong in the Church, for helping us not to sweep it under the carpet, and for the voice you have given to the victims of abuse.”[^146] Yet vigilance and transparency remain first and foremost a grave responsibility for the Church herself, and we must not wait for others to compel us to confront uncomfortable truths about ourselves.
 
 #### An educational alliance for the digital age
 
-139. In an era when truth is often distorted in order to serve particular interests and communication strategies, the field of education assumes decisive importance. Yet rapid technological transformations reveal just how unprepared we are on the educational level. The pervasiveness of digital media fosters a culture of immediacy and hyper-stimulation, which gives rise to fatigue, boredom and apathy concerning the effort required for seeking the truth.
+139. In an era when truth is often distorted in order to serve particular interests and communication strategies,
+the field of education assumes decisive importance.
+Yet rapid technological transformations reveal just how unprepared we are on the educational level.
+The pervasiveness of digital media fosters a culture of immediacy and hyper-stimulation,
+which gives rise to fatigue, boredom and apathy concerning the effort required for seeking the truth.
 
-140. Education, by contrast, is a long journey requiring patience, and therefore needs time for development and for engagement with reality beyond appearances. This is a fundamental issue because every technology shapes those who use it. Educating people about the use of AI, then, involves teaching them to decide when and for what purpose it ought not to be used. The speed and ease with which answers or summaries can be obtained risk extinguishing the desire to ask questions, which is a process that bears fruit only over time. As Plato wrote, the deepest and most important things are learned only after much time and effort, by engaging in discussion with others, “striking upon” ideas and experiences together like flint until the spark of understanding is kindled within us.[^147] We must learn, then, how to exercise restraint in the use of AI and to protect our young people from the promise of the perfect machine, from that subtle temptation which renders human thought seemingly superfluous precisely when it is most needed.
+140. Education, by contrast, is a long journey requiring patience,
+and therefore needs time for development and for engagement with reality beyond appearances.
+This is a fundamental issue because every technology shapes those who use it.
+Educating people about the use of AI, then, involves teaching them to decide when and for what purpose it ought not to be used.
+The speed and ease with which answers or summaries can be obtained risk
+<a id=4extinguish>[extinguishing the desire to ask questions](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)</a>,
+which is a process that bears fruit only over time.
+As Plato wrote, the deepest and most important things are learned only after much time and effort,
+by engaging in discussion with others,
+“striking upon” ideas and experiences together like flint until the spark of understanding is kindled within us.[^147]
+We must learn, then, how to exercise restraint in the use of AI and to protect our young people from the promise of the perfect machine,
+from that subtle temptation which renders human thought seemingly superfluous precisely when it is most needed.
 
 141. In recent years, psychological and psychiatric literature has documented with growing insistence how early and unsupervised exposure to digital devices and social media can negatively impact sleep, attention span, control of emotions and relationships, especially during the most vulnerable stages of life, at times with tragic consequences. This is further aggravated by easy access to violent or degrading content that offends sensibility, to pornographic and hypersexualized material, to messages that trivialize the body and emotions, and to proposals that normalize risky behavior. Online phenomena such as grooming, blackmail and the sexual exploitation of minors are not uncommon, and are made more insidious by the use of fake profiles, algorithms that facilitate dangerous contact, and AI tools capable of manipulating images and videos. Having a personal mobile device at too early an age and using it without adult supervision can exacerbate young people’s vulnerabilities, foster addiction and expose them to isolation, bullying and cyberbullying, as well as to pressures to share intimate images or sensitive information.
 
@@ -552,15 +725,47 @@ In such a context, universally valid truths, which precede us and which conscien
 
 #### The central role of schools
 
-143. School is the place where new generations can learn to seek and love the truth, to reflect on the meaning of life and to recognize the dignity of every person. For this reason, many parents, who want their children to grow in the capacity to form relationships, develop critical thinking skills and embrace solid values, place great expectations on schools as valuable partners in their children’s education. Yet parents have the primary and inalienable right to choose the kind of education and formation for their children, in a manner consistent with their moral, cultural and religious convictions. Today, the world of education faces a number of urgent challenges.
+143. School is the place where new generations can learn to seek and love the truth, to reflect on the meaning of life and to recognize the dignity of every person.
+For this reason, many parents, who want their children to grow in the capacity to form relationships,
+develop critical thinking skills and embrace solid values, place great expectations on schools as valuable partners in their children’s education.
+Yet parents have the primary and inalienable right to choose the kind of education and formation for their children,
+in a manner consistent with their moral, cultural and religious convictions.
+Today, the world of education faces a number of urgent challenges.
 
-144. The first challenge is socio-political. Both within individual nations and across different regions of the world, significant inequalities persist concerning access to basic education and higher studies. In many nations, Governments have not yet invested the necessary resources for guaranteeing a quality education for all, whether by adequately supporting the public school system or by assisting private institutions that offer this essential service. When a substantial portion of education, at various levels, is entrusted to private institutions, access to schooling may become overly dependent on families’ financial means, especially in the absence of adequate public support. In the face of this risk, it is nevertheless important to acknowledge and encourage the contribution of the many private Catholic educational institutions which ensure inclusive access for children and young people of every background, even when families’ economic circumstances would not otherwise allow it.
+144. The first challenge is socio-political.
+Both within individual nations and across different regions of the world, significant inequalities persist concerning access to basic education and higher studies.
+In many nations, Governments have not yet invested the necessary resources for guaranteeing a quality education for all,
+whether by adequately supporting the public school system or by assisting private institutions that offer this essential service.
+When a substantial portion of education, at various levels, is entrusted to private institutions,
+access to schooling may become overly dependent on families’ financial means, especially in the absence of adequate public support.
+In the face of this risk, it is nevertheless important to acknowledge and encourage the contribution of the many private Catholic educational institutions which ensure inclusive access
+for children and young people of every background, even when families’ economic circumstances would not otherwise allow it.
 
-145. The second major challenge is pedagogical. Many educational systems struggle to keep pace with change and to support the integral development of students. The advance of information technologies and AI is rapidly rendering curricula obsolete that were designed for a different era. Meanwhile, the organization of schools, physical spaces, evaluation methods and the role of teachers themselves must be rethought in order to promote an authentically integral education that addresses every dimension of the person. It is necessary to support the ongoing formation of teachers throughout their professional lives, so that they can engage positively with new technologies, helping students to use them responsibly, critically and creatively, rather than passively succumbing to their influence.
+145. The second major challenge is pedagogical.
+Many educational systems struggle to keep pace with change and to support the integral development of students.
+The advance of information technologies and AI is rapidly rendering curricula obsolete that were designed for a different era.
+Meanwhile, <a id=4rethink>[the organization of schools, physical spaces, evaluation methods and the role of teachers themselves must be rethought](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)</a>
+in order to promote an authentically integral education that addresses every dimension of the person.
+It is necessary to support the ongoing formation of teachers throughout their professional lives, so that they can engage positively with new technologies,
+helping students to use them responsibly, critically and creatively, rather than passively succumbing to their influence.
 
-146. The third major challenge is intellectual and concerns knowledge. Without careful attention, an educational system lacking in a love for truth may emerge, in which an incessant flow of information replaces the essential exercise of research, reflection and discernment. As knowledge becomes increasingly fragmented, it becomes difficult to grasp reality as a whole, to ask profound questions about meaning, or to develop authentic, critical and creative thought. Many educators already report signs of dehumanization, where people may “know many things” but struggle to find direction in their lives, partly due to an inability to connect information with deeper knowledge or maintain a sense of purpose. A genuinely healthy attitude is needed, requiring rhythms that incorporate silence, in-depth study, reading and judicious analysis, for without these elements inner freedom may be compromised.
+146. The third major challenge is intellectual and concerns knowledge.
+Without careful attention, an educational system lacking in a love for truth may emerge, in which an incessant flow of information replaces the essential exercise of research, reflection and discernment.
+As knowledge becomes increasingly fragmented, it becomes
+<a id=4whole>[difficult to grasp reality as a whole](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)</a>,
+to ask profound questions about meaning, or to develop authentic, critical and creative thought.
+Many educators already report signs of dehumanization, where people may “know many things” but struggle to find direction in their lives, partly due to an inability to connect information with deeper knowledge or maintain a sense of purpose.
+A genuinely healthy attitude is needed, requiring rhythms that incorporate
+<a id=4attitude>[silence, in-depth study, reading and judicious analysis](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)</a>,
+for without these elements inner freedom may be compromised.
 
-147. The Church’s Social Doctrine invites families, schools, Christian communities and public institutions to form a renewed educational alliance. This takes shape when fundamental principles are translated into educational goals, including teaching students a sense of moderation and limits; recognition of the rights of others and of future generations to enjoy the goods that are either provided for us or made available by human ingenuity; freedom and responsibility; and a sense of transcendence and the common good. Schools are not called to follow the pace of the digital world, but to offer that which the digital sphere by itself cannot provide, namely a shared time for learning and developing trustworthy relationships.
+147. The Church’s Social Doctrine invites families, schools, Christian communities and public institutions to form a renewed educational alliance.
+This takes shape when fundamental principles are translated into educational goals,
+including teaching students a sense of moderation and limits;
+recognition of the rights of others and of future generations to enjoy the goods that are either provided for us or made available by human ingenuity;
+freedom and responsibility;
+and a sense of transcendence and the common good.
+Schools are not called to follow the pace of the digital world, but to offer that which the digital sphere by itself cannot provide, namely a shared time for learning and developing trustworthy relationships.
 
 <!-- ------------------------------------------------------------------------------------ -->
 ### The dignity of work at a time of digital transition
@@ -592,11 +797,35 @@ Indeed, when it reaches massive proportions, it becomes a true social calamity t
 
 157. The labor market is one area in which the risks associated with new technologies more clearly emerge. It is thus necessary to remember that economic freedom is not absolute; it must always be measured against the common good and the dignity of every person. Entrepreneurial initiative can indeed be a true vocation, generating wealth and improving lives, rather than a variable that is dependent only on profit. This is possible when it recognizes that the creation of dignified, valuable jobs are an essential part of its proper service to society.[^158]
 
-158. With prophetic spirit, Pope Francis warned against an economic freedom proclaimed in words alone, while actual conditions prevent many from benefiting from it.[^159] Economic models that exalt efficiency and individual success often view investment in disadvantaged people or in those with slower development paths as useless or inconvenient, as if their futures depended solely on their ability to keep pace with the “winners.” In reality, a just society requires a vigilant State and civil institutions that are capable of overcoming the singular mentality of efficiency, and of ensuring that resources, creative solutions and regulations favor the most vulnerable.[^160] Instead of waiting for the benefits of growth to reach the poor “eventually,” decisions need to be taken to ensure that growth becomes inclusive from the outset. The experience of recent decades shows that in economic and financial crises, it is always the poor who pay the highest price, while the theories that promise automatic general prosperity often prove to be illusory.
+158. With prophetic spirit, Pope Francis warned against an economic freedom proclaimed in words alone, while actual conditions prevent many from benefiting from it.[^159]
+Economic models that exalt efficiency and individual success often view investment in disadvantaged people or in those with slower development paths as useless or inconvenient,
+as if their futures depended solely on their ability to keep pace with the “winners.”
+In reality, a just society requires a vigilant State and civil institutions that are capable of overcoming the singular mentality of efficiency,
+and of ensuring that resources, creative solutions and regulations favor the most vulnerable.[^160]
+Instead of waiting for the benefits of growth to reach the poor “eventually,”
+decisions need to be taken to ensure that growth becomes inclusive from the outset.
+The experience of recent decades shows that in economic and financial crises,
+<a id=4highest>[it is always the poor who pay the highest price](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)</a>,
+while the theories that
+<a id=4illusory>[promise automatic general prosperity often prove to be illusory.](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)</a>
 
 159. It is important to move beyond the current metrics of development — which for more than eighty years have been tied to the concept of Gross Domestic Product (GDP) — since these metrics almost systematically neglect aspects essential to the overall wellbeing of people and the environment. The development of parameters and metrics complementary to GDP is crucial for improving the databases used for conducting analyses, political and economic decision-making and establishing regional, national and international priorities. The introduction of new parameters will allow for a comprehensive and timely assessment of how legislative and regulatory decisions impact the dignity of work, shared prosperity, inequality reduction and environmental protection. It will also affect the concept of development, educational processes, mindsets and public opinion, as well as peace, which is only authentic when based on justice.
 
-160. In recent years, finance has increased in importance and has undergone significant innovation, driven partly by the introduction of cryptocurrencies. The reflections and observations contained in the teaching of my predecessors, particularly in their Encyclicals, have highlighted how the financial intermediation sector, “when operating without the necessary anthropological and moral foundations, has not only produced manifest abuses and injustice, but also demonstrated a capacity to create systemic and worldwide economic crisis.”[^161] It is likewise the case that income from capital risks replacing income from labor, which is often confined to the margins of the economic system’s primary interests.  Yet savings transformed into credit for the real economy, thereby creating both jobs and self-employed work, remain central for development and the investments that must accompany ongoing transitions. The social function of credit remains irreplaceable. Finance for its own sake is fundamentally different from finance aimed at the development, creation and evolution of work.
+160. In recent years, finance has increased in importance and has undergone significant innovation,
+driven partly by the introduction of cryptocurrencies.
+The reflections and observations contained in the teaching of my predecessors, particularly in their Encyclicals,
+have highlighted how the financial intermediation sector,
+“when operating without the necessary anthropological and moral foundations,
+ has not only produced manifest abuses and injustice,
+ but also demonstrated a capacity to create systemic and worldwide economic crisis.”[^161]
+It is likewise the case that income from capital risks replacing income from labor,
+which is often confined to the margins of the economic system’s primary interests.
+Yet savings transformed into credit for the real economy,
+thereby creating both jobs and self-employed work,
+remain central for development and the investments that must accompany ongoing transitions.
+<a id=4credit>[The social function of credit remains irreplaceable.](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)</a>
+<a id=4sake>[Finance for its own sake](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)</a>
+is fundamentally different from finance aimed at the development, creation and evolution of work.
 
 161. This perspective needs to become part of a broader view of global dynamics. While the world’s wealth has grown in absolute terms, it is increasingly concentrated in fewer hands, widening inequalities both within and between countries. “There are a few who have too much, and too many who have little, that is the logic of today.”[^162] Scientific and technological advances, even in the medical field, are not easily accessible to the vast majority of people, as was dramatically demonstrated during the recent pandemic. While some regions spend heavily on superfluous interventions or dreams of individual enhancement accessible only to a select few, other parts of the world lack the essential equipment needed to save millions of human lives. To think that new technologies will automatically benefit everyone is to ignore the evidence. Unless transformations at the design stage prioritize the prevention of new and further disparities, technological progress will inevitably produce structural inequalities. Today, justice requires access to the benefits of innovation, including care, knowledge, tools and opportunities.
 
@@ -605,7 +834,20 @@ Indeed, when it reaches massive proportions, it becomes a true social calamity t
 163.  More than ever, in the age of AI and robotics, it is no longer possible to rely solely on the “invisible hand” of the market.[^164] Politics has the task of orientating economies and technologies to the common good, promoting dignified work, social inclusion and an equitable distribution of the benefits of innovation. Since many economic decisions transcend national borders, there is also a need for international cooperation capable of defining common strategies, especially in favor of the most vulnerable countries and people, in order to promote development and overcome welfare dependency. The thinking behind these choices is the immeasurable dignity of every person, the common good and a world truly governed for everyone.
 The interdependence between peace and development, as Saint Paul VI prophetically wrote in 1967, [^165] remains applicable today, for prosperity contributes to building and reinforcing peace only if it is widespread, inclusive and sustainable.
 
-164. In practical terms, in the age of AI and robotics, ensuring that the economy favors human dignity means adopting certain criteria for firm action. First, transparency and accountability: when data and algorithms influence credit distribution, personnel selection or access to services and opportunities, it is necessary that decisions be understandable, contestable and subject to oversight, so that individuals are not reduced to mere profiles. Second, inclusion and access: the benefits of innovation must be paired with investments in skills, infrastructure and essential services to ensure that technology does not widen the gap between those who have and those who have not. Finally, measures to ensure equity: taxation, social protection and industrial policies must correct the imbalances created by the concentration of wealth and power. Indeed, these criteria do not constitute a curb on innovation; instead they make it civilized and humane.
+164. In practical terms, in the age of AI and robotics, ensuring that the economy favors human dignity means adopting certain criteria for firm action.
+First, transparency and accountability: when data and algorithms influence
+credit distribution,
+personnel selection or
+access to services and opportunities,
+it is necessary that decisions be understandable, contestable and subject to oversight,
+so that individuals are not reduced to mere profiles.
+Second, inclusion and access:
+the benefits of innovation must be paired with investments in skills,
+infrastructure and
+essential services to ensure that technology does not
+<a id=4widen>[widen the gap between those who have and those who have not.](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)</a>
+Finally, measures to ensure equity: taxation, social protection and industrial policies must correct the imbalances created by the concentration of wealth and power.
+Indeed, these criteria do not constitute a curb on innovation; instead they make it civilized and humane.
 
 #### Families and young people: the social conditions for hope
 
@@ -624,25 +866,84 @@ The interdependence between peace and development, as Saint Paul VI propheticall
 
 #### Dependencies and societal control
 
-170. Having reflected on truth and education, work and families, we must now consider the impact of the digital revolution on human freedom, addressing risks to both the mental health of individuals and broader social challenges. The subtler forms of addiction linked to the “digital attention economy” should not be underestimated, since platforms and services are often designed to capture users’ time and attention, exploiting their vulnerabilities and weakening their inner freedom. When business models thrive on human weakness, the person is treated as a means rather than as an end; those who design or finance such systems bear a moral responsibility that cannot be ignored. There is an urgent need to promote technologies that strengthen interior freedom by fostering education in digital sobriety and the protection of minors, thus countering models that exploit vulnerability.
+170. Having reflected on truth and education, work and families, we must now consider the impact of the digital revolution on human freedom,
+addressing risks to both the mental health of individuals and broader social challenges.
+The subtler forms of addiction linked to the “digital attention economy” should not be underestimated,
+since platforms and services are often
+<a id=4capture>[designed to capture users’ time and attention, exploiting their vulnerabilities and weakening their inner freedom](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)</a>.
+When business models thrive on human weakness, the person is treated as a means rather than as an end;
+those who design or finance such systems bear a moral responsibility that cannot be ignored.
+There is an urgent need to promote technologies that strengthen interior freedom by fostering education in digital sobriety and the protection of minors,
+thus countering models that exploit vulnerability.
 
-171. A further risk, less visible but no less serious, is that of social control made possible by the massive collection of data and use of algorithmic systems. When every action—movements, purchases, relationships and preferences—leaves a trace, a new form of power emerges, namely the power to profile, predict and influence behavior, often without individuals being fully aware of it. If such kinds of data are used to make decisions affecting concrete opportunities — such as access to credit, employment or essential services — there is a risk of undermining freedom and discriminating against the most vulnerable. Furthermore, control is exercised not only through explicit prohibitions, but also through the architecture of visibility: what is amplified or rendered invisible, what is rewarded or penalized, ultimately shapes opinions and choices, fostering conformity and self-censorship. For this reason, freedom in the digital age is not merely a matter of interiority but also a public concern. It calls for clear rules, transparency, the possibility of recourse and proportionate limits on the use of intrusive technologies, so that technology will remain at the service of the human person and not become a form of control over consciences.
+171. A further risk, less visible but no less serious,
+is that of social control made possible by the massive collection of data and use of algorithmic systems.
+When every action—movements, purchases, relationships and preferences—leaves a trace,
+a new form of power emerges, namely the power to profile, predict and influence behavior, often without individuals being fully aware of it.
+If such kinds of data are used to make decisions affecting
+concrete opportunities — such as access to credit, employment or essential services — there is
+a risk of undermining freedom and discriminating against the most vulnerable.
+Furthermore, control is exercised not only through explicit prohibitions,
+but also through the architecture of visibility:
+what is amplified or rendered invisible,
+what is rewarded or penalized,
+ultimately shapes opinions and choices, fostering conformity and self-censorship.
+For this reason, freedom in the digital age is not merely a matter of interiority but also a public concern.
+It calls for clear rules, transparency, the possibility of recourse and proportionate limits on the use of intrusive technologies,
+so that <a id=4control>[technology will remain at the service of the human person and not become a form of control over consciences.](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)</a>
 
-172. At the root of these problems lies a technocratic and post-humanist mentality that tends to regard the human person as an object to be manipulated or a resource to be optimized, [^172] removing all safeguards against the unchecked pursuit of profit. What prevails is efficiency, rather than respect for freedom and human dignity. Some post-humanist currents even go so far as to envision “second-class” human beings, subordinate to the interests of elites who consider themselves superior. This troubling prospect becomes all the more serious when combined with technological tools that exponentially increase the capacity for control and selection. Even certain forms of structural indebtedness, which keep entire peoples in conditions of dependence, reflect the same mentality, in new forms, that tolerates relationships of subordination akin to slavery.
+172. At the root of these problems lies a technocratic and post-humanist mentality that tends to
+regard the human person as an object to be manipulated or a resource to be optimized,[^172]
+removing all safeguards against the unchecked pursuit of profit.
+<a id=4prevails>[What prevails is efficiency, rather than respect for freedom and human dignity](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it).</a>
+Some post-humanist currents even go so far as to envision “second-class” human beings, subordinate to the interests of elites who consider themselves superior.
+This troubling prospect becomes all the more serious when combined with technological tools that exponentially increase the capacity for control and selection.
+Even certain forms of structural indebtedness, which keep entire peoples in conditions of dependence, reflect the same mentality, in new forms, that tolerates relationships of subordination akin to slavery.
 
 #### Breaking the chains of new forms of slavery
 
-173. This distorted view of the human person is reflected today in various forms of servitude directly linked to the digital economy. Nothing in the world of AI is immaterial or magical. Every seemingly immediate and flawless response is the result of a long chain of mediation, involving vast networks of natural resources, energy infrastructure and, above all, people. A significant part of the digital economy’s functioning relies on the silent work of millions of people engaged in essential yet largely unseen activities, such as data labeling, model training and content moderation, often involving disturbing material. In many cases, these workers are young people, predominantly women, working under demanding conditions for minimal wages. Added to this invisible labor is the even harsher work of extracting the resources required for the production of the devices and microprocessors on which AI depends. In some regions of the world, children and adolescents work in dangerous conditions, crushing the materials from which rare earth elements are extracted. The bodies of these people are scarred, injured and worn down so that computational flow may continue uninterruptedly. Furthermore, criminal networks use online platforms, messaging systems, anonymous payment methods and profiling techniques in order to recruit, control and transport victims of trafficking — very often minors — reducing men and women to “data” to be tracked and “packages” to be moved around within the same digital circuits that support much of the global economy. This reality deeply challenges the moral conscience of our time. It is not enough to invoke efficiency, nor to celebrate the benefits of innovation, if they are built on a chain of exploitation that remains deliberately hidden. If technology promises emancipation, yet produces new forms of global subordination, it stands in contradiction to the fundamental principle of human dignity.
+173. This distorted view of the human person is reflected today in various forms of servitude directly linked to the digital economy.
+<a id=4magic>[Nothing in the world of AI is immaterial or magical.](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)</a>
+Every seemingly immediate and flawless response is the result of a long chain of mediation, involving vast networks of natural resources, energy infrastructure and, above all, people.
+A significant part of the digital economy’s functioning relies on
+the silent work of millions of people engaged in essential yet largely unseen activities,
+such as data labeling,
+model training and
+content moderation,
+often involving disturbing material.
+In many cases, these workers are young people, predominantly women, working under demanding conditions for minimal wages.
+Added to this invisible labor is the even harsher work of extracting the resources required for the production of the devices and microprocessors on which AI depends.
+<a id=4rare>[In some regions of the world, children and adolescents work in dangerous conditions, crushing the materials from which rare earth elements are extracted.  The bodies of these people are scarred, injured and worn down so that computational flow may continue uninterruptedly.](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)</a>
+Furthermore, criminal networks use online platforms, messaging systems, anonymous payment methods and profiling techniques in order to
+recruit, control and transport victims of trafficking — very often minors — reducing men and women
+to “data” to be tracked and “packages” to be moved around within the same digital circuits that support much of the global economy.
+This reality deeply challenges the moral conscience of our time.
+It is not enough to invoke efficiency, nor to celebrate the benefits of innovation,
+if they are built on a chain of exploitation that remains deliberately hidden.
+If technology promises emancipation, yet produces new forms of global subordination, it stands in contradiction to the fundamental principle of human dignity.
 
-174. The fight against new forms of slavery is a decisive test for the ethical discernment of AI and digital transformation. In continuity with the tradition inaugurated by Leo XIII, the Church renews her firm condemnation of all forms of slavery, trafficking and the commodification of persons. She likewise highlights the urgent need for reflection and action that keep the inalienable dignity of every human being and the common good, as both the focus and goal of society, as well as the guiding criteria for every personal, social and political choice. Without this ethical and humanizing reflection, the growing power of digital systems could lead us toward new atrocities that are no less shameful than those of the past that we now deplore, while we continue to present ourselves as “advanced” and “civilized” societies.
+174. The fight against new forms of slavery is a decisive test for the ethical discernment of AI and digital transformation.
+In continuity with the tradition inaugurated by Leo XIII, the Church renews her firm condemnation of all forms of slavery, trafficking and the commodification of persons.
+She likewise highlights the urgent need for reflection and action that keep the inalienable dignity of every human being and the common good, as both the focus and goal of society,
+as well as the guiding criteria for every personal, social and political choice.
+Without this ethical and humanizing reflection, the growing power of digital systems could lead us
+toward new atrocities that are no less shameful
+than those of the past that we now deplore,
+while we continue to present ourselves as “advanced” and “civilized” societies.
 
 175. Human trafficking must be recognized as a contemporary form of slavery and a grave violation of human dignity. Failing to respond firmly, or tolerating these practices in any way, is in some way to become complicit in today’s sins, which are akin to those of the past when slavery was being concealed and justified.[^173]
 
-176. In the development of her doctrine, the Church has gradually come to a deeper awareness of the gravity of these issues. It is true that past events cannot be judged anachronistically, as though the moral criteria that matured over time had always been available. Yet neither can we deny or diminish the delay with which both society and the Church came to denounce the scourge of slavery. In antiquity and the Middle Ages many individuals and even ecclesiastical institutions had slaves. Already in the early modern period, the Apostolic See of Rome, responding to requests from Sovereigns, intervened several times in order to regulate and legitimize forms of subjugation, and, in certain cases, the enslavement of “infidels.”[^174] It was only in the nineteenth century that a formal, absolute and universal condemnation of slavery was clearly articulated, notably under Pope Leo XIII.[^175] This development offers a clear example of the Church’s growth in understanding the perennial truths of Revelation that she safeguards. Although there was not always consistency in practice — given that slavery was long tolerated before being unequivocally condemned — there has been a continuous affirmation throughout history of the dignity of every human being, created in the image of God, even if it took eighteen centuries for its full incompatibility with slavery to be explicitly recognized. This constitutes a wound in Christian memory, one from which we cannot consider ourselves detached.[^176] It is impossible not to feel deep sorrow when contemplating the immense suffering and humiliation endured by so many in stark contrast to their immeasurable dignity as persons infinitely loved by the Lord. For this, in the name of the Church, I sincerely ask for pardon.
+176. In the development of her doctrine, the Church has gradually come to a deeper awareness of the gravity of these issues. It is true that past events cannot be judged anachronistically, as though the moral criteria that matured over time had always been available. Yet neither can we deny or diminish the delay with which both society and the Church came to denounce the scourge of slavery. In antiquity and the Middle Ages many individuals and even ecclesiastical institutions had slaves. Already in the early modern period, the Apostolic See of Rome, responding to requests from Sovereigns, intervened several times in order to regulate and legitimize forms of subjugation, and, in certain cases, the enslavement of “infidels.”[^174] It was only in the nineteenth century that a formal, absolute and universal condemnation of slavery was clearly articulated, notably under Pope Leo XIII.[^175] This development offers a clear example of the Church’s growth in understanding the perennial truths of Revelation that she safeguards. Although there was not always consistency in practice — given that slavery was long tolerated before being unequivocally condemned — there has been a continuous affirmation throughout history of the dignity of every human being, created in the image of God, even if it took eighteen centuries for its full incompatibility with slavery to be explicitly recognized. This constitutes a wound in Christian memory, one from which we cannot consider ourselves detached.[^176]
+It is impossible not to feel deep sorrow when contemplating the immense suffering and humiliation endured by so many in stark contrast to their immeasurable dignity as persons infinitely loved by the Lord.
+For this, in the name of the Church, I sincerely ask for pardon.
 
-177. This is why the memory of past complicity and blindness in the face of the injustice of slavery becomes a call to vigilance. What we have learned must be translated into discernment and responsibility in the present. If we want to avoid the need to ask for pardon again in the future for having failed to respect the treasure of human dignity that is required by our faith, it falls to us today to denounce, clearly and firmly, trafficking in its many forms and, together with all who are committed to this cause, to support concrete efforts of prevention, protection, liberation and rehabilitation.
+177. This is why the memory of past complicity and blindness in the face of the injustice of slavery becomes a call to vigilance.
+What we have learned must be translated into discernment and responsibility in the present.
+If we want to avoid the need to ask for pardon again in the future for having failed to respect the treasure of human dignity that is required by our faith,
+it falls to us today to denounce, clearly and firmly, trafficking in its many forms and, together with all who are committed to this cause, to support concrete efforts of prevention, protection, liberation and rehabilitation.
 
-178.  Even today, colonialism assumes new forms. It no longer dominates only bodies, but appropriates data, transforming personal lives into exploitable information.  Entire regions, especially those marked by structural fragility and limited geopolitical relevance, are currently subjected to a new mindset of extraction: that of health data, epidemiological profiles, genetic maps and demographic information. These have become the new “rare earths” of power: vital data which, once aggregated and analyzed, can be used to train predictive models, guide investment strategies, anticipate crises and, above all, determine who and what is deemed to matter. Those who control the health data of entire peoples — often collected under the pretext of aid, research or innovation — possess a structural leverage over the future, for they can shape needs and markets. They can also decide, before others, to whom medicines, investments and protections will be allocated. Here lies one of the most urgent moral challenges of our time: to ensure that shared knowledge becomes a true common good rather than an instrument of dominance. This requires restoring to individuals not only the data that describes them, but also the ability to decide how it is used, by whom and for whose benefit. Otherwise, the digital age will not be post-colonial, but colonial in another form.
+178. <a id=4colonialism>[Even today, colonialism assumes new forms. It no longer dominates only bodies, but appropriates data, transforming personal lives into exploitable information.](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)</a>
+Entire regions, especially those marked by structural fragility and limited geopolitical relevance, are currently subjected to a new mindset of extraction: that of health data, epidemiological profiles, genetic maps and demographic information. These have become the new “rare earths” of power: vital data which, once aggregated and analyzed, can be used to train predictive models, guide investment strategies, anticipate crises and, above all, determine who and what is deemed to matter. Those who control the health data of entire peoples — often collected under the pretext of aid, research or innovation — possess a structural leverage over the future, for they can shape needs and markets. They can also decide, before others, to whom medicines, investments and protections will be allocated. Here lies one of the most urgent moral challenges of our time: to ensure that shared knowledge becomes a true common good rather than an instrument of dominance. This requires restoring to individuals not only the data that describes them, but also the ability to decide how it is used, by whom and for whose benefit. Otherwise, the digital age will not be post-colonial, but colonial in another form.
 
 179. New forms of slavery are fueled by economic chains and digital infrastructures.  Therefore, action is required on several fronts. First, the supply chains that underpin the technological industry and the digital economy need to become more transparent, so that no competitive advantage is built upon hidden exploitation. Second, companies and investors need to adopt clear criteria for preventive ethical verification (due diligence), placing among their priorities the protection of workers, the fight against forced labor and the assessment of the social impact of data-driven business models. Furthermore, digital platforms must cooperate responsibly with authorities and civil society to prevent communication, payment and profiling tools from becoming channels for the recruitment and control of victims. When such efforts converge, the digital environment can be transformed from a space of exploitation into one of protection, prevention and the promotion of human dignity.
 
@@ -660,9 +961,29 @@ The interdependence between peace and development, as Saint Paul VI propheticall
 
 183. The digital revolution is changing the nature of conflict. Alongside conventional warfare, there are hybrid forms such as cyberattacks, information manipulation, campaigns of influence and the automation of strategic decisions. AI acts as an accelerating factor in these processes, particularly within a context where many technologies are intrinsically ambivalent. Consequently, what is created for defense can be rapidly repurposed for offense, and the fine line between protection and aggression becomes blurred. While AI can enhance the defense and protection of civilians, it can also lower the threshold for the use of force, shield people from responsibility and foster a culture in which the enemy is reduced to a statistic and the victim to “collateral damage.” Faced with these transformations, we must recall the principles of Social Doctrine — the dignity of the person, the common good, the universal destination of goods, subsidiarity, solidarity and justice — for they are criteria for judging whether technologies truly serve humanity or are subjugating it. We should, therefore, consider these principles as guidelines for our decision-making.
 
-184. In this chapter, therefore, I will compare two opposing approaches, which I have already evoked through biblical imagery in the Introduction. On the one hand, there is the temptation of constructing the Tower of Babel, relying on power and pride. On the other hand, patience is required in order to rebuild Jerusalem “piece by piece,” as in the time of Nehemiah, by safeguarding humanity and the common good.
+184. In this chapter, therefore, I will compare two opposing approaches,
+which I have already evoked through biblical imagery in the Introduction.
+On the one hand, there is the <a id=5pride>temptation of constructing the Tower of Babel, relying on power and pride.</a>
+On the other hand, patience is required in order to rebuild Jerusalem “piece by piece,”
+as in the time of Nehemiah, by safeguarding humanity and the common good.
 
-185. If we examine global dynamics, we can recognize more clearly the spread of a culture of power characterized by polarization and violence. The modern Babel can be seen not only in the globalized technocratic paradigm, but also in the remote clash between opposing imperialisms, between powers that wish to preserve their supremacy, and those that aspire to seize that supremacy, resulting in a multiplicity of local conflicts. Moreover, there seems to be no limit to the race — driven by a dehumanizing ambition — to develop evermore powerful technologies or to secure control over them. Yet, despite this downward spiral, we can also glimpse a great part of humanity that is striving to remain human and working to build the holy city of coexistence and peace. All too often, we are unwitting builders and clumsy architects of this city, capable of generous gestures but lacking an overall vision. This building project is slower, less visible and less spectacular, and awaits a better understanding and greater coordination so that it may become the conscious and clear responsibility of every community, from families to States, and the relations between Nations. It is this prospect of commitment, this construction site of hope, that we call the “civilization of love.”
+185. If we examine global dynamics, we can recognize more clearly the spread of a culture of power characterized by polarization and violence.
+The modern Babel can be seen not only in the globalized technocratic paradigm,
+but also in the remote clash between opposing imperialisms,
+between powers that wish to preserve their supremacy,
+and those that aspire to seize that supremacy,
+resulting in a multiplicity of local conflicts.
+Moreover, there seems to be no limit to the race — driven by a <a id=5aambition>dehumanizing ambition</a> — to develop
+evermore powerful technologies or to secure control over them.
+Yet, despite this downward spiral,
+we can also glimpse a great part of humanity that is striving to remain human and
+working to build the holy city of coexistence and peace.
+All too often, we are unwitting builders and clumsy architects of this city,
+capable of generous gestures but lacking an overall vision.
+This building project is slower, less visible and less spectacular, and
+awaits a better understanding and greater coordination so that it may become
+the conscious and clear responsibility of every community, from families to States, and the relations between Nations.
+It is this prospect of commitment, this construction site of hope, that we call the “civilization of love.”
 
 <!-- ------------------------------------------------------------------------------------ -->
 ### The civilization of love in the digital age
@@ -702,7 +1023,18 @@ We must acknowledge that, despite the desires and declarations for peace, the pa
 
 197. The above-mentioned scenario is linked to the unceasing development of weapons systems, particularly those involving AI. The Holy See has recently observed that the growing ease with which autonomous weapons systems can be deployed makes war more “feasible” and less subject to human control. This violates the principle that armed force should be used only as a last resort in cases of legitimate self-defense.[^183] For this reason, the development and use of AI in warfare must be subject to the most rigorous ethical constraints, to guarantee respect for human dignity and the sanctity of life and to avoid a race to develop such arms.[^184]
 
-198. Sometimes there is talk of “artificial moral agents,” as if machines were able to distinguish between right and wrong with greater consistency than a human being. Yet moral judgment cannot be reduced to calculation, for it involves conscience, personal responsibility and the recognition of the other as a person. Therefore, it is not permissible to entrust lethal or otherwise irreversible decisions to artificial systems. No algorithm can make war morally acceptable. AI does not remove the intrinsic inhumanity of conflict; indeed it can only bring about conflict more quickly and render it more impersonal, lowering the threshold for resorting to violence, transforming defense into threat prediction and thus reducing victims to data. In this way, it will accustom us to the idea that violence is inevitable and needs only to be optimized. This does not diminish the importance of instilling, as far as possible, values and sound judgment into the artificial systems we build, so that they can contribute to a moral ecosystem in which humans are better able to listen to their own consciences, as well as allowing AI models to establish appropriate boundaries.
+198. Sometimes there is talk of “artificial moral agents,” as if machines were able to distinguish between right and wrong with greater consistency than a human being.
+Yet moral judgment cannot be reduced to calculation, for it involves conscience, personal responsibility and the recognition of the other as a person.
+Therefore, it is not permissible to entrust lethal or otherwise irreversible decisions to artificial systems.
+No algorithm can make war morally acceptable.
+AI does not remove the intrinsic inhumanity of conflict;
+indeed it can only bring about conflict more quickly and render it more impersonal,
+lowering the threshold for resorting to violence, transforming defense into threat prediction and thus reducing victims to data.
+In this way, it will accustom us to the idea that violence is inevitable and needs only to be optimized.
+This does not diminish the importance of instilling, as far as possible,
+values and sound judgment into the artificial systems we build,
+so that they can contribute to a moral ecosystem in which humans are better able to listen to their own consciences,
+as well as allowing AI models to establish appropriate boundaries.
 
 199. It is not enough to invoke a generic type of ethics. Concrete criteria for discernment must be established. The first such criterion concerns personal responsibility. When a decision to strike becomes automated or opaque, the risk of abdicating responsibility increases. For this reason, the chain of responsibility must be identifiable and verifiable; those who design, train, authorize and employ technology must be held accountable for their decisions. The second criterion pertains to the moral timeframe for making judgments. While AI tends to expedite the decision-making processes, speed and efficiency should never be the supreme motivating force for the irreversible decisions made in the context of war. The third criterion is the identification and protection of civilians. Any technology that facilitates attacks without seeing the face of human beings lowers the moral threshold of conflict. Target selection and the use of force must not confuse combatants and non-combatants, nor ignore the impact on defenseless populations.
 
@@ -722,7 +1054,13 @@ We must acknowledge that, despite the desires and declarations for peace, the pa
 
 205. At the core of these issues is a false realism, based not only on the prevailing mentality of force, but on the cultural and anthropological belief that war is an inevitable part of human nature. It is said that things have always been this way, except for occasional pauses, and that it will always be so! As a result, the concern is no longer the search for peace — which has been lost as a point of reference on the international stage — but rather how and when to take military action. This same argument maintains that it would be irresponsible not to prepare for conflict. I would argue, however, that what is truly irresponsible is Realpolitik, the form of political “realism” that sows in consciences and in society an attitude of resignation to the inevitability of war, and dismisses peace and dialogue as utopian or irrational positions that ignore the risks at stake. In fact, peace is neither a naïve hope nor merely the absence of war; instead, it is always possible as the fruit of justice and charity.
 
-206. In such a climate, nihilism and pragmatism become intertwined and end up normalizing grave errors. Religious extremism and identity-based fanaticism ally themselves with irrational economic policies, while politics often turns to misinformation and ridiculing opponents, and systematically cultivating fears and resentments. Thus, diversity is increasingly perceived as a threat, which fuels a desire for possession, a will to dominate, hegemonic ambitions, abuses of power and a fear of those who are different, thereby creating an environment in which new conflicts can develop almost imperceptibly.[^186]
+206. In such a climate, nihilism and pragmatism become intertwined and end up normalizing grave errors.
+Religious extremism and identity-based fanaticism ally themselves with irrational economic policies,
+while politics often turns to misinformation and ridiculing opponents, and
+systematically cultivating fears and resentments.
+Thus, diversity is increasingly perceived as a threat, which fuels a desire for possession, a will to dominate,
+<a id=5bambition>hegemonic ambitions</a>, abuses of power and a fear of those who are different,
+thereby creating an environment in which new conflicts can develop almost imperceptibly.[^186]
 
 207. This, then, is the fertile ground for new wars that are perhaps even more dangerous than those of the past, since they tend to disregard all ethical limits. What was once considered unacceptable can now be carried out almost without hesitation, while the international response is increasingly influenced more by the interests of individual Governments than by the objective gravity of situations.  Decisions now seem to be driven almost exclusively by economic calculations, justified through media distortions, manufactured enthusiasm and “dreams” that inevitably shatter, generating frustration and further violence. When people come to believe that nothing is genuinely true and that principles are hollow words, then the fuse in their hearts is lit for new eruptions of intolerance and aggression.
 
@@ -733,9 +1071,32 @@ We must acknowledge that, despite the desires and declarations for peace, the pa
 <!-- ------------------------------------------------------------------------------------ -->
 ### Building the civilization of love
 
-210. The construction of a world in a state of perpetual conflict is an evil and must be named for what it is. This way of portraying our current situation may seem bleak or pessimistic, yet I consider it necessary to do so. The Christian perspective, however, is not limited to denouncing evil. We view history in the light of the crucified and risen Lord, to whom the Father has given “all authority in heaven and on earth” (Mt 28:18). We do not consider the present as a predetermined fate, but an opportunity for personal and collective conversion. Moreover, we believe in the power of the Kingdom, which grows from the tiny size of a mustard seed, which, once sown, sprouts and grows (cf. Mk 4:26-32). While the tumult of confusion is all around us, goodness grows silently from the earth. In the words of the prophet Isaiah: “Behold, I am doing a new thing; now it springs forth, do you not perceive it?” (Is 43:19).
+210. The construction of a world in a state of perpetual conflict is an evil and must be named for what it is.
+This way of portraying our current situation may seem bleak or pessimistic, yet I consider it necessary to do so.
+The Christian perspective, however, is not limited to denouncing evil.
+We view history in the light of the crucified and risen Lord, to whom the Father has given “all authority in heaven and on earth” (Mt 28:18).
+We do not consider the present as a predetermined fate, but an opportunity for personal and collective conversion.
+Moreover, we believe in the power of the Kingdom, which grows from the tiny size of a mustard seed, which, once sown, sprouts and grows (cf. Mk 4:26-32).
+While the tumult of confusion is all around us, goodness grows silently from the earth.
+In the words of the prophet Isaiah: “Behold, I am doing a new thing; now it springs forth, do you not perceive it?” (Is 43:19).
 
-211. A closer analysis of history confirms this. Even in the darkest nights, the Lord raises up men and women who refuse to give up, who persevere in doing good, who protect the vulnerable and open pathways to reconciliation. The memory of the saints, righteous people and the oft-forgotten peacemakers, show us that grace does not magically eliminate conflict, but instead it inspires active resistance to evil and an astonishing creativity in doing good. Christians see the darkness and acknowledge it for what it is, yet they do not merely gaze upon it passively, for they know the light and understand that the darkness has not overcome it and cannot defeat it (cf. Jn 1:5). For this reason, even when suffering seems to have the last word, Christians serve the good and are sustained by a theological hope that gives reality both meaning and direction.
+211. A closer analysis of history confirms this.
+Even in the darkest nights, the Lord raises up men and women
+who refuse to give up,
+who persevere in doing good,
+who protect the vulnerable and
+open pathways to reconciliation.
+The memory of the saints, righteous people and the oft-forgotten peacemakers, show us
+that grace does not magically eliminate conflict,
+but instead it inspires
+active resistance to evil and
+an astonishing creativity in doing good.
+Christians see the darkness and acknowledge it for what it is,
+yet they do not merely gaze upon it passively,
+for they know the light and
+understand that the darkness has not overcome it and cannot defeat it (cf. Jn 1:5).
+For this reason, even when suffering seems to have the last word,
+Christians serve the good and are sustained by a theological hope that gives reality both meaning and direction.
 
 #### We can all do our part
 
@@ -840,8 +1201,8 @@ If you are the body and members of Christ, then it is your sacrament that is pla
 Given in Rome, at Saint Peter’s, on 15 May, in the year 2026, the second of my Pontificate.
 
 ## References
-[^1]: Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes, 22: AAS 58 (1966), 1042.    
-[^2]: Cf. ibid., 11: AAS 58 (1966), 1033-1034.    
+[^apple]: Second Vatican Ecumenical Council, Pastoral Constitution Gaudium et Spes, 22: AAS 58 (1966), 1042.    
+[^pear]: Cf. ibid., 11: AAS 58 (1966), 1033-1034.    
 [^3]: Second Vatican Ecumenical Council, Dogmatic Constitution Lumen Gentium, 1: AAS 57 (1965), 5.    
 [^4]: Cf. Leo XIII, Encyclical Letter [***Rerum Novarum***](doc/refs/r004_1891_05_15_Rerum_Novarum.md) (15 May 1891), 22: ASS 23 (1890-1891), 653.    
 [^5]: Benedict XVI, Encyclical Letter Caritas in Veritate (29 June 2009), 69: AAS 101 (2009), 702.    
