@@ -37,7 +37,7 @@ Departments di Techologia e Religione della Durham University, Regno Unito
 [**0:35:00**](https://youtu.be/JxcXcP6NyRM?si=6-dMAftlfNmKHKTr&t=2115s) or
 [**Presentation (no ads)**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)    
 
-Holy Father, Eminences, Excellences, sisters and brothers.
+Holy Father, Eminencies, Excellencies, sisters and brothers.
 
 "I came that they might have life and have it abundantly," proclaimed Jesus.
 in this light *Magnifica Humanitas* asks: what does it mean to be a flourishing human being in a time of AI?
@@ -231,22 +231,22 @@ Thank you.
 [**00:57:00**](https://youtu.be/JxcXcP6NyRM?si=sGyewfs3JgH1FGFv&t=3490s) or
 [**Presentation (no ads)**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)    
 
-Holy father, your Emminences, your Excellences, Distinguished Speakers, Ladies and Gentlemen.
-Pope Leo XIV's *Magnifica Humanitas*  cites four concerns regarding artificial intelligence and free ones(?)
+Holy father, your Emminencies, your Excellencies, Distinguished Speakers, Ladies and Gentlemen.
+Pope Leo XIV's *Magnifica Humanitas*  cites four concerns regarding artificial intelligence and freedoms
 issuing a call to discern its effect on human flourishing
 and to deepen our understanding of Christian theological anthropology.
 
-**The first** cautions concern safeguarding the capacity of mind to attend truth.
+**The first** caution concerns safeguarding the capacity of mind to attend truth.
 Pope Leo reminds us that machine ought not to replace our responsibility to apprehend the truth, according to our own intellectual agency.
 We lose our ability to collaborate creatively with one another if we offload our personal responsibility for making judgment onto a machine.
 We must find the truth in ourself and in relation to others growing in conscientiousness of who we truly are.
 
-**The second** cautions center on preserving inner freedom.
+**The second** caution centers on preserving inner freedom.
 Pope Leo remind us to be aware of digital platforms that are
-["designed to capture user time and attention, exploring their vulnerability, and weakening the internal freedom."](../Magnifica_Humanitas.md#4capture)
+["designed to capture user time and attention, exploiting their vulnerability, and weakening their internal freedom."](../Magnifica_Humanitas.md#4capture)
 Pope Leo continues,
-["what prevails is efficiency rather than respect for freedom and the human dignity."](../Magnifica_Humanitas.md#4prevails)
-
+["what prevails is efficiency rather than respect for freedom and the human dignity."](../Magnifica_Humanitas.md#4prevails)<!--
+-->
 We may know many things, but lack a sense of purpose.
 Human can know not only a set of facts, but also make coherent a sense of information, thereby building a world view.
 Pope Leo means: if we offload our judgment onto machine,
@@ -257,99 +257,134 @@ Pope Leo argues that maintaining internal freedom requires a healthy attitude, c
 **The third** caution, *Magnifica Humanitas* raises regards the fact that truth is deeply relational.
 Data and fact are subject to, I quote Pope Leo,
 ["verification, cross checking of sources, and responsible argumentation."](../Magnifica_Humanitas.md#4verification)
-He means that knowledge is relational, for it is built through bonds of trust and shared practice; as well as an honest exchange with others, and with the Word.
-A point made by a theologian, the 20th century Jesuit philosopher, Bernard Lonergran's which fits well here,
+He means that knowledge is relational, for it is built through bonds of trust and shared practice;
+as well as an honest exchange with others, and with the world.
+A point made by a theologian, the 20th century Jesuit philosopher, Bernard Lonergran, which fits well here,
 when he says that a scientific collaboration requires trust.
 Knowledge is fundamentally communal, because it’s fundamentally rooted in our trust of one another and our openness to dialogue.
 
+<!-- -------------------------------------------------------------------------- -->
 So the social and the relational nature of consciousness and learning is announced by diverse historical experiences: human ties, emotions, joys, sorrow.
-It grows with families and the multifaceted cultures and expression that we have including what we call in Latin America: Convivencia; and Conjunto??; and Contindiano.??
+It grows with families and the multifaceted cultures and expression that we have including what we call in Latin America: Convivencia; and Conjunto; and la Cotidiana.
 Arising out of the problems of the people---consciousness
 arises from among the poor as claimed by [Saint Oscar Romero](https://www.vaticannews.va/en/saints/03/24/st--oscar-romero--martyr.html):
-"It is the poor who tell us what the world is, and what the Church's service to the Word should be."
-
-1:00:00    
+"It is the poor who tell us what the world is, and what the Church's service to the world should be."<!--
+-->
 The poor raise our consciousness that those devoid of human faces are to recover humanness.
 For they too, like all of us, are the embodiment of magnificent humanity.
 Consciousness also arises through living the gospel, genuinely ??? from work and marriage from embodied intercultural,
 and intercontextual relationship, which will hardly be made through AI.
 
-The automization of learning, that is going to AI to learn rather than learning from the one another, is destructive of the shared inheritance of communities.
-We learn the best when we are loved and encouraged to be confident with our abilities.
-We cannot actualize our cognitive capacities without the love of others.
-
+<!-- -------------------------------------------------------------------------- -->
+The automatization of learning, that is going to AI to learn rather than learning from the one another, is destructive of the shared inheritance of communities.
+**We learn the best when we are loved and encouraged to be confident with our abilities.**
+We cannot actualize our cognitive capacities without the love of others.<!--
+-->
 In most communal cultures of Africa,
-there is this concept of Ubuntu, a philosophical concept that is according to Desmond Tutu, philosopher of Bantu??, "I am, because I belong. I participate, I share."
-
+there is this concept of Ubuntu, a philosophical concept that is according to Desmond Tutu, philosopher of Ubuntu, "I am, because I belong. I participate, I share."<!--
+-->
 The Ubuntu African anthropological vision resonates deeply with the communal culture of Asia.
-In Korea, we have the concept of Chemyeon?, in the sense of emotional connectedness that value that we over the individual success.
-In Indonesia and in Malaysia we have the concept of Goong Royal?, meaning to share and carry heavy burden together.
-In the Philippines, there is this concept tobuyanyhan??, which is a mutual support within villages that hold communities together.
+In Korea, we have the concept of jeong, in the sense of emotional connectedness that values that we over the individual success.
+In Indonesia and in Malaysia we have the concept of gotong royong, meaning to share and carry heavy burden together.
+In the Philippines, there is this concept bayanihan, which is a mutual support within villages that hold communities together.
 So most tribal and indigenous cosmological vision teach us that human and the environment are in a symbiotic relationship,
-affirming the self is muntu???, the person existing beyond the material focus on efficiency and accumulation.
+affirming the self is Mutoo, the person existing beyond the material focus on efficiency and accumulation.
+That *Magnifica Humanitas* call on us not to lose these human values to AI.
 
-That *Magnifica Humanitas* call on us not to lose this human values to AI.
+<!-- -------------------------------------------------------------------------- -->
 AI can lead people to treat learning as an artificial isolated transactional process rather than a communion biological one,
 so there is therefore a danger that those cultures that understand learning is a matter of relationship, community, and dialogue will be eroded.
-This would make those cultures even more vulnerable to colonial extractivism.
+This would make those cultures even more vulnerable to colonial extractivism.<!--
+-->
+For this reason, I emphasize Pope Leo's claim that
+["Even today, colonial lease assumes new forms; it’s no longer dominated on the bodies, but appropriated data transforming personal lives into exploitable information."](../Magnifica_Humanitas.md#4colonialism)
 
-For this reason, I emphasize Pope Leo's claim that "Even today, colonial lease assumes new forms;
-it’s no longer dominated on the bodies, but appropriated data transforming personal lives into exploitable information."
-
+<!-- -------------------------------------------------------------------------- -->
 Yes, AI can very easily be colonial;
-because it’s time???, social imagination, creativity and insight.
-
-The speed of AI extinguishes the desire to ask the questions.
+because it stymies social imagination, creativity and insight.<!--
+-->
+[The speed of AI extinguishes the desire to ask the questions.](../Magnifica_Humanitas.md#4extinguish)
 Pope Leo warns us that knowing is not merely an accumulation of data already stimulated by technology,
-but rather the ability to engage in the four basic human basic activities that loaner gun suggested that experience:
-experiencing, understanding, judging and deciding.
+but rather the ability to engage in the four basic human basic activities that Lonergan suggested that are:
+experiencing, understanding, judging and deciding.<!--
+-->
+Knowing goes with these four operations.
+[Pope Leo cautions us not to forfeit wonder to AI.](../Magnifica_Humanitas.md#3wonder)
+And to remember that,
+["Nothing in the world of AI is immaterial or magical."](../Magnifica_Humanitas.md#4magic)<!--
+-->
+[He suggests rethinking the role of teachers, schools and evaluation methods](../Magnifica_Humanitas.md#4rethink)
+to provide an authentically integrated education that forms the inner and the whole person enabling growth in virtue.
 
-Knowing goes with this for operation.
-Pope Leo cautions us not to forfeit wonder to AI.
-And to remember that, "Nothing in the world of AI is immaterial or magical."
-
-He suggests rethinking the role of teachers schools and evaluation method to provide an authentically integrated education that forms the inner and the whole Person enabling grow in virtue.
-One way the church and society in the global south could leverage this technology for good is by giving people a voice, making good use of the local means that preserve the culture of encounters
+<!-- -------------------------------------------------------------------------- -->
+One way the church and society in the global south could leverage this technology for good is by giving people a voice,
+making good use of the local means that preserve the culture of encounters.
 All the many culture, the many structure of brotherhood and sisterhood that we have:
-where we can hold each other accountable; where we can touch each other; we can cry with each other.
+where we can hold each other accountable;
+where we can touch each other;
+we can cry with each other.
 
-Finally, the four cautions articulated by Pope Leo concern the protection of workers, especially the vulnerable workers.
-AI is increasing the vulnerability of those seeking jobs, especially in developing countries.
-
-*Magnificent humanitas* recall the need to look beyond GDP, and like for Francis to care for our common home and break "the chains of new forms of slavery."
-
+<!-- -------------------------------------------------------------------------- -->
+**Finally, the fourth caution** articulated by Pope Leo concern the protection of workers, especially the vulnerable workers.
+AI is increasing the vulnerability of those seeking jobs, especially in developing countries.<!--
+-->
+*Magnificent humanitas* recalls the need to look beyond GDP, and like for Francis, to care for our common home and
+break ["the chains of new forms of slavery."](../Magnifica_Humanitas.md#breaking-the-chains-of-new-forms-of-slavery)<!--
+-->
 These chains need to be disarmed.
 Technology needs to be disarmed.
 But that does not mean renouncing it.
-But using it as a means, not as an end in itself.
+But using it as a means, not as an end in itself.<!--
+-->
+Pope Leo calls for the
+[irreplaceable social function of credit in creating jobs,](../Magnifica_Humanitas.md#4credit)
+urging us to
+[reject finance for its own sake.](../Magnifica_Humanitas.md#4sake)
 
-Pope Leo calls for the irreplaceable social function of credit in creating jobs.
-Urging us to reject finance for its one sec?.
-
-So technology should serve human flourishing and human dignity, not control conscienceness.
-
-Pope Leo denounce a technological development that replace humanity and widens the gap between the rich and the poor, as AI tends to do---following the patterns of economic globalization.
-
-As Pope Francis already suggested in the world today peace letter in January 2024,
-"technological development that do not lead it to an improvement in the quality of life of all humanity,
-but on the contrary, aggravate, inequalities and conflict can never count is true progress."
-
-*Magnificent Humanitas* shed the light on the trans-national actors and international forces at play that benefit from AI to the detriment of the poor, especially the workers who are the poorest.
-
-And I quote Pope Leo saying, "who pay the highest price at the poorest of the promise, automatic general prosperity of improved to be illusory."
+<!-- -------------------------------------------------------------------------- -->
+[So technology should serve human flourishing and human dignity, not control conscienceness.](../Magnifica_Humanitas.md#4control)
+Pope Leo denounce a technological development that replace humanity and
+[widens the gap between the rich and the poor](../Magnifica_Humanitas.md#4widen),
+as AI tends to do---following the patterns of economic globalization.<!--
+-->
+As Pope Francis already suggested in the World Day of Peace letter in January 2024,
+"technological development that does not lead it to an improvement in the quality of life of all humanity,
+but on the contrary, aggravate, inequalities and conflict can never count is true progress."<!--
+-->
+*Magnificent Humanitas* sheds light on the trans-national actors and international forces at play
+that benefit from AI to the detriment of the poor, especially the workers who are the poorest.<!--
+-->
+And I quote Pope Leo saying,
+"[who pay the highest price at the poorest.](../Magnifica_Humanitas.md#4highest)
+And the [promise of automatic general prosperity often prove to be illusory.](../Magnifica_Humanitas.md#4illusory)"
 He goes beyond mutuality.
-Pope Leo goes beyond reciprocity to emphasize authority: that is the otherness of the victim.
+Pope Leo goes beyond reciprocity to emphasize alterity: that is, the otherness of the victim.
 
-And here I remember Gustavo Gutierrez when I read, saying El existing También existence
-It is a demand to make a space for the visible ordinance of Christ in the list of these as it’s written in Matthew 25 says I caught in some regions of the word, especially in the global self, which is Miami Emphasis children, and adolescent to work in dangerous conditions, crushing the material from which element are extracted the bodies of the people are injured and worn down so that computer Chanel flow may continue and interrupted, and of course, indeed same mining workers the mining workers define the place and condition of work as we work in our own grave, the obligation to shutter these or chance and define the right of vulnerable workers rest with us all and to conclude Magnifier monitor reminders that the dignity of all workers is fundamental to the common good, especially in the age of AI where workers suffering often goes, and notice in the global supply chain as AI provide user with immediate result, leaving them without understanding who’s life made those result possible and here I think, specially of all immigrant workers, including the farm workers most of them put food on our tables.
+And here I remember Gustavo Gutiérrez when I read, Pope Leo saying "El solta mien existed. La spectama tombien existed. De ta nemos quesqua cuchal el dios de la progress"
+
+It is a demand to make a space for the irreducible otherness of Christ in "the least of these" as it’s written in Matthew 25.
+Pope Leo says, "in some regions of the world, (especially in the Global South, which is my emphasis),
+[children and adolescent to work in dangerous conditions, crushing the material from which rare earth elements are extracted. The bodies of the people are scarred, injured and worn down so that computational flow may continue uninterruptedly.](../Magnifica_Humanitas.md#4illusory)<!--
+-->
+Indeed some mining workers, the mining workers, define the place and condition of work as "We work in our own grave."<!--
+-->
+The ethical obligation to shutter these oppressive chains and defend the right of vulnerable workers rests with us all.<!--
+-->
+And to conclude, *Magnifica Humantas* reminds us that safeguarding the dignity of all workers is fundamental to the common good.
+Especially in the age of AI, where workers suffering often goes unnoticed in the global supply chains
+as AI provide user with immediate result,
+leaving them without understanding who’s life made those results possible.
+And here I think, especially of all immigrant workers, including the farm workers, most of whom do put food on our tables.
+
 Thank you.
 
+<!-- ======================================================================== -->
 ## S. Em. Card. Michael Caerny S.J.
 [**01:16:00**](https://youtu.be/JxcXcP6NyRM?si=Yz-T9WYMGSJGXg5x&t=4560s) or
 [**Presentation (no ads)**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)    
 
 <!-- -------------------------------------------------------------------------- -->
-Dear Holy Father, your eminences and excellences, distinguish speakers and ladies and gentlemen.
+Dear Holy Father, your eminencies and excellencies, distinguish speakers and ladies and gentlemen.
 I’m so grateful for this opportunity to speak on the occasion of immense significance when
 Pope Leo XIV presents *Magnifica Humanitas* to the Church and to the world,
 asking us to view the age of artificial intelligence with clarity and hope.
