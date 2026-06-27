@@ -117,7 +117,7 @@ What image of human worth?
 And who determines that worth?
 For our freedom to be augmented, and not habituated, or coerced or erroded, we must be free in work, in education, and in families to use these technologies (or not), to support them (or not).
 
-Pope Leo quotes Romano Guardini observation made nearly a century ago “contemporary man has not been trained to use power well.“
+Pope Leo quotes Romano Guardini observation made nearly a century ago [“contemporary man has not been trained to use power well.“](../Magnifica_Humanitas.md#3Guardini)
 This spiritual diagnosis runs like connecting thread through the Encyclical, addressing how technology is reshaping multilateral politics, Pope Leo diagnosis a deep connection between poverties of relationship and a culture of power, characterized by polarization and violence.
 He describes deep connections between what he calls the false realisms that normalize war and social domination, that automate reality and reduce the person to data, and that lock us into friend/foe collective identities.
 He observes that "might is right" masquerades, it pretends to be strength; but is simply force that reveals impoverished relationships behind its mask.
@@ -138,6 +138,7 @@ Her Magnificat gives flesh to the insistent question of this Encyclical.
 
 How can we form communities that in an age of accelerating technological change, place the human first, cultivating spiritual and ethical growth, justice and unity, and celebrate that humanity's author, architect, and sole Savior is the Trinitarian God in whom we place our trust.
 
+<!-- ======================================================================== -->
 ## Christopher Olah
 Co-founatore di Anthropic (USA)    
 [**00:49:00**](https://youtu.be/JxcXcP6NyRM?si=Jyn5XftbaXlhywLD&t=2975s) or
@@ -149,7 +150,10 @@ It’s an honor to be here today.
 I want to begin with something that may sound strange coming from the cofounder of an AI company
 and someone who chose this work out of a desire to help things go well for humanity.
 Every frontier AI lab, including Anthropic, operates inside a set of incentives and constraints, that can sometimes conflict with doing the right thing.
-The pressure to stay commercially viable and to stay at the frontier of research: geopolitical pressure and the older plainer pressures of pride and ambition.
+The pressure to stay commercially viable[[1](../Magnifica_Humanitas.md#1acomm),[2](../Magnifica_Humanitas.md#1bcomm),[3](../Magnifica_Humanitas.md#3comm),[4](../Magnifica_Humanitas.md#4acomm),[5](../Magnifica_Humanitas.md#4bcomm),[6](../Magnifica_Humanitas.md#protecting-freedom-against-dependencies-and-commercialization)]
+and to stay at the frontier of research: geopolitical pressure and
+the older plainer pressures of pride[[7](../Magnifica_Humanitas.md#ipride),[8](../Magnifica_Humanitas.md#5pride)] and
+ambition[[9](../Magnifica_Humanitas.md#5aambition),[10](../Magnifica_Humanitas.md#5bambition)].
 No matter how sincerely any of us intend to do the right thing, and I believe many of us do, we will always be influenced by those incentives.
 That is why if we want this technology to go well it is enormously important that there be people outside those incentives---people who care about things going well, who are paying close attention, who are willing to say hard things and insist on safety.
 Who are willing to be our earnest thoughtful critics.
@@ -222,13 +226,14 @@ Let it also be a decisive step towards a hopeful future for a magnificent humani
 
 Thank you.
 
+<!-- ======================================================================== -->
 ## Prof.ssa Leocadie Lushombo i.t.
 [**00:57:00**](https://youtu.be/JxcXcP6NyRM?si=sGyewfs3JgH1FGFv&t=3490s) or
 [**Presentation (no ads)**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)    
 
 Holy father, your Emminences, your Excellences, Distinguished Speakers, Ladies and Gentlemen.
-Pope Leo XIV *Magnifica Humanitas*  cites four concerns regarding artificial intelligence and free ones(?)
-issuing a call to discern its its effect on human flourishing
+Pope Leo XIV's *Magnifica Humanitas*  cites four concerns regarding artificial intelligence and free ones(?)
+issuing a call to discern its effect on human flourishing
 and to deepen our understanding of Christian theological anthropology.
 
 **The first** cautions concern safeguarding the capacity of mind to attend truth.
@@ -239,15 +244,19 @@ We must find the truth in ourself and in relation to others growing in conscient
 **The second** cautions center on preserving inner freedom.
 Pope Leo remind us to be aware of digital platforms that are
 ["designed to capture user time and attention, exploring their vulnerability, and weakening the internal freedom."](../Magnifica_Humanitas.md#4capture)
-Pope Leo continues, "what prevails is efficiency rather than respect for freedom and the human dignity."
+Pope Leo continues,
+["what prevails is efficiency rather than respect for freedom and the human dignity."](../Magnifica_Humanitas.md#4prevails)
 
 We may know many things, but lack a sense of purpose.
 Human can know not only a set of facts, but also make coherent a sense of information, thereby building a world view.
-Pope Leo means: if we offload our judgment onto machine, then we will no longer strive to know the whole---and we consign ourselves to mere recognition of partial aspect.
-Pope Leo argues that maintaining internal freedom requires a healthy attitude, characterized by: attitude, such as: silence, deep study, reading and careful analysis.
+Pope Leo means: if we offload our judgment onto machine,
+[then we will no longer strive to know the whole](../Magnifica_Humanitas.md#4whole)---and we consign ourselves to mere recognition of partial aspect.
+Pope Leo argues that maintaining internal freedom requires a healthy attitude, characterized by:
+[attitude, such as: silence, deep study, reading and careful analysis](../Magnifica_Humanitas.md#4attitude).
 
 **The third** caution, *Magnifica Humanitas* raises regards the fact that truth is deeply relational.
-Data and fact are subject to, I quote Pope Leo, "verification, cross checking of sources, and responsible argumentation."
+Data and fact are subject to, I quote Pope Leo,
+["verification, cross checking of sources, and responsible argumentation."](../Magnifica_Humanitas.md#4verification)
 He means that knowledge is relational, for it is built through bonds of trust and shared practice; as well as an honest exchange with others, and with the Word.
 A point made by a theologian, the 20th century Jesuit philosopher, Bernard Lonergran's which fits well here,
 when he says that a scientific collaboration requires trust.
