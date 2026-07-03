@@ -26,7 +26,7 @@ Text and translation from Italian needed
 [**Presentation (no ads)**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)    
 Text and translation from Italian needed
 
-[**WORK IN PROGRESS (WIP)**](doc/Cardinal_Victor_Manuel_Fernandez.md)
+[**WORK IN PROGRESS (WIP)**](/doc/Cardinal_Victor_Manuel_Fernandez.md)
 I am learning Italian so that I may understand and translate Cardinal Fernández's resplendent reflections
 AND so I may have ears that can hear the homilies of Pope Leo.
 
