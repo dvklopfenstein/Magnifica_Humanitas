@@ -10,9 +10,11 @@ AND so I may have ears that can hear the homilies of Pope Leo.
 <!-- -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   -->
 17:09    
 Good day to all and everyone.
-*Magnifica Humanitas* XYZ Holy Father
+*Magnifica Humanitas* XYZ on May 25, this year XYZ
+XYZ Holy Father
 
 17:28    
+today illuminate
 Christian XYZ
 indifferent
 
@@ -20,7 +22,7 @@ indifferent
 17:50    
 artificial intelligence
 XYZ war
-XYZ artificial intelligence
+XYZ time of artificial intelligence
 XYZ artificial intelligence
 XYZ the presentation of *Magnifica Humanitas*
 
@@ -29,7 +31,7 @@ XYZ the presentation of *Magnifica Humanitas*
 XYZ theology
 XYZ our spirituality
 XYZ always with God
-XYZ transformation
+XYZ transformation of our
 
 <!-- -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   -->
 19:10    
@@ -42,7 +44,9 @@ XYZ assassination XYZ the children XYZ war XYZ international XYZ justified
 
 <!-- -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   -->
 19:48    
+yes
 XYZ our humanity
+cruelty
 
 <!-- -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   -->
 20:18    
@@ -62,12 +66,12 @@ XYZ manifest XYZ magnificent
 21:12    
 XYZ prophetical
 XYZ Picasso
-XYZ the film, *Shindler's List*,
+XYZ or the film, *Shindler's List*,
 XYZ
 XYZ record the events
-XYZ moment
+XYZ momententous
 XYZ the beautiful testimony of Martin Luther King
-XYZ Nelson Mandela XYZ
+or XYZ Nelson Mandela XYZ
 
 <!-- -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   -->
 22:00    
@@ -77,7 +81,12 @@ XYZ grandiose
 
 <!-- -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   -->
 23:27
+XYZ contemplate
+XYZ illuminate
 XYZ thank you
+XYZ sophisticated
+XYZ something
+XYZ substitute
 XYZ possibilities
 XYZ problem
 XYZ our lives
@@ -88,7 +97,7 @@ technology with
 XYZ something XYZ
 
 <!-- -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   -->
-24:20
+24:20    
 XYZ dependent on technology
 XYZ infinite our XYZ
 XYZ consistent our XYZ humanity
@@ -96,3 +105,95 @@ XYZ consistent our XYZ humanity
 <!-- -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   -->
 24:58    
 XYZ the life
+
+<!-- -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   -->
+25:04    
+that life (quella vita)
+door (porta)
+
+<!-- -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   -->
+25:13    
+hope (lesperansa)
+
+<!-- -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   -->
+25:22    
+technology invention
+substitute
+technological mishap (capita technologic)
+much hope (la speranza molta)
+superficial
+
+<!-- -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   -->
+25:46
+And Love, love
+brothers and sisters (fratelli a sorelli?)
+
+<!-- -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   -->
+26:03    
+spiritual dimension
+God
+systematic technology
+
+<!-- -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   -->
+26:23    
+many
+possibilities
+America
+technology
+
+<!-- -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   -->
+26:38    
+unlimited
+grand
+encyclical speaks
+our experience
+unlimited
+travers
+unlimited
+our
+passion
+generosity
+also
+the spiritual experience
+God
+fundamental
+supreme
+anki love
+sempre softly
+encyclical
+sweet
+splendid
+unlimited
+humanity
+triumph
+
+<!-- -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   -->
+29:59    
+universal
+
+<!-- -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   -->
+transformation
+our limitations
+thank you saint
+also 
+new
+Pope Francis
+humanity
+when
+humanity
+God
+
+<!-- -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   -->
+31:52    
+thank you
+Francesco Assissi
+algorithmic techniques
+all consideration
+demand fundamental
+want 
+source technology
+or
+magnificent
+with God
+
+Thank you

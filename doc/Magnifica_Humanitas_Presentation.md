@@ -26,7 +26,7 @@ Text and translation from Italian needed
 [**Presentation (no ads)**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)    
 Text and translation from Italian needed
 
-[**WORK IN PROGRESS (WIP)**](doc/Cardinal_Victor_Manuel_Fernandez.md)
+[**WORK IN PROGRESS (WIP)**](/doc/Cardinal_Victor_Manuel_Fernandez.md)
 I am learning Italian so that I may understand and translate Cardinal Fernández's resplendent reflections
 AND so I may have ears that can hear the homilies of Pope Leo.
 
@@ -39,6 +39,7 @@ Departments di Techologia e Religione della Durham University, Regno Unito
 
 Holy Father, Eminencies, Excellencies, sisters and brothers.
 
+<!-- ------------------------------------------------------------------------ -->
 "I came that they might have life and have it abundantly," proclaimed Jesus.
 in this light *Magnifica Humanitas* asks: what does it mean to be a flourishing human being in a time of AI?
 This letter is not a neutral consideration of that question any more than today’s technologies embody neutral world views.
@@ -47,96 +48,117 @@ It warns of a growing culture of power that is reshaping work, families, educati
 It calls us to transform modes of power that dominate into forms of shared power,
 and to measure technological developments by their contributions to true social and ethical progress.
 
-11 years ago, Pope Francis' [Laudato Sí](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html)
+<!-- ------------------------------------------------------------------------ -->
+Eleven years ago, Pope Francis' [Laudato Sí](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html)
 called us to an urgent, *an urgent*, care for the Earth and for the poorest.
 Warning of a technocratic paradigm that measures human worth by utility.
 Today, Pope Leo shows, that to overcome this technocratic paradigm requires us now to just as urgently safeguard the human.
-An integral ecology requires an integral humanism centered on Jesus Christ.
-
+An integral ecology requires an integral humanism centered on Jesus Christ.<!--
+-->
 This appeal is no platitude.
 No idea is more central to modern society than that of the free human being.
 Yet this ideal is now at breaking point.
 This leads some to grief, to anger, to despair.
 Others, to a desire to overcome our humanity, striving to become our own gods.
 
+<!-- ------------------------------------------------------------------------ -->
 Instead, *Magnifica Humanitas* presents human freedom as a gift, anchored in a truth, that is personal, embodied, and relational.
 Our freedom and intelligence expressed themselves in a knowing that is irreplaceably embodied
-through work, care, contemplation, suffering even, and friendship.
-
+through work, care, contemplation, suffering even, and friendship.<!--
+-->
 The Encyclical names free human beings as a loved creation; equal in dignity, created for relationship, rational shapers of the world, and a neighbour without exception.
 **The power that we have is the capacity to nurture this truth together.**
-Without such guiding truths our freedom becomes little more than an instrument in the hands of arbitrary powers.
-
-Distilling these truths for a time of AI, *Magnifica Humanitas* offers a new synthesis of the Churches social doctrine.
+Without such guiding truths our freedom becomes little more than an instrument in the hands of arbitrary powers.<!--
+-->
+Distilling these truths for a time of AI, *Magnifica Humanitas* offers a new synthesis of the Church's social doctrine.
 As recent times have perhaps shown when the Church speaks on social matters, some complain of unwelcome interference.
-Yet, the Church rightly speaks, because her mission is to reveal the face of God in history and to accompany humanity as it struggles towards its true good and to foster unity.
-
+Yet, the Church rightly speaks, because her mission is to reveal the face of God in history and to accompany humanity as it struggles towards its true good and to foster unity.<!--
+-->
 Discerning our path in history is a communal task in dialogue with cultures, with sciences, with people of all faiths and beliefs.
 Many social vocations bear a special responsibility for this task.
 
+<!-- ------------------------------------------------------------------------ -->
 However, a healthy social dialogue means that we must step out of our silos
 and recognize ourselves as more than tools of the state, market agents, or user tools of an algorithmic order.
 The Church's social doctrine invites us into a space of encounter and mutual accompaniment to share in a collective search for truth, for justice, and for flourishing.
-In this space, the most vulnerable, and victims, the newly enslaved, have faces and names and they are heard first.
-
+In this space, the most vulnerable, and victims, the newly enslaved, have faces and names and they are heard first.<!--
+-->
 *Magnifica Humanitas* offers social principles to assist this dialogue.
 Over 135 years, the popes have taught that the foundation of the social order is the dignified human person.
 That the common good cannot truly be sought without the recognition and the participation of all,
 that the resources of the Earth are to meet the needs of all, including future generations,
 and that Jesus Christ makes us neighbors bound in structural and personal solidarity.
-That power must be transparent and accountable, *and* exercised at multiple social levels.
-
-0:41:00    
+That power must be transparent and accountable, *and* exercised at multiple social levels.<!--
+-->
 This Encyclical insists that these principles apply inside the Church, as well as outside.
+
+<!-- ------------------------------------------------------------------------ -->
+0:41:00    
 The Encyclical tradition also traditionally exposes, false idols.
 The popes have taught: we will not not be saved by the market; nor by historical forces; nor by the nation state.
 Today, Pope Leo cautions that we will not be saved by AI either or by its post- and trans-humanisms.
 Such ideologies present total autonomy, radical automation, machine consciousness, and the overcoming of human limits as "saving goals."
-In doing so they create new dependencies, exclusions, and inequalities---to quote the Holy father.
-
+In doing so they create new dependencies, exclusions, and inequalities---to quote the Holy father.<!--
+-->
 Instead, limits are part of how we learn compassion, generosity, and healthy interdependence.
 Part of how the heart is pierced, and how it expands towards communion and part of how the soul grows in a wisdom that is more than mere knowledge.
+
+<!-- ------------------------------------------------------------------------ -->
 Yet the encyclical tradition, we should be clear, tells a fundamentally positive story about technologies.
 Since our origins, humans have created technologies the augment their freedom, alleviate suffering, and meet real needs.
 When technologies remain tools, serving a clear good, they can be viewed as an extension of the freedom that God gives us in Genesis to till and keep the land.
-Technologies belong therefore within the terms of the covenant between God and humanity, serving the human vocation to decent work, to raise families, to seek truth as a common good, to build community, and to foster peace and unity.
-
+Technologies belong therefore within the terms of the covenant between God and humanity,
+serving the human vocation to decent work, to raise families, to seek truth as a common good, to build community, and to foster peace and unity.<!--
+-->
 The traditions question is therefore constructive.
 How do we cultivate technologies that are truly good news for all.
 Today’s sophisticated technologies are not mere tools, but tools that like the languages they harvest, carry cultures and bear moral architectures.
-*Magnifica Humanitas* notes that the powers of innovation that have traditionally resided with states are today concentrated in the hands of a few wealthy individuals---whose cultures are concealed from common good scrutiny and risk appearing as a new emperium.
-
+*Magnifica Humanitas* notes that the powers of innovation that have traditionally resided with states
+are today concentrated in the hands of a few wealthy individuals---whose cultures are concealed from common good scrutiny and risk appearing as a new emperium.<!--
+-->
 Pope Leo prompts us to ask in the interest of the common good, how can we resist such distorted concentrations of power in the hands of the few?
 How can we reengage technologies as a matter of the common good, accountable to the good of every human and all humanity?
 
+<!-- ------------------------------------------------------------------------ -->
 *Magnifica Humanitas* acknowledges that many of us, perhaps including in this room today, do not feel confident to explore these questions.
-**This letter empowers each of us to play our part.**
-
+**This letter empowers each of us to play our part.**<!--
+-->
 Asking what kind of vision of human excellence do I encounter here in this time of AI?
 What image of human worth?
 And who determines that worth?
-For our freedom to be augmented, and not habituated, or coerced or erroded, we must be free in work, in education, and in families to use these technologies (or not), to support them (or not).
-
+For our freedom to be augmented, and not habituated, or coerced or erroded,
+we must be free in work, in education, and in families to use these technologies (or not), to support them (or not).<!--
+-->
 Pope Leo quotes Romano Guardini observation made nearly a century ago [“contemporary man has not been trained to use power well.“](../Magnifica_Humanitas.md#3Guardini)
-This spiritual diagnosis runs like connecting thread through the Encyclical, addressing how technology is reshaping multilateral politics, Pope Leo diagnosis a deep connection between poverties of relationship and a culture of power, characterized by polarization and violence.
-He describes deep connections between what he calls the false realisms that normalize war and social domination, that automate reality and reduce the person to data, and that lock us into friend/foe collective identities.
-He observes that "might is right" masquerades, it pretends to be strength; but is simply force that reveals impoverished relationships behind its mask.
-
+This spiritual diagnosis runs like connecting thread through the Encyclical, addressing how technology is reshaping multilateral politics,
+Pope Leo diagnosis a deep connection between poverties of relationship and a culture of power, characterized by polarization and violence.
+He describes deep connections between what he calls the false realisms that normalize war and social domination,
+that automate reality and reduce the person to data, and that lock us into friend/foe collective identities.
+He observes that "might is right" masquerades, it pretends to be strength; but is simply force that reveals impoverished relationships behind its mask.<!--
+-->
 Those rich in relationships, know how to dialogue, how to negotiate, and how to speak across languages without domination.
-This Encyclical helps us to discern when a culture risks misrecognizing and disordering: virtue and vice; strength and weakness; courage and cowardice.
 
-*Magnifica Humanitas* helps us to see that the desire for domination, what Saint Augustine called the libido dominandi, might be lauded by the world as strength, but it is never a Christian virtue.
+<!-- ------------------------------------------------------------------------ -->
+This Encyclical helps us to discern when a culture risks misrecognizing and disordering: virtue and vice; strength and weakness; courage and cowardice.<!--
+-->
+*Magnifica Humanitas* helps us to see that the desire for domination, what Saint Augustine called the libido dominandi,
+might be lauded by the world as strength, but it is never a Christian virtue.<!--
+-->
 Instead we are called to a civilization of Love.
-Pope Leo says this means de-escalating conflict by disarming our words, focusing on justice as the basis for peace, adopting the perspective of the victims, cultivating a healthy not a false realism, reviving dialogue and multilateralism, and praying.
+Pope Leo says this means de-escalating conflict by disarming our words, focusing on justice as the basis for peace,
+adopting the perspective of the victims, cultivating a healthy not a false realism, reviving dialogue and multilateralism, and praying.
 
+<!-- ------------------------------------------------------------------------ -->
 Mary’s Magnificat concludes this Encyclical alongside Christs cry of dereliction on the cross.
 Mary’s hymn is perhaps the most viscerally embodied cry in the New Testament.
 Echoing today in our disembodied age, it is the hymn of a woman abundant with new life, with the life of God, who proclaims the terms of the common good.
 Hearing suffering first, she points to a human history, where God reigns.
 Here the hungry are fed, the mighty overthrown, and the lowly are raised up.
-Her Magnificat gives flesh to the insistent question of this Encyclical.
-
-How can we form communities that in an age of accelerating technological change, place the human first, cultivating spiritual and ethical growth, justice and unity, and celebrate that humanity's author, architect, and sole Savior is the Trinitarian God in whom we place our trust.
+Her Magnificat gives flesh to the insistent question of this Encyclical.<!--
+-->
+How can we form communities that in an age of accelerating technological change,
+place the human first, cultivating spiritual and ethical growth, justice and unity, and
+celebrate that humanity's author, architect, and sole Savior is the Trinitarian God in whom we place our trust.
 
 <!-- ======================================================================== -->
 ## Christopher Olah
