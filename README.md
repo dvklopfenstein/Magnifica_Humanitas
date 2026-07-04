@@ -44,8 +44,6 @@ an encyclical letter (as sent by a bishop of high church official) that treats a
 * Official [***Magnifica Humanitas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html) from the Vatican
 * [Another markdown version](https://github.com/cucho/magnifica-humanitas/blob/master/markdown/en.md)
 * [GitHub Search for *Magnifica Humanitas*](https://github.com/search?q=Magnifica+Humanitas&type=repositories)
-* [@juanalbertoramos](https://github.com/juanalbertoramos/magnifica-humanitas) HTML version and AI audio of *Magnifica Humanitas*
-* [@diegoluchetti](https://github.com/diegoluchetti/magnifica_humanitas): *Magnifica Humanitas* as an AI skill to keep the human person at the center
 * [This repo](https://dvklopfenstein.github.io/Magnifica_Humanitas/)
 * [transcript](https://www.rev.com/transcripts/pope-leo-xiv-on-ai)
 
