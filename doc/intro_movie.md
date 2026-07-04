@@ -41,11 +41,11 @@ that pose new challenges for the defense of human dignity, justice, and labor.
 
 ## SOCIAL DOCTRINE AS A SHARED DISCERNMENT
 [**1:56**](https://youtu.be/PvU6NFe0z6k?si=NxdhmElD9qz1m035&t=116)    
-* SOLIDARITY
-* COMMON GOOD
-* UNIVERSAL DESTINATION OF GOODS
-* [SUBSIDIARITY](https://www.merriam-webster.com/dictionary/subsidiarity)
-* SOCIAL JUSTICE
+* **SOLIDARITY**
+* **COMMON GOOD**
+* **UNIVERSAL DESTINATION OF GOODS**
+* [**SUBSIDIARITY**](https://www.merriam-webster.com/dictionary/subsidiarity)
+* **SOCIAL JUSTICE**
 
 ## WHAT MUST NOT BE LOST
 [**2:37**](https://youtu.be/PvU6NFe0z6k?si=Ai6yE6BRIqB3MNgJ&t=157)    
@@ -95,4 +95,4 @@ the second of my Pontificate.
 
 Safeguarding the Human Person in the Time of Artificial Intelligence.
 
-SOCIAL JUSTICE
+**SOCIAL JUSTICE**
