@@ -15,15 +15,26 @@ XYZ Holy Father
 
 17:28    
 today illuminate
-Christian XYZ
+assention of Christian XYZ
 indifferent
 
 <!-- -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   -->
 17:50    
+document
+*Magnifica Humanitas* 
 artificial intelligence
-XYZ war
+XYZ also war
 XYZ time of artificial intelligence
 XYZ artificial intelligence
+my question
+30
+theology
+social
+treasure social theology
+our spirit
+our ZZZ God
+transformation of our
+
 XYZ the presentation of *Magnifica Humanitas*
 
 <!-- -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   -->
@@ -40,22 +51,26 @@ XYZ terrible
 XYZ bad
 XYZ our humanity
 XYZ on point
-XYZ assassination XYZ the children XYZ war XYZ international XYZ justified
+XYZ assassination many children XYZ war XYZ international XYZ justified
+justify
+too ZZZ millineal
 
 <!-- -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   -->
 19:48    
 yes
 XYZ our humanity
+indifference
 cruelty
 
 <!-- -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   -->
 20:18    
 XYZ magnificent
-XYZ infinite dignity
+XYZ humanity infinite dignity
 XYZ sublime
 
 <!-- -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   -->
 20:44    
+Number [122](../Magnifica_Humanitas.md#p122_ch3_must) and [126](../Magnifica_Humanitas.md#p126_ch3_must)
 XYZ want humanity
 
 <!-- -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   -->
