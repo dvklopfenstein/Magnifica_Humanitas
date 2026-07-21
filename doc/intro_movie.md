@@ -1,9 +1,10 @@
 # [**Four-minute introduction video**](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html)
 Notes from the **four-minute introduction video** at the **Presentation of the Encyclical**
+<meta property="og:video" content="https://youtu.be/PvU6NFe0z6k"/>
 
 # Table of Contents
 
-|H:MM|Description
+|M:SS|Description
 |----|-----------------------------------------------
 |[**0:00**](https://youtu.be/PvU6NFe0z6k?si=MInmyLyrQHb45uek&t=0)|[**Popes for 147 years: From Leo XIII to Leo XIV**](#popes-for-147-years-from-leo-xiii-to-leo-xiv)
 |[**1:34**](https://youtu.be/PvU6NFe0z6k?si=MInmyLyrQHb45uek&t=94)|[**Statement by Pope Leo XIV**](#statement-by-pope-leo-xiv-translated-to-english-from-italian)
