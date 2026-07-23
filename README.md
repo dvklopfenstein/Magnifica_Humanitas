@@ -11,7 +11,7 @@ on safeguarding the human person in the time of Artificial Intelligence.
   * [**Audiobook**](https://www.vaticannews.va/en/podcast/magnifica-humanitas.html) read by real human persons
   * [**markdown**](https://github.com/dvklopfenstein/Magnifica_Humanitas/blob/main/Magnifica_Humanitas.md) version for:
     * [**adding notes**](https://github.com/dvklopfenstein/Magnifica_Humanitas/fork) or
-    * [**viewing**](https://github.com/biaojiang/mdviewer)
+    * [**viewing**](https://github.com/biaojiang/mdviewer) markdown locally
 
 
 The [**Unabridged Merriam-Webster**](https://unabridged.merriam-webster.com/) definition of *encyclical*:
