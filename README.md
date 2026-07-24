@@ -14,10 +14,14 @@ on safeguarding the human person in the time of Artificial Intelligence.
     * [**viewing**](https://github.com/biaojiang/mdviewer) markdown locally
 
 
-The [**Unabridged Merriam-Webster**](https://unabridged.merriam-webster.com/) definition of *encyclical*:
+#### The [**Unabridged Merriam-Webster**](https://unabridged.merriam-webster.com/unabridged/Encyclical) definition of *encyclical*:
 
 **encyclical**:
-an encyclical letter (as sent by a bishop of high church official) that treats a matter of grave or timely importance and is intended for extensive circulation  specifically : such a letter issued by a pope
+an encyclical letter (as sent by a bishop of high church official)
+that treats a matter of grave or timely importance and
+is intended for extensive circulation
+*specifically* : such a letter issued by a pope
+
 
 # 2. The Presentation
 * Full Presentation with Distinguished Speakers ([**VIDEO**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html) and [**markdown transcript**](doc/Magnifica_Humanitas_Presentation.md))
