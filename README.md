@@ -30,6 +30,7 @@ is intended for extensive circulation
 
 <!-- ---------------------------------------------------------------------------- -->
 # News
+* 2026/07/31 [Rock legend Patti Smith meets fellow Chicago legend, Pope Leo XIV](https://www.americamagazine.org/news/2026/07/31/patti-smith-pope-leo/)
 * 2026/06/02 [Mathematicians issue public cry for help and call to action regarding AI](https://leidendeclaration.ai/)
 * 2026/05/28 [Peter Thiel leaves the United States](https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html)
 * 2026/05/28 [Is Pope Leo’s Gandalf quote a dig at Peter Thiel?](https://wherepeteris.com/is-pope-leos-gandalf-quote-a-dig-at-peter-thiel/)
