@@ -1,4 +1,15 @@
 # [Remaining human in the age of AI](https://www.vaticannews.va/en/pope/news/2026-05/encyclical-magnifica-humanitas-editorial-tornielli-ai-pope-leo.html)
+🚀 
+💐
+⭐
+✨
+**TODAY ONLY!!!**:
+[**JOIN**](https://www.americamagazine.org/community/2026/08/04/live-zoom-panel-magnifica-humanitas-ai-encylical)
+America Media's live subscriber-only
+[**Zoom event**](https://www.americamagazine.org/community/2026/08/04/live-zoom-panel-magnifica-humanitas-ai-encylical)
+at 6:30pm EST Wednesday, August 8, 2026
+to examine the core issues, public response to and overall impact of Pope Leo’s first encyclical, ‘Magnifica Humanitas,’ nearly three months after its publishing.
+
 Pope Leo XIV's Encyclical, [***Magnifica Humanitas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html),
 on safeguarding the human person in the time of Artificial Intelligence.
 
@@ -14,10 +25,14 @@ on safeguarding the human person in the time of Artificial Intelligence.
     * [**viewing**](https://github.com/biaojiang/mdviewer) markdown locally
 
 
-The [**Unabridged Merriam-Webster**](https://unabridged.merriam-webster.com/) definition of *encyclical*:
+#### The [**Unabridged Merriam-Webster**](https://unabridged.merriam-webster.com/unabridged/Encyclical) definition of *encyclical*:
 
 **encyclical**:
-an encyclical letter (as sent by a bishop of high church official) that treats a matter of grave or timely importance and is intended for extensive circulation  specifically : such a letter issued by a pope
+an encyclical letter (as sent by a bishop of high church official)
+that treats a matter of grave or timely importance and
+is intended for extensive circulation
+*specifically* : such a letter issued by a pope
+
 
 # 2. The Presentation
 * Full Presentation with Distinguished Speakers ([**VIDEO**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html) and [**markdown transcript**](doc/Magnifica_Humanitas_Presentation.md))
@@ -26,6 +41,7 @@ an encyclical letter (as sent by a bishop of high church official) that treats a
 
 <!-- ---------------------------------------------------------------------------- -->
 # News
+* 2026/07/31 [Rock legend Patti Smith meets fellow Chicago legend, Pope Leo XIV](https://www.americamagazine.org/news/2026/07/31/patti-smith-pope-leo/)
 * 2026/06/02 [Mathematicians issue public cry for help and call to action regarding AI](https://leidendeclaration.ai/)
 * 2026/05/28 [Peter Thiel leaves the United States](https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html)
 * 2026/05/28 [Is Pope Leo’s Gandalf quote a dig at Peter Thiel?](https://wherepeteris.com/is-pope-leos-gandalf-quote-a-dig-at-peter-thiel/)
