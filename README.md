@@ -3,7 +3,7 @@
 💐
 ⭐
 ✨
-**WEDNESDAY, AUGUST 2026!!!**:
+**WEDNESDAY, AUGUST 2026!!!**:    
 [**JOIN**](https://www.americamagazine.org/community/2026/08/04/live-zoom-panel-magnifica-humanitas-ai-encylical)
 America Media's live subscriber-only
 [**Zoom event**](https://www.americamagazine.org/community/2026/08/04/live-zoom-panel-magnifica-humanitas-ai-encylical)
