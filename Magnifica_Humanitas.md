@@ -47,15 +47,15 @@ IN THE TIME OF ARTIFICIAL INTELLIGENCE
     * [Integral human development](#integral-human-development)
     * [An examen for the Church](#an-examen-for-the-church)
 * [**CHAPTER THREE: TECHNOLOGY AND DOMINANCE; THE GRANDEUR OF HUMANITY IN LIGHT OF THE PROMISES OF AI**](#chapter-three-technology-and-dominance-the-grandeur-of-humanity-in-light-of-the-promises-of-ai)
-    * [The technocratic paradigm and digital power](#the-technocratic-paradigm-and-digital-power)
-    * [Artificial intelligence](#artificial-intelligence)
-        * [A valuable tool that requires vigilance](#a-valuable-tool-that-requires-vigilance)
-        * [Responsibility, transparency and the governance of AI](#responsibility-transparency-and-the-governance-of-ai)
-    * [What must not be lost](#what-must-not-be-lost)
-        * [Underlying narratives: transhumanism and posthumanism](#underlying-narratives-transhumanism-and-posthumanism)
-        * [The limit, the heart, the grandeur of the human person](#the-limit-the-heart-the-grandeur-of-the-human-person)
-    * [The authentic “more than human”: grace and Christian humanism](#the-authentic-more-than-human-grace-and-christian-humanism)
-    * [Two cities and two loves](#two-cities-and-two-loves)
+    * (92-96) [The technocratic paradigm and digital power](#the-technocratic-paradigm-and-digital-power)
+    * (97-99) [Artificial intelligence](#artificial-intelligence)
+        * (100-101) [A valuable tool that requires vigilance](#a-valuable-tool-that-requires-vigilance)
+        * (102-111) [Responsibility, transparency and the governance of AI](#responsibility-transparency-and-the-governance-of-ai)
+    * (112-114) [What must not be lost](#what-must-not-be-lost)
+        * (115-117) [Underlying narratives: transhumanism and posthumanism](#underlying-narratives-transhumanism-and-posthumanism)
+        * (118-126) [The limit, the heart, the grandeur of the human person](#the-limit-the-heart-and-the-grandeur-of-the-human-person)
+    * (127-128) [The authentic “more than human”: grace and Christian humanism](#the-authentic-more-than-human-grace-and-christian-humanism)
+    * (129-130) [Two cities and two loves](#two-cities-and-two-loves)
 * [**CHAPTER FOUR: SAFEGUARDING HUMANITY AT A TIME OF TRANSFORMATION; TRUTH, WORK, FREEDOM**](#chapter-four-safeguarding-humanity-at-a-time-of-transformation-truth-work-freedom)
     * [Truth as a common good](#truth-as-a-common-good)
         * [Truth and democracy](#truth-and-democracy)
@@ -603,13 +603,13 @@ To renounce this adventure, both tragic and splendid, in the name of a presumed 
 
 <a id=p126_ch3_must>126</a>. It is this intertwining of just institutions, credible witnesses and daily fidelity that sustains hope and provides clear direction for technological progress without allowing the heart to regress. For this reason, humanity — in all its grandeur and woundedness — must never be replaced or surpassed. We can embrace the technological progress that alleviates suffering and unlocks new possibilities, provided that we do not abandon the very essence of our humanity, namely the capacity for relationship and love. This leads to a crucial question: if an authentic “more than human” exists, where is it to be found?  The Christian faith answers that question by pointing to a fulfilment that does not arise from a technological divinization, but through God’s grace received in Christ.
 
-The authentic “more than human”: grace and Christian humanism
+### The authentic “more than human”: grace and Christian humanism
 
 <a id=p127_ch3_must>127</a>. The expression “more than human” is not an exclusive domain of technological promise. For centuries, the Christian tradition has maintained that human beings are not confined by the boundaries of their own nature; rather, they are called to self-transcendence, not through an escape from reality or a contempt for their limitations, but through their fulfillment in love. Faith recognizes an openness toward the “beyond,” which originates as a gift from God. This transformation is a work of the Holy Spirit. As Saint Thomas Aquinas taught, this process of elevation and transformation “surpasses every capability of created nature,”[^134] for an infinite disparity separates our finite nature from the life of God.[^135] Nevertheless, it remains possible to enter into the heart of that inexhaustible life, even as we journey through the limitations of this world. The one who makes this passage possible can only be the Eternal One who gives of himself. Indeed, it is God himself who overcomes the “infinite” disproportion.[^136] In him, the re-creation of the human person happens. “If anyone is in Christ, there is a new creation: everything old has passed away; see, everything has become new” ( 2 Cor 5:17).
 
 <a id=p128_ch3_must>128</a>. When we embrace the possibility of transcending ourselves through God’s grace, we do not deny our nature, nor do we become less human. On the contrary, as Pope Francis explained, “We become fully human when we become more than human, when we let God bring us beyond ourselves in order to attain the fullest truth of our being.”[^137] Herein lies the radical departure from Promethean dreams: what saves humanity is not enhanced self-sufficiency, but a relationship that liberates, a communion that transforms. In this light, a technology that merely classifies and optimizes what already exists can, however unintentionally, become an obstacle to change and growth. For an algorithm, an error is a flaw to be corrected; for a person, however, an error can be a catalyst for profound change. A person’s future is not calculable, but depends on one’s freedom — elevated by the inexhaustible grace of God — and on the relationships cultivated.
 
-Two cities and two loves
+#### Two cities and two loves
 
 <a id=p129_ch3_must>129</a>. Christian humanism does not reject science or technology, but embraces them with gratitude and realism, and grounds them within a higher vocation. The creative intelligence of humanity is a gift that can alleviate suffering and open up new possibilities, but it must remain ordered toward the common good, justice, the care of the vulnerable and creation. In this sense, the true alternative is not between enthusiasm and fear, but between two paths of development: a progress that serves individuals and peoples, or a progress that subjects them to the mentality of power.
 Ultimately, the key question remains the one posed by Saint John Paul II: does AI “make human life on earth ‘more human’ in every aspect of that life? Does it make it more worthy of man?”[^138] If the answer is yes, then we can recognize it as an opportunity to be embraced responsibly, on a path of patient, shared reconstruction, akin to the rebuilding of Jerusalem narrated in the Book of Nehemiah.

@@ -10,7 +10,8 @@ America Media's live subscriber-only
 at 6:30pm EST Wednesday, August 8, 2026
 to examine the core issues, public response to and overall impact of Pope Leo’s first encyclical, ‘Magnifica Humanitas,’ nearly three months after its publishing.
 
-Pope Leo XIV's Encyclical, [***Magnifica Humanitas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html),
+Pope Leo XIV's Encyclical,
+[***Magnifica Humanitas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html),
 on safeguarding the human person in the time of Artificial Intelligence.
 
 [![People Together](doc/images/people_together.jpeg)](https://www.vaticannews.va/en/pope/news/2026-05/encyclical-magnifica-humanitas-editorial-tornielli-ai-pope-leo.html)
@@ -18,7 +19,7 @@ on safeguarding the human person in the time of Artificial Intelligence.
 
 <!-- ---------------------------------------------------------------------------- -->
 # 1. The Encyclical
-* Pope Leo's 42,000 word Encyclical, [***Magnifica Humantas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html), released Monday, May 25, 2026.
+* Pope Leo's 42,000 word Encyclical, [***Magnifica Humantas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html), presented Monday, May 25, 2026.
   * [**Audiobook**](https://www.vaticannews.va/en/podcast/magnifica-humanitas.html) read by real human persons
   * [**markdown**](https://github.com/dvklopfenstein/Magnifica_Humanitas/blob/main/Magnifica_Humanitas.md) version for:
     * [**adding notes**](https://github.com/dvklopfenstein/Magnifica_Humanitas/fork) or
