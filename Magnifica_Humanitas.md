@@ -19,12 +19,12 @@ IN THE TIME OF ARTIFICIAL INTELLIGENCE
     * [Pope Leo XIV](doc/Magnifica_Humanitas_Presentation.md#pope-leo-xiv)
 
 # TOC: *Magnifica Humanitas* Encyclical
-* (1-3) [**INTRODUCTION**](#introduction)
+* (1-3; [AUDIO](https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-introduction.html)) [**INTRODUCTION**](#introduction)
     * (4-6) [The *res novae* of our time](#the-res-novae-of-our-time)
     * (7-10) [Two biblical images](#two-biblical-images)
     * (11-14) [Building for the common good](#building-for-the-common-good)
     * (15-16) [Remaining human](#remaining-human)
-* (17-18) [**CHAPTER ONE: A DYNAMIC APPROACH FAITHFUL TO THE GOSPEL**](#chapter-one-a-dynamic-approach-faithful-to-the-gospel)
+* (17-18; [AUDIO](https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-chapter-one.html)) [**CHAPTER ONE: A DYNAMIC APPROACH FAITHFUL TO THE GOSPEL**](#chapter-one-a-dynamic-approach-faithful-to-the-gospel)
     * (19-22) [A Church journeying through human history](#a-church-journeying-through-human-history)
         * (23-24) [The wisdom of the word of God in dialogue with the human sciences](#the-wisdom-of-the-word-of-god-in-dialogue-with-the-human-sciences)
         * (25-27) [Social Doctrine as a shared discernment](#social-doctrine-as-a-shared-discernment)
@@ -33,7 +33,7 @@ IN THE TIME OF ARTIFICIAL INTELLIGENCE
         * (33-36) [The years of the Second Vatican Council](#the-years-of-the-second-vatican-council)
         * (37-44) [The recent Magisterium](#the-recent-magisterium)
         * (45) [Interpreting history in the light of faith](#interpreting-history-in-the-light-of-faith)
-* (46-47) [**CHAPTER TWO: FOUNDATIONS AND PRINCIPLES OF THE SOCIAL DOCTRINE OF THE CHURCH**](#chapter-two-foundations-and-principles-of-the-social-doctrine-of-the-church)
+* (46-47; [AUDIO](https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-chapter-two.html)) [**CHAPTER TWO: FOUNDATIONS AND PRINCIPLES OF THE SOCIAL DOCTRINE OF THE CHURCH**](#chapter-two-foundations-and-principles-of-the-social-doctrine-of-the-church)
     * [The foundations of Social Doctrine](#the-foundations-of-social-doctrine)
         * (48-50) [The human person: image of the Triune God](#the-human-person-image-of-the-triune-god)
         * (51-53) [The equal dignity of all human beings](#the-equal-dignity-of-all-human-beings)
@@ -46,7 +46,7 @@ IN THE TIME OF ARTIFICIAL INTELLIGENCE
         * (77-81) [The principle of social justice](#the-principle-of-social-justice)
     * (82-85) [Integral human development](#integral-human-development)
     * (86-89) [An examen for the Church](#an-examen-for-the-church)
-* (90-91) [**CHAPTER THREE: TECHNOLOGY AND DOMINANCE; THE GRANDEUR OF HUMANITY IN LIGHT OF THE PROMISES OF AI**](#chapter-three-technology-and-dominance-the-grandeur-of-humanity-in-light-of-the-promises-of-ai)
+* (90-91; [AUDIO](https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-chapter-three.html)) [**CHAPTER THREE: TECHNOLOGY AND DOMINANCE; THE GRANDEUR OF HUMANITY IN LIGHT OF THE PROMISES OF AI**](#chapter-three-technology-and-dominance-the-grandeur-of-humanity-in-light-of-the-promises-of-ai)
     * (92-96) [The technocratic paradigm and digital power](#the-technocratic-paradigm-and-digital-power)
     * (97-99) [Artificial intelligence](#artificial-intelligence)
         * (100-101) [A valuable tool that requires vigilance](#a-valuable-tool-that-requires-vigilance)
@@ -56,7 +56,7 @@ IN THE TIME OF ARTIFICIAL INTELLIGENCE
         * (118-126) [The limit, the heart, the grandeur of the human person](#the-limit-the-heart-and-the-grandeur-of-the-human-person)
     * (127-128) [The authentic “more than human”: grace and Christian humanism](#the-authentic-more-than-human-grace-and-christian-humanism)
     * (129-130) [Two cities and two loves](#two-cities-and-two-loves)
-* (131) [**CHAPTER FOUR: SAFEGUARDING HUMANITY AT A TIME OF TRANSFORMATION; TRUTH, WORK, FREEDOM**](#chapter-four-safeguarding-humanity-at-a-time-of-transformation-truth-work-freedom)
+* (131; [AUDIO](https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-chapter-four.html)) [**CHAPTER FOUR: SAFEGUARDING HUMANITY AT A TIME OF TRANSFORMATION; TRUTH, WORK, FREEDOM**](#chapter-four-safeguarding-humanity-at-a-time-of-transformation-truth-work-freedom)
     * [Truth as a common good](#truth-as-a-common-good)
         * (132-134) [Truth and democracy](#truth-and-democracy)
         * (135-136) [Communication and the collective imagination](#communication-and-the-collective-imagination)
@@ -72,7 +72,7 @@ IN THE TIME OF ARTIFICIAL INTELLIGENCE
         * (170-172) [Dependencies and societal control](#dependencies-and-societal-control)
         * (173-179) [Breaking the chains of new forms of slavery](#breaking-the-chains-of-new-forms-of-slavery)
     * (180-181) [A shared responsibility](#a-shared-responsibility)
-* (182-185) [**CHAPTER FIVE: THE CULTURE OF POWER AND THE CIVILIZATION OF LOVE**](#chapter-five-the-culture-of-power-and-the-civilization-of-love)
+* (182-185; [AUDIO](https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-chapter-five.html)) [**CHAPTER FIVE: THE CULTURE OF POWER AND THE CIVILIZATION OF LOVE**](#chapter-five-the-culture-of-power-and-the-civilization-of-love)
     * (186-187) [The civilization of love in the digital age](#the-civilization-of-love-in-the-digital-age)
     * (188) [The culture of power](#the-culture-of-power)
         * (189-192) [The normalization of war](#the-normalization-of-war)
@@ -89,11 +89,11 @@ IN THE TIME OF ARTIFICIAL INTELLIGENCE
         * (219-223) [Reviving dialogue](#reviving-dialogue)
         * (224-227) [The necessity of diplomacy and multilateralism](#the-necessity-of-diplomacy-and-multilateralism)
         * (228) [Praying and hoping](#praying-and-hoping)
-* (229) [**CONCLUSION**](#conclusion)
-    * (230-233) [The Word became flesh](#the-word-became-flesh)
-    * (234-235) [One body in Christ](#one-body-in-christ)
-    * (236-242) [The construction site of our time](#the-construction-site-of-our-time)
-    * (243-245) [The song of hope: the Magnificat](#the-song-of-hope-the-magnificat)
+* (229; [AUDIO](https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-conclusion.html)) [**CONCLUSION**](#conclusion)
+    * (230-233; 1) [The Word became flesh](#the-word-became-flesh)
+    * (234-235; 7) [One body in Christ](#one-body-in-christ)
+    * (236-242; 11) [The construction site of our time](#the-construction-site-of-our-time)
+    * (243-245; 21) [The song of hope: the Magnificat](#the-song-of-hope-the-magnificat)
 
 
 # Magnifica Humanitas Content
@@ -1416,14 +1416,16 @@ Given in Rome, at Saint Peter’s, on 15 May, in the year 2026, the second of my
 [^213]: Benedict XVI, Encyclical Letter Deus Caritas Est (25 December 2005), 14: AAS 98 (2006), 228.    
 [^214]: Saint Augustine, Sermons, 272: In die Pentecostes ad infantes de sacramento: PL 38, Paris 1865, col. 1247.    
 [^215]: Benedict XVI, Homily at the Mass of the Lord’s Supper (21 April 2011): AAS 103 (2011), 321.    
-[^216]: Address to the Roma Curia for the Exchange of Christmas Greetings (22 December 2025): L’Osservatore Romano, 22 December 2025, 6-7.    
+[^216]: [*Address to the Roma Curia for the Exchange of Christmas Greetings*](https://www.vatican.va/content/leo-xiv/en/speeches/2025/december/documents/20251222-curia-romana.html) (22 December 2025): L’Osservatore Romano, 22 December 2025, 6-7.    
 [^217]: Cf. above, nos. 11-14.    
-[^218]: Cf. Address to the Conference “The Dignity of Children and Adolescents in the Age of Artificial Intelligence” (13 November 2025): L’Osservatore Romano, 13 November 2025, 3.    
-[^219]: Cf. Benedict XVI, Encyclical Letter Caritas in Veritate (29 June 2009), 34: AAS 101 (2009), 668-670.    
-[^220]: Francis, Apostolic Exhortation Laudate Deum (4 October 2023), 67: AAS 115 (2023), 1059.    
-[^221]: Cf. Angelus on the Solemnity of the Epiphany (6 January 2026): L’Osservatore Romano, 7 January 2026, 3.    
-[^222]: Benedict XVI, General Audience (15 February 2006): L’Osservatore Romano, 16 February 2006, 4.    
+[^218]: Cf. [*Address to the Conference “The Dignity of Children and Adolescents in the Age of Artificial Intelligence”*](https://www.vatican.va/content/leo-xiv/en/speeches/2025/november/documents/20251113-fondazione-infanzia-adolescenza.html) (13 November 2025): L’Osservatore Romano, 13 November 2025, 3.    
+[^219]: Cf. Benedict XVI, Encyclical Letter [*Caritas in Veritate*](https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html) (29 June 2009), 34: AAS 101 (2009), 668-670.    
+[^220]: Francis, Apostolic Exhortation [*Laudate Deum*](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/20231004-laudate-deum.html) (4 October 2023), 67: AAS 115 (2023), 1059.    
+[^221]: Cf. [*Angelus on the Solemnity of the Epiphany*](https://www.vatican.va/content/leo-xiv/en/angelus/2026/documents/20260106-angelus.html) (6 January 2026): L’Osservatore Romano, 7 January 2026, 3.    
+[^222]: Benedict XVI, [*General Audience*](https://www.vatican.va/content/benedict-xvi/en/audiences/2006/documents/hf_ben-xvi_aud_20060215.html) (15 February 2006): L’Osservatore Romano, 16 February 2006, 4.    
 [^223]: [***Meditation on the occasion of the Prayer Vigil and Rosary for Peace***](doc/refs/r223_2025_10_13_LOsservatore_Romano.md) (11 October 2025): L’Osservatore Romano, 13 October 2025, 2.    
 [^224]: Saint Paul VI, Homily at the Marian Shrine of Our Lady of Bonaria, (24 April 1970): AAS 62 (1970), 301.    
+
+<p align="center"><img src="/doc/images/logo-vatican.png" alt="pmidcite summary" width="60"/></p>
 
 Copyright © Dicastery for Communication - Libreria Editrice Vaticana
