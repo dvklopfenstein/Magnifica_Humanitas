@@ -1,17 +1,20 @@
 # [Remaining human in the age of AI](https://www.vaticannews.va/en/pope/news/2026-05/encyclical-magnifica-humanitas-editorial-tornielli-ai-pope-leo.html)
+<!-- Remaining human in the age of Artificial Intelligence -->
 🚀 
 💐
 ⭐
 ✨
 [**JOIN!**](https://www.americamagazine.org/community/2026/08/04/live-zoom-panel-magnifica-humanitas-ai-encylical)🔜
-**WEDNESDAY, AUGUST 19, 2026 at 6:30pm EST**:    
+**WEDNESDAY, AUGUST 19, 2026 at 6:30pm EST**: 
 America Media's live 
 [**Zoom event**](https://www.americamagazine.org/community/2026/08/04/live-zoom-panel-magnifica-humanitas-ai-encylical)
-to examine the core issues, public response to and overall impact of Pope Leo’s first encyclical, ‘Magnifica Humanitas,’ nearly three months after its publishing.
+to examine the <!-- core issues, public response to, and -->
+overall impact
+of Pope Leo’s first encyclical (novel-sized letter addressing matters of grave and timely importance), *Magnifica Humanitas*, nearly three months after its publishing.
 
-Pope Leo XIV's Encyclical,
+<!-- Pope Leo XIV's Encyclical,
 [***Magnifica Humanitas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html),
-on safeguarding the human person in the time of Artificial Intelligence.
+on safeguarding the human person in the time of Artificial Intelligence. -->
 
 [![People Together](doc/images/people_together.jpeg)](https://www.vaticannews.va/en/pope/news/2026-05/encyclical-magnifica-humanitas-editorial-tornielli-ai-pope-leo.html)
 
