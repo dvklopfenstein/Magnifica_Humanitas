@@ -1025,7 +1025,7 @@ while the theories that
 <!-- p159 36:57 Ch4::SAFEGUARDING::WORK::DIGNITY -->
 <a id=p159_ch4_work>159</a>. It is important to move beyond the current metrics of development — which for more than eighty years have been tied to the concept of Gross Domestic Product (GDP) — since these metrics almost systematically neglect aspects essential to the overall wellbeing of people and the environment. The development of parameters and metrics complementary to GDP is crucial for improving the databases used for conducting analyses, political and economic decision-making and establishing regional, national and international priorities. The introduction of new parameters will allow for a comprehensive and timely assessment of how legislative and regulatory decisions impact the dignity of work, shared prosperity, inequality reduction and environmental protection. It will also affect the concept of development, educational processes, mindsets and public opinion, as well as peace, which is only authentic when based on justice.
 
-<!-- p160 38:10 Ch4::SAFEGUARDING::WORK::DIGNITY -->
+<!-- p160 38:10 Ch4::SAFEGUARDING::WORK::DIGNITY::CREDIT -->
 <a id=p160_ch4_work>160</a>. In recent years, finance has increased in importance and has undergone significant innovation,
 driven partly by the introduction of cryptocurrencies.
 The reflections and observations contained in the teaching of my predecessors, particularly in their Encyclicals,
@@ -1045,7 +1045,7 @@ is fundamentally different from finance aimed at the development, creation and e
 <!-- p161 39:40 Ch4::SAFEGUARDING::WORK::DIGNITY -->
 <a id=p161_ch4_work>161</a>. This perspective needs to become part of a broader view of global dynamics. While the world’s wealth has grown in absolute terms, it is increasingly concentrated in fewer hands, widening inequalities both within and between countries. “There are a few who have too much, and too many who have little, that is the logic of today.”[^162] Scientific and technological advances, even in the medical field, are not easily accessible to the vast majority of people, as was dramatically demonstrated during the recent pandemic. While some regions spend heavily on superfluous interventions or dreams of individual enhancement accessible only to a select few, other parts of the world lack the essential equipment needed to save millions of human lives. To think that new technologies will automatically benefit everyone is to ignore the evidence. Unless transformations at the design stage prioritize the prevention of new and further disparities, technological progress will inevitably produce structural inequalities. Today, justice requires access to the benefits of innovation, including care, knowledge, tools and opportunities.
 
-<!-- p162 41:32 Ch4::SAFEGUARDING::WORK::DIGNITY -->
+<!-- p162 41:32 Ch4::SAFEGUARDING::WORK::DIGNITY::TAXES -->
 <a id=p162_ch4_work>162</a>. Just laws and methods of redistribution are certainly necessary for correcting imbalances, including tax systems that lighten the burden on the weakest and ask for more from those with greater resources. However, the pursuit of social justice should not be considered a separate issue that follows only after the production of wealth, as if the economy existed solely to create wealth, with politicians only intervening afterwards in order to distribute it. Indeed, justice concerns every phase of economic activity, from resource acquisition to financing, and from production to consumption; every choice has moral consequences.[^163]
 
 <!-- p163 42:06 Ch4::SAFEGUARDING::WORK::DIGNITY -->
@@ -1053,38 +1053,53 @@ is fundamentally different from finance aimed at the development, creation and e
 The interdependence between peace and development, as Saint Paul VI prophetically wrote in 1967, [^165] remains applicable today, for prosperity contributes to building and reinforcing peace only if it is widespread, inclusive and sustainable.
 
 <!-- p164 43:29 Ch4::SAFEGUARDING::WORK::DIGNITY -->
-<a id=p164_ch4_work>164</a>. In practical terms, in the age of AI and robotics, ensuring that the economy favors human dignity means adopting certain criteria for firm action.
+<a id=p164_ch4_work>164</a>. In practical terms, in the age of AI and robotics, ensuring that the economy favors human dignity means adopting certain criteria for firm action. <!--
+-->
 First, transparency and accountability: when data and algorithms influence
 credit distribution,
 personnel selection or
 access to services and opportunities,
 it is necessary that decisions be understandable, contestable and subject to oversight,
-so that individuals are not reduced to mere profiles.
+so that individuals are not reduced to mere profiles. <!--
+-->
 Second, inclusion and access:
 the benefits of innovation must be paired with investments in skills,
 infrastructure and
 essential services to ensure that technology does not
-<a id=4widen>[widen the gap between those who have and those who have not.](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)</a>
+<a id=4widen>[widen the gap between those who have and those who have not.](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)</a> <!--
+-->
 Finally, measures to ensure equity: taxation, social protection and industrial policies must correct the imbalances created by the concentration of wealth and power.
 Indeed, these criteria do not constitute a curb on innovation; instead they make it civilized and humane.
 
 <!-- Ch4 B.4 WORK - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### Families and young people: the social conditions for hope
 
-<!-- p165 44:50 Ch4::SAFEGUARDING::WORK::YOUNG -->
+<!-- p165 44:50 Ch4::SAFEGUARDING::WORK::YOUNG::FAMILY_IRREPLACEABLE -->
 <a id=p165_ch4_work>165</a>. The family is a primary social good. Founded on the enduring union between a man and a woman, it is the first environment in which all persons develop their potential, become aware of their dignity and learn the earliest forms of truth and goodness, internalizing the habits that prepare them for life in society.[^166] As the first natural society, endowed with foundational rights, the family is the fundamental and irreplaceable cell of every community organization.[^167] Consequently, when political projects and major economic decisions relegate the family to a marginal or secondary role, the authentic growth of the entire social body is compromised.[^168]
 
-<!-- p166 45:51 Ch4::SAFEGUARDING::WORK::YOUNG -->
+<!-- p166 45:51 Ch4::SAFEGUARDING::WORK::YOUNG::FAMILY_FRAGILE -->
 <a id=p166_ch4_work>166</a>. The family, however, is a fragile social good immediately affected by the economic and technological transformations reshaping the nature of work. It thus requires cultural, juridical and economic support. The devastating impact of unemployment and job insecurity on family structures is well known. In the short term, it may seem advantageous to reduce labor costs or maximize financial efficiency, but in the long term this undermines the very foundations of social coexistence. While technological successes are celebrated, the social fabric is progressively eroded, as if by a silent virus.
 
-<!-- p167 46:43 Ch4::SAFEGUARDING::WORK::YOUNG -->
+<!-- p167 46:43 Ch4::SAFEGUARDING::WORK::YOUNG::NOJOBS -->
 <a id=p167_ch4_work>167</a>. For young people, job insecurity is particularly devastating. As the Bishops of the United States of America have recalled, work is not merely a source of income but a crucial sphere in which identity is formed, friendships and relationships are forged, practical responsibilities are learned and one’s vocation is discerned.[^169] When access to work is hindered by high levels of unemployment, inadequate systems of training or structural barriers, many young people find the path to their human and professional fulfilment blocked. The need to change jobs several times over the course of life requires that continuous updating and retraining be provided, so that new generations can competently and independently face the risks of an economic environment that is both changing and often unpredictable.[^170]
 
-<!-- p168 47:49 Ch4::SAFEGUARDING::WORK::YOUNG -->
+<!-- p168 47:49 Ch4::SAFEGUARDING::WORK::YOUNG::STATE -->
 <a id=p168_ch4_work>168</a>. This gives rise to a specific public responsibility. The State has the duty to support business activity by fostering conditions favorable to employment, promoting work where it is lacking and defending it in times of crisis, since it is a primary good for families and for society.[^171] Particularly in an age of continuous technological transformation, we need a political creativity that will promote “work” and place the family and coming generations at the center; otherwise our economic progress will translate into new forms of insecurity and exclusion.
 
-<!-- p169 48:35 Ch4::SAFEGUARDING::WORK::YOUNG -->
-<a id=p169_ch4_work>169</a>. Supporting families and young people in this transition requires choices that make stability feasible. As has been noted above, labor policies need to promote continuity and the quality of employment, countering insecurity as a normal condition of life and encouraging realistic paths for entry into the workforce and for professional growth. Second, measures are needed to ensure a healthy way of living, for without a proper balance between work, leisure and rest, families are weakened and young people struggle to develop a sense of responsibility.  Furthermore, it is essential to invest in accessible education and retraining, so that the professional mobility demanded by the digital economy does not become a harsh selection between those who are able to update their skills and those who cannot. Finally, social ties must be supported, with networks and educational communities that accompany life choices and prevent uncertainty from giving rise to loneliness or addictions. If implemented, these technological transformations can be navigated without undermining the capacity to build the future, which is what makes a society prosperous.
+<!-- p169 48:35 Ch4::SAFEGUARDING::WORK::YOUNG::BALANCE -->
+<a id=p169_ch4_work>169</a>. Supporting families and young people in this transition requires choices that make stability feasible.
+As has been noted above, labor policies need to promote continuity and the quality of employment,
+countering insecurity as a normal condition of life and encouraging realistic paths for entry into the workforce and for professional growth. <!--
+-->
+Second, measures are needed to ensure a healthy way of living, for without a proper balance between work, leisure and rest,
+families are weakened and young people struggle to develop a sense of responsibility.
+Furthermore, it is essential to invest in accessible education and retraining,
+so that the professional mobility demanded by the digital economy does not become
+a harsh selection between those who are able to update their skills and those who cannot. <!--
+-->
+Finally, social ties must be supported, with networks and educational communities that
+accompany life choices and prevent uncertainty from giving rise to loneliness or addictions.
+If implemented, these technological transformations can be navigated without undermining the capacity to build the future, which is what makes a society prosperous.
 
 <!-- Ch4 C>2 FREEDOM ==================================================================== -->
 ### Protecting freedom against dependencies and commercialization
