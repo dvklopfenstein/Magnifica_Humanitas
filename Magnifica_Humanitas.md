@@ -47,15 +47,15 @@ IN THE TIME OF ARTIFICIAL INTELLIGENCE
     * (82-85; 47) [Integral human development](#integral-human-development)
     * (86-89; 51) [An examen for the Church](#an-examen-for-the-church)
 * (90-91; [AUDIO](https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-chapter-three.html)) [**CHAPTER THREE: TECHNOLOGY AND DOMINANCE; THE GRANDEUR OF HUMANITY IN LIGHT OF THE PROMISES OF AI**](#chapter-three-technology-and-dominance-the-grandeur-of-humanity-in-light-of-the-promises-of-ai)
-    * (92-96) [The technocratic paradigm and digital power](#the-technocratic-paradigm-and-digital-power)
-    * (97-99) [Artificial intelligence](#artificial-intelligence)
-        * (100-101) [A valuable tool that requires vigilance](#a-valuable-tool-that-requires-vigilance)
-        * (102-111) [Responsibility, transparency and the governance of AI](#responsibility-transparency-and-the-governance-of-ai)
-    * (112-114) [What must not be lost](#what-must-not-be-lost)
-        * (115-117) [Underlying narratives: transhumanism and posthumanism](#underlying-narratives-transhumanism-and-posthumanism)
-        * (118-126) [The limit, the heart, the grandeur of the human person](#the-limit-the-heart-and-the-grandeur-of-the-human-person)
-    * (127-128) [The authentic “more than human”: grace and Christian humanism](#the-authentic-more-than-human-grace-and-christian-humanism)
-    * (129-130) [Two cities and two loves](#two-cities-and-two-loves)
+    * (92-96: 2) [The technocratic paradigm and digital power](#the-technocratic-paradigm-and-digital-power)
+    * (97-99; 6) [Artificial intelligence](#artificial-intelligence)
+        * (100-101; 9) [A valuable tool that requires vigilance](#a-valuable-tool-that-requires-vigilance)
+        * (102-111; 12) [Responsibility, transparency and the governance of AI](#responsibility-transparency-and-the-governance-of-ai)
+    * (112-114; 22) [What must not be lost](#what-must-not-be-lost)
+        * (115-117; 25) [Underlying narratives: transhumanism and posthumanism](#underlying-narratives-transhumanism-and-posthumanism)
+        * (118-126; 28) [The limit, the heart, the grandeur of the human person](#the-limit-the-heart-and-the-grandeur-of-the-human-person)
+    * (127-128; 37) [The authentic “more than human”: grace and Christian humanism](#the-authentic-more-than-human-grace-and-christian-humanism)
+    * (129-130: 40) [Two cities and two loves](#two-cities-and-two-loves)
 <!-- CHAPTER 4: TRUTH, WORK, FREEDOM -->
 * (131; [AUDIO](https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-chapter-four.html)) [**CHAPTER FOUR: SAFEGUARDING HUMANITY AT A TIME OF TRANSFORMATION; TRUTH, WORK, FREEDOM**](#chapter-four-safeguarding-humanity-at-a-time-of-transformation-truth-work-freedom)
     * [Truth as a common good](#truth-as-a-common-good)
@@ -75,22 +75,22 @@ IN THE TIME OF ARTIFICIAL INTELLIGENCE
     * (180-181; 105) [A shared responsibility](#a-shared-responsibility)
 <!-- CHAPTER 5: TRUTH, WORK, FREEDOM -->
 * (182-185; [AUDIO](https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-chapter-five.html)) [**CHAPTER FIVE: THE CULTURE OF POWER AND THE CIVILIZATION OF LOVE**](#chapter-five-the-culture-of-power-and-the-civilization-of-love)
-    * (186-187) [The civilization of love in the digital age](#the-civilization-of-love-in-the-digital-age)
-    * (188) [The culture of power](#the-culture-of-power)
-        * (189-192) [The normalization of war](#the-normalization-of-war)
-        * (193-196) [Force without limits](#force-without-limits)
-        * (197-200) [Weapons and artificial intelligence](#weapons-and-artificial-intelligence)
-        * (201-203) [The crisis of multilateralism](#the-crisis-of-multilateralism)
-        * (204-209) [A supposed political realism](#a-supposed-political-realism)
-    * (210-211) [Building the civilization of love](#building-the-civilization-of-love)
-        * (212-213) [We can all do our part](#we-can-all-do-our-part)
-        * (214) [The need to disarm words](#the-need-to-disarm-words)
-        * (215) [Building peace through justice](#building-peace-through-justice)
-        * (216-217) [Adopting the perspective of victims](#adopting-the-perspective-of-victims)
-        * (218) [Cultivating a healthy realism](#cultivating-a-healthy-realism)
-        * (219-223) [Reviving dialogue](#reviving-dialogue)
-        * (224-227) [The necessity of diplomacy and multilateralism](#the-necessity-of-diplomacy-and-multilateralism)
-        * (228) [Praying and hoping](#praying-and-hoping)
+    * (186-187; 4) [The civilization of love in the digital age](#the-civilization-of-love-in-the-digital-age)
+    * (188: 7) [The culture of power](#the-culture-of-power)
+        * (189-192; 7) [The normalization of war](#the-normalization-of-war)
+        * (193-196; 12) [Force without limits](#force-without-limits)
+        * (197-200; 15) [Weapons and artificial intelligence](#weapons-and-artificial-intelligence)
+        * (201-203; 19) [The crisis of multilateralism](#the-crisis-of-multilateralism)
+        * (204-209; 25) [A supposed political realism](#a-supposed-political-realism)
+    * (210-211; 27) [Building the civilization of love](#building-the-civilization-of-love)
+        * (212-213; 29) [We can all do our part](#we-can-all-do-our-part)
+        * (214; 31) [The need to disarm words](#the-need-to-disarm-words)
+        * (215; 32) [Building peace through justice](#building-peace-through-justice)
+        * (216-217; 34) [Adopting the perspective of victims](#adopting-the-perspective-of-victims)
+        * (218; 36; 36) [Cultivating a healthy realism](#cultivating-a-healthy-realism)
+        * (219-223; 37) [Reviving dialogue](#reviving-dialogue)
+        * (224-227; 41) [The necessity of diplomacy and multilateralism](#the-necessity-of-diplomacy-and-multilateralism)
+        * (228; 44) [Praying and hoping](#praying-and-hoping)
 * (229; [AUDIO](https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-conclusion.html)) [**CONCLUSION**](#conclusion)
     * (230-233; 1) [The Word became flesh](#the-word-became-flesh)
     * (234-235; 7) [One body in Christ](#one-body-in-christ)
@@ -556,20 +556,20 @@ In this way, the Church will be able to bear credible witness to society that se
 <!-- ================================================================================================ -->
 ## CHAPTER THREE: TECHNOLOGY AND DOMINANCE; THE GRANDEUR OF HUMANITY IN LIGHT OF THE PROMISES OF AI
 
-<!-- p90 54:45 Ch3:: -->
+<!-- p90 00:25 Ch3:: -->
 <a id=p090_ch3>90</a>. Having recalled the principles that shine a light on Social Doctrine, I would now like to focus on certain challenges that profoundly shape our way of living today.  The biblical image accompanying these reflections is that of a building project. On the one hand, there is the Tower of Babel, where collective effort follows a plan that dominates and ultimately dehumanizes (cf. Gen 11:1-9). On the other hand, there are the ruins of Jerusalem, which under Nehemiah’s direction are rebuilt piece by piece as a project of shared responsibility (cf. Neh 2–6). We are called to reflect on the great “construction sites” of our era and ask: What are we building? As technological development rapidly transforms languages, relationships, institutions and forms of power, we believers must and can choose which projects to work on and in what manner, so as to safeguard and value the grandeur of humanity that has been given to us as a gift. This is a choice not only for our future but also for our present, since artificial intelligence and other emerging technologies are already part of our daily lives.
 
-<!-- p91 54:45 Ch3:: -->
+<!-- p91 01:44 Ch3:: -->
 <a id=p091_ch3>91</a>. I am convinced that the concrete way of living out social relationships in the light of the Gospel is not established once and for all, but remains a task entrusted, from generation to generation, to the Christian community. Under the guidance of the Holy Spirit, the Church allows herself to be enlightened by God’s word, reads the signs of the times and creatively seeks new ways for relationships between peoples and nations to become ever more conformed to the demands of the Kingdom of God.[^118] For this reason, I encourage all members of the Church not to be afraid of the present challenges, but to listen to one another and firmly embrace their responsibilities in building a more humane and fraternal society.
 
 <!-- ------------------------------------------------------------------------------------ -->
 <!-- Ch3 A.  TECHNOCRATIC =============================================================== -->
 ### The technocratic paradigm and digital power
 
-<!-- p91 54:45 Ch3::TECHNOCRATIC -->
+<!-- p92 02:35 Ch3::TECHNOCRATIC -->
 <a id=p092_ch3_tech>92</a>. In his Encyclical Laudato Si’, Pope Francis denounced the growing dominance of a technocratic paradigm [^119] in our globalized world: the tendency to let the logic of efficiency, control and profit alone shape personal, social and economic decisions. This makes it clear that technology is not simply a tool. When it becomes the standard by which everything is judged, it begins to dictate what matters and what can be discarded, reducing creation to an object of exploitation and human beings to mere cogs in a system driven toward ever greater efficiency.
 
-<!-- p91 54:45 Ch3::TECHNOCRATIC -->
+<!-- p93 03:15 Ch3::TECHNOCRATIC -->
 <a id=p093_ch3_tech>93</a>. This paradigm has spread rapidly in recent years, fueled in part by the expansion of
 artificial intelligence, cognitive science, nanotechnology, robotics and biotechnology.
 In themselves, these innovations can greatly serve integral human development and the care of our common home.
@@ -578,24 +578,24 @@ require a new spiritual, ethical and political framework.
 More power does not necessarily imply something better.
 In this respect, the words of Romano Guardini remain relevant: <a id=3Guardini>[“Contemporary man has not been trained to use power well.”](doc/Magnifica_Humanitas_Presentation.md#profssa-anna-rowlands)</a>[^120]
 
-<!-- p91 54:45 Ch3::TECHNOCRATIC -->
+<!-- p94 04:00 Ch3::TECHNOCRATIC -->
 <a id=p094_ch3_tech>94</a>. The danger of humanity becoming a victim of its own achievements was already clearly recognized by Saint Paul VI, who warned that “the most extraordinary scientific progress, the most astounding technical feats and the most amazing economic growth, unless accompanied by authentic moral and social progress, will in the long run go against man.”[^121]
 For this reason, technological progress — valuable in itself — requires careful discernment of the anthropological vision that guides it and the ends it pursues. If technological development advances without a corresponding ethical and social progress, the result may be an increase in means without a growth in humanity: “having more” without “being more.” In such a scenario, there is a risk that individuals will be evaluated principally according to the outcomes they produce.[^122]
 
-<!-- p91 54:45 Ch3::TECHNOCRATIC -->
+<!-- p95 04:53 Ch3::TECHNOCRATIC -->
 <a id=p095_ch3_tech>95</a>. Here, we must recognize another crucial aspect, which I have noted earlier. In many cases within the digital context, control over platforms, infrastructure, data and computing power does not rest with States, but with major economic and technological actors. These entities effectively set the conditions for access, determine the rules of visibility and shape the very possibilities for participation. When such power is concentrated in the hands of a few, it tends to become opaque and evade public oversight, increasing the risk of distorted forms of development that give rise to new dependencies, exclusions, manipulations and inequalities.
 
-<!-- p91 54:45 Ch3::TECHNOCRATIC -->
+<!-- p96 05:38 Ch3::TECHNOCRATIC -->
 <a id=p096_ch3_tech>96</a>. Faced with this concentration of power in the digital world, the criteria for judgment and discernment in this new situation are the noble principles of Social Doctrine: the inalienable dignity of the human person, the common good, the universal destination of goods, subsidiarity, solidarity and social justice. They demand that we assess whether the power of digital infrastructures and algorithms truly fosters participation and responsibility, protects the vulnerable, ensures fair access to opportunities and remains directed toward the good of all. On this basis, we can now examine more closely what artificial intelligence is, the possibilities it opens up and the risks it entails.
 
 <!-- ------------------------------------------------------------------------------------ -->
 <!-- Ch3 B<2 AI ========================================================================= -->
 ### Artificial intelligence
 
-<!-- p91 54:45 Ch3::AI -->
+<!-- p97 06:27 Ch3::AI -->
 <a id=p097_ch3_AI>97</a>. It is not my intention here to offer a comprehensive treatment of artificial intelligence, nor to give an overview of the extensive relevant literature, since authoritative contributions already exist, including within the ecclesial context.[^123]  I limit myself to recalling a few essential elements for a moral and social discernment that safeguards the primacy of the human person, in order to ensure that it will always be human intelligence, with its conscience and freedom, that guides technical innovations and responsibly determines their use and limits.
 
-<!-- p91 54:45 Ch3::AI -->
+<!-- p98 07:05 Ch3::AI -->
 <a id=p098_ch3_AI>98</a>. It is appropriate to preface this discussion with two considerations.
 First, any statement regarding AI risks becoming quickly outdated, given the remarkable pace at which these systems are developing.
 Second, all of us, including those who design them, possess only a limited understanding of their actual functioning.
@@ -607,7 +607,7 @@ There thus emerges an urgent need for a twofold commitment:
 on the one hand, a deepening of scientific research;
 on the other, the exercise of moral and spiritual discernment.
 
-<!-- p91 54:45 Ch3::AI -->
+<!-- p99 08:00 Ch3::AI -->
 <a id=p099_ch3_AI>99</a>. It is not possible to provide a single, comprehensive definition of AI.
 What can be stated, however, is that we must avoid the misconception of equating this type of “intelligence” with that of human beings.
 These systems merely imitate certain functions of human intelligence.
@@ -625,7 +625,7 @@ Rather, it is a form of statistical adaptation based on data and feedback, which
 <!-- Ch3 B.1 AI::TOOL --- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### A valuable tool that requires vigilance
 
-<!-- p91 54:45 Ch3::AI::TOOL -->
+<!-- p100 09:45 Ch3::AI::TOOL -->
 <a id=p100_ch3_AI>100</a>. In light of what has been said, we can better understand why AI can be a valuable tool and, at the same time, why it calls for a measured and vigilant approach.
 In recent years, its private use has expanded significantly, prompting growing reflection on both the opportunities it offers and the risks tied to its rapid spread.<!--
 -->
@@ -643,7 +643,7 @@ When words are simulated, they do not build genuine relationships, but only thei
 The artificial imitation of care or support can become particularly risky when it enters contexts where real relationships and emotional bonds are lacking.
 Here, the danger is not so much that a person may believe they are communicating with another person, but rather that they may gradually lose the very desire to form genuine human connections.
 
-<!-- p91 54:45 Ch3::AI::TOOL -->
+<!-- p101 11:45 Ch3::AI::TOOL -->
 <a id=p101_ch3_AI>101</a>. Broadening our perspective to the use of AI in society, we see that
 it is now embedded in decision-making processes across many sectors and at multiple levels: in communication, management and control.
 The gains in efficiency and the potential to improve certain services are clear,
@@ -660,32 +660,32 @@ For this reason, it is essential to develop more sustainable technological solut
 <!-- Ch3 B.2 AI::GOVERNANCE  -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### Responsibility, transparency and the governance of AI
 
-<!-- p91 54:45 Ch3::AI::GOVERNANCE -->
+<!-- p102 12:00 Ch3::AI::GOVERNANCE -->
 <a id=p102_ch3_AI>102</a>. The use of AI is never a purely technical matter: when it enters processes that affect people’s lives, it touches on rights, opportunities, status and freedom. Important and sensitive decisions — concerning employment, credit, access to public services or even a person’s reputation — risk being fully delegated to automated systems that do not know “compassion, mercy, forgiveness, and above all, the hope that people are able to change,”[^125] and can therefore give rise to new forms of exclusion. There are clearly harmful uses, such as the manipulation of information or violations of privacy. Yet there is also a subtler danger, for when AI systems present themselves as neutral and objective, they end up reflecting and reinforcing the stereotypes or ideological bias of their designers and developers.
 
-<!-- p91 54:45 Ch3::AI::GOVERNANCE -->
+<!-- p103 13:55 Ch3::AI::GOVERNANCE -->
 <a id=p103_ch3_AI>103</a>. Indeed, entrusting an algorithm in practice with the power to select who is worthy or not, without anyone bearing responsibility for that judgment, is to hand over the task of redefining the boundaries of human possibilities. In this process, political responsibility is also lost, not just empathy toward those excluded, which can, after all, be simulated. The exclusion of the vulnerable becomes cloaked in a veneer of neutrality and objectivity, against which it becomes difficult to raise objections. In this way, injustice goes unnoticed, and compassion, mercy and forgiveness — understood not as mere appearances but as real political actions — gradually disappear from view.
 
-<!-- p91 54:45 Ch3::AI::GOVERNANCE -->
+<!-- p104 14:40 Ch3::AI::GOVERNANCE -->
 <a id=p104_ch3_AI>104</a>. From this follows a simple but compelling consequence: we cannot consider AI to be morally neutral. In reality, every technical tool embodies choices and priorities through what it measures, ignores and optimizes, and how it classifies people and situations. If a system is designed or used in a way that treats some lives as less worthy, or excludes them without the possibility of appeal, then it is not merely a tool “to be used well,” since it has already introduced criteria that contradict the inalienable dignity of the human person. For this reason, ethical discernment cannot be limited to asking whether we are using a system for good or bad purposes; it must also examine how that system is designed and what vision of the human person and society is embedded in the data and models that guide it.[^126]
 
-<!-- p91 54:45 Ch3::AI::GOVERNANCE -->
+<!-- p105 15:35 Ch3::AI::GOVERNANCE -->
 <a id=p105_ch3_AI>105</a>. For AI to respect human dignity and truly serve the common good, responsibility must be clearly defined at every stage: from those who design and develop these systems to those who use them and rely on them for concrete decisions. In many cases, however, the internal processes leading to a result remain opaque, making it harder to assign responsibility and correct errors. This is where accountability becomes crucial: the possibility of identifying who must “account” for decisions, justify them, monitor them, and, when necessary, challenge them and remedy any harm caused.[^127]
 
-<!-- p91 54:45 Ch3::AI::GOVERNANCE -->
+<!-- p106 16:15 Ch3::AI::GOVERNANCE -->
 <a id=p106_ch3_AI>106</a>. Calling for prudence, rigorous evaluation and even, at times, a slower pace in adopting AI does not mean opposing progress; instead, it is an exercise of responsible care for the human family. This need is all the more urgent given the frequent imbalance between the speed of technological growth and the slower development of awareness, norms, safeguards and institutions capable of governing its effects. It is not enough to invoke ethics in the abstract; robust legal frameworks, independent oversight, informed users and a political system that does not abdicate its responsibility are required. Otherwise, change will be governed only by technocratic thinking and presented as necessary and inevitable, ultimately imposing rules shaped by those who control data, infrastructure and computing power.
 
-<!-- p91 54:45 Ch3::AI::GOVERNANCE -->
+<!-- p107 17:10 Ch3::AI::GOVERNANCE -->
 <a id=p107_ch3_AI>107</a>. We cannot be satisfied with merely calling for the moralization of machines — the so-called “alignment” of AI with human values — without also having the courage to insist on a further condition: the possibility of openly discussing the ethical frameworks involved and subjecting them to shared standards of social justice. Otherwise, those who control AI will impose their own moral vision, which will become the invisible infrastructure of these systems. A more moral AI is not enough if that morality is determined by a few. What is needed is a more active political involvement that is capable of slowing things down when everything is accelerating, and of protecting the opportunities for communities still to be able to participate and ask questions.
 
-<!-- p91 54:45 Ch3::AI::GOVERNANCE -->
+<!-- p108 18:00 Ch3::AI::GOVERNANCE -->
 <a id=p108_ch3_AI>108</a>. In fact, as with every major technological shift, AI tends to amplify the power of those who already possess economic resources, expertise and access to data. In light of the common good and the universal destination of goods, this raises serious concerns, since small but highly influential groups can shape information and consumption patterns, influence democratic processes and steer economic dynamics to their own advantage, undermining social justice and solidarity among peoples. For this reason, it is essential that the use of AI, especially when it touches on public goods and fundamental rights, be guided by clear criteria and effective oversight, grounded in participation and subsidiarity. Communities and intermediary organizations must not be reduced to passive recipients of decisions made elsewhere; they must be able to contribute to discernment and oversight. Moreover, ownership of data cannot be left solely in private hands but must be appropriately regulated. Data is the product of many contributors and should not be treated as something to be sold off or entrusted to a select few.
 It is necessary to think creatively in order to manage data as a common or shared good, in a spirit of participation, as Saint John Paul II already suggested regarding collective goods.[^128]
 
-<!-- p91 54:45 Ch3::AI::GOVERNANCE -->
+<!-- p109 19:29 Ch3::AI::GOVERNANCE -->
 <a id=p109_ch3_AI>109</a>. The principles of Social Doctrine offer a framework for understanding this new reality. In a world where data, computational resources and regulatory influence remain in the hands of a few, to speak of the common good means exposing this new form of epistemic, economic and political asymmetry and naming the new monopolies of AI. To speak of the universal destination of goods means finding ways of ensuring universal access to both technologies and the education needed to use them. To speak of subsidiarity calls for protecting the ability of communities to make choices and corrections, rather than confining their role to mere oversight after the standards have been set elsewhere. To speak of solidarity obliges us to recognize the hidden, often exploited workers, who sustain algorithmic systems. To speak of justice requires questioning the global distribution of power that decides who in fact can train these models and who is merely subjected to them. Likewise, it means acknowledging that social justice is not only a goal to be safeguarded after technologies are deployed, but a condition that must shape their very design from the outset.
 
-<!-- p91 54:45 Ch3::AI::GOVERNANCE -->
+<!-- p110 21:00 Ch3::AI::GOVERNANCE -->
 <a id=p110_ch3_AI>110</a>. Finally, I would like to employ the expression “to disarm,” which is close to my heart.
 Disarming AI means freeing it from the mentality of “armed” competition,
 which today is not limited simply to the military context,
@@ -701,32 +701,32 @@ It is ecological in the deepest sense, for it concerns a new dimension of our co
 AI is already an environment in which we are immersed, as well as a force with which we must engage.
 For this reason, merely regulating it is insufficient; it must be disarmed, welcoming and accessible.
 
-<!-- p91 54:45 Ch3::AI::GOVERNANCE -->
+<!-- p111 22:05 Ch3::AI::GOVERNANCE -->
 <a id=p111_ch3_AI>111</a>. I wish to address a special appeal to those who develop artificial intelligence. In one sense, technological innovation can represent human participation in the divine act of creation. Developers, therefore, bear a particular ethical and spiritual responsibility, for every design choice reflects a vision of humanity. Just as the creator of an artistic or literary work must consider the values it conveys, so developers are called to embed values in their projects with due seriousness: with transparency, responsibility toward affected communities and careful attention to ensuring that what is being cultivated is a genuine good.
 
 <!-- ------------------------------------------------------------------------------------ -->
 <!-- Ch3 C<2 LOST ======================================================================= -->
 ### What must not be lost
 
-<!-- p112 54:45 Ch3::LOST:: -->
+<!-- p112 22:50 Ch3::LOST:: -->
 <a id=p112_ch3_must>112</a>. Having considered the issues of responsibility and governance of AI, we must now return to our central question: what does it mean to safeguard our humanity? The risk extends beyond the misuse of certain technologies. More gravely, the pervasive technocratic paradigm in which we are immersed, and that is amplified by the digital revolution and AI, threatens to normalize an anti-human vision. In that vision, the fullness of life is equated with having more, reducing weakness, eliminating uncertainty and exerting total control. When efficiency becomes the ultimate measure of value, human beings are tempted to see themselves as a project to be optimized rather than as persons called to relationship and communion.
 
-<!-- p112 54:45 Ch3::LOST:: -->
+<!-- p113 23:40 Ch3::LOST:: -->
 <a id=p113_ch3_must>113</a>. In reality, elevating any single dimension of human existence to an absolute is always a mistake. Indeed, disorder does not arise only from scarcity; even unchecked growth can give rise to impoverishment. In an ecosystem, balance is disrupted when one species expands at the expense of others; in human life, something similar occurs when one faculty claims to be the measure of everything. Thus, intelligence, when absolutized, overshadows other essential dimensions of life, such as affection, the will, commitment and relationships. Similarly, technical power, if left unbalanced, does not make us more capable; it makes us more isolated and more vulnerable to being dominated and excluded. This critical point does not oppose intelligence, but serves as a reminder that when intelligence becomes self-referential, its true purpose of serving life and the human person is lost.
 
-<!-- p112 54:45 Ch3::LOST:: -->
+<!-- p114 24:40 Ch3::LOST:: -->
 <a id=p114_ch3_must>114</a>. The quality of a civilization is measured not by the power of its means, but by the care it is able to offer, by its ability to recognize the other as a face not merely as a function. The ability to care for one another is a fundamental dimension of our humanity, one that is learned and mastered through lived experience. Reading stories to a child, offering company to an elderly person and arranging a home so that it is welcoming are simple gestures often rooted in family life. They teach us to value care at a societal level and train us to recognize others as persons worthy of attention. Technology can also support this mutual care between people, for example, by providing tools that help us anticipate and organize things, without undermining human freedom and judgment. After all, human beings are the subjects of relationships and responsible for their own decisions.
 
 <!-- Ch3 C.1 LOST::TRANSPOST - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### Underlying narratives: transhumanism and posthumanism
 
-<!-- p112 54:45 Ch3::LOST::TRANSPOST -->
+<!-- p115 25:43 Ch3::LOST::TRANSPOST -->
 <a id=p115_ch3_must>115</a>. In an attempt to shed light on the cultural assumptions accompanying the ongoing digital revolution, I would now like to turn our attention to certain currents of thought that interpret progress as surpassing the human condition, and which are often grouped under the labels of transhumanism and posthumanism. These perspectives form the ideological background present in some centers of technological power and occupy the collective imagination in a simplified form, especially in the media and on social networks. They tend to foster enthusiasm for new technologies through a futuristic vision of an “enhanced human being” or “human-machine hybrid.”
 
-<!-- p112 54:45 Ch3::LOST::TRANSPOST -->
+<!-- p116 26:25 Ch3::LOST::TRANSPOST -->
 <a id=p116_ch3_must>116</a>. Transhumanism and posthumanism encompass a range of currents and sensibilities, making it difficult to define them in a single, unambiguous way. They can be likened to an archipelago of conceptual “islands,” distinct yet connected by a common “sea” of assumptions, namely the central role of technology and the aspiration to transcend the limits of the human condition. In general, transhumanism envisions the enhancement of human beings through technologies — such as biomedicine, body engineering, devices and algorithms — with the aim of increasing performance and capabilities. Posthumanism, especially in its more radical forms, goes further: it challenges anthropocentrism and envisions a hybridization of human beings, machines and the environment, even anticipating a threshold where humanity surpasses itself in a new evolutionary stage. Even when such ideas remain largely speculative, they gain relevance by altering the collective imagination and thereby influence social, economic and political choices.[^129]
 
-<!-- p112 54:45 Ch3::LOST::TRANSPOST -->
+<!-- p117 27:35 Ch3::LOST::TRANSPOST -->
 <a id=p117_ch3_must>117</a>. From the perspective of the Church’s Social Doctrine, the key issue is not the use of technology as such, but the vision that underlies it. If the human being is treated as something to be perfected or surpassed, it becomes easier to accept that some lives are less useful, less desirable or less worthy. In the name of progress, “necessary sacrifices” may begin to be justified, placing the burden on the most vulnerable in pursuit of a supposed optimization of the species.
 In this regard, the aforementioned warning of Saint Paul VI retains great foresight: indeed, scientific and technological advances, when detached from moral and social progress, end up turning against humanity.[^130]
 For this reason, a clear distinction must be made. It is one thing to integrate technology within a human-centered, relational vision; it is quite another to be guided by an outlook that devalues human limits and promises a purely technical form of “salvation.”
@@ -734,13 +734,13 @@ For this reason, a clear distinction must be made. It is one thing to integrate 
 <!-- Ch3 C.2 LOST::GRANDEUR - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### The limit, the heart and the grandeur of the human person
 
-<!-- p112 54:45 Ch3::LOST::GRANDEUR -->
+<!-- p118 28:44 Ch3::LOST::GRANDEUR -->
 <a id=p118_ch3_must>118</a>. Our relationship with life seems to be in crisis today. Everything that appears as a “limit” — incapacity, illness, old age, suffering, vulnerability — tends to be seen primarily as a defect to be corrected, rather than as a reality through which our humanity matures and opens itself to relationship. And yet we must remember that humanity flourishes not despite limitations, but often through them. The light of faith offers a perspective on reality that helps us recognize what we call the “contingency” of the things of this world. While it is right to strive to alleviate the suffering that marks human life, it is also wise to acknowledge our fundamental finitude, knowing that “religious experience, and in particular Christian faith, propose that we live, without oversimplification, this ambivalence between human greatness and limitation, interpreting it in the light of our original and fundamental relationship with God.”[^131]
 
-<!-- p112 54:45 Ch3::LOST::GRANDEUR -->
+<!-- p119 29:50 Ch3::LOST::GRANDEUR -->
 <a id=p119_ch3_must>119</a>. It is precisely within our limitations that the following find a place: compassion, as well as a sincere concern for the needs of others; a generosity that can emerge even in the midst of darkness and failure; spiritual experience and the worship of God. We see this at many moments when our limits become tangible: when we face rejection, when we suffer the illness or loss of a loved one, when we encounter our own weakness or failure. Mysteriously, it is precisely in such moments that we can discover a new wisdom, tangibly experience the closeness of others and encounter the presence of the Lord.
 
-<!-- p112 54:45 Ch3::LOST::GRANDEUR -->
+<!-- p120 30:30 Ch3::LOST::GRANDEUR -->
 <a id=p120_ch3_must>120</a>. Even when limitations are experienced as inner suffering, human wisdom teaches us not to deny or suppress it, but to integrate it.
 To eliminate suffering entirely would mean, in the end, extinguishing love and desire as well.
 Those who love and desire cannot avoid passing through trial and suffering;
@@ -750,45 +750,45 @@ the memories of a journey shaped by freedom and failure, dreams and disappointme
 allowing us to sense the richness of our humanity.[^132]
 To renounce this adventure, both tragic and splendid, in the name of a presumed transcendence of all limits, could mean many things, but it would no longer be human.
 
-<!-- p112 54:45 Ch3::LOST::GRANDEUR -->
+<!-- p121 31:24 Ch3::LOST::GRANDEUR -->
 <a id=p121_ch3_must>121</a>. The moral corruption of our limitations as created beings — namely the evil that clearly agitates the human heart — ruins society and life, at times reaching extreme forms of inhumanity. Yet even these painful expressions of our limitations leave openings for the good. Even when persons dehumanize themselves and bring about tragedy, a small light continues to shine within humanity, one that can be rekindled, with God’s grace, along paths of conversion and reconciliation. As Viktor Frankl rightly observed, in moments of horror, “we have come to know man as he really is. After all, man is that being who invented the gas chambers of Auschwitz; however, he is also that being who entered those gas chambers upright, with the Lord’s Prayer or the Shema Yisrael on his lips.”[^133]
 
-<!-- p112 54:45 Ch3::LOST::GRANDEUR -->
+<!-- p122 32:20 Ch3::LOST::GRANDEUR::ART -->
 <a id=p122_ch3_must>122</a>. Finitude, when truly accepted, does not diminish us but opens us to recognizing the face of God and others. Indeed, precisely because we experience limits — vulnerability, suffering and failure — we can recognize the inviolable dignity of every person, both our own and that of others. In this same experience, we remain capable of intuiting a fraternity greater than ourselves and of perceiving injustice as a scandal. Authentic culture and art preserve this spark, resisting the normalization of evil. For this reason, certain works have taken on an almost prophetic significance: Beethoven’s Ninth Symphony can be seen as a desire for unity; Guernica as a denunciation of dehumanization; Schindler’s List as a call not to consign the past to oblivion.
 
-<!-- p112 54:45 Ch3::LOST::GRANDEUR -->
+<!-- p123 33:14 Ch3::LOST::GRANDEUR::PROGRESS -->
 <a id=p123_ch3_must>123</a>. History does not appear solely as a record of human violence, but also as evidence that humanity is capable of creating institutions that protect our shared life. Over the past two centuries, this can be seen in several emblematic achievements: the founding of the International Committee of the Red Cross (1863), whose operational neutrality ensures compassionate care for all; the long process that led to the abolition of slavery, which represented not only a legal shift but a transformation of conscience; the establishment of the United Nations (1945) and the Universal Declaration of Human Rights (1948), which articulated a shared language for affirming, at least as a common ideal, the universality of human dignity; and the 1951 Refugee Convention, which recognizes the duty to protect those fleeing persecution and danger. In each of these cases, the desire for good took concrete shape in public contexts — laws, institutions and practices — capable of limiting the abuse of power and defending the vulnerable.  Yet none of these developments emerged without encountering resistance, narrow interests or cultural inertia. Moral progress almost always unfolds through a long and demanding journey, often marked by setbacks. We need only think of stalled peace processes or the slow implementation of environmental commitments. The very fragility of these achievements highlights how precious the responsibility is of those who initiate and sustain them.
 
-<!-- p112 54:45 Ch3::LOST::GRANDEUR -->
+<!-- p124 34:47 Ch3::LOST::GRANDEUR::CIVILRIGHTS -->
 <!-- https://www.americamagazine.org/podcasts/2026/05/28/pope-leo-ai-encyclical-podcast/ 12:00  35:00 -->
 <a id=p124_ch3_must>124</a>. Certain events make it clear that history can also change when individuals truly take the dignity of everyone seriously: the civil rights movement in the United States of America, closely associated with the testimony of **Martin Luther King Jr.**, or the end of apartheid in South Africa following the release of **Nelson Mandela** and his decision not to surrender the future to hatred. In different contexts, many courageous and generous women have also stood out, including **Saint Laura Montoya**, **Saint Teresa of Calcutta**, **Dorothy Day**, **Marie Skłodowska-Curie**, **Maria Montessori**, **Elisabeth Elliot**, **Wangari Maathai**, **Benazir Bhutto** and countless others from every continent whose commitment has contributed to making history more humane.
 
-<!-- p112 54:45 Ch3::LOST::GRANDEUR -->
+<!-- p125 35:37 Ch3::LOST::GRANDEUR -->
 <a id=p125_ch3_must>125</a>. Alongside these public signs, there is a more hidden but decisive story. We see it in religious communities that choose to serve in poor and dangerous places.  We also see it in the martyrs of fraternity and justice, such as Saint Maximilian Mary Kolbe, Saint Oscar Romero and Blessed Enrique Angelelli; and in those witnesses who embodied the hope of the Gospel as well as human dignity amidst harsh, often inhumane conditions, such as Venerable Francis-Xavier Nguyễn Văn Thuận. Above all, it is visible in the “martyrs of everyday life” who care for, educate, accompany and comfort without fanfare, such as parents, nurses, doctors, volunteers and those who remain alongside an elderly person or an outcast. Their testimony demonstrates that goodness does not advance automatically, but requires the perseverance, memory and interior conversion necessary to begin anew, even after defeat.
 
-<!-- p112 54:45 Ch3::LOST::GRANDEUR -->
+<!-- p126 36:40 Ch3::LOST::GRANDEUR -->
 <a id=p126_ch3_must>126</a>. It is this intertwining of just institutions, credible witnesses and daily fidelity that sustains hope and provides clear direction for technological progress without allowing the heart to regress. For this reason, humanity — in all its grandeur and woundedness — must never be replaced or surpassed. We can embrace the technological progress that alleviates suffering and unlocks new possibilities, provided that we do not abandon the very essence of our humanity, namely the capacity for relationship and love. This leads to a crucial question: if an authentic “more than human” exists, where is it to be found?  The Christian faith answers that question by pointing to a fulfilment that does not arise from a technological divinization, but through God’s grace received in Christ.
 
 <!-- ------------------------------------------------------------------------------------ -->
 <!-- Ch3 D.  HUMANISM =================================================================== -->
 ### The authentic “more than human”: grace and Christian humanism
 
-<!-- p112 54:45 Ch3::HUMANISM -->
-<a id=p127_ch3_must>127</a>. The expression “more than human” is not an exclusive domain of technological promise. For centuries, the Christian tradition has maintained that human beings are not confined by the boundaries of their own nature; rather, they are called to self-transcendence, not through an escape from reality or a contempt for their limitations, but through their fulfillment in love. Faith recognizes an openness toward the “beyond,” which originates as a gift from God. This transformation is a work of the Holy Spirit. As Saint Thomas Aquinas taught, this process of elevation and transformation “surpasses every capability of created nature,”[^134] for an infinite disparity separates our finite nature from the life of God.[^135] Nevertheless, it remains possible to enter into the heart of that inexhaustible life, even as we journey through the limitations of this world. The one who makes this passage possible can only be the Eternal One who gives of himself. Indeed, it is God himself who overcomes the “infinite” disproportion.[^136] In him, the re-creation of the human person happens. “If anyone is in Christ, there is a new creation: everything old has passed away; see, everything has become new” ( 2 Cor 5:17).
+<!-- p127 37:35 Ch3::HUMANISM -->
+<a id=p127_ch3_must>127</a>. The expression “more than human” is not an exclusive domain of technological promise. For centuries, the Christian tradition has maintained that human beings are not confined by the boundaries of their own nature; rather, they are called to self-transcendence, not through an escape from reality or a contempt for their limitations, but through their fulfillment in love. Faith recognizes an openness toward the “beyond,” which originates as a gift from God. This transformation is a work of the Holy Spirit. As Saint Thomas Aquinas taught, this process of elevation and transformation “surpasses every capability of created nature,”[^134] for an infinite disparity separates our finite nature from the life of God.[^135] Nevertheless, it remains possible to enter into the heart of that inexhaustible life, even as we journey through the limitations of this world. The one who makes this passage possible can only be the Eternal One who gives of himself. Indeed, it is God himself who overcomes the “infinite” disproportion.[^136] In him, the re-creation of the human person happens. “If anyone is in Christ, there is a new creation: everything old has passed away; see, everything has become new” (2 Cor 5:17).
 
-<!-- p112 54:45 Ch3::HUMANISM -->
+<!-- p128 38:50 Ch3::HUMANISM -->
 <a id=p128_ch3_must>128</a>. When we embrace the possibility of transcending ourselves through God’s grace, we do not deny our nature, nor do we become less human. On the contrary, as Pope Francis explained, “We become fully human when we become more than human, when we let God bring us beyond ourselves in order to attain the fullest truth of our being.”[^137] Herein lies the radical departure from Promethean dreams: what saves humanity is not enhanced self-sufficiency, but a relationship that liberates, a communion that transforms. In this light, a technology that merely classifies and optimizes what already exists can, however unintentionally, become an obstacle to change and growth. For an algorithm, an error is a flaw to be corrected; for a person, however, an error can be a catalyst for profound change. A person’s future is not calculable, but depends on one’s freedom — elevated by the inexhaustible grace of God — and on the relationships cultivated.
 
 <!-- ------------------------------------------------------------------------------------ -->
 <!-- Ch3 E.  LOVE ======================================================================= -->
 #### Two cities and two loves
 
-<!-- p112 54:45 Ch3::LOVE -->
+<!-- p129 40:05 Ch3::LOVE -->
 <a id=p129_ch3_must>129</a>. Christian humanism does not reject science or technology, but embraces them with gratitude and realism, and grounds them within a higher vocation. The creative intelligence of humanity is a gift that can alleviate suffering and open up new possibilities, but it must remain ordered toward the common good, justice, the care of the vulnerable and creation. In this sense, the true alternative is not between enthusiasm and fear, but between two paths of development: a progress that serves individuals and peoples, or a progress that subjects them to the mentality of power.
 Ultimately, the key question remains the one posed by Saint John Paul II: does AI “make human life on earth ‘more human’ in every aspect of that life? Does it make it more worthy of man?”[^138] If the answer is yes, then we can recognize it as an opportunity to be embraced responsibly, on a path of patient, shared reconstruction, akin to the rebuilding of Jerusalem narrated in the Book of Nehemiah.
 If, however, power grows while the heart withers and human bonds fray, then we are faced with a new form of Babel — a construction that is grandiose, yet fundamentally dehumanizing.
 
-<!-- p112 54:45 Ch3::LOVE -->
+<!-- p130 41:32 Ch3::LOVE -->
 <a id=p130_ch3_must>130</a>. Questioning this alternative path of progress and how we interpret and live it is ultimately a matter of examining our own hearts. The way we understand and shape relationships, work and institutions, in practice reveals our fundamental values. In the end, it all stems from what we hold most dear. This is a love that guides us as to what we truly cherish, both as individuals and as a society, and directs our lives and actions. Saint Augustine described human history as a struggle between two loves, which give rise to two ways of inhabiting the world and living together — or two “cities,” as it were: on the one hand, the love of God and neighbor; on the other, the exclusive love of self. “Two loves have built two cities: the earthly city, the love of self even to the contempt of God; the heavenly city, the love of God even to the contempt of self.”[^139] As throughout history, these two loves continue to contend for dominance in our hearts today. The age of AI is no exception: the construction of Babel or the rebuilding of Jerusalem begins within each one of us.
 
 <!-- ===================================================================================== -->
@@ -1182,17 +1182,20 @@ Entire regions, especially those marked by structural fragility and limited geop
 <!-- ==================================================================================== -->
 ## CHAPTER FIVE: THE CULTURE OF POWER AND THE CIVILIZATION OF LOVE
 
-<!-- p182 06:28 -->
+<!-- p182 00:25 Ch5:: -->
 <a id=p182_ch5>182</a>. Having considered how AI is transforming certain aspects of life and society, in particular the serious implications for human dignity, we must now turn our attention to the yet more tragic issue of war. Here the question is not merely the efficiency of new tools, but also the risk that technology, detached from ethics and responsibility, will render decisions about life and death more rapid and impersonal, and will present the use of force as an immediate and viable option. In an increasingly interdependent world, peace is not simply one issue among others, but a prerequisite for the universal common good and a test of the moral maturity of peoples, especially of those who bear responsibility for governing.
 
+<!-- p183 01:15 Ch5:: -->
 <a id=p183_ch5>183</a>. The digital revolution is changing the nature of conflict. Alongside conventional warfare, there are hybrid forms such as cyberattacks, information manipulation, campaigns of influence and the automation of strategic decisions. AI acts as an accelerating factor in these processes, particularly within a context where many technologies are intrinsically ambivalent. Consequently, what is created for defense can be rapidly repurposed for offense, and the fine line between protection and aggression becomes blurred. While AI can enhance the defense and protection of civilians, it can also lower the threshold for the use of force, shield people from responsibility and foster a culture in which the enemy is reduced to a statistic and the victim to “collateral damage.” Faced with these transformations, we must recall the principles of Social Doctrine — the dignity of the person, the common good, the universal destination of goods, subsidiarity, solidarity and justice — for they are criteria for judging whether technologies truly serve humanity or are subjugating it. We should, therefore, consider these principles as guidelines for our decision-making.
 
+<!-- p184 02:30 Ch5:: -->
 <a id=p184_ch5>184</a>. In this chapter, therefore, I will compare two opposing approaches,
 which I have already evoked through biblical imagery in the Introduction.
 On the one hand, there is the <a id=5pride>temptation of constructing the Tower of Babel, relying on power and pride.</a>
 On the other hand, patience is required in order to rebuild Jerusalem “piece by piece,”
 as in the time of Nehemiah, by safeguarding humanity and the common good.
 
+<!-- p185 03:00 Ch5:: -->
 <a id=p185_ch5>185</a>. If we examine global dynamics, we can recognize more clearly the spread of a culture of power characterized by polarization and violence.
 The modern Babel can be seen not only in the globalized technocratic paradigm,
 but also in the remote clash between opposing imperialisms,
@@ -1211,48 +1214,61 @@ awaits a better understanding and greater coordination so that it may become
 the conscious and clear responsibility of every community, from families to States, and the relations between Nations.
 It is this prospect of commitment, this construction site of hope, that we call the “civilization of love.”
 
-<!-- ==================================================================================== -->
-<!-- Ch5 A  CIVILIZATION OF LOVE ======================================================== -->
+
+<!-- Ch5 A.  CIVILIZATION OF LOVE ======================================================= -->
 ### The civilization of love in the digital age
 
+<!-- p186 04:35 Ch5::LOVE -->
 <a id=p186_ch5_love>186</a>. When Saint Paul VI coined the phrase “the civilization of love,”[^177] the world was in the midst of the Cold War, an arms race and severe economic instability.
 In that context, the Church proposed an alternative path to that of ideological opposition between systems, and envisioned a social order in which justice and charity are intertwined and love becomes the guiding principle of economic, political and cultural life. Today, we must resolutely recover this vision, for the civilization of love is no naïve utopia, but a demanding project, which consists in translating charity into structures of justice, giving institutional form to fraternity and regarding others — whether individuals or peoples — as allies necessary for building the common good. As the Encyclical Letter Fratelli Tutti reminded us, only this social love is capable of becoming a culture and a norm, and thereby of bringing about a stable international order, transforming mere armed coexistence into a community with a shared future.[^178]
 
+<!-- p187 05:40 Ch5::LOVE -->
 <a id=p187_ch5_love>187</a>. This insight proves even more fundamental in the current context of digital transformation. Digital networks, the globalized economy and the development of AI create increasingly tighter bonds, linking — in real time — decisions made in one place to the effects they produce elsewhere. In this sense, the words of the Second Vatican Council on the growing interdependence between peoples remain timely, for the common good is taking on an increasingly universal dimension, with rights and duties concerning the entire human family.[^179] The project for a civilization of love, therefore, must undertake the task of transforming this imposed interdependence into a willed and chosen solidarity. This is the guiding principle for technological processes: it is not enough for artificial intelligence to make us more efficient or connected; it must also serve to build a universal human family, with shared rights and duties, where digital proximity becomes a real opportunity for encounter and mutual care.
 
-<!-- Ch5 B  CULTURE OF POWER ============================================================ -->
+<!-- Ch5 B<5 CULTURE OF POWER ============================================================ -->
 ### The culture of power
 
+<!-- p188 07:00 Ch5::POWER -->
 <a id=p188_ch5_power>188</a>. In our time, a culture of power is taking hold, in which the availability of resources and the ability to dominate tend to dictate the agenda and criteria for decision-making. In this way, the common good of humanity is relegated to the background and the concrete tragedy of peoples at war is reduced to a secondary consideration in relation to strategic interests. This culture of power infiltrates society, changes relationships and behaviors, and grows by normalizing war, pursuing ever-greater military power, taking advantage of the crisis of multilateralism and fueling a false realism that insists that there is no alternative.
 
 <!-- Ch5 B.1 CULTURE OF POWER: WAR  -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### The normalization of war
 
+<!-- p189 07:45 Ch5::POWER:WAR -->
 <a id=p189_ch5_power>189</a>. In 1965, the words of Saint Paul VI resounded powerfully at the UN General Assembly: “Never again war, never again war!”[^180]
 We must acknowledge that, despite the desires and declarations for peace, the past sixty years have been marked by conflicts of astonishing brutality, often affecting civilian populations on a massive scale, leading to the death of innocent victims, mass displacement, social destabilization and long-lasting wounds. Nevertheless, in public discourse, there was a widespread conviction that war should remain a last resort, subject to strict ethical and legal limits, and always oriented toward a political vision of peace. Following developments in the immediate post-First World War period, a turning point occurred after the Second World War: peace was made the focus of the international order, as attested in particular by the United Nations Charter, with the intention to “save succeeding generations from the scourge of war.”[^181] Likewise, many national constitutions restricted the use of force to extreme and strictly limited circumstances. Even during the Cold War, despite the existence of serious conflicts, there remained the awareness that a new world war had to be avoided at all costs.
 
+<!-- p190 09:10 Ch5::POWER:WAR -->
 <a id=p190_ch5_power>190</a>. Today, however, we are witnessing a real paradigm shift in public discourse and in decisions regarding rearmament, with a troubling revival of war as an instrument of international politics, while the very ethical principles that had previously limited its use are being eroded. Regional conflicts that drag on over time, escalating tensions and reciprocal threats are becoming almost commonplace, and forms of conflict driven by the desire for territorial expansion that were thought to be overcome are re-emerging. Public opinion is gradually being shaped and conditioned by polarizing media narratives, which are often amplified by algorithms that prioritize conflict and confrontation.
 
+<!-- p191 09:55 Ch5::POWER:WAR -->
 <a id=p191_ch5_power>191</a>. We are also witnessing a disconcerting loss of historical memory, as first-hand accounts of the Holocaust and the two World Wars are disappearing. This leads to a selective or distorted rewriting of the past, in a context where fake news and the manipulation of narratives obscure the lessons that have been learned. Without a living memory of the horrors of war, political decisions risk being made on the basis of power alone, without any consideration for the long-term consequences.
 
+<!-- p192 10:30 Ch5::POWER:WAR -->
 <a id=p192_ch5_power>192</a>. To all of this, the media and digital dimensions are adding new and decisive elements. Communication networks, fragmented information environments and algorithms that reward conflict can magnify polarization and resentment, increase propaganda and make shared discernment more difficult. Thus, war is not only fought, but also culturally conditioned through simplistic narratives, a friend-or-foe mentality, disinformation and fear. When historical memory fades and the ethical principles that protect civilians and the most vulnerable are weakened, it becomes easier to justify violence as necessary, inevitable or even “sanitized.” It is in this context that humanity is slipping into a violent culture of power, where peace no longer appears as a responsibility to be taken on, but as a fragile interval between conflicts. Today, more than ever, without prejudice to the right to self-defense in the strictest sense, it is important to reaffirm that the “just war” theory, which has all too often been used to justify any kind of war, is now outdated.[^182]  Humanity possesses far more effective and capable tools for promoting human life and resolving conflicts, such as dialogue, diplomacy and forgiveness. The use of force, violence and weapons reflects a relational poverty that always has disastrous consequences for civilian populations.
 
 <!-- Ch5 B.2 CULTURE OF POWER: FORCE  -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### Force without limits
 
+<!-- p193 12:05 Ch5::POWER:FORCE -->
 <a id=p193_ch5_power>193</a>. The growth of the military-industrial complex has become a defining feature of the current political landscape and has become a key sector in the economy of various countries. The close link between economic interests, the military apparatus and political decisions produces an “armed nation,” in which war appears as a natural extension of politics, and the arms market becomes an autonomous driving force behind military decisions. Nor can we ignore the enormous economic interests behind war. The armaments industry, and countries that supply weapons, profit from a market that thrives precisely on conflicts. In this sense, there are also financial interests that contribute to fueling tensions in various regions of the world.
 
+<!-- p194 12:55 Ch5::POWER:FORCE::NUCLEAR -->
 <a id=p194_ch5_power>194</a>. Military arsenals are receiving renewed attention. In the past, recognition of the threat posed by weapons capable of destroying all of humanity had promoted paths toward détente and disarmament negotiations. Unfortunately, this approach has been left behind, and the evolution of nuclear arsenals — including the prospect of its “tactical” use — makes the use of such weapons seem less improbable. In this context, the Treaty on the Prohibition of Nuclear Weapons, which came into force in 2021 with the support of over seventy countries, is an important step. However, it risks remaining largely symbolic since the major nuclear powers have not agreed to it. This has led to the widespread yet erroneous belief that nuclear deterrence is an indispensable prerequisite for security. This has also contributed to a new arms race, which is hard to control and accompanied by the gradual dismantling of nuclear reduction agreements, as well as the development of “miniaturized” weapons, that make their use seem like a more viable option.
 
+<!-- p195 14:00 Ch5::POWER:FORCE -->
 <a id=p195_ch5_power>195</a>. The same logic applies to conventional warfare. Military force, weak diplomatic initiatives and the complexity of the interests at stake contribute to conflicts that tend to become protracted, with extremely high human and environmental costs. It is much easier to start a war than to stop it, and yet, discussion on conflict prevention remains tragically marginal.
 
+<!-- p196 14:30 Ch5::POWER:FORCE -->
 <a id=p196_ch5_power>196</a>. The situation is further destabilized by the presence of new armed operatives, such as jihadist groups, private militias and criminal networks that mark the end of the State’s monopoly on the use of force. Often these groups intertwine vague ideological motivations with concrete economic interests, transforming war into a “way of life” for entire generations of young people and children. Here, the objective is no longer a definitive victory, but the perpetuation of conflict as a source of power and income.
 
 <!-- Ch5 B.3 CULTURE OF POWER: WEAPONS - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### Weapons and artificial intelligence
 
+<!-- p197 15:05 Ch5::POWER::WEAPONS -->
 <a id=p197_ch5_power>197</a>. The above-mentioned scenario is linked to the unceasing development of weapons systems, particularly those involving AI. The Holy See has recently observed that the growing ease with which autonomous weapons systems can be deployed makes war more “feasible” and less subject to human control. This violates the principle that armed force should be used only as a last resort in cases of legitimate self-defense.[^183] For this reason, the development and use of AI in warfare must be subject to the most rigorous ethical constraints, to guarantee respect for human dignity and the sanctity of life and to avoid a race to develop such arms.[^184]
 
+<!-- p198 15:45 Ch5::POWER::WEAPONS::MORALAGENTS -->
 <a id=p198_ch5_power>198</a>. Sometimes there is talk of “artificial moral agents,” as if machines were able to distinguish between right and wrong with greater consistency than a human being.
 Yet moral judgment cannot be reduced to calculation, for it involves conscience, personal responsibility and the recognition of the other as a person.
 Therefore, it is not permissible to entrust lethal or otherwise irreversible decisions to artificial systems.
@@ -1266,26 +1282,34 @@ values and sound judgment into the artificial systems we build,
 so that they can contribute to a moral ecosystem in which humans are better able to listen to their own consciences,
 as well as allowing AI models to establish appropriate boundaries.
 
+<!-- p199 17:00 Ch5::POWER::WEAPONS -->
 <a id=p199_ch5_power>199</a>. It is not enough to invoke a generic type of ethics. Concrete criteria for discernment must be established. The first such criterion concerns personal responsibility. When a decision to strike becomes automated or opaque, the risk of abdicating responsibility increases. For this reason, the chain of responsibility must be identifiable and verifiable; those who design, train, authorize and employ technology must be held accountable for their decisions. The second criterion pertains to the moral timeframe for making judgments. While AI tends to expedite the decision-making processes, speed and efficiency should never be the supreme motivating force for the irreversible decisions made in the context of war. The third criterion is the identification and protection of civilians. Any technology that facilitates attacks without seeing the face of human beings lowers the moral threshold of conflict. Target selection and the use of force must not confuse combatants and non-combatants, nor ignore the impact on defenseless populations.
 
+<!-- p200 18:15 Ch5::POWER::WEAPONS -->
 <a id=p200_ch5_power>200</a>. These criteria give rise to certain non-negotiable requirements. First, all systems used in a war setting must guarantee the possibility of retracing and reconstructing decision-making processes, so that accountability and blame are not collapsed into “the machine.” Second, the decision to use lethal force cannot be delegated to opaque or automated processes, but must remain under effective, self-aware and responsible human control. Finally, it is imperative to establish a shared framework — also at the international level — in order to curb the technological arms race and ensure robust protection for civilians and the infrastructures necessary for their survival.
 
 <!-- Ch5 B.4 CULTURE OF POWER: MULTILATERALISM - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### The crisis of multilateralism
 
+<!-- p201 19:00 Ch5::POWER::MULTILATERALISM -->
 <a id=p201_ch5_power>201</a>. The culture of power also stems from the crisis of the multilateral system. The institutions established to safeguard the concept of a common future for all peoples and a global common good appear to have been weakened. This is due not only to structural limitations, but also to a frequent lack of shared will to support and reform them, or to recognize their moral authority. Instead of making progress, we are regressing from the significant turning point of the twentieth century. After 1989, the collapse of communist regimes in Europe was followed by a predominantly economic globalization, which lacked an adequate political framework capable of sustaining dialogue and peace. An almost blind faith was placed in the ability of the markets to generate prosperity, democracy and stability. In reality, rather than automatically generating unity and peace, globalization has provoked fundamentalist, identity-based and nationalistic reactions. The result is a far cry from genuine multilateralism; instead, what has appeared is a disorderly and conflict-ridden multipolarism with a prevailing sense of mistrust.
 
+<!-- p202 20:15 Ch5::POWER::MULTILATERALISM -->
 <a id=p202_ch5_power>202</a>. What has also re-emerged is the temptation to forge a collective identity in opposition to an enemy, fueled by narratives in which each party portrays itself as a victim entitled to retribution. The reduction of complex issues into simplistic categories — “me first,” “friend or foe,” “us or them” — facilitates decisions that are often irresponsible and undermine mutual trust among nations. The force of international law is thus replaced by the claim that “might makes right.” Consequently, tribunals that are competent for settling disputes between States or dealing with war crimes are often weakened or bypassed, with devastating ramifications for political culture and social cohesion.[^185]
 
+<!-- p203 21:00 Ch5::POWER::MULTILATERALISM -->
 <a id=p203_ch5_power>203</a>. In this context, peacebuilding has been relegated to a secondary role.  Cooperation for development, disarmament, conflict prevention and the establishment of mutual trust are neglected in the name of power politics. The achievements of humanitarian law are also being compromised. Indeed, the principle of proportionality in responding to aggression, the protection of access to water, food and essential goods, and respect for the lives of civilians, especially children, come to be regarded as naïve relics of the past.
 
 <!-- Ch5 B.4 CULTURE OF POWER: SUPPOSED -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### A supposed political realism
 
+<!-- p204 21:40 Ch5::POWER::SUPPOSED -->
 <a id=p204_ch5_power>204</a>. We live at a time of significant spiritual and cultural blindness. A false pragmatism urges us to sever the roots of our history, as if it were possible to inaugurate a kind of “new creation” detached from the past. Even those who cite important moral principles can fall into this historical nihilism, mistakenly believing that the atrocities of the twentieth century can never happen again. Yet, in reality, the same dynamics are re-emerging under new guises. The mentality of armed equilibrium and deterrence appears to be reasserting itself. Today, however, in contrast to the two-sided dynamic of the Cold War, the proliferation of operatives and battlefields makes this mentality increasingly fragile. Escalating conflicts lead to asymmetric and “hybrid” wars, fought not only on the battleground but also on the economic, financial and cyber fronts, where disinformation and campaigns that feed people’s fears are used to manipulate public opinion. In many countries, including those in the Global South, increased military spending is presented as the only response to an uncertain future or perceived threats. Meanwhile, the real cost falls on the poorest, who see resources for healthcare, education and social services being reduced.
 
+<!-- p205 23:05 Ch5::POWER::SUPPOSED -->
 <a id=p205_ch5_power>205</a>. At the core of these issues is a false realism, based not only on the prevailing mentality of force, but on the cultural and anthropological belief that war is an inevitable part of human nature. It is said that things have always been this way, except for occasional pauses, and that it will always be so! As a result, the concern is no longer the search for peace — which has been lost as a point of reference on the international stage — but rather how and when to take military action. This same argument maintains that it would be irresponsible not to prepare for conflict. I would argue, however, that what is truly irresponsible is Realpolitik, the form of political “realism” that sows in consciences and in society an attitude of resignation to the inevitability of war, and dismisses peace and dialogue as utopian or irrational positions that ignore the risks at stake. In fact, peace is neither a naïve hope nor merely the absence of war; instead, it is always possible as the fruit of justice and charity.
 
+<!-- p206 24:15 Ch5::POWER::SUPPOSED -->
 <a id=p206_ch5_power>206</a>. In such a climate, nihilism and pragmatism become intertwined and end up normalizing grave errors.
 Religious extremism and identity-based fanaticism ally themselves with irrational economic policies,
 while politics often turns to misinformation and ridiculing opponents, and
@@ -1294,15 +1318,19 @@ Thus, diversity is increasingly perceived as a threat, which fuels a desire for 
 <a id=5bambition>hegemonic ambitions</a>, abuses of power and a fear of those who are different,
 thereby creating an environment in which new conflicts can develop almost imperceptibly.[^186]
 
+<!-- p207 25:06 Ch5::POWER::SUPPOSED -->
 <a id=p207_ch5_power>207</a>. This, then, is the fertile ground for new wars that are perhaps even more dangerous than those of the past, since they tend to disregard all ethical limits. What was once considered unacceptable can now be carried out almost without hesitation, while the international response is increasingly influenced more by the interests of individual Governments than by the objective gravity of situations.  Decisions now seem to be driven almost exclusively by economic calculations, justified through media distortions, manufactured enthusiasm and “dreams” that inevitably shatter, generating frustration and further violence. When people come to believe that nothing is genuinely true and that principles are hollow words, then the fuse in their hearts is lit for new eruptions of intolerance and aggression.
 
+<!-- p208 26:00 Ch5::POWER::SUPPOSED -->
 <a id=p208_ch5_power>208</a>. In these situations, the issue of concrete safeguards to prevent future violence remains an open question. When a culture normalizes and justifies conflict, a dangerous pathway opens up, in that what seems unthinkable today may become acceptable tomorrow in the name of utility or security. In countries marked by serious social tensions, we cannot rule out the possibility that some leaders may consider armed conflict as an effective way of diverting attention from domestic problems and a cynical tool for managing difficulties.
 
+<!-- p209 25:30 Ch5::POWER::SUPPOSED -->
 <a id=p209_ch5_power>209</a>. A particular responsibility rests on the shoulders of those who work in the field of research. All the key players in this field — scientists, business owners, investors, academic authorities, politicians and others — must work with a transparent and responsible mindset, while maintaining an acute awareness of the broader context of the technological advancements they help to cultivate, including those related to AI. When people limit themselves to looking only at their own sector, they may deceive themselves into believing they are performing actions that are morally neutral and avoid questions about the ultimate ends that guide certain experiments. In this way, they risk cooperating — perhaps unknowingly — with questionable projects that fuel new forms of violence, manipulation and dominance.
 
 <!-- Ch5 C  CIVILIZATION OF LOVE ======================================================== -->
 ### Building the civilization of love
 
+<!-- p210 27:25 Ch5::LOVE -->
 <a id=p210_ch5_building>210</a>. The construction of a world in a state of perpetual conflict is an evil and must be named for what it is.
 This way of portraying our current situation may seem bleak or pessimistic, yet I consider it necessary to do so.
 The Christian perspective, however, is not limited to denouncing evil.
@@ -1312,6 +1340,7 @@ Moreover, we believe in the power of the Kingdom, which grows from the tiny size
 While the tumult of confusion is all around us, goodness grows silently from the earth.
 In the words of the prophet Isaiah: “Behold, I am doing a new thing; now it springs forth, do you not perceive it?” (Is 43:19).
 
+<!-- p211 28:11 Ch5::LOVE -->
 <a id=p211_ch5_building>211</a>. A closer analysis of history confirms this.
 Even in the darkest nights, the Lord raises up men and women
 who refuse to give up,
@@ -1330,57 +1359,74 @@ understand that the darkness has not overcome it and cannot defeat it (cf. Jn 1:
 For this reason, even when suffering seems to have the last word,
 Christians serve the good and are sustained by a theological hope that gives reality both meaning and direction.
 
-<!-- Ch5 A  CIVILIZATION OF LOVE ======================================================== -->
+<!-- Ch5 B.4 CULTURE OF POWER: OUR -- -- - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### We can all do our part
 
+<!-- p212 29:25 Ch5::LOVE::OUR -->
 <a id=p212_ch5_building>212</a>. At this point, however, a subtle temptation may emerge, namely the thought that the problems are too big and we are too small, and that our choices, therefore, cannot make a difference. This is a polite form of resignation, often disguised as realism. Certainly, not everyone has the same power to make a difference. There are those who govern, make investment decisions, lead institutions, conduct research, educate, produce or provide information, and then there are those who only seem to live their daily lives. Yet, no one is without responsibility. We all have our own areas for action, and it is precisely there — and nowhere else — that we must choose whether to fuel the mentality of force (even if only through indifference, cynicism, lies or hatred), or to preserve the mindset of peace (with truth, moderation, closeness and care).
 
+<!-- p213 30:25 Ch5::LOVE::OUR::TOLKIEN -->
 <a id=p213_ch5_building>213</a>. The twentieth-century Catholic author J.R.R. Tolkien, in the words of a protagonist in one of his novels, described our responsibility in this way: “It is not our part to master all the tides of the world, but to do what is in us for the succour of those years wherein we are set, uprooting the evil in the fields that we know, so that those who live after may have clean earth to till.”[^187] The civilization of love will not arise from a single or spectacular gesture, but from the sum total of small and steadfast acts of fidelity that serve as a bulwark against dehumanization. For this reason, it is worthwhile pausing to reflect on some aspects of how we, each in our own way, can cooperate in building the civilization of love. Without presuming to exhaust this theme, I would like to propose five paths toward daily and public responsibility: the need to disarm words, building peace through justice, adopting the perspective of victims, cultivating a healthy realism and reviving dialogue and multilateralism.
 
 #### The need to disarm words
 
+<!-- p214 31:40 Ch5::LOVE::DISARM -->
 <a id=p214_ch5_building>214</a>. The first contribution we can make toward a more humane civilization is to be mindful of our words. “Let us disarm words and we will help to disarm the world.”[^188] Words have enormous power, something we experience in our daily interactions; for example, spoken words can change our mood for better or for worse. “Peace begins with each one of us: in the way we look at others, listen to others and speak about others. In this sense, the way we communicate is of fundamental importance: we must say ‘no’ to the war of words and images, we must reject the paradigm of war.”[^189] We must all, therefore, examine our conscience regarding the words we use, the prejudices we have and the explicit or implicit aggression that lies within them. We have a real opportunity to contribute to the common good each time we speak the truth, offer wise advice, support those in need of comfort, denounce injustice and give a voice to the voiceless.
 
 #### Building peace through justice
 
+<!-- p215 32:50 Ch5::LOVE::JUSTICE -->
 <a id=p215_ch5_building>215</a>. All of us, at every level, can contribute to building the foundation of peace, which is justice. We do not merely seek any kind of peace — such as an absence of conflict at any cost — but instead, the true peace born of justice. “There exists a very close connection between the justice of the individual and the peace of everyone.”[^190] Commenting on the psalm verse “justice and peace have embraced” ( Ps 84:11), Saint Augustine wrote: “There is no one who shuns the desire for peace, yet not everyone is willing to practice justice… But perform the works of justice, keeping in mind that justice and peace have embraced; they are not at odds with one another. Why do you set yourself against justice? Here, for example, is justice telling you not to steal, but you pay no heed; not to commit adultery, and you turn a deaf ear; not to do to others what you would not want done to yourself; not to say about your neighbor the things you would not want said about yourself… Do you therefore wish to attain peace? Then practice justice!”[^191] Let us never grow weary of seeking justice!
 
 #### Adopting the perspective of victims
 
+<!-- p216 34:10 Ch5::LOVE::VICTIM -->
 <a id=p216_ch5_building>216</a>. There are times when, in order to remain human, we must set aside our reservations and take a stand. In some conflicts, it is unjust to remain neutral, nor is it enough merely to claim that we are not complicit.[^192] When we witness the bombing of civilians, attacks on hospitals, schools or vital infrastructure, and violence that affects children, we are confronted with scandals that wound humanity itself. For this reason, we cannot limit ourselves to the level of abstract analysis. Pope Francis encouraged us to “touch the wounded flesh”[^193] of those who suffer, look at their faces, listen to their stories and acknowledge their wounds. Painful events require both history and memory, the former to recount the facts, the latter to bear witness to lived experiences.
 
+<!-- p217 35:08 Ch5::LOVE::VICTIM -->
 <a id=p217_ch5_building>217</a>. Giving space to the perspectives and voices of victims through communication and education helps us to become aware of the abyss of evil inherent in war, and generally in all forms of violence. It helps us to reject the normalization of conflict; not to turn away when human dignity is violated; and to restore to victims the dignity of being recognized and heard.[^194] Paying attention to these voices strengthens the conviction that, apart from violent minorities, humanity does not desire war. In a particular way, the Church can be a place of living memory for victims.
 As Saint Paul VI recalled, the Church feels she must make her own both the voice of those who died in past wars and the voice of the living who still bear wounds today, so that their cries may become an appeal for peace and harmony and not a prelude to new conflicts.[^195]
 
 #### Cultivating a healthy realism
 
+<!-- p218 36:10 Ch5::LOVE::REALISM -->
 <a id=p218_ch5_building>218</a>. We are in need of a healthy realism that avoids both political idealism and cynicism. There is a kind of idealism that, in order to preserve its own worldview, tends to choose facts selectively, distorting and renaming them. Its proponents eventually, inhabit a reality constructed to fit their own convictions. Conversely, there is also a debased form of realism that confuses observation with resignation, arguing that since force prevails, it will always prevail. Authentic realism does not give up on changing the world; indeed, it starts by clearly identifying interests, fears, constraints and power dynamics, precisely in order to determine what can be achieved, and the measures needed to achieve it. It does not reduce politics to morality; neither does it surrender to violence. Instead, it seeks viable paths for making peace more than a mere word, through credible institutions, verifiable guarantees, patient negotiations, conflict prevention and the protection of civilians.
 
 #### Reviving dialogue
 
+<!-- p219 37:20 Ch5::LOVE::DIALOGUE -->
 <a id=p219_ch5_building>219</a>. In order to build the civilization of love, we must engage in dialogue, for this is the primary means of coexistence between people and nations, and it is the alternative to open conflict. On the eve of the Second World War, Pius XII affirmed that nothing is lost with peace, whereas with war everything can be lost. He insisted that people must return to speaking with one another, because a sincere and persevering dialogue always opens up the possibility of an honorable solution.[^196]
 
+<!-- p220 38:00 Ch5::LOVE::DIALOGUE -->
 <a id=p220_ch5_building>220</a>. Indeed, dialogue is an ordinary part of human life and does not only concern relations between States. It involves acquiring an attitude that seeks to forge bonds of fraternity built on listening, an open demeanor, making time for each other and even wasting time together. For if we experience authentic encounters with others, with those who are different, strangers and migrants, it becomes much more difficult even to imagine war.
 
+<!-- p221 38:30 Ch5::LOVE::DIALOGUE -->
 <a id=p221_ch5_building>221</a>. At the political level, there is an urgent need to shift from the “culture of power” to a genuine “culture of negotiation,” in which dialogue and diplomacy become the standard means of resolving conflicts. Giorgio La Pira expressed the hope that “the method of war be replaced by the method of peace: the method of negotiation, of encounter, of convergence, that is, the authentically human method!”[^197] The awareness that all peoples share a common future demands that the “culture of negotiation” become an increasingly shared political and cultural commitment, capable of gradually leading humanity away from the cycle of violence.
 
+<!-- p222 39:15 Ch5::LOVE::DIALOGUE -->
 <a id=p222_ch5_building>222</a>. To those who have the honor and responsibility of governing, I would like to repeat the words that I spoke at the start of my Pontificate: “The peoples of our world desire peace, and to their leaders I appeal with all my heart:  Let us meet, let us talk, let us negotiate! War is never inevitable. Weapons can and must be silenced, for they do not resolve problems but only increase them. Those who make history are the peacemakers, not those who sow seeds of suffering. Our neighbors are not first our enemies, but our fellow human beings; not criminals to be hated, but other men and women with whom we can speak. Let us reject the Manichean notions so typical of that mindset of violence that divides the world into those who are good and those who are evil.”[^198]
 
+<!-- p223 40:10 Ch5::LOVE::DIALOGUE -->
 <a id=p223_ch5_building>223</a>. In rejecting the mindset of violence, interreligious dialogue plays a decisive role, because at the heart of the great spiritual paths lies a message of peace.[^199] Whereas those who use the name of God to legitimize terrorism, violence or war betray his true nature, for to fight in the name of religion means attacking religion itself.[^200]
 The “spirit of Assisi,” evoked by Saint John Paul II and carried forward by Pope Francis — for example, through his dialogue with the Grand Imam of Al-Azhar — shows that believers can draw upon the most authentic sources of their particular spiritual traditions, where there is no room for “sanctified hatred.”
 
 #### The necessity of diplomacy and multilateralism
 
+<!-- p224 41:02 Ch5::LOVE::DIMPLOMACY -->
 <a id=p224_ch5_building>224</a>.  In international relations, dialogue is an irreplaceable diplomatic tool for preventing conflicts and rebuilding bonds of trust. Faced with the impulsive broadcasts, aggressive rhetoric and power politics that characterize our time, “the vocation of diplomacy is to foster dialogue with all parties, including those interlocutors considered less ‘convenient’ or not considered legitimized to negotiate.”[^201] Therefore, every ounce of humility and patience should be employed in order to nurture even the faintest signs of goodwill among parties in conflict, so as to advance the process of peace.
 
+<!-- p225 41:35 Ch5::LOVE::DIMPLOMACY -->
 <a id=p225_ch5_building>225</a>. Cyberspace too has become a battleground. Cyberattacks, data manipulation and campaigns of influence, orchestrated with the help of AI, can destabilize entire countries even before open armed conflict erupts. Moreover, in this area, the attribution of responsibility is often uncertain. When it is unclear who carried out an attack, the risk of disproportionate reaction, miscalculation and escalation increases. For this reason, diplomacy must be capable of operating effectively in this new environment, negotiating shared regulations on the use of digital technologies, in order to protect civilians and the most vulnerable from “invisible” yet real forms of violence.
 
+<!-- p226 42:30 Ch5::LOVE::DIMPLOMACY -->
 <a id=p226_ch5_building>226</a>. International organizations, particularly the United Nations, are essential instruments for promoting a civilization of love, for they can foster dialogue among nations and promote the peaceful resolution of conflicts, the integral development of peoples, the protection of the most vulnerable, disarmament and the care of creation. Through such efforts, the international community can work to reduce inequalities, defend the rights of refugees and minorities, reallocate resources from military spending to human development and protect our common home. The Holy See supports and accompanies these endeavors, while also recognizing that the current weaknesses of the UN and the international political system reveal the need for profound reforms. This is not simply a question of technical adjustments, for the crisis of convictions and values that also concerns the ethical foundations of nations makes it more difficult to direct multilateralism toward the true common good.[^202]
 
+<!-- p227 43:30 Ch5::LOVE::DIMPLOMACY -->
 <a id=p227_ch5_building>227</a>. In the international context, the Holy See’s diplomacy adopts the Gospel’s principle of mercy as a concrete criterion for political action. This is one of the ways in which the Holy See places itself at the service of humanity, thereby appealing to consciences in the name of charity and truth, defending the dignity of every person and speaking up on behalf of the poor, migrants and victims of war. In this way, papal diplomacy expresses the catholicity of the Church and contributes to the building of a civilization of love, where even new technologies can be oriented toward the common good.
 
 #### Praying and hoping
 
+<!-- p228 44:10 Ch5::LOVE::HOPE -->
 <a id=p228_ch5_building>228</a>. These avenues for exercising responsibility are sustained by prayer, and in turn nourish prayer. Indeed, for each of us, peace primarily comes “from God, God who loves us all, unconditionally.”[^203] It is a gift given by Jesus to his disciples on the day of Easter: “Peace be with you! It is the peace of the risen Christ. A peace that is unarmed and disarming, humble and persevering.”[^204] With these words, I greeted the Church and the world on the day of my election to the See of Peter. I wish to repeat them now, and to invite everyone to pray for this gift. Let us never tire of praying for peace and of committing ourselves to achieving it in our relationships and in society.
 
 <!-- ==================================================================================== -->
