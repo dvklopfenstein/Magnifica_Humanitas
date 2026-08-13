@@ -104,14 +104,14 @@ IN THE TIME OF ARTIFICIAL INTELLIGENCE
 <!-- ==================================================================================== -->
 ## INTRODUCTION
 
-<!-- p1 00:18 -->
+<!-- p1  00:18 INTRO:: --------------------------- INTRODUCTION -------------------------- -->
 <a id=p001_intro>1</a>. Humanity, created by God in all its grandeur, is today facing a pivotal choice: either to construct a new Tower of Babel or to build the city in which God and humanity dwell together. Each generation inherits the task of shaping its own era, of guiding history to become a place where the dignity of every person is safeguarded, justice is promoted and fraternity is made possible. Yet every era also runs the risk of creating an inhumane and more unjust world. Whenever humanity is in danger of marring its true identity, we Christians lift our eyes to the Incarnate God, knowing that it is “only in the mystery of the Word made flesh that the mystery of humanity truly becomes clear.”[^apple] In Jesus Christ, this humanity in its grandeur becomes the Way, the Truth and the Life, opening the path for each of us to grow toward fullness.
 
-<!-- p2 01:37 -->
+<!-- p2  01:37 INTRO:: -->
 <a id=p002_intro>2</a>. Founded on Christ, the living stone, we experience the powerful and mysterious action of the Holy Spirit, and we believe that every authentic human effort to cooperate with him for the good will be blessed by our heavenly Father, in whom we place our hope. For this reason, we can diligently contribute to every initiative that builds a more just world, and we can call others to collaborate in promoting the integral development of every human being. We wish to engage in dialogue with all men and women of our time, with whom we share in the events, questions and aspirations of humanity.[^pear] Together with them, we seek to identify new paths for the common good and for promoting a dignified life for all. Indeed, openness to dialogue is an integral part of the Church’s vocation because, constituted in Christ as “a sacrament… of communion with God and of the unity of the entire human race,”[^3] she recognizes history as the place where the Gospel challenges and directs human experience.
 
 <!-- https://www.americamagazine.org/podcasts/2026/05/28/pope-leo-ai-encyclical-podcast/ 12:00 -->
-<!-- p3 03:08 -->
+<!-- p3  03:08 INTRO:: -->
 <a id=p003_intro>3</a>. In this spirit,
 Pope Leo XIII published his Encyclical Rerum Novarum in 1891, the 135 th anniversary of which we celebrate with deep gratitude this year.
 With that document, my beloved predecessor gave impetus to the reflection on society, the economy and politics, which is now known as the “Social Doctrine of the Church.” When some objected that the Church should not waste energy on worldly matters, but instead focus on communicating the message of eternal life, Leo XIII responded with realism and wisdom, saying that the proclamation of the Gospel cannot overlook the concrete lives of people.[^4] Many decades have passed since then, and the Magisterium, pastors, theologians and faithful have continued to reflect on social issues in the light of the Gospel. Today, the Social Doctrine of the Church is a legacy of wisdom, where we find principles for thought, criteria for discernment and judgment, and concrete guidelines for action. Founded on Sacred Scripture and Tradition, and in engagement with the sciences, it helps us clearly interpret the challenges of the present and identify appropriate ways for living out a clear Christian witness, with joy and in service to the world. It is not an inert set of concepts, but a living corpus of truth that safeguards and interprets humanity’s vocation to a full and just life. I therefore wish to add my own voice to this living tradition, invoking the help of the Spirit of wisdom, who has dwelt in the world since its beginning (cf. Prov 8:22-31).
@@ -119,19 +119,19 @@ With that document, my beloved predecessor gave impetus to the reflection on soc
 <!-- Intro A. RES NOVAE -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 ### The *res novae* of our time
 
-<!-- p4 05:20 -->
+<!-- p4  05:20 INTRO::RESNOVAE -->
 <a id=p004_intro_resnov>4</a>. While Leo XIII spoke in his time of “new things” (rerum novarum), today we cannot limit ourselves simply to repeating his insightful teachings. Instead, we must ask God for the wisdom to interpret the great trends of our time, particularly technological advances. In recent years, it has become increasingly evident how rapidly and profoundly digitalization, artificial intelligence (AI) and robotics are transforming our world. Technology should not be considered, in itself, as a force antagonistic to humanity. On the contrary, it has formed part of our history since the beginning as “a profoundly human reality, linked to the autonomy and freedom of man.”[^5] Over the centuries, technological development has significantly improved the living conditions of humanity. At the same time, each phase of progress has also revealed the ambiguity of tools that can cause harm when not oriented toward the good. Today, however, we find ourselves facing a new situation. The power and prevalence of emerging technologies are interwoven into the fabric of daily life, shaping decision-making processes and deeply affecting the collective imagination: “Never has humanity had such power over itself.”[^6] New technologies open up a horizon extending in directions that are imaginable but not yet fully predictable. This complicates the assessment of their potential impact and the long-term effects they may have on both the dignity of individuals and the common good.
 
-<!-- p5 07:30 -->
+<!-- p5  07:30 INTRO::RESNOVAE -->
 <a id=p005_intro_resnov>5</a>. It now falls to us to face the challenges of our time with clarity of thought and responsibility. It is necessary to establish adequate regulatory tools capable of upholding justice and curbing the distorting effects of technological power. Nevertheless, the issue is not limited to regulation. As Pope Francis warned, we must realistically ask ourselves who holds this power today and how they use it: “It must also be recognized that nuclear energy, biotechnology, information technology, knowledge of our own DNA, and many other abilities which we have acquired… have given those with the knowledge, and especially the economic resources to use them, an impressive dominance over the whole of humanity and the entire world.”[^7] In the past, it was largely up to the State to guide and direct innovation. Today, however, the main drivers of development are private, often transnational, parties that are endowed with resources and the capacity to intervene that surpass those of many Governments. Technological power thus takes on an unprecedented, predominantly “private” aspect, which makes it even more challenging to discern, govern and direct such power toward the common good.
 
-<!-- p6 09:22 -->
+<!-- p6  09:22 INTRO::RESNOVAE -->
 <a id=p006_intro_resnov>6</a>. For this reason it is necessary to begin a shared discernment process for identifying the spiritual and cultural roots of ongoing transformations. If we focus only on contingencies, we risk letting the succession of emergencies dictate the direction of our path. We are living through a rapid phase of transition, a “change of era,” in which — while some are vying for the future of new technologies and others dedicate themselves to reflecting on the matter — most people are watching and waiting, observing from afar and merely hoping for the best. For this very reason, crucial questions impose themselves on our conscience and can no longer be avoided: Where are we going? Toward what goal do we wish to orient ourselves? What direction should we choose as a people and as a human community?
 
 <!-- Intro B. TWO IMAGES - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 ### Two biblical images
 
-<!-- p7 10:35 -->
+<!-- p7  10:35 INTRO::2IMAGES -->
 <a id=p007_intro_twoimgs>7</a>. In order to answer these questions and discern how to navigate responsibly the era of AI,
 I would like to bring to mind two scenes from the Bible:
 the construction of the Tower of Babel (cf. Gen 11:1-9) and
@@ -153,37 +153,37 @@ Babel thus reveals the limits of any effort that,
 however grandiose, arises from self-affirmation,
 sacrifices human dignity for efficiency and aspires to reach heaven without God’s blessing.
 
-<!-- p8 12:47 -->
+<!-- p8  12:47 INTRO::2IMAGES -->
 <a id=p008_intro_twoimgs>8</a>. The Book of Nehemiah, in turn, opens at a time of great vulnerability in the history of ancient Israel. After the Babylonian exile, a portion of the people returned to Jerusalem, but the city was still in ruins, the walls collapsed and the gates burned (cf. Neh 1–2). Nehemiah, a Jew in the service of the Persian King Artaxerxes, received news of the disastrous state of his ancestral city. Before taking action, he fasted, prayed and interceded for the people. He then asked the king for permission to return to Jerusalem and, upon arriving, examined the destroyed areas in silence.  He did not impose solutions from above. He convened the families, assigned each of them a section of the wall to rebuild, listened to their concerns, coordinated their efforts and addressed any opposition. The narrative shows how the city is reborn, not through the initiative of one man, but through the shared responsibility of all: men, women, priests, artisans, heads of households and young people all play a part. It is an undertaking with God at the center, which rebuilds relationships before rebuilding with stones. Thus, ancient Jerusalem rediscovers a common language — not one of uniformity, but one of communion, namely the harmony that arises when all persons assume their own role and recognize that their strength comes from the Lord.
 
-<!-- p9 14:50 -->
+<!-- p9  14:50 INTRO::2IMAGES -->
 <a id=p009_intro_twoimgs>9</a>. In light of these two images, the Holy Spirit challenges us today regarding our relationship with technology and the ongoing digital revolution. Scientific discoveries are talents entrusted to humanity so that they may bear fruit (cf. Mt 25:14-30). Technology has the power to heal, connect, educate and protect our common home; but it can also divide, exclude and generate new forms of injustice. In the abstract, technology in and of itself is not a solution to humanity’s problems, just as it is not inherently evil. In practice, however, technology is never neutral, because it takes on the characteristics of those who devise, finance, regulate and use it. Therefore, the primary choice is not between a “yes” or “no” to technology, but rather between constructing Babel or rebuilding Jerusalem; between a power that claims to dominate the heavens and a people who work together in the presence of God to rebuild the walls of fraternal coexistence.
 
-<!-- p10 16:20 -->
+<!-- p10 16:20 INTRO::2IMAGES -->
 <a id=p010_intro_twoimgs>10</a>. We must, then, avoid the “Babel syndrome,” namely the idolatry of profit that sacrifices the weak, a uniformity that neutralizes differences, and the pretense that a single language — even a digital one — can translate everything, including the mystery of the person, into data and performance. The risk of dehumanization — of building a future that excludes God and reduces the other to a means — is an ancient and ever-new temptation that today takes on a technical guise. Instead, let us choose the “way of Nehemiah,” which highlights the importance of working together to make the City of God a safe place for returning exiles. Rebuilding today means recognizing that, precisely from the plurality of voices and visions which, even though they sometimes remind us of the confusion caused by the diversity of spoken languages, a bright possibility emerges. Indeed, this is the possibility of building together, of transforming diversity into a resource and of making listening and dialogue the common ground upon which to cultivate justice and fraternity. Within this shared task, Christians discover their unique role of guiding actions toward God so that, in his light, pluralism does not dissipate into disorder, but instead, through the practice of synodality, it becomes the space in which humanity rediscovers its solid foundations and its final end. In the Book of Revelation, John sees the New Jerusalem “coming down out of heaven from God” (Rev 21:2) as a gift for all humanity. And this vision of grace is an invitation for us Christians to work together in order to foster a peaceful, just and dignified life in community within today’s “cities.”
 
 <!-- Intro C. BUILDING --- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 ### Building for the common good
 
-<!-- p11 19:00 -->
+<!-- p11 19:00 INTRO::BUILDING -->
 <a id=p011_intro_build>11</a>. Building a city founded on the common good implies, first and foremost, building on a firm relationship with God. It means recognizing that the truth of his love calls us to life “in all its fullness” ( Jn 10:10) and communion with him. Like Saint Augustine, we too can say, “You have made us for yourself, O Lord, and our heart is restless until it rests in you.”[^8] Indeed, God has inscribed in our hearts a desire for happiness that embraces all the dimensions of life. The Church, in dialogue with the men and women of our time, recognizes the urgent need to safeguard and guide this aspiration toward its deepest truth.
 
-<!-- p12 20:00 -->
+<!-- p12 20:00 INTRO::BUILDING -->
 <a id=p012_intro_build>12</a>. Secondly, building for the common good means accepting the limits and weakness of humanity without considering them an error to be corrected. Today, the human desire for fullness of life is at risk of being misled by deceitful goals, such as the prospect of a technology that promises to free us from all weakness, and models of wellbeing that leave behind entire populations. All too often, we place our hope in unlimited “upgrades,” in forms of progress that exacerbate inequalities, and in immediate solutions incapable of healing people’s wounds. As a result, while some pursue the illusion of unlimited self-assertion, many are deprived of basic necessities. The Church reminds us, with a firm yet humble voice, that true fulfilment is not achieved by eliminating weakness but through harmonious growth. It is found where freedom and responsibility are intertwined with mutual care and true solidarity, and where progress is measured by the dignity of each person and the good of all peoples.
 
-<!-- p13 21:36 -->
+<!-- p13 21:36 INTRO::BUILDING -->
 <a id=p013_intro_build>13</a>. Thirdly, building a world in which everyone can flourish requires shared responsibility and courage. No one can single-handedly bear the weight of the challenges the world is facing, just as no one is so weak that they cannot play their part, for “power is made perfect in weakness” (2 Cor 12:9). All are given their own section of the wall: scientists and researchers, entrepreneurs and workers, educators and legislators, civil society, popular movements and faith communities. This is the logic of subsidiarity, which values the cooperation between generations, peoples, disciplines and cultures as the best way for fostering stability, prosperity and peace. We should not be intimidated by tensions or differences because they can become creative forces when guided by shared responsibility.
 
-<!-- p14 22:49 -->
+<!-- p14 22:49 INTRO::BUILDING -->
 <a id=p014_intro_build>14</a>. Finally, building for the common good requires an evangelical language. We must avoid humiliating or antagonistic words, opting rather for a clarity that sheds light and a frankness that unlocks new possibilities. We cannot condone naïve enthusiasms, nor fuel unfounded fears. Instead, let us establish standards for discernment — the dignity of the human person, the universal destination of goods, the preferential option for the poor, care for our common home and peace — and let us translate these standards into practices such as responsible planning, the assessment of human and social impact, the inclusion of the most vulnerable, the promotion of digital literacy and guiding research and industry toward justice and peace.
 
 <!-- Intro D. HUMANITY --- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 ### Remaining human
 
-<!-- p15 24:00 -->
+<!-- p15 24:00 INTRO::HUMANITY -->
 <a id=p015_intro_humanity>15</a>. In the recent Ordinary Jubilee Year of 2025, we walked as pilgrims of hope and were blessed with many graces. Strengthened by these gifts, we can move forward with confidence to face the arduous tasks and demanding challenges that lie ahead. In the era of artificial intelligence, when human dignity is threatened by new forms of dehumanization, ours is the pressing duty to remain profoundly human. We must lovingly safeguard the grandeur of humanity bestowed upon us and revealed in its fullness in Christ, the splendor of which no machine can ever replace. True progress always stems from a heart open to others, an intelligence willing to listen and a will that seeks what unites rather than what separates.
 
-<!-- p16 25:10 -->
+<!-- p16 25:10 INTRO::HUMANITY -->
 <a id=p016_intro_humanity>16</a>. I address this heartfelt appeal to all the Catholic faithful, to all Christians and to all men and women of goodwill.
 **Let us not be afraid to get our hands dirty on the “construction site” of our time.**
 Like Nehemiah, let us pray, plan wisely and work perseveringly, placing God at the forefront of our actions and the human person at the center of our choices. Thus, the “rejected stones” — the poor, the sick, the migrants and the least among us — will become the cornerstone, and a solid, welcoming common home will emerge on the earth, where love and faithfulness will finally meet, and righteousness and peace will embrace (cf. Ps 85:10). This is the blessing we implore from God; and the task that stands before us is that of being builders of communion, rather than architects of Babel. We are to be servants of the coming Kingdom, instead of lords of towers destined for ruin.
@@ -194,95 +194,96 @@ Like Nehemiah, let us pray, plan wisely and work perseveringly, placing God at t
 <!-- ==================================================================================== -->
 ## CHAPTER ONE: A DYNAMIC APPROACH FAITHFUL TO THE GOSPEL
 
-<!-- p17 00:20 -->
+<!-- p17 00:20 Ch1:: A DYNAMIC APPROACH FAITHFUL TO THE GOSPEL --------------------------- -->
+<!-- p17 00:20 Ch1::DYNAMIC -->
 <a id=p017_ch1>17</a>. In this first chapter, I intend to present synthetically how the Social Doctrine of the Church has taken shape in the recent Papal Magisterium and in the Second Vatican Council, in order to demonstrate its dynamic character. Indeed, in each era the res novae require that this teaching address historical questions in the light of revealed Truth. In this regard, artificial intelligence, too, should not be considered as merely yet another theme to be studied or a crisis to be managed, but rather as a development that challenges the categories of Social Doctrine from within, calling for their further development in fidelity to the Gospel.
 
-<!-- p18 01:08 -->
+<!-- p18 01:08 Ch1::DYNAMIC -->
 <a id=p018_ch1>18</a>. This overview, however, would not be very comprehensible if, before reflecting on the contribution of individual popes and their most relevant documents, we do not first clarify some fundamental principles concerning the way in which the Church exists in history and relates to the world. Failing to do so would expose Social Doctrine to the risk of being perceived as an undue interference in “worldly” matters or as an external code of ethics imposed from above. In reality, it stems from a Church that walks alongside humanity, recognizing the autonomy of earthly realities and the distinction between ecclesial and political communities. Indeed, it is for this very reason that she strives to serve the common good.
 
 <!-- Ch1 A>2 JOURNEYING ================================================================= -->
 ### A Church journeying through human history
 
-<!-- p19 01:58 -->
+<!-- p19 01:58 Ch1::DYNAMIC::JOURNEYING -->
 <a id=p019_ch1_history>19</a>. The Church is present in the world as a sign of unity for the entire human family. She recognizes today’s questions and challenges as the current setting in which to carry out her particular vocation of listening, dialogue and service, and of being responsive to everything concerning the lives of contemporary men and women. This involvement in people’s lives helps the Church understand ever more clearly that her mission has a historical scope and entails a responsibility for the way in which social relations are built. For this reason, she cannot consider herself a stranger to the forces shaping society. On the contrary, the Church actively participates in the processes by which society grows and is organized, and she offers her own contribution to the creation of a more just and fraternal society. Pope Francis emphasized this historical dimension of the Church’s mission: “No one can demand that religion should be relegated to the inner sanctum of personal life, without influence on societal and national life, without concern for the soundness of civil institutions, without a right to offer an opinion on events affecting society.”[^9]
 
-<!-- p20 03:14 -->
+<!-- p20 03:14 Ch1::DYNAMIC::JOURNEYING -->
 <a id=p020_ch1_history>20</a>. The Church’s vocation and duty to accompany humanity in the specifics of history leads her to recognize that earthly realities possess their own proper character and order. The Second Vatican Council expressed this principle with particular precision in the Pastoral Constitution Gaudium et Spes, whose sixtieth anniversary we remembered and celebrated with gratitude on 7 December 2025: “If by the autonomy of earthly affairs is meant that created things and societies themselves enjoy their own laws and values… then the demand for autonomy is perfectly in order.”[^10] This affirmation shows that creation bears the imprint of an original goodness that our human outlook must preserve, cultivate and bring to fulfilment. In this regard, the Church offers herself in a way that helps to interpret reality in all its depth. She supports with humble firmness the choices that promote the dignity of every person, the cohesion of communities and the good of all. The Church thus stands alongside the world without overpowering it, so that the promise of justice and peace that the Holy Spirit continues to sustain in the heart of humanity may come to fruition in every human endeavor.
 
-<!-- p21 04:32 -->
+<!-- p21 04:32 Ch1::DYNAMIC::JOURNEYING -->
 <a id=p021_ch1_history>21</a>. Recognizing that God upholds the freedom of men and women in the unfolding of history, the Second Vatican Council affirmed the distinction between the ecclesial community and the political community, emphasizing that each must operate with full autonomy. The Church’s presence in the world is also expressed through her relationship with civil society and public institutions. By engaging with these entities, the Church acknowledges the value of social and political realities and honors their specific responsibilities, supporting everything that fosters the wellbeing of individuals and strengthens the fabric of society. The Church does not claim to assume the functions belonging to the State. On the contrary, she esteems those who serve the common good, and she firmly acknowledges the responsibility that civil institutions hold within society. At the same time, the mission entrusted to the Church prompts her to address the real suffering of the men and women of our time. This closeness does not stem from an intent to supplant civil institutions, much less from an implicit criticism of their work. Rather, it stems from evangelical charity, which impels the Church to draw near to the wounds of humanity whenever they surface with greater severity. When the Church intervenes, she does so following the example of the Good Samaritan, with discretion and closeness, aware that what arises from urgent necessity cannot become the norm, nor replace the institutional responsibilities proper to the civil community.
 
-<!-- p22 06:04 -->
+<!-- p22 06:04 Ch1::DYNAMIC::JOURNEYING -->
 <a id=p022_ch1_history>22</a>. Starting from this twofold acknowledgment — the autonomy of earthly realities and the distinction between ecclesiastical and political spheres of competence — allows for a clearer understanding of the direction that the Second Vatican Council set for the Church in her relationship with the world. Gaudium et Spes reminds us that “it is the task of the whole People of God, particularly of its pastors and theologians, to listen to and distinguish the many voices of our times and to interpret them in the light of God’s word, in order that the revealed Truth may be more deeply penetrated, better understood and more suitably presented.”[^11]  Listening to the “many voices” is no mere sociological exercise, but instead requires spiritual discernment. Guided by the Spirit, the People of God come to recognize in cultural and social transformations both the signs of the presence of Christ, who comes and guides history toward its fulfilment, and those aberrations that obscure his face. In this way, the essential core of revealed Truth is not altered, but made explicit and adopted as a living standard for guiding concrete choices, inspiring paths of personal and communal conversion, promoting structural reforms and supporting new forms of evangelical witness in public life. History is thus understood as one of the places in which the Church allows herself to be taught by the Spirit about the humanizing power of the Gospel; and she learns to develop her own teaching at the service of the dignity of every person and the good of all peoples.
 
 <!-- Ch1 A.1 JOURNEYING - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### The wisdom of the word of God in dialogue with the human sciences
 
-<!-- p23 07:44 -->
+<!-- p23 07:44 Ch1::DYNAMIC::JOURNEYING::WISDOM -->
 <a id=p023_ch1_history>23</a>. The Church regards all who sincerely seek “truth, goodness and beauty” as companions on the journey, and considers them as “precious allies”[^12] in defending the dignity of every person and in caring for creation. Adopting the pastoral approach of the Second Vatican Council, which invites us to listen, discern and interpret the signs of the times, and enlightened by the wisdom of the word, the Church is not afraid to encounter human knowledge. Indeed, the word of God provides reliable standards for establishing paths of justice and opening ways of reconciliation and peace among peoples. When it comes to applying these standards to the complex situations of our time, the contributions of philosophy and of the human and social sciences is essential. These disciplines help us understand and analyze cultural, economic and political dynamics more deeply.
 Saint John Paul II recalled that the Church welcomes the contributions of the social sciences in order “to draw from them concrete insights that help her carry out her magisterial office.”[^13] A dialogue with such kinds of knowledge does not diminish the power of the Gospel.
 On the contrary, it makes it possible to identify with greater clarity what genuinely fosters the lives of individuals and communities.
 Following this perspective, Pope Francis emphasized that when dealing with many specific questions, the Church does not claim to offer “a definitive opinion,”[^14] but recognizes the importance of listening to scientific research and of encouraging a serious and honest debate among experts while welcoming a diversity of opinions.
 
-<!-- p24 09:28 -->
+<!-- p24 09:28 Ch1::DYNAMIC::JOURNEYING::WISDOM -->
 <a id=p024_ch1_history>24</a>. Nourished by this fruitful dialogue between the Gospel and human knowledge, the Church has progressively developed her Social Doctrine, cultivating in history a wise patrimony marked by theological and anthropological coherence rooted in the Christian understanding of the person. Precisely because this patrimony arises from faith and a corresponding vision of reality, it does not amount to a repertoire of technical solutions or an economic or political model to be set against others.  Instead, it belongs to a different order, [^15] namely that of the principles that guide the interpretation of events and sustain an evangelical understanding of historical processes and the choices these entail. Herein lies the proper function of Social Doctrine, which does not claim to supplant the responsibilities of politics or institutions, but offers itself as a foundation for collective discernment, helping to recognize and promote whatever serves the dignity of persons, the vitality of communities and the common good.
 
 <!-- Ch1 A.2 JOURNEYING -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### Social Doctrine as a shared discernment
 
-<!-- p25 10:35 -->
+<!-- p25 10:35 Ch1::DYNAMIC::JOURNEYING::SHARED -->
 <a id=p025_ch1_history>25</a>. Understanding that the truth is a gift to be shared, not a possession to be monopolized, frees the Church from the temptation of seeking forms of presence based on power.
 In order to rediscover the evangelical approach of a gentle proclamation of truth that is not imposed, Saint John Paul II invited us to examine honestly the times when acquiescence was given to “intolerance and even the use of violence in the service of truth.”[^16]
 In this same vein, I too have reaffirmed that the Church “does not claim to possess a monopoly on truth,”[^17] because truth is not a territory to be defended, but a good to be shared. For his part, Pope Francis expressed this same perspective in his striking phrase, “time is greater than space.”[^18] What matters most is not occupying positions of power or defending cultural strongholds, but initiating good processes and enabling them to mature.  In this way, the truth of the Gospel is not imposed from above, but grows over time within the concrete interweaving of lives, communities and cultures. This is not a truth that fears diversity, but instead welcomes and guides it. It does not eliminate conflicts, but transforms them, reuniting that which history tends to scatter. This concept can also be illustrated by the image of a multifaceted polyhedron, [^19] in which the one truth of the Gospel is reflected from different angles.
 
-<!-- p26 12:07 -->
+<!-- p26 12:07 Ch1::DYNAMIC::JOURNEYING::SHARED -->
 <a id=p026_ch1_history>26</a>. This attitude of openness to truth, which is at the same time both one and diverse, profoundly expresses the catholicity of the Church, for she embraces the entire human family yet is also immersed in the concrete situations of peoples and cultures.  The Second Vatican Council reminds us that, in virtue of this very catholicity, “each part contributes its own gifts to other parts and to the entire Church.”[^20] In this way, the Church grows as a whole and as individual communities thanks to a mutual exchange and to shared efforts toward an ever fuller communion.  It follows, then, that the People of God are not only gathered together from many peoples, but are also intertwined through different functions, vocations, cultures and traditions, each being called to support and enrich one another.
 From this perspective, Saint Paul VI acknowledged that, given the great variety of historical situations, it is unrealistic to think that the Church’s Social Doctrine can propose a single response that is valid in all contexts.[^21]
 For this reason, he invited each Christian community to interpret the reality in its own country with clarity and responsibility. The fruitful tension between the universality of the Church’s mission and her local roots is an intrinsic aspect of her life, for she encompasses the whole world, while addressing the specific issues of each context as the real setting in which the Gospel takes shape.
 
-<!-- p27 13:38 -->
+<!-- p27 13:38 Ch1::DYNAMIC::JOURNEYING::SHARED -->
 <a id=p027_ch1_history>27</a>. In light of what has been said so far, the Church’s Social Doctrine can be seen more authentically. It is not a handbook of principles and norms to be applied, but a process of shared discernment. It is born from the encounter between the eternal truth of the Gospel and the questions of history. It allows itself to be challenged by the signs of the times, and draws nourishment from the contributions of science, culture and human experience. Therefore, when the dignity of our brothers and sisters is violated, when politics fails to address the tragedies of humanity, when the economy turns against the person or science oversteps the limits of its competence, [^22] the Church — together with other Christian denominations and believers of other religions — must make her voice heard, not in order to dominate, but to promote communion. Understood in this way, Social Doctrine becomes a theology of communion in history, a history in which the Word made flesh continues to be present through dialogue, memory and prophecy.
 
 <!-- Ch1 B>4 SOCIAL DOCTINE ============================================================= -->
 ### The development of Social Doctrine from Leo XIII to the present
 
-<!-- p28 14:46 -->
+<!-- p28 14:46 Ch1::DYNAMIC::DEVEL -->
 <a id=p028_ch1_social>28</a>. Having outlined the way in which the Church is present in history and engages in dialogue with the world, I would now like to consider the development of Social Doctrine in the Magisterium, which has responded to the major social transformations from the nineteenth century to the present day. Naturally, I cannot do justice to the full richness of this teaching, whose fundamental principles are presented in the Compendium of the Social Doctrine of the Church and have been further examined by recent Magisterial teaching. Nor can I systematically explore everything that has been developed in the Encyclicals of my late venerable predecessors, especially in Laudato Si’and Fratelli Tutti. Nevertheless, I will emphasize some essential points in order to show how the present text stands in continuity with that tradition. I would also like to stress how, within this tradition, the unchanging core of revealed truths regarding the human person and society is constantly intertwined with a renewed capacity for listening to historical situations and for responding to contemporary issues. I will now review some of the significant stages of this development, beginning with the period inaugurated by the Encyclical Rerum Novarum.
 
 <!-- Ch1 B.1 SOCIAL DOCTINE - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### The first stages of the Church’s Social Doctrine
 
-<!-- p29 16:10 -->
+<!-- p29 16:10 Ch1::DYNAMIC::DEVEL::FIRST -->
 <a id=p029_ch1_social>29</a>. What we now call the “Social Doctrine of the Church” is not a spontaneous product of the modern age. Instead, it is the fruit of receiving and structuring a long tradition of ecclesial reflection on life in society, rooted in Sacred Scripture, the Church Fathers and the theological and legal developments of the Middle Ages and modern era. Although the expression “Social Doctrine of the Church” was coined by Pius XII in 1950, [^23] its content began to take shape as an organic corpus of social teaching with Leo XIII’s Encyclical Rerum Novarum. Confronted with the “new things” of his time — the conflict between capital and labor, the question of the workforce, and economic and social transformations — Leo XIII did not limit himself merely to acknowledging the unrest, but saw these situations as an area for the Church’s pastoral mission. He exposed them to rigorous discernment, illuminating their causes and possible solutions in the light of the Gospel and an integral vision of the human person created in the image of God.
 Saint John Paul II regarded this approach as a “lasting paradigm”[^24] of Social Doctrine: an exemplary practice through which the Church, when faced with historical changes, exercises her right and duty to examine social realities, make pronouncements about them and indicate paths for finding just solutions.
 In this way, the perennial contents of the faith and ancient ecclesial wisdom find expression in a living doctrine that remains faithful to the Gospel while growing in response to the “new things” of every era.
 
-<!-- p30 13:18 -->
+<!-- p30 13:18 Ch1::DYNAMIC::DEVEL::FIRST -->
 <a id=p030_ch1_social>30</a>. Leo XIII’s Encyclical Rerum Novarum constitutes a milestone in the development of the Church’s social teaching. The document places the dignity of work and of workers at the forefront of its reflection; affirms the right to a fair wage for oneself and one’s family; recognizes that persons have a fundamental value that takes precedence over capital and profit; defends private property along with its indispensable societal role; esteems workers’ associations; and proposes forms of cooperation between the different components of society as an alternative to the mentality of class struggle. It is not surprising, then, that Pius XI defined it as the “ Magna Carta”[^25] of Christian social action. In Rerum Novarum, the Church’s ancient wisdom regarding the human person and life in society took on a new form capable of responding to the industrial age and offering the first major systematic framework for the Social Doctrine that would be further developed in the following decades. While many of the historical conditions described by Leo XIII have changed, at least two insights remain highly relevant today: the primacy of human labor over any mindset focused solely on finance or productivity — with the consequent attention to the people and families most susceptible to exploitation — and the inseparable link between proclaiming the Gospel and pursuing a more just social order. Rerum Novarum thereby continues to remind us that there is no authentic evangelization that does not also affect the structures of human society.
 
-<!-- p31 19:28 -->
+<!-- p31 19:28 Ch1::DYNAMIC::DEVEL::FIRST -->
 <a id=p031_ch1_social>31</a>. Pius XI’s Encyclical Quadragesima Anno was published in 1931 on the fortieth anniversary of Rerum Novarum at the height of a major global economic crisis, marking a further step in the Church’s social teaching. Rather than limiting itself to addressing the “workforce question,” it broadened its focus to encompass the overall structure of the economic and political order. The Encyclical denounces the concentration of economic power in the hands of a few; criticizes both unlimited competition and collectivist projects that undermine the freedom and responsibility of the individual; strongly affirms the workers’ right to association; and reiterates the requirement that wages be proportionate not only to performance, but also to the needs of workers and their families. Within this framework, Pius XI systematically formulated the principle of subsidiarity, which was to become one of the cornerstones of Social Doctrine. According to this principle, whatever can be carried out by individuals, families, intermediary organizations and local communities should not be carried out by higher-level authorities. Alongside these contributions, in various interventions of his Magisterium — from the Encyclicals Non Abbiamo Bisogno and Mit Brennender Sorge to Divini Redemptoris —  Pius XI clearly recalled the societal role of private property and denounced forms of totalitarianism that demean the dignity of the person, stifle life in society, exalt the State above its just value and discriminate according to race. At least three insights of his social teaching remain particularly relevant today: the awareness that injustice concerns not only individual behavior but also economic and institutional structures; the importance of the principle of subsidiarity, which calls for the strengthening of the fabric of associations and communities while avoiding further centralization of power; and the link between the dignity of work, fair remuneration and the genuine possibility for families to lead a dignified life.
 
-<!-- p32 21:35 -->
+<!-- p32 21:35 Ch1::DYNAMIC::DEVEL::FIRST -->
 <a id=p032_ch1_social>32</a>. In the tragic context of the Second World War, and the years of reconstruction that followed, the teachings of Pius XII made a significant contribution to the development of Social Doctrine. This is particularly true of his Christmas radio messages, in which he outlined the framework of an international order based on justice, peace and the recognition of human dignity. In these messages, the Pope proposed a dialogue with society based on an appeal to natural law understood as a set of objective principles that precede the interests of individuals and States, and which must regulate both the internal life of nations and their mutual relations. Pius XII also attributed a decisive role to professional associations, labor unions and the various intermediary organizations in the economic and social order. He recognized these organized forms of society as an essential safeguard for civil equilibrium and for protecting the common good. He affirmed the need for a sound rule of law for guarding against the abuse of power, and he recognized democracy as a means for ensuring the proper exercise of authority. At the same time, he warned against any attempt to base law on utility or force, recalling that an international order governed by the advantage of the strongest exposes weaker peoples to oppression and fundamentally undermines trust between nations. Finally, Pius XII identified profound economic imbalances between countries as one of the factors fueling conflicts.[^26] Three guidelines remain particularly significant for our own times, currently marked by new forms of global power and growing inequalities: the need for law to take precedence over interests; the awareness that economic disparities are a breeding ground for tension and violence; and the necessity of a network of associations capable of mediating between the individual and the State. These guidelines continue to provide important criteria that enable Social Doctrine to interpret the dynamics of globalization and promote a more just and peaceful international order.
 
 <!-- Ch1 B.2 SOCIAL DOCTINE - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### The years of the Second Vatican Council
 [Second Vatican Council](https://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm)
 
-<!-- p33 23:48 -->
+<!-- p33 23:48 Ch1::DYNAMIC::DEVEL::SECOND -->
 <a id=p033_ch1_social>33</a>. A new phase in the Church’s social teaching began with Saint John XXIII, who placed a greater emphasis on the global dimension of social issues and the language of rights. In Mater et Magistra, he presented the Christian faith as a light capable of uniting heaven and earth. He recalled that, while the Church’s primary mission is the sanctification and proclamation of eternal goods, she does not neglect the concrete needs of people’s daily lives, and is concerned with every authentic human good.[^27] Based on this unified vision of humanity, John XXIII emphasized that societal life requires a balance between the initiative of citizens and groups — who are called to organize themselves and work together — and the action of the State, which must coordinate and provide support without stifling the freedom and responsibility of individuals. Hence, he drew attention to fair remuneration for work, worker participation and the growing disparities between countries. A few years later, in Pacem in Terris, John XXIII addressed for the first time not only the faithful, but also all people of good will, organically linking the dignity of the person to the recognition of fundamental rights and duties, and proposing a direction for society — at the international level too — based on truth, justice, love and freedom.[^28] In the present day, which is marked by widespread conflict and new forms of global interdependence, the following aspects of his thought remain particularly significant: the universal perspective of his appeal; his reference to human rights as a shared framework; and his conviction that lasting peace requires institutions and relations between peoples that are inspired by the dignity of every person.
 
-<!-- p34 25:39 -->
+<!-- p34 25:39 Ch1::DYNAMIC::DEVEL::SECOND -->
 <a id=p034_ch1_social>34</a>. The Second Vatican Council marked a turning point in the Church’s understanding of herself in the contemporary world. In the Pastoral Constitution Gaudium et Spes, the Council presented the image of a Church that is close to humanity, engaged with the world and committed to reflecting on the concrete reality of historical situations, rather than abstract concepts. The text addresses the major issues of marriage and the family, economic and societal life, the political community, war and peace. It insists that economic and institutional structures are just only to the extent that they serve the integral development of the person and promote the responsible participation of all.[^29] The importance of this conciliar document for the Social Doctrine of the Church lies not only in having opened up horizons for thematic reflection, but also in its method of discernment that invites us to interpret historical changes guided by the Gospel and human expertise. This approach reveals that dialogue with the world is not a tactical choice for the Church, but a concrete expression of her mission because the Gospel, like leaven, is capable of transforming the structures of society from within and forging paths toward a greater humanity. The Declaration Dignitatis Humanae can be included in the same context. Here, the Council recognized that religious freedom is a fundamental right grounded in human dignity that must be guaranteed by law so as to prevent people from being forced to act against their conscience or impeded from seeking and professing the truth both privately and publicly.[^30] This principle is highly relevant today and continues to provide Social Doctrine with decisive criteria for protecting individuals and building pluralistic and peaceful societies.
 
-<!-- p35 27:30 -->
+<!-- p35 27:30 Ch1::DYNAMIC::DEVEL::SECOND -->
 <a id=p035_ch1_social>35</a>. During the Pontificate of Saint Paul VI, an understanding of peace emerged that was not reduced to the mere absence of war, but took shape within the scope of integral human development.
 In Populorum Progressio, he described development as a transition from less humane to more humane living conditions. He further understood it as a process that concerns “each person and the whole person,”[^31] that is every dimension of the person and all people without exception.
 For this reason, Paul VI could affirm that development understood in this way is in reality “the new name for peace,”[^32] because it aims to eradicate the roots of injustice and conflict and create opportunities for a more dignified life for all.
 The establishment of the Pontifical Commission Iustitia et Pax should also be seen in this light as an attempt to give stable form to this insight at the ecclesial and international levels, while bearing in mind the growing gap between rich and poor countries and the need for policies that genuinely promote more humane living conditions for all.
 
-<!-- p36 28:37 -->
+<!-- p36 28:37 Ch1::DYNAMIC::DEVEL::SECOND -->
 <a id=p036_ch1_social>36</a>. In Octogesima Adveniens, written on the occasion of the eightieth anniversary of Rerum Novarum, Paul VI applied this perspective to postindustrial society, marked by urbanization, new forms of poverty and rapid cultural changes that called into question the future of individuals and communities.
 Paul VI believed that although the Gospel was proclaimed, written and lived out in a historical and cultural context very different from our own, its message was not “outdated.”[^33]
 Instead, it offers a vision of the human person, relationships, authority and the common good that is still capable of guiding economic, political and cultural choices today. In other words, the Gospel remains relevant because it provides the criteria for recognizing what humanizes or dehumanizes and what liberates or oppresses in ever-changing situations.
@@ -292,11 +293,11 @@ Rather, beginning where people are marginalized, it must allow the Gospel to pas
 <!-- Ch1 B.3 SOCIAL DOCTINE - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### The recent Magisterium
 
-<!-- p37 30:14 -->
+<!-- p37 30:14 Ch1::DYNAMIC::DEVEL::RECENT -->
 <a id=p037_ch1_social>37</a>. The rich social teaching of Saint John Paul II lies at the crossroads of the crisis of the great ideological systems of the twentieth century and the onset of economic globalization.
 His Encyclical Laborem Exercens, written ninety years after the publication of Rerum Novarum, opened up a new avenue for reflection on work. It presents fair wages as the concrete means of verifying the justness of the entire socioeconomic system because they reveal whether the worker is treated as a person or merely as a cost of production.[^35] Work is not considered simply as a problem to be dealt with or a means of generating income, but a fundamental good for the person, a principle of economic activity and the key to the entire societal question. Through work, human beings bring their freedom, creativity and capacity for cooperation into play, contributing to the cultural and moral elevation of society.[^36] In light of this, the various kinds of job insecurity, fragmented career paths and automation must not be evaluated solely in terms of efficiency, but in relation to the dignity of the worker, the right to sufficient remuneration and the genuine possibility of participating in society.
 
-<!-- p38 31:30 -->
+<!-- p38 31:30 Ch1::DYNAMIC::DEVEL::RECENT -->
 <a id=p038_ch1_social>38</a>. With his Encyclical Sollicitudo Rei Socialis, marking the twentieth anniversary of Populorum Progressio, John Paul II reexamined the scourge of underdevelopment.
 He acknowledged the failure of numerous attempts to accelerate the economic development of poor peoples and
 to assist them in the process of industrialization,
@@ -306,12 +307,12 @@ structurally favor their own interests while stifling weaker economies, and he a
 In this context, solidarity was understood as a concrete, shared responsibility among individuals,
 peoples and nations — a form of social friendship or political charity oriented toward the “civilization of love” proposed by Paul VI.[^39]
 
-<!-- p39 33:30 -->
+<!-- p39 33:30 Ch1::DYNAMIC::DEVEL::RECENT -->
 <a id=p039_ch1_social>39</a>. On the centenary of Rerum Novarum, the Encyclical Centesimus Annus offered a reflection on the collapse of the Soviet system and the rise of democracy and the market economy.
 Saint John Paul II reiterated Pius XII’s message that the Church values democracy insofar as it guarantees the effective participation of citizens, enables them to elect and peacefully replace their leaders and prevents power from being monopolized by small elite groups motivated by particular or ideological interests.[^40]
 Likewise, the Church recognizes the positive potential of the market and private initiative only if they remain subordinate to the moral law and are guided by the principle of solidarity, without sacrificing the most vulnerable to the rationale of profit.[^41] This adds a particularly relevant legacy to the Social Doctrine of the Church. The affirmation of the link between the dignity of work, solidarity among peoples, a critical assessment of democracy and the market economy continues to provide criteria for evaluating new forms of exploitation, exclusion and crises in political representation.
 
-<!-- p40 33:45 -->
+<!-- p40 33:45 Ch1::DYNAMIC::DEVEL::RECENT -->
 <a id=p040_ch1_social>40</a>. In his social Encyclical Caritas in Veritate, Pope Benedict XVI sought to reassess and expand the concept of development presented in Populorum Progressio, interpreting it in light of globalization.
 He noted that such development should translate into “real growth, of benefit to everyone and genuinely sustainable.”[^42]
 That is, economic progress that is truly inclusive and respectful of the limits of creation.
@@ -324,36 +325,36 @@ For this reason, Benedict XVI reiterated that
 <a id=1bcomm>economic activity cannot claim to solve social problems simply through the expansion of a commercial mentality</a>,
 but must be ordered toward the common good, for which the political community bears its own irreplaceable responsibility.[^45]
 
-<!-- p41 35:00 -->
+<!-- p41 35:00 Ch1::DYNAMIC::DEVEL::RECENT -->
 <a id=p041_ch1_social>41</a>. Benedict XVI placed charity at the center of his analysis, stating that it “is at the heart of the Church’s Social Doctrine,”[^46] provided that it is always united with truth. He also noted with concern that there is a tendency to dismiss moral relevance precisely within the social, legal, political and economic fields. The originality of his contribution lies in showing that development, justice, institutions and the market are not neutral realities, but spaces where charity in truth must find historical expression. This teaching is especially relevant today in light of growing inequalities, pressures in the financial markets, the environmental crisis and a lack of trust in politics. It stands as an invitation to evaluate every model of development on its ability to be inclusive and sustainable, to rebuild the relationship between economics and politics on the common good, and to acknowledge the critical and generative role of charity in public life.
 
-<!-- p42 36:00 -->
+<!-- p42 36:00 Ch1::DYNAMIC::DEVEL::RECENT -->
 <a id=p042_ch1_social>42</a>. Pope Francis’ social teaching develops along the lines of Gaudium et Spes, which invites us to view history through the lens of human hopes and vulnerabilities, and to bring them into dialogue with the Gospel. This approach emerges with particular clarity in Evangelii Gaudium, where he states that the Christian proclamation has an intrinsic social dimension and calls for a Church capable of listening to the cry of the poor, migrants and victims of new forms of slavery. Francis’ insistence on a synodal Church, a Church that “walks together,” that seeks to read the signs of the times in the light of the Gospel and allows herself to be evangelized by the poor with whom she shares history, also fits into this perspective.[^47]
 
-<!-- p43 36:50 -->
+<!-- p43 36:50 Ch1::DYNAMIC::DEVEL::RECENT -->
 <a id=p043_ch1_social>43</a>. In Laudato Si’, Francis provided the first significant systematic treatment of the environmental crisis in a social Encyclical, demonstrating that it is not an isolated issue, but rather the ecological aspect of the contemporary socio-economic crisis. His proposal for an integral ecology combined care for our common home with the preferential option for the poor, and strongly affirmed that “the cry of the earth and the cry of the poor”[^48] cannot be separated. In this light, the universal destination of goods was brought to the forefront, alongside the critique of a technocratic paradigm that seeks to reduce everything to an object to be dominated; the defense of human labor threatened by the mindset of waste; and the need for intergenerational justice. Finally, he advocated for genuine dialogue between those working in the fields of politics and finance, so that neither would become self-referential.
 
-<!-- p44 37:50 -->
+<!-- p44 37:50 Ch1::DYNAMIC::DEVEL::RECENT -->
 <a id=p044_ch1_social>44</a>. Faced with the breakdown of the social fabric, a “world war being fought piecemeal,” individualistic globalization and the impact of the pandemic on community ties, Francis, in Fratelli Tutti , sought to revive the dream of a humanity that opts for social friendship and universal fraternity. He proposed a culture of encounter, a “better politics” capable of seeking the common good, paths of reconciliation and a world that ensures “land, housing and work for all.”[^49] Finally, in Dilexit Nos, he showed that these significant social endeavors cannot be separated from a personal relationship with Christ. Turning to the word of God, he reminded us that the truest response to the love of the heart of Jesus is concrete love for our brothers and sisters, and affirmed that “there is no greater way for us to return love for love.”[^50]
 
 <!-- Ch1 B.4 SOCIAL DOCTINE - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### Interpreting history in the light of faith
 
-<!-- p45 38:50 -->
+<!-- p45 38:50 Ch1::DYNAMIC::DEVEL::HISTORY -->
 <a id=p045_ch1_social>45</a>. Considering this historical overview, it is clear that the Church’s Social Doctrine is not the result of a project devised at a desk, but rather the product of a patient process in which each pontiff — together with the Second Vatican Council — made a unique contribution in light of the “new things” of each particular era. In response to the challenges of their time, each one interpreted historical changes according to the Gospel, bringing to light different aspects of a single heritage: the dignity of the person, the value of work, the universal destination of goods, solidarity and subsidiarity, care for creation and the centrality of peace and fraternity.
 <!-- https://www.americamagazine.org/podcasts/2026/05/28/pope-leo-ai-encyclical-podcast/ -->
 **The result is a harmonious, though not always linear, development that is marked by different emphases, progressive insights, and, at times, changes in perspective that do not break with what came before, but allow its implications to mature.**
 If today we can speak of a corpus of shared principles and criteria, it is because this faith-based interpretation of history has never been interrupted, remaining ever open to the challenges posed by each generation.  It is to the great principles of Social Doctrine, which direct the discernment of believers in their personal and public lives, that I now wish to turn our attention, in order to grasp more effectively their internal coherence and capacity to guide our times.
 
-<!-- ==================================================================================== -->
-<!-- CHAPTER TWO: FOUNDATIONS AND PRINCIPLES OF THE SOCIAL DOCTRINE OF THE CHURCH         -->
-<!-- ==================================================================================== -->
+<!-- ===================================================================================== -->
+<!-- CHAPTER TWO: FOUNDATIONS AND PRINCIPLES OF THE SOCIAL DOCTRINE OF THE CHURCH          -->
+<!-- ===================================================================================== -->
 ## CHAPTER TWO: FOUNDATIONS AND PRINCIPLES OF THE SOCIAL DOCTRINE OF THE CHURCH
 
-<!-- p46 00:20 Ch2:: -->
+<!-- p46 00:20 Ch2::FOUNDATIONS AND PRINCIPLES OF THE SOCIAL DOCTRINE OF THE CHURCH ------ -->
 <a id=p046_ch2>46</a>. The Social Doctrine of the Church is a living reality, in dialogue with history, cultures and sciences. At the same time, it enshrines a core set of unchanging truths. For this reason, it can be considered a form of wisdom that is capable of guiding the personal and societal lives of believers even today. In this second chapter, I would like to focus on some of the foundations and principles of the Church’s Social Doctrine that will help us to interpret the “new things” of our time, particularly in view of the inherent dignity of the human person. In order to protect the human person in the age of artificial intelligence, I believe that today we must once again reflect on the common good, the universal destination of goods, subsidiarity, solidarity and social justice. I am convinced that a harmonious relationship between these principles requires that they be considered collectively, so that it becomes clear how they relate to and complement each other.
 
-<!-- p47 01:45 Ch2:: -->
+<!-- p47 01:45 Ch2::FOUNDATIONS -->
 <a id=p047_ch2>47</a>. In offering these reflections, my hope is, first and foremost, to help the lay faithful and people of goodwill rediscover their duty of implementing the above-mentioned principles in their daily lives, family relationships, work and involvement in society. Thus, they will let themselves be inspired by the aim of embodying God’s love in the concrete events of life. At the same time, I would like to encourage academic institutions and universities to give fresh impetus to these principles, and to apply them in a way that will be relevant and effective in addressing the digital revolution. In this way, theological and philosophical enquiry will be able to further explore and support the Church’s pastoral journey, and contribute to the Magisterium’s task of enlightening the consciences of the faithful and guiding their efforts to make the life of our societies more just and fraternal.
 
 <!-- ------------------------------------------------------------------------------------ -->
@@ -363,13 +364,13 @@ If today we can speak of a corpus of shared principles and criteria, it is becau
 <!-- Ch2 A.1 FOUNDATIONS - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### The human person: image of the Triune God
 
-<!-- p48 03:05 Ch2::FOUNDATIONS:: -->
+<!-- p48 03:05 Ch2::FOUNDATIONS::TRIUNE -->
 <a id=p048_ch2_foundation>48</a>. The Church’s Social Doctrine brings us to the very heart of our faith: the mystery of the living God, revealed in Jesus Christ, who, as a communion of Persons — Father, Son and Holy Spirit — is love itself in relationship, expressed in the mutual gift of self and in sharing with the world.[^51] As the Council recalled, human persons are called to communion with God and “can fully discover their true selves only in sincere self-giving.”[^52] Indeed their deepest vocation is to enter into the Trinitarian dynamic of love received and shared.
 
-<!-- p49 03:52 Ch2::FOUNDATIONS:: -->
+<!-- p49 03:52 Ch2::FOUNDATIONS::TRIUNE -->
 <a id=p049_ch2_foundation>49</a>. If the mystery of God as Love is the source of Social Doctrine, we see its most concrete expression in the face of Jesus Christ, the Incarnate Word. By becoming man, the Son of God enters our history and takes on human flesh, bringing with him the love that unites him to the Father and the Holy Spirit. In him, “the mystery of humanity truly becomes clear”[^53] because his humanity is completely free, open to others, capable of building healthy and beautiful relationships and committed to the total gift of self. Those who believe in him are engaged in the great work of renewal that began with the mystery of his passion, death and resurrection, and they cooperate in building up the Kingdom of God, learning to embrace all men and women as brothers and sisters, children of one Father. In this way, both the proclamation of the Gospel and Christian life, guided by the action of the Holy Spirit, tend to bring about social consequences in the world.[^54]
 
-<!-- p50 05:15 Ch2::FOUNDATIONS:: -->
+<!-- p50 05:15 Ch2::FOUNDATIONS::TRIUNE -->
 <a id=p050_ch2_foundation>50</a>. At the heart of the Christian understanding of the human person lies the great biblical affirmation that men and women are created in the image and likeness (cf. Gen 1:26-27) of the Triune God. Created for relationship, every human person is planned and willed by God to enter into communion with him, with others and with creation. Human dignity does not depend on a person’s abilities, wealth or position in life, nor on the right or wrong choices made; instead, it is a gift that precedes and transcends each person, endowed by God as an expression of his unfailing love. For this reason, the human person always remains the “way for the Church”[^55] and the heart of every authentic path of integral human development.[^56]
 
 <!-- Ch2 A.2 FOUNDATIONS - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
@@ -556,7 +557,7 @@ In this way, the Church will be able to bear credible witness to society that se
 <!-- ================================================================================================ -->
 ## CHAPTER THREE: TECHNOLOGY AND DOMINANCE; THE GRANDEUR OF HUMANITY IN LIGHT OF THE PROMISES OF AI
 
-<!-- p90 00:25 Ch3:: -->
+<!-- p90 00:25 Ch3::TECHNOLOGY AND DOMINANCE; THE GRANDEUR OF HUMANITY IN LIGHT OF THE PROMISES OF AI -->
 <a id=p090_ch3>90</a>. Having recalled the principles that shine a light on Social Doctrine, I would now like to focus on certain challenges that profoundly shape our way of living today.  The biblical image accompanying these reflections is that of a building project. On the one hand, there is the Tower of Babel, where collective effort follows a plan that dominates and ultimately dehumanizes (cf. Gen 11:1-9). On the other hand, there are the ruins of Jerusalem, which under Nehemiah’s direction are rebuilt piece by piece as a project of shared responsibility (cf. Neh 2–6). We are called to reflect on the great “construction sites” of our era and ask: What are we building? As technological development rapidly transforms languages, relationships, institutions and forms of power, we believers must and can choose which projects to work on and in what manner, so as to safeguard and value the grandeur of humanity that has been given to us as a gift. This is a choice not only for our future but also for our present, since artificial intelligence and other emerging technologies are already part of our daily lives.
 
 <!-- p91 01:44 Ch3:: -->
@@ -592,10 +593,10 @@ For this reason, technological progress — valuable in itself — requires care
 <!-- Ch3 B<2 AI ========================================================================= -->
 ### Artificial intelligence
 
-<!-- p97 06:27 Ch3::AI -->
+<!-- p97  06:27 Ch3::AI -->
 <a id=p097_ch3_AI>97</a>. It is not my intention here to offer a comprehensive treatment of artificial intelligence, nor to give an overview of the extensive relevant literature, since authoritative contributions already exist, including within the ecclesial context.[^123]  I limit myself to recalling a few essential elements for a moral and social discernment that safeguards the primacy of the human person, in order to ensure that it will always be human intelligence, with its conscience and freedom, that guides technical innovations and responsibly determines their use and limits.
 
-<!-- p98 07:05 Ch3::AI -->
+<!-- p98  07:05 Ch3::AI -->
 <a id=p098_ch3_AI>98</a>. It is appropriate to preface this discussion with two considerations.
 First, any statement regarding AI risks becoming quickly outdated, given the remarkable pace at which these systems are developing.
 Second, all of us, including those who design them, possess only a limited understanding of their actual functioning.
@@ -607,7 +608,7 @@ There thus emerges an urgent need for a twofold commitment:
 on the one hand, a deepening of scientific research;
 on the other, the exercise of moral and spiritual discernment.
 
-<!-- p99 08:00 Ch3::AI -->
+<!-- p99  08:00 Ch3::AI -->
 <a id=p099_ch3_AI>99</a>. It is not possible to provide a single, comprehensive definition of AI.
 What can be stated, however, is that we must avoid the misconception of equating this type of “intelligence” with that of human beings.
 These systems merely imitate certain functions of human intelligence.
@@ -796,6 +797,7 @@ If, however, power grows while the heart withers and human bonds fray, then we a
 <!-- ===================================================================================== -->
 ## CHAPTER FOUR: SAFEGUARDING HUMANITY AT A TIME OF TRANSFORMATION; TRUTH, WORK, FREEDOM
 
+<!-- p131 00:25 Ch4::SAFEGUARDING HUMANITY AT A TIME OF TRANSFORMATION; TRUTH, WORK, FREEDOM -->
 <a id=p131_ch4>131</a>. Having outlined the context in which the challenge of technological transformation is situated,
 especially those linked to AI and to transhumanist and posthumanist currents,
 we cannot remain at the level of general analysis alone.
@@ -813,6 +815,7 @@ to <a id=4acomm>safeguard freedom against all forms of dependence and commercial
 <!-- Ch4 A.1 TRUTH  -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### Truth and democracy
 
+<!-- p132 01:35 Ch4::SAFEGUARDING::TRUTH::DEMOCRACY -->
 <a id=p132_ch4_truth>132</a>. The use of digital platforms and AI systems is driving profound changes in public and political communication.
 Tools that could foster dialogue and participation are often used to construct distorted narratives and blur the boundaries between truth and falsehood, mixing facts with opinions.
 Disinformation did not begin with AI, yet today it finds a powerful amplifier in AI.
@@ -824,6 +827,7 @@ In public discourse, the truth of facts has a rational dimension, as it requires
 Moreover, it is deeply relational, built through bonds of trust and shared practices, as well as an honest exchange with others and with the world.
 Only the shared pursuit of the veracity of facts, perceived as a common good, can provide a solid foundation for just communication.
 
+<!-- p133 03:25 Ch4::SAFEGUARDING::TRUTH::DEMOCRACY -->
 <a id=p133_ch4_truth>133</a>. Those who command powerful technological and economic resources, along with substantial human capital for intervention, possess significant capabilities for influencing cultural change.
 Ultimately, they can influence a significant number of people concerning the truth about humanity, the world, the meaning of existence, the family and even God.
 This is pure power detached from truth, which subtly or overtly imposes what it wishes others to accept as true.
@@ -835,16 +839,19 @@ Saint John Paul II reflected on the consequences of this “crisis of truth,”
 going so far as to state that “once the idea of a universal truth about the good, knowable by human reason, is lost, inevitably the notion of conscience also changes.”[^141]
 In such a context, universally valid truths, which precede us and which conscience must accept, are no longer recognized. This led Pope Francis to ask with realism: “What is law without the conviction, born of age-old reflection and great wisdom, that each human being is sacred and inviolable?”  To which he concluded: “If society is to have a future, it must respect the truth of our human dignity and submit to that truth. Murder is not wrong simply because it is socially unacceptable and punished by law, but because of a deeper conviction. This is a non-negotiable truth attained by the use of reason and accepted in conscience. A society is noble and decent, not least for its support of the pursuit of truth and its adherence to the most basic of truths.”[^142]
 
+<!-- p134 05:55 Ch4::SAFEGUARDING::TRUTH::DEMOCRACY -->
 <a id=p134_ch4_truth>134</a>. The search for truth is an essential element of democracy, which is itself a means of contributing to the common good. When questions about what is true lose their appeal, and a pragmatism takes hold that is content with what appears useful or effective, then democratic life is weakened. After all, democracy does not consist of rules and procedures alone, but above all of a solid concordance with the facts and a genuine commitment to the good of individuals and society as a whole.  Indifference to the truth leads, slowly but surely, to a descent into totalitarianism. As the philosopher Hannah Arendt wrote, the ideal subjects of such regimes are not so much those who are ideologically convinced, but rather “people for whom the distinction between fact and fiction (i.e., the reality of experience) and the distinction between true and false (i.e., the standards of thought) no longer exist.”[^143]
 
 <!-- Ch4 A.2 TRUTH  -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### Communication and the collective imagination
 
+<!-- p135 07:20 Ch4::SAFEGUARDING::TRUTH::IMAGINATION -->
 <a id=p135_ch4_truth>135</a>. In view of this, it is important to recall that communication “is not only the transmission of information, but it is also the creation of a culture.”[^144]
 The content that circulates within digital environments shapes how people perceive the world and
 introduces into the collective consciousness images and narratives that direct our desires and influence our daily choices.
 This is “not a parallel or purely virtual world,”[^145] since what originates online now becomes a part of people’s lives, especially of the youngest.
 
+<!-- p136 08:05 Ch4::SAFEGUARDING::TRUTH::IMAGINATION -->
 <a id=p136_ch4_truth>136</a>. For this reason, those who control digital platforms and means of communication
 have a considerable ability to affect the collective imagination and
 to present a particular vision of reality as desirable.
@@ -855,6 +862,7 @@ homogenization or dominance, but rather a setting in which inner freedom and cri
 <!-- Ch4 A.3 TRUTH  -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### Toward an ecology of communication
 
+<!-- p137 08:50 Ch4::SAFEGUARDING::TRUTH::COMMUNICATION -->
 <a id=p137_ch4_truth>137</a>. Our first task is neither to demonize nor idolize technological tools,
 but to utilize them on the basis of a fundamental principle,
 namely that truth is a common good and not the property of those with power or influence.
@@ -875,17 +883,20 @@ In universities, the principal challenge lies in the integration of knowledge,
 cultivating both the capacity to connect and synthesize knowledge in order to grasp complexity,
 and the skills necessary to verify facts.
 
+<!-- p138 10:29 Ch4::SAFEGUARDING::TRUTH::COMMUNICATION -->
 <a id=p138_ch4_truth>138</a>. Christian communities, too, are called to commit themselves to transparency in communication and to the honest pursuit of facts. Sadly, this has not always been the case. We have witnessed with shame the emergence of painful truths concerning even members of the Church and ecclesial realities. In particular, some journalists, driven by a passion for truth, have played a crucial role in bringing injustices and abuses to light. To them, I wish to repeat the words that Pope Francis used in speaking to journalists: “I also thank you for what you tell us about what goes wrong in the Church, for helping us not to sweep it under the carpet, and for the voice you have given to the victims of abuse.”[^146] Yet vigilance and transparency remain first and foremost a grave responsibility for the Church herself, and we must not wait for others to compel us to confront uncomfortable truths about ourselves.
 
 <!-- Ch4 A.4 TRUTH  -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### An educational alliance for the digital age
 
+<!-- p139 11:50 Ch4::SAFEGUARDING::TRUTH::EDUCATION -->
 <a id=p139_ch4_truth>139</a>. In an era when truth is often distorted in order to serve particular interests and communication strategies,
 the field of education assumes decisive importance.
 Yet rapid technological transformations reveal just how unprepared we are on the educational level.
 The pervasiveness of digital media fosters a culture of immediacy and hyper-stimulation,
 which gives rise to fatigue, boredom and apathy concerning the effort required for seeking the truth.
 
+<!-- p140 12:30 Ch4::SAFEGUARDING::TRUTH::EDUCATION -->
 <a id=p140_ch4_truth>140</a>. Education, by contrast, is a long journey requiring patience,
 and therefore needs time for development and for engagement with reality beyond appearances.
 This is a fundamental issue because every technology shapes those who use it.
@@ -899,13 +910,16 @@ by engaging in discussion with others,
 We must learn, then, how to exercise restraint in the use of AI and to protect our young people from the promise of the perfect machine,
 from that subtle temptation which renders human thought seemingly superfluous precisely when it is most needed.
 
+<!-- p141 13:55 Ch4::SAFEGUARDING::TRUTH::EDUCATION -->
 <a id=p141_ch4_truth>141</a>. In recent years, psychological and psychiatric literature has documented with growing insistence how early and unsupervised exposure to digital devices and social media can negatively impact sleep, attention span, control of emotions and relationships, especially during the most vulnerable stages of life, at times with tragic consequences. This is further aggravated by easy access to violent or degrading content that offends sensibility, to pornographic and hypersexualized material, to messages that trivialize the body and emotions, and to proposals that normalize risky behavior. Online phenomena such as grooming, blackmail and the sexual exploitation of minors are not uncommon, and are made more insidious by the use of fake profiles, algorithms that facilitate dangerous contact, and AI tools capable of manipulating images and videos. Having a personal mobile device at too early an age and using it without adult supervision can exacerbate young people’s vulnerabilities, foster addiction and expose them to isolation, bullying and cyberbullying, as well as to pressures to share intimate images or sensitive information.
 
+<!-- p142 15:30 Ch4::SAFEGUARDING::TRUTH::EDUCATION -->
 <a id=p142_ch4_truth>142</a>. It is difficult for parents by themselves to resist the influence of business models that monetize attention and time. Therefore, it is essential to form an alliance among policy-makers, educational institutions and families that is capable of concretely supporting adults in this task. Far-sighted public policies are needed to oppose the immediate interests of platforms, concentrated in a few hands, when they conflict with the wellbeing of minors. In this regard, interventions by legislators are appropriate for setting age limits, holding service providers accountable rather than shifting the whole burden of control onto families, and for providing specific protections against all forms of online sexual exploitation and violence. Thus can children and adolescents, who are entrusted to our care, be genuinely protected as a precious treasure.[^148] At the same time, it is also necessary to teach children, adolescents and young people how to recognize manipulation, defend their dignity and respect that of others in digital environments.[^149]
 
 <!-- Ch4 A.5 TRUTH  -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### The central role of schools
 
+<!-- p143 17:00 Ch4::SAFEGUARDING::TRUTH::SCHOOLS -->
 <a id=p143_ch4_truth>143</a>. School is the place where new generations can learn to seek and love the truth, to reflect on the meaning of life and to recognize the dignity of every person.
 For this reason, many parents, who want their children to grow in the capacity to form relationships,
 develop critical thinking skills and embrace solid values, place great expectations on schools as valuable partners in their children’s education.
@@ -913,6 +927,7 @@ Yet parents have the primary and inalienable right to choose the kind of educati
 in a manner consistent with their moral, cultural and religious convictions.
 Today, the world of education faces a number of urgent challenges.
 
+<!-- p144 17:55 Ch4::SAFEGUARDING::TRUTH::SCHOOLS -->
 <a id=p144_ch4_truth>144</a>. The first challenge is socio-political.
 Both within individual nations and across different regions of the world, significant inequalities persist concerning access to basic education and higher studies.
 In many nations, Governments have not yet invested the necessary resources for guaranteeing a quality education for all,
@@ -922,6 +937,7 @@ access to schooling may become overly dependent on families’ financial means, 
 In the face of this risk, it is nevertheless important to acknowledge and encourage the contribution of the many private Catholic educational institutions which ensure inclusive access
 for children and young people of every background, even when families’ economic circumstances would not otherwise allow it.
 
+<!-- p145 09:10 Ch4::SAFEGUARDING::TRUTH::SCHOOLS -->
 <a id=p145_ch4_truth>145</a>. The second major challenge is pedagogical.
 Many educational systems struggle to keep pace with change and to support the integral development of students.
 The advance of information technologies and AI is rapidly rendering curricula obsolete that were designed for a different era.
@@ -930,6 +946,7 @@ in order to promote an authentically integral education that addresses every dim
 It is necessary to support the ongoing formation of teachers throughout their professional lives, so that they can engage positively with new technologies,
 helping students to use them responsibly, critically and creatively, rather than passively succumbing to their influence.
 
+<!-- p146 20:10 Ch4::SAFEGUARDING::TRUTH::SCHOOLS -->
 <a id=p146_ch4_truth>146</a>. The third major challenge is intellectual and concerns knowledge.
 Without careful attention, an educational system lacking in a love for truth may emerge, in which an incessant flow of information replaces the essential exercise of research, reflection and discernment.
 As knowledge becomes increasingly fragmented, it becomes
@@ -940,6 +957,7 @@ A genuinely healthy attitude is needed, requiring rhythms that incorporate
 <a id=4attitude>[silence, in-depth study, reading and judicious analysis](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)</a>,
 for without these elements inner freedom may be compromised.
 
+<!-- p147 21:30 Ch4::SAFEGUARDING::TRUTH::SCHOOLS -->
 <a id=p147_ch4_truth>147</a>. The Church’s Social Doctrine invites families, schools, Christian communities and public institutions to form a renewed educational alliance.
 This takes shape when fundamental principles are translated into educational goals,
 including teaching students a sense of moderation and limits;
@@ -954,38 +972,44 @@ Schools are not called to follow the pace of the digital world, but to offer tha
 <!-- Ch4 B.1 WORK - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### The value of work
 
+<!-- p148 22:35 Ch4::SAFEGUARDING::WORK::VALUE -->
 <a id=p148_ch4_work>148</a>. Since the emergence of her Social Doctrine, beginning with Rerum Novarum, the Church has emphasized the protection of workers and the need to combat all forms of exploitation. Above all, however, the Magisterium has recognized in work “the essential key”[^150] to understanding the entire social question, since it is through their work that individuals develop many dimensions of their existence. In view of this, we can understand the great intuition of Saint Benedict of Nursia, who united prayer and work, showing daily activity to be a part of the human response to God’s call. Created in the image of the Creator, our own work in some way continues his, for thereby we contribute to the progress of society and the common good, put to good use the capabilities we have received, improve and beautify the world, support our families, engage in cooperative relationships and, through listening and dialogue, learn to build together something that no one could achieve alone.
 
+<!-- p149 23:55 Ch4::SAFEGUARDING::WORK::VALUE -->
 <a id=p149_ch4_work>149</a>. For these reasons, work is not simply an instrument; it expresses and enhances the dignity of our lives. It is a requirement of the human condition, a normal path toward maturity, development and personal fulfilment. In this regard, financial assistance to the poor may at times be necessary in emergencies, but it cannot become the sole response, since the goal is to enable each person to live with dignity through his or her own work.[^151]
 
+<!-- p150 24:35 Ch4::SAFEGUARDING::WORK::VALUE -->
 <a id=p150_ch4_work>150</a>. Today, the convergence of automation, robotics and AI is rapidly transforming the very structure of work. It is said that this will bring great improvements for everyone. In reality, however, the “new ways” of working are not necessarily better, for “while AI promises to boost productivity by taking over mundane tasks, it frequently forces workers to adapt to the speed and demands of machines, rather than machines being designed to support those who work. As a result, contrary to the advertised benefits of AI, current approaches to technology can paradoxically de-skill workers, subject them to automated surveillance and relegate them to rigid and repetitive tasks. The need to keep up with the pace of technology can erode workers’ sense of agency and stifle the innovative abilities they are expected to bring to their work.”[^152] Precisely in order to avoid this drift, it is necessary to design systems that are centered on the human person and not solely on performance.
 
 <!-- Ch4 B.2 WORK - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### The problem of unemployment
 
+<!-- p151 26:00 Ch4::SAFEGUARDING::WORK::UNEMPLOYMENT -->
 <a id=p151_ch4_work>151</a>. Saint John Paul II recognized that unemployment is a grave evil.
 Indeed, when it reaches massive proportions, it becomes a true social calamity that especially requires the State to exercise responsibility.[^153] Today, amid the “fourth industrial revolution,” this concern is even more acute, as innovation is often pursued solely for reducing costs and increasing profits.[^154] In some contexts, there is a legitimate fear of a significant and rapid contraction in available jobs that would create a chain reaction deeply impacting families, young people and local economies. In many sectors, this can already be seen in new forms of job insecurity and inequality, characterized by outsized remuneration for a highly specialized minority alongside declining wages for a large portion of the workforce.
 
+<!-- p152 27:10 Ch4::SAFEGUARDING::WORK::UNEMPLOYMENT -->
 <a id=p152_ch4_work>152</a>. It is certainly desirable for technology to relieve humans of arduous, repetitive or dangerous tasks and to provide intelligent support for human activity. Yet, the protection of employment opportunities and the irreplaceable role of the individual must remain the general rule. The pursuit of greater profits cannot justify choices that systematically sacrifice jobs, because the human person is an end, not a means, and the economic order must remain subordinate to human dignity and the common good.
 
+<!-- p153 27:55 Ch4::SAFEGUARDING::WORK::UNEMPLOYMENT -->
 <a id=p153_ch4_work>153</a>. At the same time, we must acknowledge that every real transition involves discontinuities, for it is uneven, fragmented and sometimes conflictual. Consequently, no single model of change or universal solution exists, since there are places and situations that require different responses. Given the inequality that characterizes our world, the spread of AI and computational systems produces varied effects in different places. Wealthy societies automate rapidly and chaotically, reducing the need for a workforce and creating room for unemployment and institutional friction. Vast regions of the world, by contrast, remain trapped in hybrid economies, where underpaid human labor and partial technologies coexist without achieving genuine transformation. These areas become places of precarious labor, and hotbeds of instability and forced migration. Therefore, solutions must be sought at national and local levels through the involvement of intermediary communities. We need adaptive tools, including well-structured models, local initiatives, progressive redistribution and new rights of access to essential goods. While not pursuing an abstract harmony, we must build concrete forms of human coexistence at this time of transformation.
 
-<!-- p154 30:00 -->
+<!-- p154 29:50 Ch4::SAFEGUARDING::WORK::UNEMPLOYMENT -->
 <a id=p154_ch4_work>154</a>. Work remains a fundamental dimension of the human experience, for not only is it a means of sustenance, but it is also a context for expression, relationships and contributing to the community. Therefore, the problems related to work extend beyond the income necessary for family survival. A society that guarantees employment to only a small fraction of the population, despite having a high level of technical development, risks exposing many to forced inactivity, a lack of responsibility and the absence of daily tasks and stimuli, resulting in human and cultural impoverishment. This creates a paradox of material progress and anthropological regression that undermines the foundations of a just and stable social peace. For this reason, the Church’s Social Doctrine insists that access to work for all must be a high priority for public policies and economic processes, serving as a criterion for evaluating the human quality of any development model.[^155] Moreover, in those parts of the world where work tends to diminish or change radically due to technological and organizational processes outside of democratic control, we must rethink the nature of work and its connection to citizenship, ensuring that unemployment does not jeopardize social participation.
 
-<!-- p155 31:32 -->
+<!-- p155 31:30 Ch4::SAFEGUARDING::WORK::UNEMPLOYMENT -->
 <a id=p155_ch4_work>155</a>. In light of this conviction, we can better appreciate the history of the Church’s Social Doctrine after Rerum Novarum. The initiatives which emerged from that tradition, including associations, trade unions, cooperatives and welfare organizations, have contributed decisively to improving labor legislation, protecting the most vulnerable and promoting more humane conditions.[^156] Today, however, these instruments are no longer sufficient by themselves in the face of the transformations driven by AI, the new organization of markets and the competitiveness that is rarely concerned with social sustainability. New collaborative efforts are needed among political leaders, labor organizations, the business world and the scientific community in order to develop rapidly adequate shared regulations and protections, including at the international level.[^157] Labor unions, which the Church has consistently supported, are called upon to be open to new types of employment and the corresponding needs of workers, in order to represent and defend them. In this context, without bold decisions, the prospect of greater poverty and inequality looms large, which would leave many individuals marginalized, stranded and surrounded by the machines and automated systems that have replaced them.
 
-<!-- p156 33:14 -->
+<!-- p156 33:10 Ch4::SAFEGUARDING::WORK::UNEMPLOYMENT -->
 <a id=p156_ch4_work>156</a>. At this time of transition, it is not enough to react only when jobs disappear; we must oversee the transformation in advance. One viable path is, first of all, to establish social criteria for innovation. Here, every introduction of automation and AI should be accompanied by verifiable measures to protect the employment, retraining and participation of workers. In this way, technology will be oriented toward freeing up human time and capabilities, rather than producing exclusion. Second, we need proactive policies that make continuous training and professional transitions accessible to all, ensuring that the cost of adaptation does not fall solely on individuals. Finally, there needs to be a corporate commitment to include quality and dignity of work among its indicators of success. When these conditions are present, innovation can serve as an ally of safer, more creative and dignified work; without them, innovation tends to become an accelerator of injustice.
 
 <!-- Ch4 B.3 WORK - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### An economy that values dignity
 
-<!-- p157 34:43 -->
+<!-- p157 34:43 Ch4::SAFEGUARDING::WORK::DIGNITY -->
 <a id=p157_ch4_work>157</a>. The labor market is one area in which the risks associated with new technologies more clearly emerge. It is thus necessary to remember that economic freedom is not absolute; it must always be measured against the common good and the dignity of every person. Entrepreneurial initiative can indeed be a true vocation, generating wealth and improving lives, rather than a variable that is dependent only on profit. This is possible when it recognizes that the creation of dignified, valuable jobs are an essential part of its proper service to society.[^158]
 
-<!-- p158 35:28 -->
+<!-- p158 35:28 Ch4::SAFEGUARDING::WORK::DIGNITY -->
 <a id=p158_ch4_work>158</a>. With prophetic spirit, Pope Francis warned against an economic freedom proclaimed in words alone, while actual conditions prevent many from benefiting from it.[^159]
 Economic models that exalt efficiency and individual success often view investment in disadvantaged people or in those with slower development paths as useless or inconvenient,
 as if their futures depended solely on their ability to keep pace with the “winners.”
@@ -998,10 +1022,10 @@ The experience of recent decades shows that in economic and financial crises,
 while the theories that
 <a id=4illusory>[promise automatic general prosperity often prove to be illusory.](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)</a>
 
-<!-- p159 36:57 -->
+<!-- p159 36:57 Ch4::SAFEGUARDING::WORK::DIGNITY -->
 <a id=p159_ch4_work>159</a>. It is important to move beyond the current metrics of development — which for more than eighty years have been tied to the concept of Gross Domestic Product (GDP) — since these metrics almost systematically neglect aspects essential to the overall wellbeing of people and the environment. The development of parameters and metrics complementary to GDP is crucial for improving the databases used for conducting analyses, political and economic decision-making and establishing regional, national and international priorities. The introduction of new parameters will allow for a comprehensive and timely assessment of how legislative and regulatory decisions impact the dignity of work, shared prosperity, inequality reduction and environmental protection. It will also affect the concept of development, educational processes, mindsets and public opinion, as well as peace, which is only authentic when based on justice.
 
-<!-- p160 38:10 -->
+<!-- p160 38:10 Ch4::SAFEGUARDING::WORK::DIGNITY -->
 <a id=p160_ch4_work>160</a>. In recent years, finance has increased in importance and has undergone significant innovation,
 driven partly by the introduction of cryptocurrencies.
 The reflections and observations contained in the teaching of my predecessors, particularly in their Encyclicals,
@@ -1018,17 +1042,17 @@ remain central for development and the investments that must accompany ongoing t
 <a id=4sake>[Finance for its own sake](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)</a>
 is fundamentally different from finance aimed at the development, creation and evolution of work.
 
-<!-- p161 39:40 -->
+<!-- p161 39:40 Ch4::SAFEGUARDING::WORK::DIGNITY -->
 <a id=p161_ch4_work>161</a>. This perspective needs to become part of a broader view of global dynamics. While the world’s wealth has grown in absolute terms, it is increasingly concentrated in fewer hands, widening inequalities both within and between countries. “There are a few who have too much, and too many who have little, that is the logic of today.”[^162] Scientific and technological advances, even in the medical field, are not easily accessible to the vast majority of people, as was dramatically demonstrated during the recent pandemic. While some regions spend heavily on superfluous interventions or dreams of individual enhancement accessible only to a select few, other parts of the world lack the essential equipment needed to save millions of human lives. To think that new technologies will automatically benefit everyone is to ignore the evidence. Unless transformations at the design stage prioritize the prevention of new and further disparities, technological progress will inevitably produce structural inequalities. Today, justice requires access to the benefits of innovation, including care, knowledge, tools and opportunities.
 
-<!-- p162 41:32 -->
+<!-- p162 41:32 Ch4::SAFEGUARDING::WORK::DIGNITY -->
 <a id=p162_ch4_work>162</a>. Just laws and methods of redistribution are certainly necessary for correcting imbalances, including tax systems that lighten the burden on the weakest and ask for more from those with greater resources. However, the pursuit of social justice should not be considered a separate issue that follows only after the production of wealth, as if the economy existed solely to create wealth, with politicians only intervening afterwards in order to distribute it. Indeed, justice concerns every phase of economic activity, from resource acquisition to financing, and from production to consumption; every choice has moral consequences.[^163]
 
-<!-- p163 42:06 -->
+<!-- p163 42:06 Ch4::SAFEGUARDING::WORK::DIGNITY -->
 <a id=p163_ch4_work>163</a>.  More than ever, in the age of AI and robotics, it is no longer possible to rely solely on the “invisible hand” of the market.[^164] Politics has the task of orientating economies and technologies to the common good, promoting dignified work, social inclusion and an equitable distribution of the benefits of innovation. Since many economic decisions transcend national borders, there is also a need for international cooperation capable of defining common strategies, especially in favor of the most vulnerable countries and people, in order to promote development and overcome welfare dependency. The thinking behind these choices is the immeasurable dignity of every person, the common good and a world truly governed for everyone.
 The interdependence between peace and development, as Saint Paul VI prophetically wrote in 1967, [^165] remains applicable today, for prosperity contributes to building and reinforcing peace only if it is widespread, inclusive and sustainable.
 
-<!-- p164 43:29 -->
+<!-- p164 43:29 Ch4::SAFEGUARDING::WORK::DIGNITY -->
 <a id=p164_ch4_work>164</a>. In practical terms, in the age of AI and robotics, ensuring that the economy favors human dignity means adopting certain criteria for firm action.
 First, transparency and accountability: when data and algorithms influence
 credit distribution,
@@ -1047,19 +1071,19 @@ Indeed, these criteria do not constitute a curb on innovation; instead they make
 <!-- Ch4 B.4 WORK - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### Families and young people: the social conditions for hope
 
-<!-- p165 44:50 -->
+<!-- p165 44:50 Ch4::SAFEGUARDING::WORK::YOUNG -->
 <a id=p165_ch4_work>165</a>. The family is a primary social good. Founded on the enduring union between a man and a woman, it is the first environment in which all persons develop their potential, become aware of their dignity and learn the earliest forms of truth and goodness, internalizing the habits that prepare them for life in society.[^166] As the first natural society, endowed with foundational rights, the family is the fundamental and irreplaceable cell of every community organization.[^167] Consequently, when political projects and major economic decisions relegate the family to a marginal or secondary role, the authentic growth of the entire social body is compromised.[^168]
 
-<!-- p166 45:51 -->
+<!-- p166 45:51 Ch4::SAFEGUARDING::WORK::YOUNG -->
 <a id=p166_ch4_work>166</a>. The family, however, is a fragile social good immediately affected by the economic and technological transformations reshaping the nature of work. It thus requires cultural, juridical and economic support. The devastating impact of unemployment and job insecurity on family structures is well known. In the short term, it may seem advantageous to reduce labor costs or maximize financial efficiency, but in the long term this undermines the very foundations of social coexistence. While technological successes are celebrated, the social fabric is progressively eroded, as if by a silent virus.
 
-<!-- p167 46:43 -->
+<!-- p167 46:43 Ch4::SAFEGUARDING::WORK::YOUNG -->
 <a id=p167_ch4_work>167</a>. For young people, job insecurity is particularly devastating. As the Bishops of the United States of America have recalled, work is not merely a source of income but a crucial sphere in which identity is formed, friendships and relationships are forged, practical responsibilities are learned and one’s vocation is discerned.[^169] When access to work is hindered by high levels of unemployment, inadequate systems of training or structural barriers, many young people find the path to their human and professional fulfilment blocked. The need to change jobs several times over the course of life requires that continuous updating and retraining be provided, so that new generations can competently and independently face the risks of an economic environment that is both changing and often unpredictable.[^170]
 
-<!-- p168 47:49 -->
+<!-- p168 47:49 Ch4::SAFEGUARDING::WORK::YOUNG -->
 <a id=p168_ch4_work>168</a>. This gives rise to a specific public responsibility. The State has the duty to support business activity by fostering conditions favorable to employment, promoting work where it is lacking and defending it in times of crisis, since it is a primary good for families and for society.[^171] Particularly in an age of continuous technological transformation, we need a political creativity that will promote “work” and place the family and coming generations at the center; otherwise our economic progress will translate into new forms of insecurity and exclusion.
 
-<!-- p169 48:35 -->
+<!-- p169 48:35 Ch4::SAFEGUARDING::WORK::YOUNG -->
 <a id=p169_ch4_work>169</a>. Supporting families and young people in this transition requires choices that make stability feasible. As has been noted above, labor policies need to promote continuity and the quality of employment, countering insecurity as a normal condition of life and encouraging realistic paths for entry into the workforce and for professional growth. Second, measures are needed to ensure a healthy way of living, for without a proper balance between work, leisure and rest, families are weakened and young people struggle to develop a sense of responsibility.  Furthermore, it is essential to invest in accessible education and retraining, so that the professional mobility demanded by the digital economy does not become a harsh selection between those who are able to update their skills and those who cannot. Finally, social ties must be supported, with networks and educational communities that accompany life choices and prevent uncertainty from giving rise to loneliness or addictions. If implemented, these technological transformations can be navigated without undermining the capacity to build the future, which is what makes a society prosperous.
 
 <!-- Ch4 C>2 FREEDOM ==================================================================== -->
@@ -1068,7 +1092,7 @@ Indeed, these criteria do not constitute a curb on innovation; instead they make
 <!-- Ch4 C.1 FREEDOM - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### Dependencies and societal control
 
-<!-- p170 50:00 -->
+<!-- p170 0:50:00 Ch4::SAFEGUARDING::FREEDOM::CONTROL -->
 <a id=p170_ch4_freedom>170</a>. Having reflected on truth and education, work and families, we must now consider the impact of the digital revolution on human freedom,
 addressing risks to both the mental health of individuals and broader social challenges.
 The subtler forms of addiction linked to the “digital attention economy” should not be underestimated,
@@ -1079,7 +1103,7 @@ those who design or finance such systems bear a moral responsibility that cannot
 There is an urgent need to promote technologies that strengthen interior freedom by fostering education in digital sobriety and the protection of minors,
 thus countering models that exploit vulnerability.
 
-<!-- p171 51:26 -->
+<!-- p171 0:51:26 Ch4::SAFEGUARDING::FREEDOM::CONTROL -->
 <a id=p171_ch4_freedom>171</a>. A further risk, less visible but no less serious,
 is that of social control made possible by the massive collection of data and use of algorithmic systems.
 When every action—movements, purchases, relationships and preferences—leaves a trace,
@@ -1096,7 +1120,7 @@ For this reason, freedom in the digital age is not merely a matter of interiorit
 It calls for clear rules, transparency, the possibility of recourse and proportionate limits on the use of intrusive technologies,
 so that <a id=4control>[technology will remain at the service of the human person and not become a form of control over consciences.](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)</a>
 
-<!-- p172 53:10 -->
+<!-- p172 0:53:10 Ch4::SAFEGUARDING::FREEDOM::CONTROL -->
 <a id=p172_ch4_freedom>172</a>. At the root of these problems lies a technocratic and post-humanist mentality that tends to
 regard the human person as an object to be manipulated or a resource to be optimized,[^172]
 removing all safeguards against the unchecked pursuit of profit.
@@ -1111,7 +1135,7 @@ reflect the same mentality, in new forms, that tolerates relationships of subord
 <!-- Ch4 C.2 FREEDOM - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### Breaking the chains of new forms of slavery
 
-<!-- p173 54:28 -->
+<!-- p173 0:54:28 Ch4::SAFEGUARDING::FREEDOM::SLAVERY -->
 <a id=p173_ch4_freedom>173</a>. This distorted view of the human person is reflected today
 in various forms of servitude directly linked to the digital economy.
 <a id=4magic>[Nothing in the world of AI is immaterial or magical.](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)</a>
@@ -1133,7 +1157,7 @@ It is not enough to invoke efficiency, nor to celebrate the benefits of innovati
 if they are built on a chain of exploitation that remains deliberately hidden.
 If technology promises emancipation, yet produces new forms of global subordination, it stands in contradiction to the fundamental principle of human dignity.
 
-<!-- p174 57:16 -->
+<!-- p174 0:57:16 Ch4::SAFEGUARDING::FREEDOM::SLAVERY -->
 <a id=p174_ch4_freedom>174</a>. The fight against new forms of slavery is a decisive test for the ethical discernment of AI and digital transformation.
 In continuity with the tradition inaugurated by Leo XIII,
 the Church renews her firm condemnation of all forms of slavery, trafficking and the commodification of persons.
@@ -1145,36 +1169,36 @@ toward new atrocities that are no less shameful
 than those of the past that we now deplore,
 while we continue to present ourselves as “advanced” and “civilized” societies.
 
-<!-- p175 58:22 -->
+<!-- p175 0:58:22 Ch4::SAFEGUARDING::FREEDOM::SLAVERY -->
 <a id=p175_ch4_freedom>175</a>. Human trafficking must be recognized as a contemporary form of slavery and a grave violation of human dignity. Failing to respond firmly, or tolerating these practices in any way, is in some way to become complicit in today’s sins, which are akin to those of the past when slavery was being concealed and justified.[^173]
 
-<!-- p176 58:49 -->
+<!-- p176 0:58:49 Ch4::SAFEGUARDING::FREEDOM::SLAVERY -->
 <a id=p176_ch4_freedom>176</a>. In the development of her doctrine, the Church has gradually come to a deeper awareness of the gravity of these issues. It is true that past events cannot be judged anachronistically, as though the moral criteria that matured over time had always been available. Yet neither can we deny or diminish the delay with which both society and the Church came to denounce the scourge of slavery. In antiquity and the Middle Ages many individuals and even ecclesiastical institutions had slaves. Already in the early modern period, the Apostolic See of Rome, responding to requests from Sovereigns, intervened several times in order to regulate and legitimize forms of subjugation, and, in certain cases, the enslavement of “infidels.”[^174] It was only in the nineteenth century that a formal, absolute and universal condemnation of slavery was clearly articulated, notably under Pope Leo XIII.[^175] This development offers a clear example of the Church’s growth in understanding the perennial truths of Revelation that she safeguards. Although there was not always consistency in practice — given that slavery was long tolerated before being unequivocally condemned — there has been a continuous affirmation throughout history of the dignity of every human being, created in the image of God, even if it took eighteen centuries for its full incompatibility with slavery to be explicitly recognized.
 This constitutes a wound in Christian memory, one from which we cannot consider ourselves detached.[^176]
 It is impossible not to feel deep sorrow when contemplating the immense suffering and humiliation endured by so many
 in stark contrast to their immeasurable dignity as persons infinitely loved by the Lord.
 For this, in the name of the Church, I sincerely ask for pardon.
 
-<!-- p177 1:01:18 -->
+<!-- p177 1:01:18 Ch4::SAFEGUARDING::FREEDOM::SLAVERY -->
 <a id=p177_ch4_freedom>177</a>. This is why the memory of past complicity and blindness in the face of the injustice of slavery becomes a call to vigilance.
 What we have learned must be translated into discernment and responsibility in the present.
 If we want to avoid the need to ask for pardon again in the future for having failed to respect the treasure of human dignity that is required by our faith,
 it falls to us today to denounce, clearly and firmly, trafficking in its many forms and, together with all who are committed to this cause, to support concrete efforts of prevention, protection, liberation and rehabilitation.
 
-<!-- p178 1:02:13 -->
+<!-- p178 1:02:13 Ch4::SAFEGUARDING::FREEDOM::SLAVERY -->
 <a id=p178_ch4_freedom>178</a>. <a id=4colonialism>[Even today, colonialism assumes new forms. It no longer dominates only bodies, but appropriates data, transforming personal lives into exploitable information.](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)</a>
 Entire regions, especially those marked by structural fragility and limited geopolitical relevance, are currently subjected to a new mindset of extraction: that of health data, epidemiological profiles, genetic maps and demographic information. These have become the new “rare earths” of power: vital data which, once aggregated and analyzed, can be used to train predictive models, guide investment strategies, anticipate crises and, above all, determine who and what is deemed to matter. Those who control the health data of entire peoples — often collected under the pretext of aid, research or innovation — possess a structural leverage over the future, for they can shape needs and markets. They can also decide, before others, to whom medicines, investments and protections will be allocated. Here lies one of the most urgent moral challenges of our time: to ensure that shared knowledge becomes a true common good rather than an instrument of dominance. This requires restoring to individuals not only the data that describes them, but also the ability to decide how it is used, by whom and for whose benefit. Otherwise, the digital age will not be post-colonial, but colonial in another form.
 
-<!-- p179 1:04:16 -->
+<!-- p179 1:04:16 Ch4::SAFEGUARDING::FREEDOM::SLAVERY -->
 <a id=p179_ch4_freedom>179</a>. New forms of slavery are fueled by economic chains and digital infrastructures.  Therefore, action is required on several fronts. First, the supply chains that underpin the technological industry and the digital economy need to become more transparent, so that no competitive advantage is built upon hidden exploitation. Second, companies and investors need to adopt clear criteria for preventive ethical verification (due diligence), placing among their priorities the protection of workers, the fight against forced labor and the assessment of the social impact of data-driven business models. Furthermore, digital platforms must cooperate responsibly with authorities and civil society to prevent communication, payment and profiling tools from becoming channels for the recruitment and control of victims. When such efforts converge, the digital environment can be transformed from a space of exploitation into one of protection, prevention and the promotion of human dignity.
 
 <!-- Ch4 D  SHARED RESPONSIBILITY ======================================================= -->
 ### A shared responsibility
 
-<!-- p180 1:05:38 -->
+<!-- p180 1:05:38 Ch4::SAFEGUARDING::SHARED -->
 <a id=p180_ch4_shared>180</a>. The various areas just considered— the search for the truth in public life, education in the digital environment, the transformation of work, the fragility of families and new forms of slavery—are not isolated phenomena. Rather, they reflect a common underlying issue, namely that if technology becomes the ultimate criterion, the human person risks being reduced to data, a cog in a machine or a commodity. If, however, technology is integrated with a wise perspective, it can become an instrument of growth, justice and fraternity.
 
-<!-- p181 1:06:28 -->
+<!-- p181 1:06:28 Ch4::SAFEGUARDING::SHARED -->
 <a id=p181_ch4_shared>181</a>. From this perspective, the Social Doctrine of the Church calls for a shared responsibility. It asks that these processes be guided with foresight: by institutions capable of regulating without stifling, and protecting without taking over; by businesses that recognize work and dignity as measures of success; by intermediary organizations and educational communities that rebuild trust and relationships; and by citizens who cultivate responsibility, moderation, discernment and a sense of truth. Only in this way can innovation genuinely serve integral human development, rather than becoming a source of exclusion and dominance. And only in this way can the promise of progress be recognized as authentic, because it is measured against the inviolable dignity of every man and woman.
 
 <!-- ==================================================================================== -->
@@ -1182,7 +1206,7 @@ Entire regions, especially those marked by structural fragility and limited geop
 <!-- ==================================================================================== -->
 ## CHAPTER FIVE: THE CULTURE OF POWER AND THE CIVILIZATION OF LOVE
 
-<!-- p182 00:25 Ch5:: -->
+<!-- p182 00:25 Ch5:: THE CULTURE OF POWER AND THE CIVILIZATION OF LOVE ------------------- -->
 <a id=p182_ch5>182</a>. Having considered how AI is transforming certain aspects of life and society, in particular the serious implications for human dignity, we must now turn our attention to the yet more tragic issue of war. Here the question is not merely the efficiency of new tools, but also the risk that technology, detached from ethics and responsibility, will render decisions about life and death more rapid and impersonal, and will present the use of force as an immediate and viable option. In an increasingly interdependent world, peace is not simply one issue among others, but a prerequisite for the universal common good and a test of the moral maturity of peoples, especially of those who bear responsibility for governing.
 
 <!-- p183 01:15 Ch5:: -->
@@ -1434,49 +1458,70 @@ The “spirit of Assisi,” evoked by Saint John Paul II and carried forward by 
 <!-- ==================================================================================== -->
 ## CONCLUSION
 
+<!-- p229 00:18 END:: --------------------------- CONCLUSION ---------------------------- -->
 <a id=p229_fini>229</a>. “Let each builder choose with care how to build” (1 Cor 3:10). With these words, Saint Apostle Paul encouraged the Christians of Corinth to preserve unity.
 Dear brothers and sisters, we have reflected on the world we are building, and we asked ourselves what it means to safeguard the human person in the era of artificial intelligence. At the end of this reflection, I would like to propose a sober yet demanding program of Christian life with which we can navigate this epochal change in the light of the Gospel. This avenue emerges through contemplating God’s plan, living ecclesial unity by partaking of the Eucharist, building a world centered on the common good and praying in union with the Blessed Virgin Mary.
 
+<!-- END A.  CONCLUSION::INCARNATE -- --- -- - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 ### The Word became flesh
 
+<!-- p230 01:20 END::INCARNATE -->
 <a id=p230_fini_word>230</a>. Our world is filled with attempts to seize control of markets and spheres of influence, often shrouded in reassuring rhetoric and seductive ideologies. Yet our hearts yearn for an approach that is wise and benevolent, akin to that which Mary praises in her Magnificat, when she proclaims that God’s mercy extends in every generation to those who fear him.[^205] This plan of mercy continues to unfold throughout history today, even amid the rapid and unsettling changes brought by algorithms and global networks, and it becomes a compass in the digital era for living our lives according to the Gospel.
 
+<!-- p231 02:14 END::INCARNATE -->
 <a id=p231_fini_word>231</a>. At the heart of everything is the mystery of the Incarnation, the Word who became flesh and dwelt among us. The flesh of the Son, poor and vulnerable, evokes the flesh of so many brothers and sisters stripped of their dignity and reduced to silence.[^206] Through the Lord’s closeness, the gift of peace enters into the world in a paradoxical way. It does so through the power to become children of God, and is awakened when we allow ourselves to be moved by the tears of the little ones, the fragility of the elderly, the silence of victims and the struggle of those who fight against the evil they do not wish to commit.[^207] In this wounded yet beloved flesh, the Father shows us the true humanity of a life fulfilled through openness and communion, which leads us to desire that his will be done on earth as it is in heaven.[^208]
 
+<!-- p232 01:20 END::INCARNATE -->
 <a id=p232_fini_word>232</a>. In the promises of transhumanism and some posthumanist currents of thought, which seek an enhanced and almost disembodied humanity, we recognize a yearning that is of concern to us, namely the need for a fuller life, less exposed to limitations and suffering. Yet the Incarnation opens a different pathway. On the one hand, old and new ideologies alike urge humanity to overcome limitations through technology, and to rise above others by asserting dominance. Contrary to this, the mystery of the Son of God entering into our human condition promises something quite different. The living God descends into our history in order to free us from all forms of slavery.[^209] He takes upon himself our weakness and transforms it into a setting for salvation. There is no moment or human situation that is not worthy of God. “According to the teaching of our faith, we have and adore, in our mysteries, a God who is born in a manger, a God who lives and travels in Judea, a God who dies on the cross, a dead God who lies in the tomb.”[^210] The future of humanity, therefore, finds its standard in the ability to welcome this divine way of drawing near, of sharing the burden of the world, of transforming relationships from within. “O wonder... man is God and this God-Man passes through all those stages, endures all those states and ennobles them, sanctifies them, deifies them in himself!”[^211] What saves humanity is the divine love that descends into the most fragile point of our history and renews it from within.
 
+<!-- p233 05:45 END::INCARNATE -->
 <a id=p233_fini_word>233</a>. For this reason, as a believer among believers, I invite everyone to contemplate, in the face of the Son of God, the grandeur of humanity that shines a light also on the era of AI. In Christ, we are called to cooperate in the work of creation, rather than be disinterested observers of technological processes that limit our freedom and responsibility.[^212] The dignity inscribed in each of us by the Holy Spirit can also be seen in our capacity to reflect critically, choose and love freely, and form authentic relationships. No computational system, however sophisticated, can create a heart that gives itself, or a conscience that discerns good from evil. Even when machines excel in efficiency, a human face that asks to be gazed upon remains the center of our history. This human face is the fullness toward which history is moving. It is the mystery of “recapitulation”: the certainty that the Father has decreed to bring all things, those in heaven and those on earth, back to Christ, the one Head (cf. Eph 1:10). In this plan, nothing will be lost that is authentically human. Indeed, everything will be purified and reunited in the One, who gathers every fragment of life, every tear and every authentically human achievement, rescuing them from nothingness and delivering them, redeemed, to the Father.
 
+<!-- END B.  CONCLUSION::ONE -- - --- -- - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 ### One body in Christ
 
+<!-- p234 07:40 END::ONEBODY -->
 <a id=p234_fini_body>234</a>. The spirituality that we need is a Eucharistic spirituality, that is, a spirituality of ecclesial unity in love. The Incarnation and the Paschal Mystery reveal God entering into our human condition and transforming it through the gift of himself. This gift remains present and active in the Eucharist, in which the Lord gives himself and gathers the Church together, so that his offering becomes the principle of unity and source of new life. It is from this communion that Christian solidarity also arises, since “union with Christ is also union with all those to whom he gives himself.”[^213] As Saint Augustine explained to the new Christians of his local Church, the bread and wine on the altar are the sacrament of the unity of the faithful in Christ: “What is seen is a mere physical likeness; what is grasped bears spiritual fruit.
 So now, if you want to understand the body of Christ, listen to the Apostle Paul speaking to the faithful: together you are the body of Christ (1 Cor 12:27).
 If you are the body and members of Christ, then it is your sacrament that is placed on the table of the Lord; it is your sacrament that you receive. You respond ‘Amen,’ and by responding in this way you assent to it. For you hear the words, ‘the Body of Christ’ and respond ‘Amen.’ Be then a member of the Body of Christ that your Amen may be true!”[^214]
 
+<!-- p235 09:40 END::ONEBODY -->
 <a id=p235_fini_body>235</a>. The “Amen” that we say in the liturgy, the Body we eat and the Blood we drink shape our entire lives. The Eucharist “is an extremely personal encounter with the Lord and yet never simply an act of individual piety.”[^215] In the Eucharist we find a visible manifestation of the reality that we “are the Church of Christ, his members, his body. We are brothers and sisters in him. And in Christ, though many and diverse, we are one: In Illo uno unum.”[^216] The Eucharist opens us to justice and sharing, with a preferential concern for those who are burdened by poverty or marginalization. And while new economic and technological networks can generate exclusion, isolation and dependencies, the Church — nourished by the Eucharist — is called to make visible a different paradigm, one that preserves human connections, gives a voice to the invisible and ensures that processes are aimed at respecting people’s dignity.
 
+<!-- END C.  CONCLUSION::SITE --- --- -- - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 ### The construction site of our time
 
+<!-- p236 11:10 END::SITE -->
 <a id=p236_fini_site>236</a>.  The spirituality I wish to commend is that of the “wise architect” who, driven by hope for the Kingdom of God, is committed to building the world for the common good (cf. 1 Cor 3:10). As I mentioned at the beginning of this reflection, [^217] the task of building in our time must place our relationship with God at its center. Our rule must be the acceptance of human limitations as a natural and positive reality, and should be characterized by shared responsibility and a language characterized by the Gospel. At the end of this reflection, the plan for a civilization of love can be seen more clearly, and the construction site appears to be already up and running, thanks especially to the many living stones solidly united to Christ the cornerstone (cf. 1 Pet 2:4-6). In this task, we are called to assume an active role, without taking refuge in spiritual sentimentality or retreating into our own little worlds. We must be faithful to the truth, invest in education, cultivate relationships and love justice and peace.
 
+<!-- p237 12:35 END::SITE -->
 <a id=p237_fini_site>237</a>.  Let us remain faithful to the truth! Living amid incessant flows of information, opinions and images, we know how easy it can be to influence decisions and preferences through increasingly sophisticated algorithms.[^218] In this context, it is imperative to cultivate hearts that love the truth, prefer what is right despite the most appealing content and pursue wisdom rather than immediate results. We must always keep before us the truth about God and humanity, just as Christ has revealed them to us. We must lay aside an individualistic and technical view of humanity, as if reality were mere matter to be shaped according to selfish interests, whether individual or collective.[^219] Instead, let us cultivate what Pope Francis called a “situated anthropocentrism,”[^220] which recognizes the human being as a creature embedded in a network of relationships with other living beings and with all of creation. Fidelity to the truth requires integrating the possibilities offered by technology within a framework marked by wisdom, which is capable of safeguarding both the dignity of each person and the future of our common home.
 
+<!-- p238 14:08 END::SITE -->
 <a id=p238_fini_site>238</a>. Let us invest in education, beginning with ourselves! We all need to learn how to engage with the digital world in a human way, as an integral part of our education in the faith and in a life lived according to the Gospel. Indeed, we must consider the digital world as a new continent to be evangelized, one that requires generous missionaries who are mature in the faith. In a particular way, we need adults to rediscover their vocation as artisans of education, prepared to work patiently each day, with the support of extensive and shared educational partnerships. Today, accompanying children and young people in using technology for developing responsible relationships, helping them to recognize the risks and choose what fosters inner freedom, is a concrete form of charity and will safeguard their dignity. Teaching new generations that technological evolution does not follow a predetermined path, but can be guided by personal and collective responsibility, constitutes one of the most valuable services to the common good.
 
+<!-- p239 15:33 END::SITE -->
 <a id=p239_fini_site>239</a>. Let us cultivate relationships! In an era that favors speed and fragmentation, the human person still yearns to receive care and recognition from attentive minds, kind words and hands capable of tenderness. The digital culture multiplies connections and offers new opportunities for interaction; yet, the human heart retains an irrevocable need for genuine closeness. I invite everyone to cherish places and times where physical presence remains crucial, such as shared meals, Christian community gatherings, time spent with the lonely and serving the poor. These are signs of a humanity that continues to believe that every person’s body is a dwelling place of God and a temple of the Holy Spirit. It is precisely this covenant between glory and fragility that becomes the criterion for evaluating the anthropological models offered by contemporary culture.
 
+<!-- p240 16:50 END::SITE -->
 <a id=p240_fini_site>240</a>. Let us love justice and peace! The same technologies that facilitate communication and access to resources can also support models that exploit the most vulnerable, create new forms of slavery and derive profit from conflict. Every technical or economic decision should include spiritual discernment and be an opportunity for assessing whether the advances in AI are promoting justice and participation or concentrating wealth and power in the hands of a select few. I would encourage a careful examination of the supply chains of digital production, the working conditions hidden behind our devices and the mechanisms that profit from manipulation and war. At the same time, practical ways of fostering fairness, participation and care for creation must be found. We proclaim a hope rooted in the One who came down from heaven to “create a new story here below.” For this reason, those who believe are committed to ensuring that a greater justice will take the place of inequality, and that the industry of war will be replaced by the craft of peace.[^221]
 
+<!-- p241 18:25 END::SITE -->
 <a id=p241_fini_site>241</a>. As we look to the future, I would like to recall the image of Nehemiah whom we chose as our companion and guide at the outset. Nehemiah heard the cry of a devastated city, brought that pain to prayer, discerned before God, asked for help, received permission to return, organized the work, confronted internal and external resistance and rebuilt the walls of Jerusalem with the assistance of the people, brick by brick. In this era of digital transformation, I see in him a striking parable of our own vocation, which is not to be passive spectators of social and cultural fractures, nor mere commentators on what is crumbling, but men and women prepared to enter the construction sites of history — research laboratories, technology companies, schools, the media, institutions and local communities — in order to rebuild what has collapsed and protect what is threatened. Like Nehemiah, we too are called to unite listening and courage, prayer and responsibility, so that, even when a technocratic mentality or partisan interests seem to prevail, the human city may become a more fitting place to live.
 
+<!-- p242 20:00 END::SITE -->
 <a id=p242_fini_site>242</a>. The image of rebuilding Jerusalem evokes the New Testament promise of the holy city, which is given to us first and foremost as a gift. In the Book of Revelation, the new Jerusalem descends as a gift for all God’s people, “prepared as a bride adorned for her husband” (Rev 21:2). The walls of Jerusalem are no longer defensive fortifications, but the precious adornments of the Bride of the Lamb. Its gates, which Nehemiah guarded so diligently, remain permanently open to all nations. God’s presence offers light and life to all. The city is a new Eden, with its living water offered to the thirsty, and its tree of life whose leaves “are for the healing of the nations” (Rev 22:2). As we await its fulfillment, this vision is set before us as an encouragement — a call to overcome our divisions and to work together — for this is the way of Jesus Christ, yesterday, today and forever.
 
+<!-- END D.  CONCLUSION::MAGNIFICAT - -- - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 ### The song of hope: the Magnificat
 
+<!-- p243 21:29 END::MAGNIFICAT -->
 <a id=p243_fini_song>243</a>. After having considered faith, which contemplates the Father’s loving plan; love, which unites us in one ecclesial body; and hope, which sustains our actions in the world, the fourth pillar of this program for Christian life is prayer. Mary’s song accompanies our commitment. Before Elizabeth who announces to her that she has become the mother of the Lord, Mary bursts into a hymn of praise and joy. Her soul magnifies the Lord, and her spirit rejoices in God her Savior, for he chose a young, poor and humble girl for his plan of salvation. Mary suddenly sees all of history through the lens of this revelation. Nothing has changed around her; the socio-political situation of her time remains the same. The Romans continue to control her land, and her people are still subjugated and humiliated. Yet, everything has changed within her, and this allows her to see what is invisible.  God has already shown the strength of his arm; he has already scattered the proud, cast down the mighty, lifted up the lowly, filled the hungry with good things and sent the rich away empty-handed. He has already helped Israel, his servant.  God “takes the part of the lowly. His plan is one that is often hidden beneath the opaque context of human events that see ‘the proud, the mighty and the rich’ triumph. Yet his secret strength is destined in the end to be revealed.”[^222]
 
+<!-- p244 23:40 END::MAGNIFICAT -->
 <a id=p244_fini_song>244</a>. The Blessed Virgin Mary not only teaches us to recognize God’s invisible work, but also directs our gaze to “the points at which humanity is broken and the world becomes distorted: the contrast between the humble and the powerful, the poor and the rich, the satiated and the hungry,” teaching us “to look at the world from a lower position: through the eyes of those who suffer rather than the mighty; to view history through the eyes of the little ones, rather than through the perspective of the powerful; to interpret the events of history from the viewpoint of the widow, the orphan, the stranger, the wounded child, the exile and the fugitive.”[^223] The Blessed Virgin thus becomes “poet and prophetess of Redemption,” because on her lips is proclaimed “the strongest and most innovative hymn ever articulated, the Magnificat; it is she who reveals the transformative vision of the Christian economy, the historical and social result that still draws its origin and strength from Christianity.”[^224]
 
+<!-- p244 25:10 END::MAGNIFICAT -->
 <a id=p245_fini_song>245</a>. With the same faith as Mary, let us become “weavers of hope” in our world, sharing who we are and what we have, so that the presence of Jesus may grow among us and his Kingdom take shape. In the humble fidelity of daily life, even the era of AI can become a time in which the Holy Spirit brings about the civilization of love in our lives. Indeed, the Lord continues to make all things new and offers every era the possibility of becoming part of salvation history in the light of the Incarnation. I entrust our desire to the Mother of Christ, to the Woman of the Magnificat, that she may guide our steps through this time of change and preserve in each of us true faith in the Gospel, so that we may bear witness to the grandeur of humanity, in which God has made his dwelling.
 
 Given in Rome, at Saint Peter’s, on 15 May, in the year 2026, the second of my Pontificate.
