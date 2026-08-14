@@ -44,7 +44,7 @@ is intended for extensive circulation
 
 <!-- ---------------------------------------------------------------------------- -->
 # Why markdown?
-#### 1. Quickly find paragraphs and their time in the audiobook
+### 1. Quickly find paragraphs and their time in the audiobook
 The conclusion (`END`) contains paragraphs `p229` to `p245`
 on lines ranging from `1476:` to `1539:` in `Magnifica_Humanitas.md`
 
@@ -79,7 +79,7 @@ grep alias   | Conclusion sub-section title
 `SITE`       | The construction site of our time
 `MAGNIFICAT` | The song of hope: the Magnificat
 
-#### 2. Quickly find the links to the audio
+### 2. Quickly find the links to the audio
 ```
 $ make audio
 perl -ne 'if (/AUDIO..(https\S+)\)\)/) {printf "%s\n", $1}' Magnifica_Humanitas.md
