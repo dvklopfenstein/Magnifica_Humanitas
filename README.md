@@ -43,6 +43,58 @@ is intended for extensive circulation
 
 
 <!-- ---------------------------------------------------------------------------- -->
+# Why markdown?
+#### 1. Quickly find paragraphs and their time in the audiobook
+The conclusion (`END`) contains paragraphs `p229` to `p245`
+on lines ranging from `1476:` to `1539:` in `Magnifica_Humanitas.md`
+
+````
+$ make ps | grep END
+1476:<!-- p229 00:18 END:: --------------------------- CONCLUSION ---------------------------- -->
+1483:<!-- p230 01:20 END::INCARNATE -->
+1486:<!-- p231 02:14 END::INCARNATE -->
+1489:<!-- p232 01:20 END::INCARNATE -->
+1492:<!-- p233 05:45 END::INCARNATE -->
+1498:<!-- p234 07:40 END::ONEBODY -->
+1503:<!-- p235 09:40 END::ONEBODY -->
+1509:<!-- p236 11:10 END::SITE -->
+1512:<!-- p237 12:35 END::SITE -->
+1515:<!-- p238 14:08 END::SITE -->
+1518:<!-- p239 15:33 END::SITE -->
+1521:<!-- p240 16:50 END::SITE -->
+1524:<!-- p241 18:25 END::SITE -->
+1527:<!-- p242 20:00 END::SITE -->
+1533:<!-- p243 21:29 END::MAGNIFICAT -->
+1536:<!-- p244 23:40 END::MAGNIFICAT -->
+1539:<!-- p245 25:10 END::MAGNIFICAT -->
+````
+The audio timestamp for each conclusion paragraph ranges from `00:18` to `24:10`.
+
+There are four sub-section titles represented by aliases in the grep:
+
+grep alias   | Conclusion sub-section title
+-------------|----------------------------------
+`INCARNATE`  | The Word became flesh
+`ONEBODY`    | One body in Christ
+`SITE`       | The construction site of our time
+`MAGNIFICAT` | The song of hope: the Magnificat
+
+#### 2. Quickly find the links to the audio
+```
+$ make audio
+perl -ne 'if (/AUDIO..(https\S+)\)\)/) {printf "%s\n", $1}' Magnifica_Humanitas.md
+https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-introduction.html
+https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-chapter-one.html
+https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-chapter-two.html
+https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-chapter-three.html
+https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-chapter-four.html
+https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-chapter-five.html
+https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-conclusion.html
+```
+The audio for the conclusion is the last link in the listing above.
+
+
+<!-- ---------------------------------------------------------------------------- -->
 # News
 * 2026/07/31 [Rock legend Patti Smith meets fellow Chicago legend, Pope Leo XIV](https://www.americamagazine.org/news/2026/07/31/patti-smith-pope-leo/)
 * 2026/06/02 [Mathematicians issue public cry for help and call to action regarding AI](https://leidendeclaration.ai/)
