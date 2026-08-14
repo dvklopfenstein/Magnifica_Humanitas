@@ -561,7 +561,7 @@ To safeguard this truth and this freedom, facing the challenges of our time is t
 
 Thank you so much.
 
-## Pope Leo XIV
+## [Pope Leo XIV](https://www.vatican.va/content/leo-xiv/en/speeches/2026/may/documents/20260525-presentazione-enciclica.html)
 [**01:33:00**](https://youtu.be/JxcXcP6NyRM?si=g7AXNfYcIBrqkwVL&t=5575) or
 [**Presentation (no ads)**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)    
 
