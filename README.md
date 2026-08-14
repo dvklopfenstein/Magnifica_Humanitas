@@ -72,7 +72,7 @@ The audio timestamp for each conclusion paragraph ranges from `00:18` to `24:10`
 
 There are four sub-section titles represented by aliases in the grep:
 
-grep alias   | Conclusion sub-section title
+Alias        | Conclusion sub-section title
 -------------|----------------------------------
 `INCARNATE`  | The Word became flesh
 `ONEBODY`    | One body in Christ
