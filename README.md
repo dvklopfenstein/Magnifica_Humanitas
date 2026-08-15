@@ -23,8 +23,8 @@ on safeguarding the human person in the time of Artificial Intelligence. -->
 # 1. The Encyclical
 * Pope Leo's 42,000 word Encyclical, [***Magnifica Humantas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html), presented Monday, May 25, 2026.
   * [**Audiobook**](https://www.vaticannews.va/en/podcast/magnifica-humanitas.html) read by real human persons
-  * [**markdown**](https://github.com/dvklopfenstein/Magnifica_Humanitas/blob/main/Magnifica_Humanitas.md) version for:
-    * [**adding notes**](https://github.com/dvklopfenstein/Magnifica_Humanitas/fork) or
+  * [**markdown**](https://github.com/dvklopfenstein/Magnifica_Humanitas/blob/main/Magnifica_Humanitas.md) file for:
+    * [**editing notes**](https://github.com/dvklopfenstein/Magnifica_Humanitas/fork) or
     * [**viewing**](https://github.com/biaojiang/mdviewer) markdown locally
 
 
@@ -44,42 +44,10 @@ is intended for extensive circulation
 
 <!-- ---------------------------------------------------------------------------- -->
 # Why markdown?
-### 1. Quickly find paragraphs and their time in the audiobook
-The conclusion (`END`) contains paragraphs `p229` to `p245`
-on lines ranging from `1476:` to `1539:` in `Magnifica_Humanitas.md`
+To do workflows such as this for the INTRODUCTION:
 
-````
-$ make ps | grep END
-1476:<!-- p229 00:18 END:: --------------------------- CONCLUSION ---------------------------- -->
-1483:<!-- p230 01:20 END::INCARNATE -->
-1486:<!-- p231 02:14 END::INCARNATE -->
-1489:<!-- p232 01:20 END::INCARNATE -->
-1492:<!-- p233 05:45 END::INCARNATE -->
-1498:<!-- p234 07:40 END::ONEBODY -->
-1503:<!-- p235 09:40 END::ONEBODY -->
-1509:<!-- p236 11:10 END::SITE -->
-1512:<!-- p237 12:35 END::SITE -->
-1515:<!-- p238 14:08 END::SITE -->
-1518:<!-- p239 15:33 END::SITE -->
-1521:<!-- p240 16:50 END::SITE -->
-1524:<!-- p241 18:25 END::SITE -->
-1527:<!-- p242 20:00 END::SITE -->
-1533:<!-- p243 21:29 END::MAGNIFICAT -->
-1536:<!-- p244 23:40 END::MAGNIFICAT -->
-1539:<!-- p245 25:10 END::MAGNIFICAT -->
-````
-The audio timestamp for each conclusion paragraph ranges from `00:18` to `24:10`.
-
-There are four sub-section titles represented by aliases in the grep:
-
-Alias        | Conclusion sub-section title
--------------|----------------------------------
-`INCARNATE`  | The Word became flesh
-`ONEBODY`    | One body in Christ
-`SITE`       | The construction site of our time
-`MAGNIFICAT` | The song of hope: the Magnificat
-
-### 2. Quickly find the links to the audio
+### 1. Quickly find the links to the audiobook
+Use `$ make audio`:
 ```
 $ make audio
 perl -ne 'if (/AUDIO..(https\S+)\)\)/) {printf "%s\n", $1}' Magnifica_Humanitas.md
@@ -91,7 +59,50 @@ https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-huma
 https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-chapter-five.html
 https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-conclusion.html
 ```
-The audio for the conclusion is the last link in the listing above.
+The audio for the INTRODUCTION is the first link in the listing above.
+
+Paste the `https://.../magnifica-humanitas-introduction.html` link in your browser and start listening.
+
+### 2. Quickly find paragraph locations
+Example: Follow along the audiobook `INTRODUCTION` as she calls out each paragraph number
+in `Magnifica_Humanitas.md`
+
+Use `$make ps | grep INTRO`:
+````
+$ make ps | grep INTRO
+grep -n -P ' p\d+ ' Magnifica_Humanitas.md
+107:<!-- p1  00:18 INTRO:: ------------ INTRODUCTION ----------- -->
+110:<!-- p2  01:37 INTRO:: -->
+114:<!-- p3  03:08 INTRO:: -->
+122:<!-- p4  05:20 INTRO::RESNOVAE -->
+125:<!-- p5  07:30 INTRO::RESNOVAE -->
+128:<!-- p6  09:22 INTRO::RESNOVAE -->
+134:<!-- p7  10:35 INTRO::2IMAGES -->
+156:<!-- p8  12:47 INTRO::2IMAGES -->
+159:<!-- p9  14:50 INTRO::2IMAGES -->
+162:<!-- p10 16:20 INTRO::2IMAGES -->
+168:<!-- p11 19:00 INTRO::BUILDING -->
+171:<!-- p12 20:00 INTRO::BUILDING -->
+174:<!-- p13 21:36 INTRO::BUILDING -->
+177:<!-- p14 22:49 INTRO::BUILDING -->
+183:<!-- p15 24:00 INTRO::HUMANITY -->
+186:<!-- p16 25:10 INTRO::HUMANITY -->
+````
+The INTRODUCTION in `Magnifica_Humanitas.md`:
+* Encompasses paragraphs `p1` to `p16`
+* Located on lines ranging from `107:` to `186:` in `Magnifica_Humanitas.md`
+* Audio timestamps range from `00:18` to `25:10` in the [**AUDIOBOOK**](https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-introduction.html)
+* Has four INTRODUCTION subtitles, aliased as: `RESNOVAE`, `2IMAGES`, `BUILDING`, `HUMANITY`
+
+The four INTRODUCTION aliases correspond to subtitles:
+
+Alias      | INTRODUCTION subsection title
+-----------|----------------------------------
+`RESNOVAE` | The *res novae* of our time
+`2IMAGES`  | Two biblical images
+`BUILDING` | Building for the common good
+`HUMANITY` | Remaining human
+
 
 
 <!-- ---------------------------------------------------------------------------- -->
