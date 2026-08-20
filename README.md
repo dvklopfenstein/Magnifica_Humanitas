@@ -9,12 +9,13 @@ on safeguarding the human person in the time of Artificial Intelligence.
 
 
 <!-- ---------------------------------------------------------------------------- -->
-# 1. The Encyclical
-* Pope Leo's 42,000 word Encyclical, [***Magnifica Humantas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html), presented Monday, May 25, 2026.
-  * [**Audiobook**](https://www.vaticannews.va/en/podcast/magnifica-humanitas.html) read by real human persons
-  * [**markdown**](https://github.com/dvklopfenstein/Magnifica_Humanitas/blob/main/Magnifica_Humanitas.md) file for:
-    * [**editing notes**](https://github.com/dvklopfenstein/Magnifica_Humanitas/fork) or
-    * [**viewing**](https://github.com/biaojiang/mdviewer) markdown locally
+# Links to Pope Leo's material and markdown notes
+## 1. The Encyclical
+Pope Leo's 42,000 word Encyclical, [***Magnifica Humantas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html), presented Monday, May 25, 2026.
+* [**Audiobook**](https://www.vaticannews.va/en/podcast/magnifica-humanitas.html) read by real human persons
+* [**markdown**](https://github.com/dvklopfenstein/Magnifica_Humanitas/blob/main/Magnifica_Humanitas.md) file for:
+  * [**editing notes**](https://github.com/dvklopfenstein/Magnifica_Humanitas/fork) or
+  * [**viewing**](https://github.com/biaojiang/mdviewer) markdown locally
 
 
 #### The [**Unabridged Merriam-Webster**](https://unabridged.merriam-webster.com/unabridged/Encyclical) definition of *encyclical*:
@@ -26,7 +27,7 @@ is intended for extensive circulation
 *specifically* : such a letter issued by a pope
 
 
-# 2. The Presentation
+## 2. The Presentation
 * Full Presentation with Distinguished Speakers ([**VIDEO**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html) and [**markdown transcript**](doc/Magnifica_Humanitas_Presentation.md))
 * Short movie at the Presentation's start ([**VIDEO**](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html) and [**markdown notes**](doc/intro_movie.md))
 
