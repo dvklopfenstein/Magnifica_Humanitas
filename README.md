@@ -1,20 +1,9 @@
 # [Remaining human in the age of AI](https://www.vaticannews.va/en/pope/news/2026-05/encyclical-magnifica-humanitas-editorial-tornielli-ai-pope-leo.html)
-<!-- Remaining human in the age of Artificial Intelligence -->
-🚀 
-💐
-⭐
-✨
-[**JOIN!**](https://www.americamagazine.org/community/2026/08/04/live-zoom-panel-magnifica-humanitas-ai-encylical)🔜
-**WEDNESDAY, AUGUST 19, 2026 at 6:30pm EST**: 
-America Media's live 
-[**Zoom event**](https://www.americamagazine.org/community/2026/08/04/live-zoom-panel-magnifica-humanitas-ai-encylical)
-to examine the <!-- core issues, public response to, and -->
-impact
-of Pope Leo’s first encyclical (novel-sized letter addressing matters of grave and timely importance), *Magnifica Humanitas*, nearly three months after its publishing.
+Remaining human in the age of Artificial Intelligence
 
-<!-- Pope Leo XIV's Encyclical,
+Notes and links to Pope Leo XIV's Encyclical,
 [***Magnifica Humanitas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html),
-on safeguarding the human person in the time of Artificial Intelligence. -->
+on safeguarding the human person in the time of Artificial Intelligence.
 
 [![People Together](doc/images/people_together.jpeg)](https://www.vaticannews.va/en/pope/news/2026-05/encyclical-magnifica-humanitas-editorial-tornielli-ai-pope-leo.html)
 
@@ -49,15 +38,9 @@ To do workflows such as this example to hear and see the INTRODUCTION:
 ### 1. HEAR: Quickly find the links to the audiobook
 Use `$ make audio`:
 ```
-$ make audio
-perl -ne 'if (/AUDIO..(https\S+)\)\)/) {printf "%s\n", $1}' Magnifica_Humanitas.md
+$ make audio | grep -i INTRO
+perl -ne 'if (/AUDIO..(https\S+)\)\)/) {printf "%s\n", $1}' Magnifica_Humanitas.md | grep intro
 https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-introduction.html
-https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-chapter-one.html
-https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-chapter-two.html
-https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-chapter-three.html
-https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-chapter-four.html
-https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-chapter-five.html
-https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-conclusion.html
 ```
 The audio for the INTRODUCTION is the first link in the listing above.
 
