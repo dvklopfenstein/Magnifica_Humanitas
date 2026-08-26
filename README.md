@@ -112,6 +112,7 @@ The four INTRODUCTION aliases correspond to subtitles:
 * [Another markdown version](https://github.com/cucho/magnifica-humanitas/blob/master/markdown/en.md)
 * [GitHub Search for *Magnifica Humanitas*](https://github.com/search?q=Magnifica+Humanitas&type=repositories)
 * [This repo](https://dvklopfenstein.github.io/Magnifica_Humanitas/)
+* [Coders hate AI](https://www.youtube.com/watch?v=2ZU3j4GQ4K8)
 * [transcript](https://www.rev.com/transcripts/pope-leo-xiv-on-ai)
 
 <!-- ---------------------------------------------------------------------------- -->
