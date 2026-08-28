@@ -13,9 +13,10 @@ on safeguarding the human person in the time of Artificial Intelligence.
 ## 1. The Encyclical
 Pope Leo's 42,000 word Encyclical, [***Magnifica Humantas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html), presented Monday, May 25, 2026.
 * [**Audiobook**](https://www.vaticannews.va/en/podcast/magnifica-humanitas.html) read by real human persons
-* [**markdown**](https://github.com/dvklopfenstein/Magnifica_Humanitas/blob/main/Magnifica_Humanitas.md) file for:
-  * [**editing notes**](https://github.com/dvklopfenstein/Magnifica_Humanitas/fork) or
-  * [**viewing**](https://github.com/biaojiang/mdviewer) markdown locally
+* [**markdown**](https://github.com/dvklopfenstein/Magnifica_Humanitas/blob/main/Magnifica_Humanitas.md) to:
+  * [**edit notes**](https://github.com/dvklopfenstein/Magnifica_Humanitas/fork) or
+  * [**view**](https://github.com/biaojiang/mdviewer) rendered markdown locally
+  * Create Anki flashcard material
 
 
 #### The [**Unabridged Merriam-Webster**](https://unabridged.merriam-webster.com/unabridged/Encyclical) definition of *encyclical*:
@@ -105,6 +106,8 @@ The four INTRODUCTION aliases correspond to subtitles:
 
 <!-- ---------------------------------------------------------------------------- -->
 # Other links related to *Magnifica Humanitas*
+* **The Second Vatican Council**
+  * [A Documentary](https://youtu.be/GHykwD7VKEg?si=vXnUtBCb4pa-c3QX)
 * [**Editorial**](https://www.vaticannews.va/en/pope/news/2026-05/encyclical-magnifica-humanitas-editorial-tornielli-ai-pope-leo.html) by Andrea Tornielli, Editorial Director of the Vatican News
 * Excellent, light-weight, local [**markdown viewer**](https://github.com/biaojiang/mdviewer) and its [**PyPi**](https://pypi.org/project/mdviewer/) link
 * [**Two hour Presentation by Pope Leo and Distinguished Speakers of the Encyclical**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)
