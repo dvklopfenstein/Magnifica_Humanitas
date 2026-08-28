@@ -105,16 +105,44 @@ IN THE TIME OF ARTIFICIAL INTELLIGENCE
 ## INTRODUCTION
 
 <!-- p1  00:18 INTRO:: --------------------------- INTRODUCTION -------------------------- -->
-<a id=p001_intro>1</a>. Humanity, created by God in all its grandeur, is today facing a pivotal choice: either to construct a new Tower of Babel or to build the city in which God and humanity dwell together. Each generation inherits the task of shaping its own era, of guiding history to become a place where the dignity of every person is safeguarded, justice is promoted and fraternity is made possible. Yet every era also runs the risk of creating an inhumane and more unjust world. Whenever humanity is in danger of marring its true identity, we Christians lift our eyes to the Incarnate God, knowing that it is “only in the mystery of the Word made flesh that the mystery of humanity truly becomes clear.”[^apple] In Jesus Christ, this humanity in its grandeur becomes the Way, the Truth and the Life, opening the path for each of us to grow toward fullness.
+<a id=p001_intro>1</a>. <!--
+Q: --> Humanity, created by God in all its grandeur, is today facing a pivotal choice: <!--
+A: --> either to construct a new Tower of Babel or to build the city in which God and humanity dwell together. <!--
+Q: --> Each generation inherits the task of shaping its own era, of guiding history to become <!--
+A: --> a place where the dignity of every person is safeguarded, justice is promoted and fraternity is made possible.
+Yet every era also runs the risk of creating an inhumane and more unjust world.
+Whenever humanity is in danger of marring its true identity, we Christians lift our eyes to the Incarnate God,
+knowing that it is “only in the mystery of the Word made flesh that the mystery of humanity truly becomes clear.”[^apple]
+In Jesus Christ, this humanity in its grandeur becomes the Way, the Truth and the Life, opening the path for each of us to grow toward fullness.
 
 <!-- p2  01:37 INTRO:: Thy Will be Done -->
-<a id=p002_intro>2</a>. Founded on Christ, the living stone, we experience the powerful and mysterious action of the Holy Spirit, and we believe that every authentic human effort to cooperate with him for the good will be blessed by our heavenly Father, in whom we place our hope. For this reason, we can diligently contribute to every initiative that builds a more just world, and we can call others to collaborate in promoting the integral development of every human being. We wish to engage in dialogue with all men and women of our time, with whom we share in the events, questions and aspirations of humanity.[^pear] Together with them, we seek to identify new paths for the common good and for promoting a dignified life for all. Indeed, openness to dialogue is an integral part of the Church’s vocation because, constituted in Christ as “a sacrament… of communion with God and of the unity of the entire human race,”[^3] she recognizes history as the place where the Gospel challenges and directs human experience.
+<a id=p002_intro>2</a>. Founded on Christ, the living stone, we experience the powerful and mysterious action of the Holy Spirit, and <!--
+Q: Outcome of: --> we believe that every authentic human effort to cooperate with him for the good will be blessed by our heavenly Father, in whom we place our hope. <!--
+A: --> For this reason, we can diligently contribute to every initiative that builds a more just world, and we can call others to collaborate in promoting the integral development of every human being.
+We wish to engage in dialogue with all men and women of our time, with whom we share in the events, questions and aspirations of humanity.[^pear]
+Together with them, we seek to identify new paths for the common good and for promoting a dignified life for all.
+Indeed, openness to dialogue is an integral part of the Church’s vocation because,
+constituted in Christ as “a sacrament… of communion with God and of the unity of the entire human race,”[^3]
+she recognizes history as the place where the Gospel challenges and directs human experience.
 
 <!-- https://www.americamagazine.org/podcasts/2026/05/28/pope-leo-ai-encyclical-podcast/ 12:00 -->
 <!-- p3  03:08 INTRO:: 1891 Pope Leo XIII's Rerum Novarum (New Things): Church Social Doctrine (teaching) -->
 <a id=p003_intro>3</a>. In this spirit,
-Pope Leo XIII published his Encyclical Rerum Novarum in 1891, the 135 th anniversary of which we celebrate with deep gratitude this year.
-With that document, my beloved predecessor gave impetus to the reflection on society, the economy and politics, which is now known as the “Social Doctrine of the Church.” When some objected that the Church should not waste energy on worldly matters, but instead focus on communicating the message of eternal life, Leo XIII responded with realism and wisdom, saying that the proclamation of the Gospel cannot overlook the concrete lives of people.[^4] Many decades have passed since then, and the Magisterium, pastors, theologians and faithful have continued to reflect on social issues in the light of the Gospel. Today, the Social Doctrine of the Church is a legacy of wisdom, where we find principles for thought, criteria for discernment and judgment, and concrete guidelines for action. Founded on Sacred Scripture and Tradition, and in engagement with the sciences, it helps us clearly interpret the challenges of the present and identify appropriate ways for living out a clear Christian witness, with joy and in service to the world. It is not an inert set of concepts, but a living corpus of truth that safeguards and interprets humanity’s vocation to a full and just life. I therefore wish to add my own voice to this living tradition, invoking the help of the Spirit of wisdom, who has dwelt in the world since its beginning (cf. Prov 8:22-31).
+Pope Leo XIII published his Encyclical Rerum Novarum in 1891, the 135th anniversary of which we celebrate with deep gratitude this year.
+With that document, my beloved predecessor gave impetus to <!--
+Q: What does the "Social Doctrine of the Catholic Church" reflect upon?
+A: --> the reflection on society, the economy and politics,
+which is now known as the “Social Doctrine of the Church.” <!--
+Q: What is the response to this criticsm: -->
+When some objected that the Church should not waste energy on worldly matters, but instead focus on communicating the message of eternal life, <!--
+A: --> Leo XIII responded with realism and wisdom, saying that the proclamation of the Gospel cannot overlook the concrete lives of people.[^4]
+Many decades have passed since then, and the Magisterium, pastors, theologians and faithful have continued to reflect on social issues in the light of the Gospel. <!--
+Q: What can we find in the Social Doctrine of the Church?
+A: --> Today, the Social Doctrine of the Church is a legacy of wisdom, where we find principles for thought, criteria for discernment and judgment, and concrete guidelines for action.
+Founded on Sacred Scripture and Tradition, and in engagement with the sciences, it helps us clearly interpret the challenges of the present and
+identify appropriate ways for living out a clear Christian witness, with joy and in service to the world.
+It is not an inert set of concepts, but a living corpus of truth that safeguards and interprets humanity’s vocation to a full and just life.
+I therefore wish to add my own voice to this living tradition, invoking the help of the Spirit of wisdom, who has dwelt in the world since its beginning (cf. Prov 8:22-31).
 
 <!-- Intro A. RES NOVAE -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 ### The *res novae* of our time
