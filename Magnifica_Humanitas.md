@@ -106,38 +106,42 @@ IN THE TIME OF ARTIFICIAL INTELLIGENCE
 
 <!-- p1  00:18 INTRO:: --------------------------- INTRODUCTION -------------------------- -->
 <a id=p001_intro>1</a>. <!--
-Q: --> Humanity, created by God in all its grandeur, is today facing a pivotal choice: <!--
+Q p1a: --> Humanity, created by God in all its grandeur, is today facing a pivotal choice: <!--
 A: --> either to construct a new Tower of Babel or to build the city in which God and humanity dwell together. <!--
-Q: --> Each generation inherits the task of shaping its own era, of guiding history to become <!--
+Q p1b: --> Each generation inherits the task of shaping its own era, of guiding history to become <!--
 A: --> a place where the dignity of every person is safeguarded, justice is promoted and fraternity is made possible.
-Yet every era also runs the risk of creating an inhumane and more unjust world.
-Whenever humanity is in danger of marring its true identity, we Christians lift our eyes to the Incarnate God,
-knowing that it is “only in the mystery of the Word made flesh that the mystery of humanity truly becomes clear.”[^apple]
-In Jesus Christ, this humanity in its grandeur becomes the Way, the Truth and the Life, opening the path for each of us to grow toward fullness.
+Yet every era also runs the risk of creating an inhumane and more unjust world. <!--
+Q p1c: What do we do --> Whenever humanity is in danger of marring its true identity, <!--
+A: --> we Christians lift our eyes to the Incarnate God, knowing that it is “only in the mystery of the Word made flesh that the mystery of humanity truly becomes clear.”[^apple] <!--
+Q p1d: --> In Jesus Christ, this humanity in its grandeur becomes <!-- what?
+A: --> the Way, the Truth and the Life, opening the path for each of us to grow toward fullness.
 
 <!-- p2  01:37 INTRO:: Thy Will be Done -->
 <a id=p002_intro>2</a>. Founded on Christ, the living stone, we experience the powerful and mysterious action of the Holy Spirit, and <!--
-Q: Outcome of: --> we believe that every authentic human effort to cooperate with him for the good will be blessed by our heavenly Father, in whom we place our hope. <!--
+Qp2b: Outcome of: --> we believe that every authentic human effort to cooperate with him for the good will be blessed by our heavenly Father, in whom we place our hope. <!--
 A: --> For this reason, we can diligently contribute to every initiative that builds a more just world, and we can call others to collaborate in promoting the integral development of every human being.
-We wish to engage in dialogue with all men and women of our time, with whom we share in the events, questions and aspirations of humanity.[^pear]
-Together with them, we seek to identify new paths for the common good and for promoting a dignified life for all.
+We wish to engage in dialogue with all men and women of our time, with whom we share in the events, questions and aspirations of humanity.[^pear] <!--
+Qp2c: --> Together with them, <!-- (all men and women of our time) --> we seek <!-- what?
+A: --> to identify new paths for the common good and for promoting a dignified life for all.
 Indeed, openness to dialogue is an integral part of the Church’s vocation because,
 constituted in Christ as “a sacrament… of communion with God and of the unity of the entire human race,”[^3]
-she recognizes history as the place where the Gospel challenges and directs human experience.
+she <!--
+!Qp2e: The Church --> recognizes history <!-- as what?
+A: --> as the place where the Gospel challenges and directs human experience.
 
 <!-- https://www.americamagazine.org/podcasts/2026/05/28/pope-leo-ai-encyclical-podcast/ 12:00 -->
 <!-- p3  03:08 INTRO:: 1891 Pope Leo XIII's Rerum Novarum (New Things): Church Social Doctrine (teaching) -->
-<a id=p003_intro>3</a>. In this spirit,
-Pope Leo XIII published his Encyclical Rerum Novarum in 1891, the 135th anniversary of which we celebrate with deep gratitude this year.
+<a id=p003_intro>3</a>. In this spirit, <!--
+Qp3a: --> Pope Leo XIII published his Encyclical Rerum Novarum in <!-- what year?
+A: --> 1891, the 135th anniversary of which we celebrate with deep gratitude this year.
 With that document, my beloved predecessor gave impetus to <!--
-Q: What does the "Social Doctrine of the Catholic Church" reflect upon?
-A: --> the reflection on society, the economy and politics,
-which is now known as the “Social Doctrine of the Church.” <!--
-Q: What is the response to this criticsm: -->
+Qp3b: What does the "Social Doctrine of the Catholic Church" reflect upon?
+A: --> the reflection on society, the economy and politics, which is now known as the “Social Doctrine of the Church.” <!--
+Qp3c: What is the response to this criticsm: -->
 When some objected that the Church should not waste energy on worldly matters, but instead focus on communicating the message of eternal life, <!--
 A: --> Leo XIII responded with realism and wisdom, saying that the proclamation of the Gospel cannot overlook the concrete lives of people.[^4]
 Many decades have passed since then, and the Magisterium, pastors, theologians and faithful have continued to reflect on social issues in the light of the Gospel. <!--
-Q: What can we find in the Social Doctrine of the Church?
+Qp3d: What can we find in the Social Doctrine of the Church?
 A: --> Today, the Social Doctrine of the Church is a legacy of wisdom, where we find principles for thought, criteria for discernment and judgment, and concrete guidelines for action.
 Founded on Sacred Scripture and Tradition, and in engagement with the sciences, it helps us clearly interpret the challenges of the present and
 identify appropriate ways for living out a clear Christian witness, with joy and in service to the world.
@@ -1550,7 +1554,16 @@ If you are the body and members of Christ, then it is your sacrament that is pla
 <a id=p240_fini_site>240</a>. Let us love justice and peace! The same technologies that facilitate communication and access to resources can also support models that exploit the most vulnerable, create new forms of slavery and derive profit from conflict. Every technical or economic decision should include spiritual discernment and be an opportunity for assessing whether the advances in AI are promoting justice and participation or concentrating wealth and power in the hands of a select few. I would encourage a careful examination of the supply chains of digital production, the working conditions hidden behind our devices and the mechanisms that profit from manipulation and war. At the same time, practical ways of fostering fairness, participation and care for creation must be found. We proclaim a hope rooted in the One who came down from heaven to “create a new story here below.” For this reason, those who believe are committed to ensuring that a greater justice will take the place of inequality, and that the industry of war will be replaced by the craft of peace.[^221]
 
 <!-- p241 18:25 END::SITE -->
-<a id=p241_fini_site>241</a>. As we look to the future, I would like to recall the image of Nehemiah whom we chose as our companion and guide at the outset. Nehemiah heard the cry of a devastated city, brought that pain to prayer, discerned before God, asked for help, received permission to return, organized the work, confronted internal and external resistance and rebuilt the walls of Jerusalem with the assistance of the people, brick by brick. In this era of digital transformation, I see in him a striking parable of our own vocation, which is not to be passive spectators of social and cultural fractures, nor mere commentators on what is crumbling, but men and women prepared to enter the construction sites of history — research laboratories, technology companies, schools, the media, institutions and local communities — in order to rebuild what has collapsed and protect what is threatened. Like Nehemiah, we too are called to unite listening and courage, prayer and responsibility, so that, even when a technocratic mentality or partisan interests seem to prevail, the human city may become a more fitting place to live.
+<a id=p241_fini_site>241</a>.
+As we look to the future, I would like to recall the image of Nehemiah whom we chose as our companion and guide at the outset. <!--
+Qp241a: --> Nehemiah heard the cry of a devastated city, <!-- and did what?
+A: --> brought that pain to prayer, discerned before God, asked for help, received permission to return, organized the work, confronted internal and external resistance and rebuilt the walls of Jerusalem with the assistance of the people, brick by brick. <!--
+Qp241b: --> In this era of digital transformation, I see in him a striking parable of our own vocation, <!-- which is what?
+A: --> which is not to be passive spectators of social and cultural fractures, nor mere commentators on what is crumbling, but men and women prepared to enter the construction sites of history — research laboratories, technology companies, schools, the media, institutions and local communities — in order to rebuild what has collapsed and protect what is threatened. <!--
+Qp241c: --> Like Nehemiah, we too are called to unite <!--: listening and what? prayer and what?
+A: --> listening and courage, prayer and responsibility, <!--
+Qp241d: Why are we, like Nehemiah called to unite listening and courage, prayer and responsibility? 
+A: --> so that, even when a technocratic mentality or partisan interests seem to prevail, the human city may become a more fitting place to live.
 
 <!-- p242 20:00 END::SITE -->
 <a id=p242_fini_site>242</a>. The image of rebuilding Jerusalem evokes the New Testament promise of the holy city, which is given to us first and foremost as a gift. In the Book of Revelation, the new Jerusalem descends as a gift for all God’s people, “prepared as a bride adorned for her husband” (Rev 21:2). The walls of Jerusalem are no longer defensive fortifications, but the precious adornments of the Bride of the Lamb. Its gates, which Nehemiah guarded so diligently, remain permanently open to all nations. God’s presence offers light and life to all. The city is a new Eden, with its living water offered to the thirsty, and its tree of life whose leaves “are for the healing of the nations” (Rev 22:2). As we await its fulfillment, this vision is set before us as an encouragement — a call to overcome our divisions and to work together — for this is the way of Jesus Christ, yesterday, today and forever.
@@ -1559,7 +1572,32 @@ If you are the body and members of Christ, then it is your sacrament that is pla
 ### The song of hope: the Magnificat
 
 <!-- p243 21:29 END::MAGNIFICAT -->
-<a id=p243_fini_song>243</a>. After having considered faith, which contemplates the Father’s loving plan; love, which unites us in one ecclesial body; and hope, which sustains our actions in the world, the fourth pillar of this program for Christian life is prayer. Mary’s song accompanies our commitment. Before Elizabeth who announces to her that she has become the mother of the Lord, Mary bursts into a hymn of praise and joy. Her soul magnifies the Lord, and her spirit rejoices in God her Savior, for he chose a young, poor and humble girl for his plan of salvation. Mary suddenly sees all of history through the lens of this revelation. Nothing has changed around her; the socio-political situation of her time remains the same. The Romans continue to control her land, and her people are still subjugated and humiliated. Yet, everything has changed within her, and this allows her to see what is invisible.  God has already shown the strength of his arm; he has already scattered the proud, cast down the mighty, lifted up the lowly, filled the hungry with good things and sent the rich away empty-handed. He has already helped Israel, his servant.  God “takes the part of the lowly. His plan is one that is often hidden beneath the opaque context of human events that see ‘the proud, the mighty and the rich’ triumph. Yet his secret strength is destined in the end to be revealed.”[^222]
+<a id=p243_fini_song>243</a>. <!--
+Qp243a: What are the four pillars of the program for Christian life?
+A: Faith, Hope, Love, and Prayer -->
+After having considered <!--
+Qp243b: What is this to us: --> faith, <!--
+A: --> which contemplates the Father’s loving plan; <!--
+Qp243c: What is this to us: --> love, <!--
+A: --> which unites us in one ecclesial body; and <!--
+Qp243d: What is this to us: --> hope, <!--
+A: --> which sustains our actions in the world, <!--
+Qp243e: What is --> the fourth pillar of this program for Christian life is <!--
+A: --> prayer. <!--
+Qp243f: --> Mary’s song accompanies our commitment. <!-- to what?
+A: Prayer, the fourth pillar of the program for Christian life. 
+Qp243g: When did Mary burst into a hymn (song) of praise and joy?
+A: --> Before Elizabeth who announces to her that she has become the mother of the Lord, Mary bursts into a hymn of praise and joy.
+Her soul magnifies the Lord, and her spirit rejoices in God her Savior, for he chose a young, poor and humble girl for his plan of salvation.
+Mary suddenly sees all of history through the lens of this revelation.
+Nothing has changed around her; the socio-political situation of her time remains the same.
+The Romans continue to control her land, and her people are still subjugated and humiliated.
+Yet, everything has changed within her, and this allows her to see what is invisible.
+ God has already shown the strength of his arm; he has already scattered the proud, cast down the mighty, lifted up the lowly, filled the hungry with good things and sent the rich away empty-handed.
+He has already helped Israel, his servant.
+ God “takes the part of the lowly.
+His plan is one that is often hidden beneath the opaque context of human events that see ‘the proud, the mighty and the rich’ triumph.
+Yet his secret strength is destined in the end to be revealed.”[^222]
 
 <!-- p244 23:40 END::MAGNIFICAT -->
 <a id=p244_fini_song>244</a>. The Blessed Virgin Mary not only teaches us to recognize God’s invisible work, but also directs our gaze to “the points at which humanity is broken and the world becomes distorted: the contrast between the humble and the powerful, the poor and the rich, the satiated and the hungry,” teaching us “to look at the world from a lower position: through the eyes of those who suffer rather than the mighty; to view history through the eyes of the little ones, rather than through the perspective of the powerful; to interpret the events of history from the viewpoint of the widow, the orphan, the stranger, the wounded child, the exile and the fugitive.”[^223] The Blessed Virgin thus becomes “poet and prophetess of Redemption,” because on her lips is proclaimed “the strongest and most innovative hymn ever articulated, the Magnificat; it is she who reveals the transformative vision of the Christian economy, the historical and social result that still draws its origin and strength from Christianity.”[^224]
