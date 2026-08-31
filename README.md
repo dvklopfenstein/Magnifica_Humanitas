@@ -34,7 +34,7 @@ is intended for extensive circulation
 
 
 <!-- ---------------------------------------------------------------------------- -->
-# [Why a markdown?](doc/why_markdown)
+# [Why markdown?](doc/why_markdown)
 * To add notes to `Magnifica_Humanitas.md`, without disturbing the original text
 * To add flashcard source to `Magnifica_Humanitas.md` to generate Anki flashcards
 * To do `grep` workflows on `Magnifica_Humanitas.md`
