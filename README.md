@@ -64,7 +64,7 @@ is intended for extensive circulation
 * [Another markdown version](https://github.com/cucho/magnifica-humanitas/blob/master/markdown/en.md)
 * [GitHub Search for *Magnifica Humanitas*](https://github.com/search?q=Magnifica+Humanitas&type=repositories)
 * [This repo](https://dvklopfenstein.github.io/Magnifica_Humanitas/)
-* [Coders hate AI (LLM models specifically):](https://www.youtube.com/watch?v=2ZU3j4GQ4K8&list=PLCAnsuyJ3jb4)
+* [Skilled coders hate AI (LLM models specifically):](https://www.youtube.com/watch?v=2ZU3j4GQ4K8&list=PLCAnsuyJ3jb4)
   * [A year of agentic coding and its results](https://youtu.be/2ZU3j4GQ4K8?si=cyRQtbwpyosKQQM5)
   * [Prototyping and building production projects was possible before without AI](https://youtu.be/P6FZKrE-Hfo?si=ps7MVwU0LoP27szo)
   * [Quitting AI greatly improved this coder's mental health and enjoyment of life](https://youtu.be/Er6nrS46z4c?si=m5i4nFgrO0ZJoUG5)
