@@ -246,7 +246,7 @@ Like Nehemiah, let us pray, plan wisely and work perseveringly, placing God at t
 <a id=p021_ch1_history>21</a>. Recognizing that God upholds the freedom of men and women in the unfolding of history, the Second Vatican Council affirmed the distinction between the ecclesial community and the political community, emphasizing that each must operate with full autonomy. The Church’s presence in the world is also expressed through her relationship with civil society and public institutions. By engaging with these entities, the Church acknowledges the value of social and political realities and honors their specific responsibilities, supporting everything that fosters the wellbeing of individuals and strengthens the fabric of society. The Church does not claim to assume the functions belonging to the State. On the contrary, she esteems those who serve the common good, and she firmly acknowledges the responsibility that civil institutions hold within society. At the same time, the mission entrusted to the Church prompts her to address the real suffering of the men and women of our time. This closeness does not stem from an intent to supplant civil institutions, much less from an implicit criticism of their work. Rather, it stems from evangelical charity, which impels the Church to draw near to the wounds of humanity whenever they surface with greater severity. When the Church intervenes, she does so following the example of the Good Samaritan, with discretion and closeness, aware that what arises from urgent necessity cannot become the norm, nor replace the institutional responsibilities proper to the civil community.
 
 <!-- p22 06:04 Ch1::DYNAMIC::JOURNEYING:: all_cultures      -->
-<a id=p022_ch1_history>22</a>. Starting from this twofold acknowledgment — the autonomy of earthly realities and the distinction between ecclesiastical and political spheres of competence — allows for a clearer understanding of the direction that the Second Vatican Council set for the Church in her relationship with the world. Gaudium et Spes reminds us that “it is the task of the whole People of God, particularly of its pastors and theologians, to listen to and distinguish the many voices of our times and to interpret them in the light of God’s word, in order that the revealed Truth may be more deeply penetrated, better understood and more suitably presented.”[^11]  Listening to the “many voices” is no mere sociological exercise, but instead requires spiritual discernment. Guided by the Spirit, the People of God come to recognize in cultural and social transformations both the signs of the presence of Christ, who comes and guides history toward its fulfilment, and those aberrations that obscure his face. In this way, the essential core of revealed Truth is not altered, but made explicit and adopted as a living standard for guiding concrete choices, inspiring paths of personal and communal conversion, promoting structural reforms and supporting new forms of evangelical witness in public life. History is thus understood as one of the places in which the Church allows herself to be taught by the Spirit about the humanizing power of the Gospel; and she learns to develop her own teaching at the service of the dignity of every person and the good of all peoples.
+< a id=p022_ch1_history>22</a>. Starting from this twofold acknowledgment — the autonomy of earthly realities and the distinction between ecclesiastical and political spheres of competence — allows for a clearer understanding of the direction that the Second Vatican Council set for the Church in her relationship with the world. Gaudium et Spes reminds us that “it is the task of the whole People of God, particularly of its pastors and theologians, to listen to and distinguish the many voices of our times and to interpret them in the light of God’s word, in order that the revealed Truth may be more deeply penetrated, better understood and more suitably presented.”[^11]  Listening to the “many voices” is no mere sociological exercise, but instead requires spiritual discernment. Guided by the Spirit, the People of God come to recognize in cultural and social transformations both the signs of the presence of Christ, who comes and guides history toward its fulfilment, and those aberrations that obscure his face. In this way, the essential core of revealed Truth is not altered, but made explicit and adopted as a living standard for guiding concrete choices, inspiring paths of personal and communal conversion, promoting structural reforms and supporting new forms of evangelical witness in public life. History is thus understood as one of the places in which the Church allows herself to be taught by the Spirit about the humanizing power of the Gospel; and she learns to develop her own teaching at the service of the dignity of every person and the good of all peoples.
 
 <!-- Ch1 A.1 JOURNEYING - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### The wisdom of the word of God in dialogue with the human sciences
@@ -632,28 +632,39 @@ For this reason, technological progress — valuable in itself — requires care
 <a id=p098_ch3_AI>98</a>. It is appropriate to preface this discussion with two considerations.
 First, any statement regarding AI risks becoming quickly outdated, given the remarkable pace at which these systems are developing.
 Second, all of us, including those who design them, possess only a limited understanding of their actual functioning.
-Indeed, current AI systems are more “cultivated” than “built,” for developers do not directly design every detail,
-but instead create a framework within which the intelligence “grows.”
-As a result, fundamental scientific aspects — such as the internal representations and computational processes of these systems — remain,
-at present, unknown.
-There thus emerges an urgent need for a twofold commitment:
-on the one hand, a deepening of scientific research;
-on the other, the exercise of moral and spiritual discernment.
+Indeed, <!--
+Qp98c: Why are the --> current AI systems are more “cultivated” than “built,” <!--
+A: --> for developers do not directly design every detail, but instead create a framework within which the intelligence “grows.” <!--
+Qp98d: What is the result of AI systems being more "cultivated" than "built?"
+A: --> As a result, fundamental scientific aspects — such as the internal representations and computational processes of these systems — remain, at present, unknown.
+There thus <!--
+Qp98e: What -->emerges an urgent need for a twofold commitment: <!-- regarding artificial intelligence?
+A: --> on the one hand, a deepening of scientific research; on the other, the exercise of moral and spiritual discernment.
 
 <!-- p99  08:00 Ch3::AI -->
 <a id=p099_ch3_AI>99</a>. It is not possible to provide a single, comprehensive definition of AI.
 What can be stated, however, is that we must avoid the misconception of equating this type of “intelligence” with that of human beings.
-These systems merely imitate certain functions of human intelligence.
+These systems <!--
+Qp99c: Artificial intelligence --> merely imitate certain functions of <!-- what?
+A: --> human intelligence.
 In doing so, they often surpass human intelligence in speed and computational capacity, offering tangible benefits across many fields.
-Yet this power remains entirely tied to data processing.
-So-called artificial intelligences do not undergo experiences,
-do not possess a body, do not feel joy or pain, do not mature through relationships and do not know from within what love, work, friendship or responsibility mean.
-Nor do they have a moral conscience, since they do not judge good and evil, grasp the ultimate meaning of situations, or bear responsibility for consequences.
-They may imitate language, behavior and analytical skills, or even simulate empathy and understanding,
-but they do not understand what they produce, for they lack the affective, relational and spiritual perspective through which human beings grow in wisdom.
-Even when these tools are described as capable of “learning,” their way of doing so is different from that of a human person.
-It is not the experience of those who allow themselves to be shaped by life and grow over time through choices, mistakes, forgiveness and fidelity.
-Rather, it is a form of statistical adaptation based on data and feedback, which can be very effective, but does not imply inner growth.
+Yet this <!--
+Qp99d: The --> power <!-- of artificial intelligence --> remains entirely tied to <!-- what?
+A: --> data processing. <!--
+Qp99e: --> So-called artificial intelligences do not <!-- what?
+A: --> undergo experiences, do not possess a body, do not feel joy or pain, do not mature through relationships and do not know from within what love, work, friendship or responsibility mean. <!--
+Qp99f: What are the affects of artificial intelligence not having a moral conscience?
+A: --> Nor do they have a moral conscience, since they do not judge good and evil, grasp the ultimate meaning of situations, or bear responsibility for consequences.
+They <!--
+Qp99g: Artificial intelligence --> may imitate language, behavior and analytical skills, or even simulate empathy and understanding, but they do not understand what <!--?
+A: Artificial intelligence does not understand what --> they produce, for they lack the affective, relational and spiritual perspective through which human beings grow in wisdom. <!--
+Qp99h: --> Even when these tools <!-- (artificial intelligence) --> are described as capable of “learning,” their way of doing so is different from that of <!-- what?
+A: --> a human person.
+It is not the <!--
+Qp99i: Artificial intelligence's --> experience <!-- is not the same as --> of those who <!-- do what?
+A: --> allow themselves to be shaped by life and grow over time through choices, mistakes, forgiveness and fidelity. <!--
+Qp99j: --> Rather, it <!-- (artificial intelligence) --> is a form of <!-- what?
+A: --> statistical adaptation based on data and feedback, which can be very effective, but does not imply inner growth.
 
 <!-- Ch3 B.1 AI::TOOL --- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### A valuable tool that requires vigilance
@@ -661,20 +672,18 @@ Rather, it is a form of statistical adaptation based on data and feedback, which
 <!-- p100 09:45 Ch3::AI::TOOL -->
 <a id=p100_ch3_AI>100</a>. In light of what has been said, we can better understand why AI can be a valuable tool and, at the same time, why it calls for a measured and vigilant approach.
 In recent years, its private use has expanded significantly, prompting growing reflection on both the opportunities it offers and the risks tied to its rapid spread.<!--
--->
-In personal use, three aspects in particular deserve careful consideration:
-the ease with which results are obtained,
-the impression of objectivity and
-the simulation of human communication.<!--
--->
-The speed and simplicity with which information, complex analyses, media content and practical assistance can be accessed undoubtedly makes life easier.
-Yet they can also encourage excessive reliance and the search for ready-made answers, and weaken personal creativity and judgment.
-The apparent objectivity of the responses and suggestions these systems provide can lead us to overlook the fact that they reflect the cultural assumptions of those who designed and trained them, with all their strengths and limitations.
-The artificial imitation of positive human communication — words of advice, empathy, friendship and even love — can be engaging and at times genuinely helpful.
-However, for less discerning users, it can also be misleading, creating the illusion of a relationship with a real personal subject.
-When words are simulated, they do not build genuine relationships, but only their appearance.
-The artificial imitation of care or support can become particularly risky when it enters contexts where real relationships and emotional bonds are lacking.
-Here, the danger is not so much that a person may believe they are communicating with another person, but rather that they may gradually lose the very desire to form genuine human connections.
+Qp100c: --> In personal use, <!-- what --> three aspects <!-- of artificial intelligence --> in particular deserve careful consideration: <!--
+A: --> the ease with which results are obtained, the impression of objectivity and the simulation of human communication.<!--
+Qp100d: --> The speed and simplicity with which information, complex analyses, media content and practical assistance <!-- that artificial intelligence --> can be accessed undoubtedly makes life easier. Yet they can also encourage <!-- what?
+A: --> excessive reliance and the search for ready-made answers, and weaken personal creativity and judgment. <!--
+Qp100d: --> The apparent objectivity of the responses and suggestions these systems <!-- (artificial intelligence) --> provide can lead us to overlook <!-- what?
+A: --> the fact that they reflect the cultural assumptions of those who designed and trained them, with all their strengths and limitations. <!--
+Qp100e: --> The artificial imitation of positive human communication — words of advice, empathy, friendship and even love — can be engaging and at times genuinely helpful. However, for less discerning users, it can also be <!-- what?
+A: --> misleading, creating the illusion of a relationship with a real personal subject. <!--
+Qp100f: --> When words are simulated, they do not build <!-- what?
+A: --> genuine relationships, but only their appearance. <!--
+Qp100g: --> The artificial imitation of care or support can become particularly risky when it enters contexts where real relationships and emotional bonds are lacking. Here, the danger is not so much that a person may believe they are communicating with another person, but rather <!-- what?
+A: --> that they may gradually lose the very desire to form genuine human connections.
 
 <!-- p101 11:45 Ch3::AI::TOOL -->
 <a id=p101_ch3_AI>101</a>. Broadening our perspective to the use of AI in society, we see that
@@ -768,15 +777,28 @@ For this reason, a clear distinction must be made. It is one thing to integrate 
 #### The limit, the heart and the grandeur of the human person
 
 <!-- p118 28:44 Ch3::LOST::GRANDEUR -->
-<a id=p118_ch3_must>118</a>. Our relationship with life seems to be in crisis today. Everything that appears as a “limit” — incapacity, illness, old age, suffering, vulnerability — tends to be seen primarily as a defect to be corrected, rather than as a reality through which our humanity matures and opens itself to relationship. And yet we must remember that humanity flourishes not despite limitations, but often through them. The light of faith offers a perspective on reality that helps us recognize what we call the “contingency” of the things of this world. While it is right to strive to alleviate the suffering that marks human life, it is also wise to acknowledge our fundamental finitude, knowing that “religious experience, and in particular Christian faith, propose that we live, without oversimplification, this ambivalence between human greatness and limitation, interpreting it in the light of our original and fundamental relationship with God.”[^131]
+<a id=p118_ch3_must>118</a>. <!--
+Qp118a: --> Our relationship with life seems to be <!--
+A: --> in crisis today. 
+Everything that <!--
+Qp118b: What --> appears as a “limit” <!-- for humans?--> — <!--
+A: --> incapacity, illness, old age, suffering, vulnerability — tends to be seen primarily as a defect to be corrected, rather than as a reality through which our humanity matures and opens itself to relationship. <!--
+Qp118c: --> And yet we must remember that humanity flourishes not despite limitations, but <!-- what?
+A: -->often through them.
+The light of faith offers a perspective on reality that helps us recognize what we call the “contingency” of the things of this world.
+While it is right to strive to alleviate the suffering that marks human life, it is also wise to acknowledge our fundamental finitude, knowing that “religious experience, and in particular Christian faith, propose that we live, without oversimplification, this ambivalence between human greatness and limitation, interpreting it in the light of our original and fundamental relationship with God.”[^131]
 
 <!-- p119 29:50 Ch3::LOST::GRANDEUR -->
 <a id=p119_ch3_must>119</a>. It is precisely within our limitations that the following find a place: compassion, as well as a sincere concern for the needs of others; a generosity that can emerge even in the midst of darkness and failure; spiritual experience and the worship of God. We see this at many moments when our limits become tangible: when we face rejection, when we suffer the illness or loss of a loved one, when we encounter our own weakness or failure. Mysteriously, it is precisely in such moments that we can discover a new wisdom, tangibly experience the closeness of others and encounter the presence of the Lord.
 
 <!-- p120 30:30 Ch3::LOST::GRANDEUR -->
-<a id=p120_ch3_must>120</a>. Even when limitations are experienced as inner suffering, human wisdom teaches us not to deny or suppress it, but to integrate it.
-To eliminate suffering entirely would mean, in the end, extinguishing love and desire as well.
-Those who love and desire cannot avoid passing through trial and suffering;
+<a id=p120_ch3_must>120</a>. <!--
+Qp120a: --> Even when limitations are experienced as inner suffering, human wisdom teaches us <!-- what?
+A: --> not to deny or suppress it, but to integrate it. <!--
+Qp120b: --> To eliminate suffering entirely would mean, in the end, extinguishing <!-- what?
+A: --> love and desire as well. <!--
+Qp120c: --> Those who love and desire cannot avoid passing through <!-- what?
+A: -->trial and suffering;
 and over the years, we carry within us lessons that leave their mark like scars,
 the memories of a journey shaped by freedom and failure, dreams and disappointments.
 <a id=3wonder>[It is only thanks to the interplay of these elements that the wonders of the soul occur within us](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)</a>,
@@ -1451,8 +1473,21 @@ Christians serve the good and are sustained by a theological hope that gives rea
 
 #### Adopting the perspective of victims
 
-<!-- p216 34:10 Ch5::LOVE::VICTIM -->
-<a id=p216_ch5_building>216</a>. There are times when, in order to remain human, we must set aside our reservations and take a stand. In some conflicts, it is unjust to remain neutral, nor is it enough merely to claim that we are not complicit.[^192] When we witness the bombing of civilians, attacks on hospitals, schools or vital infrastructure, and violence that affects children, we are confronted with scandals that wound humanity itself. For this reason, we cannot limit ourselves to the level of abstract analysis. Pope Francis encouraged us to “touch the wounded flesh”[^193] of those who suffer, look at their faces, listen to their stories and acknowledge their wounds. Painful events require both history and memory, the former to recount the facts, the latter to bear witness to lived experiences.
+<!-- p216 34:10 Ch5::LOVE::VICTIM:: "touch the wounded flesh"  -->
+<a id=p216_ch5_building>216</a>. <!--
+Qp216a: --> There are times when, in order to remain human, we must set aside our reservations and <!-- do what?
+A: --> take a stand. <!--
+Qp216b: --> In some conflicts, it is unjust to <!-- do what?
+A: --> remain neutral, nor is it enough merely to claim that we are not complicit.[^192] <!--
+Qp216c: --> When we witness the bombing of civilians, attacks on hospitals, schools or vital infrastructure, and violence that affects children, we are confronted with scandals that <!-- do what?
+A: --> wound humanity itself.
+For this reason, we cannot <!--
+Qp216d: For what reason can we not --> limit ourselves to the level of abstract analysis. <!-- (in some conflicts)?
+A: When we witness the bombing of civilians, attacks on hospitals, schools or vital infrastructure, and violence that affects children, we are confronted with scandals that wound humanity itself. 
+Qp216e: What did Pope Francis encourage us to do with those who suffer?
+A: --> Pope Francis encouraged us to “touch the wounded flesh”[^193] of those who suffer, look at their faces, listen to their stories and acknowledge their wounds. <!--
+Qp216b: --> Painful events require both <!-- what?
+A: --> history and memory, the former to recount the facts, the latter to bear witness to lived experiences.
 
 <!-- p217 35:08 Ch5::LOVE::VICTIM -->
 <a id=p217_ch5_building>217</a>. Giving space to the perspectives and voices of victims through communication and education helps us to become aware of the abyss of evil inherent in war, and generally in all forms of violence. It helps us to reject the normalization of conflict; not to turn away when human dignity is violated; and to restore to victims the dignity of being recognized and heard.[^194] Paying attention to these voices strengthens the conviction that, apart from violent minorities, humanity does not desire war. In a particular way, the Church can be a place of living memory for victims.
@@ -1558,7 +1593,7 @@ If you are the body and members of Christ, then it is your sacrament that is pla
 As we look to the future, I would like to recall the image of Nehemiah whom we chose as our companion and guide at the outset. <!--
 Qp241a: --> Nehemiah heard the cry of a devastated city, <!-- and did what?
 A: --> brought that pain to prayer, discerned before God, asked for help, received permission to return, organized the work, confronted internal and external resistance and rebuilt the walls of Jerusalem with the assistance of the people, brick by brick. <!--
-Qp241b: --> In this era of digital transformation, I see in him a striking parable of our own vocation, <!-- which is what?
+Qp241b: --> In this era of digital transformation, I see in him <!-- (Nehemiah) --> a striking parable of our own vocation, <!-- which is what?
 A: --> which is not to be passive spectators of social and cultural fractures, nor mere commentators on what is crumbling, but men and women prepared to enter the construction sites of history — research laboratories, technology companies, schools, the media, institutions and local communities — in order to rebuild what has collapsed and protect what is threatened. <!--
 Qp241c: --> Like Nehemiah, we too are called to unite <!--: listening and what? prayer and what?
 A: --> listening and courage, prayer and responsibility, <!--
@@ -1576,34 +1611,45 @@ A: --> so that, even when a technocratic mentality or partisan interests seem to
 Qp243a: What are the four pillars of the program for Christian life?
 A: Faith, Hope, Love, and Prayer -->
 After having considered <!--
-Qp243b: What is this to us: --> faith, <!--
+Qp243b: What does this cause us to contemplate? --> faith, <!--
 A: --> which contemplates the Father’s loving plan; <!--
-Qp243c: What is this to us: --> love, <!--
+Qp243c: What does this unite us in?: --> love, <!--
 A: --> which unites us in one ecclesial body; and <!--
-Qp243d: What is this to us: --> hope, <!--
+Qp243d: What does this sustain?: --> hope, <!--
 A: --> which sustains our actions in the world, <!--
 Qp243e: What is --> the fourth pillar of this program for Christian life is <!--
 A: --> prayer. <!--
 Qp243f: --> Mary’s song accompanies our commitment. <!-- to what?
-A: Prayer, the fourth pillar of the program for Christian life. 
-Qp243g: When did Mary burst into a hymn (song) of praise and joy?
-A: --> Before Elizabeth who announces to her that she has become the mother of the Lord, Mary bursts into a hymn of praise and joy.
-Her soul magnifies the Lord, and her spirit rejoices in God her Savior, for he chose a young, poor and humble girl for his plan of salvation.
-Mary suddenly sees all of history through the lens of this revelation.
-Nothing has changed around her; the socio-political situation of her time remains the same.
-The Romans continue to control her land, and her people are still subjugated and humiliated.
-Yet, everything has changed within her, and this allows her to see what is invisible.
- God has already shown the strength of his arm; he has already scattered the proud, cast down the mighty, lifted up the lowly, filled the hungry with good things and sent the rich away empty-handed.
-He has already helped Israel, his servant.
- God “takes the part of the lowly.
-His plan is one that is often hidden beneath the opaque context of human events that see ‘the proud, the mighty and the rich’ triumph.
-Yet his secret strength is destined in the end to be revealed.”[^222]
+A: To having faith, love, hope, and prayer to do the will of God.
+Qp243g: When did Mary burst into a hymn (a song) of praise and joy?
+A: --> Before Elizabeth who announces to her that she has become the mother of the Lord, Mary bursts into a hymn of praise and joy. <!--
+Qp243h: When Mary bursts into a hymn of praise in and joy, --> Her soul magnifies the Lord, and her spirit rejoices in God her Savior, for he chose <!-- who and what?
+A: --> a young, poor and humble girl for his plan of salvation. <!--
+Qp243i: --> Mary suddenly sees all of history through the lens of this revelation. <!-- What is Mary's revelation?
+A: Her soul magnifies the Lord, and her spirit rejoices in God her Savior, for he chose a young, poor and humble girl for his plan of salvation. 
+Qp243k: What has physically has changed around Mary when she sees all of history through the lens of the revelation that he chose a young, poor and humble gir for his plan of salvation?
+A: --> Nothing has changed around her; the socio-political situation of her time remains the same. The Romans continue to control her land, and her people are still subjugated and humiliated. <!--
+Qp243l: What has spiritually has changed in Mary when she sees all of history through the lens of the revelation that he chose a young, poor and humble gir for his plan of salvation?
+A: --> Yet, everything has changed within her, and this allows her to see what is invisible. God has already shown the strength of his arm; he has already scattered the proud, cast down the mighty, lifted up the lowly, filled the hungry with good things and sent the rich away empty-handed. He has already helped Israel, his servant.
+ God “takes the part of the lowly. His plan is one that is often hidden beneath the opaque context of human events that see ‘the proud, the mighty and the rich’ triumph. Yet his secret strength is destined in the end to be revealed.”[^222]
 
 <!-- p244 23:40 END::MAGNIFICAT -->
-<a id=p244_fini_song>244</a>. The Blessed Virgin Mary not only teaches us to recognize God’s invisible work, but also directs our gaze to “the points at which humanity is broken and the world becomes distorted: the contrast between the humble and the powerful, the poor and the rich, the satiated and the hungry,” teaching us “to look at the world from a lower position: through the eyes of those who suffer rather than the mighty; to view history through the eyes of the little ones, rather than through the perspective of the powerful; to interpret the events of history from the viewpoint of the widow, the orphan, the stranger, the wounded child, the exile and the fugitive.”[^223] The Blessed Virgin thus becomes “poet and prophetess of Redemption,” because on her lips is proclaimed “the strongest and most innovative hymn ever articulated, the Magnificat; it is she who reveals the transformative vision of the Christian economy, the historical and social result that still draws its origin and strength from Christianity.”[^224]
+<a id=p244_fini_song>244</a>. The Blessed Virgin Mary not only teaches us to recognize God’s invisible work,
+but also directs our gaze to “the points at which humanity is broken and the world becomes distorted: the contrast between the humble and the powerful, the poor and the rich, the satiated and the hungry,”
+teaching us “to look at the world from a lower position: through the eyes of those who suffer rather than the mighty;
+to view history through the eyes of the little ones, rather than through the perspective of the powerful;
+to interpret the events of history from the viewpoint of the widow, the orphan, the stranger, the wounded child, the exile and the fugitive.”[^223]
+The Blessed Virgin thus becomes “poet and prophetess of Redemption,” because on her lips is proclaimed “the strongest and most innovative hymn ever articulated, the Magnificat;
+it is she who reveals the transformative vision of the Christian economy, the historical and social result that still draws its origin and strength from Christianity.”[^224]
 
 <!-- p245 25:10 END::MAGNIFICAT -->
-<a id=p245_fini_song>245</a>. With the same faith as Mary, let us become “weavers of hope” in our world, sharing who we are and what we have, so that the presence of Jesus may grow among us and his Kingdom take shape. In the humble fidelity of daily life, even the era of AI can become a time in which the Holy Spirit brings about the civilization of love in our lives. Indeed, the Lord continues to make all things new and offers every era the possibility of becoming part of salvation history in the light of the Incarnation. I entrust our desire to the Mother of Christ, to the Woman of the Magnificat, that she may guide our steps through this time of change and preserve in each of us true faith in the Gospel, so that we may bear witness to the grandeur of humanity, in which God has made his dwelling.
+<a id=p245_fini_song>245</a>. With the same faith as Mary, let us become “weavers of hope” in our world, sharing who we are and what we have,
+so that the presence of Jesus may grow among us and his Kingdom take shape.
+In the humble fidelity of daily life, even the era of AI can become a time in which the Holy Spirit brings about the civilization of love in our lives.
+Indeed, the Lord continues to make all things new and offers every era the possibility of becoming part of salvation history in the light of the Incarnation.
+I entrust our desire to the Mother of Christ, to the Woman of the Magnificat,
+that she may guide our steps through this time of change and preserve in each of us true faith in the Gospel,
+so that we may bear witness to the grandeur of humanity, in which God has made his dwelling.
 
 Given in Rome, at Saint Peter’s, on 15 May, in the year 2026, the second of my Pontificate.
 
