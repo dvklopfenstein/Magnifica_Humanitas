@@ -64,7 +64,7 @@ IN THE TIME OF ARTIFICIAL INTELLIGENCE
         * (137-138; 9) [Toward an ecology of communication](#toward-an-ecology-of-communication)
         * (139-142; 11) [An educational alliance for the digital age](#an-educational-alliance-for-the-digital-age)
         * (143-147; 17) [The central role of schools](#the-central-role-of-schools)
-    * [The dignity of work at a time of digital transition](#the-dignity-of-work-at-a-time-of-digital-transition; )
+    * [The dignity of work at a time of digital transition](#the-dignity-of-work-at-a-time-of-digital-transition)
         * (148-150; 22) [The value of work](#the-value-of-work)
         * (151-156; 26) [The problem of unemployment](#the-problem-of-unemployment)
         * (157-164; 34) [An economy that values dignity](#an-economy-that-values-dignity)
@@ -230,53 +230,69 @@ Like Nehemiah, let us pray, plan wisely and work perseveringly, placing God at t
 ## CHAPTER ONE: A DYNAMIC APPROACH FAITHFUL TO THE GOSPEL
 
 <!-- p17 00:20 Ch1:: A DYNAMIC APPROACH FAITHFUL TO THE GOSPEL --------------------------- -->
-<!-- p17 00:20 Ch1::DYNAMIC:: social_doctrine -->
+<!-- p17 00:20 Ch1::DYNAMIC:: Social Doctrine -->
 <a id=p017_ch1>17</a>. In this first chapter, I intend to present synthetically how the Social Doctrine of the Church has taken shape in the recent Papal Magisterium and in the Second Vatican Council, in order to demonstrate its dynamic character. Indeed, in each era the res novae require that this teaching address historical questions in the light of revealed Truth. In this regard, artificial intelligence, too, should not be considered as merely yet another theme to be studied or a crisis to be managed, but rather as a development that challenges the categories of Social Doctrine from within, calling for their further development in fidelity to the Gospel.
 
-<!-- p18 01:08 Ch1::DYNAMIC:: rightly_speaks  -->
+<!-- p18 01:08 Ch1::DYNAMIC:: rightly speaks  -->
 <a id=p018_ch1>18</a>. This overview, however, would not be very comprehensible if, before reflecting on the contribution of individual popes and their most relevant documents, we do not first clarify some fundamental principles concerning the way in which the Church exists in history and relates to the world. Failing to do so would expose Social Doctrine to the risk of being perceived as an undue interference in “worldly” matters or as an external code of ethics imposed from above. In reality, it stems from a Church that walks alongside humanity, recognizing the autonomy of earthly realities and the distinction between ecclesial and political communities. Indeed, it is for this very reason that she strives to serve the common good.
 
 <!-- Ch1 A>2 JOURNEYING ================================================================= -->
 ### A Church journeying through human history
 
-<!-- p19 01:58 Ch1::DYNAMIC::JOURNEYING:: human_unity       -->
+<!-- p19 01:58 Ch1::DYNAMIC::JOURNEYING:: human unity       -->
 <a id=p019_ch1_history>19</a>. The Church is present in the world as a sign of unity for the entire human family. She recognizes today’s questions and challenges as the current setting in which to carry out her particular vocation of listening, dialogue and service, and of being responsive to everything concerning the lives of contemporary men and women. This involvement in people’s lives helps the Church understand ever more clearly that her mission has a historical scope and entails a responsibility for the way in which social relations are built. For this reason, she cannot consider herself a stranger to the forces shaping society. On the contrary, the Church actively participates in the processes by which society grows and is organized, and she offers her own contribution to the creation of a more just and fraternal society. Pope Francis emphasized this historical dimension of the Church’s mission: “No one can demand that religion should be relegated to the inner sanctum of personal life, without influence on societal and national life, without concern for the soundness of civil institutions, without a right to offer an opinion on events affecting society.”[^9]
 
-<!-- p20 03:14 Ch1::DYNAMIC::JOURNEYING:: original_goodness -->
+<!-- p20 03:14 Ch1::DYNAMIC::JOURNEYING:: original goodness -->
 <a id=p020_ch1_history>20</a>. The Church’s vocation and duty to accompany humanity in the specifics of history leads her to recognize that earthly realities possess their own proper character and order. The Second Vatican Council expressed this principle with particular precision in the [Pastoral Constitution Gaudium et Spes](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html), whose sixtieth anniversary we remembered and celebrated with gratitude on 7 December 2025: “If by the autonomy of earthly affairs is meant that created things and societies themselves enjoy their own laws and values… then the demand for autonomy is perfectly in order.”[^10] This affirmation shows that creation bears the imprint of an original goodness that our human outlook must preserve, cultivate and bring to fulfilment. In this regard, the Church offers herself in a way that helps to interpret reality in all its depth. She supports with humble firmness the choices that promote the dignity of every person, the cohesion of communities and the good of all. The Church thus stands alongside the world without overpowering it, so that the promise of justice and peace that the Holy Spirit continues to sustain in the heart of humanity may come to fruition in every human endeavor.
 
-<!-- p21 04:32 Ch1::DYNAMIC::JOURNEYING:: the_state         -->
+<!-- p21 04:32 Ch1::DYNAMIC::JOURNEYING:: the State         -->
 <a id=p021_ch1_history>21</a>. Recognizing that God upholds the freedom of men and women in the unfolding of history, the Second Vatican Council affirmed the distinction between the ecclesial community and the political community, emphasizing that each must operate with full autonomy. The Church’s presence in the world is also expressed through her relationship with civil society and public institutions. By engaging with these entities, the Church acknowledges the value of social and political realities and honors their specific responsibilities, supporting everything that fosters the wellbeing of individuals and strengthens the fabric of society. The Church does not claim to assume the functions belonging to the State. On the contrary, she esteems those who serve the common good, and she firmly acknowledges the responsibility that civil institutions hold within society. At the same time, the mission entrusted to the Church prompts her to address the real suffering of the men and women of our time. This closeness does not stem from an intent to supplant civil institutions, much less from an implicit criticism of their work. Rather, it stems from evangelical charity, which impels the Church to draw near to the wounds of humanity whenever they surface with greater severity. When the Church intervenes, she does so following the example of the Good Samaritan, with discretion and closeness, aware that what arises from urgent necessity cannot become the norm, nor replace the institutional responsibilities proper to the civil community.
 
-<!-- p22 06:04 Ch1::DYNAMIC::JOURNEYING:: all_cultures      -->
+<!-- p22 06:04 Ch1::DYNAMIC::JOURNEYING:: all cultures      -->
 < a id=p022_ch1_history>22</a>. Starting from this twofold acknowledgment — the autonomy of earthly realities and the distinction between ecclesiastical and political spheres of competence — allows for a clearer understanding of the direction that the Second Vatican Council set for the Church in her relationship with the world. Gaudium et Spes reminds us that “it is the task of the whole People of God, particularly of its pastors and theologians, to listen to and distinguish the many voices of our times and to interpret them in the light of God’s word, in order that the revealed Truth may be more deeply penetrated, better understood and more suitably presented.”[^11]  Listening to the “many voices” is no mere sociological exercise, but instead requires spiritual discernment. Guided by the Spirit, the People of God come to recognize in cultural and social transformations both the signs of the presence of Christ, who comes and guides history toward its fulfilment, and those aberrations that obscure his face. In this way, the essential core of revealed Truth is not altered, but made explicit and adopted as a living standard for guiding concrete choices, inspiring paths of personal and communal conversion, promoting structural reforms and supporting new forms of evangelical witness in public life. History is thus understood as one of the places in which the Church allows herself to be taught by the Spirit about the humanizing power of the Gospel; and she learns to develop her own teaching at the service of the dignity of every person and the good of all peoples.
 
 <!-- Ch1 A.1 JOURNEYING - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### The wisdom of the word of God in dialogue with the human sciences
 
-<!-- p23 07:44 Ch1::DYNAMIC::JOURNEYING::WISDOM:: precious_allies -->
+<!-- p23 07:44 Ch1::DYNAMIC::JOURNEYING::WISDOM:: precious allies     -->
 <a id=p023_ch1_history>23</a>. The Church regards all who sincerely seek “truth, goodness and beauty” as companions on the journey, and considers them as “precious allies”[^12] in defending the dignity of every person and in caring for creation. Adopting the pastoral approach of the Second Vatican Council, which invites us to listen, discern and interpret the signs of the times, and enlightened by the wisdom of the word, the Church is not afraid to encounter human knowledge. Indeed, the word of God provides reliable standards for establishing paths of justice and opening ways of reconciliation and peace among peoples. When it comes to applying these standards to the complex situations of our time, the contributions of philosophy and of the human and social sciences is essential. These disciplines help us understand and analyze cultural, economic and political dynamics more deeply.
 Saint John Paul II recalled that the Church welcomes the contributions of the social sciences in order “to draw from them concrete insights that help her carry out her magisterial office.”[^13] A dialogue with such kinds of knowledge does not diminish the power of the Gospel.
 On the contrary, it makes it possible to identify with greater clarity what genuinely fosters the lives of individuals and communities.
 Following this perspective, Pope Francis emphasized that when dealing with many specific questions, the Church does not claim to offer “a definitive opinion,”[^14] but recognizes the importance of listening to scientific research and of encouraging a serious and honest debate among experts while welcoming a diversity of opinions.
 
-<!-- p24 09:28 Ch1::DYNAMIC::JOURNEYING::WISDOM:: social_doctrine -->
+<!-- p24 09:28 Ch1::DYNAMIC::JOURNEYING::WISDOM:: Social Doctrine     -->
 <a id=p024_ch1_history>24</a>. Nourished by this fruitful dialogue between the Gospel and human knowledge, the Church has progressively developed her Social Doctrine, cultivating in history a wise patrimony marked by theological and anthropological coherence rooted in the Christian understanding of the person. Precisely because this patrimony arises from faith and a corresponding vision of reality, it does not amount to a repertoire of technical solutions or an economic or political model to be set against others.  Instead, it belongs to a different order, [^15] namely that of the principles that guide the interpretation of events and sustain an evangelical understanding of historical processes and the choices these entail. Herein lies the proper function of Social Doctrine, which does not claim to supplant the responsibilities of politics or institutions, but offers itself as a foundation for collective discernment, helping to recognize and promote whatever serves the dignity of persons, the vitality of communities and the common good.
 
 <!-- Ch1 A.2 JOURNEYING -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### Social Doctrine as a shared discernment
 
-<!-- p25 10:35 Ch1::DYNAMIC::JOURNEYING::SHARED:: truth        -->
-<a id=p025_ch1_history>25</a>. Understanding that the truth is a gift to be shared, not a possession to be monopolized, frees the Church from the temptation of seeking forms of presence based on power.
-In order to rediscover the evangelical approach of a gentle proclamation of truth that is not imposed, Saint John Paul II invited us to examine honestly the times when acquiescence was given to “intolerance and even the use of violence in the service of truth.”[^16]
-In this same vein, I too have reaffirmed that the Church “does not claim to possess a monopoly on truth,”[^17] because truth is not a territory to be defended, but a good to be shared. For his part, Pope Francis expressed this same perspective in his striking phrase, “time is greater than space.”[^18] What matters most is not occupying positions of power or defending cultural strongholds, but initiating good processes and enabling them to mature.  In this way, the truth of the Gospel is not imposed from above, but grows over time within the concrete interweaving of lives, communities and cultures. This is not a truth that fears diversity, but instead welcomes and guides it. It does not eliminate conflicts, but transforms them, reuniting that which history tends to scatter. This concept can also be illustrated by the image of a multifaceted polyhedron, [^19] in which the one truth of the Gospel is reflected from different angles.
+<!-- p25 10:35 Ch1::DYNAMIC::JOURNEYING::SHARED:: truth of the Gospel -->
+<a id=p025_ch1_history>25</a>. <!--
+Qp25a: --> Understanding that the truth is a gift to be shared, not a <!-- what? And from what does this free the Church?
+A: --> possession to be monopolized, frees the Church from the temptation of seeking forms of presence based on power. <!--
+Qp25b: --> In order to rediscover the evangelical approach of a gentle proclamation of truth that is not imposed, <!-- what did Saint John Paul II invite us to examine?
+A: --> Saint John Paul II invited us to examine honestly the times when acquiescence was given to “intolerance and even the use of violence in the service of truth.”[^16]
+In this same vein, I too have <!--
+Qp25c: Why has Pope Leo XIV --> reaffirmed that the Church “does not claim to possess a monopoly on truth,”[^17] <!--
+A: --> because truth is not a territory to be defended, but a good to be shared.
+For his part, Pope Francis expressed this same perspective in his striking phrase, <!--
+Qp25d: To what does Pope Francis' striking phrase --> “time is greater than space.”[^18] refer? <!--
+A: --> What matters most is not occupying positions of power or defending cultural strongholds, but initiating good processes and enabling them to mature. <!--
+Qp25e: --> In this way<!--(not forcing dominance but rather initiating good processes)-->, the truth of the Gospel is not imposed from above, but <!-- does what?
+A: --> grows over time within the concrete interweaving of lives, communities and cultures. <!--
+Qp25f: Does truth fear diversity?
+A: --> This is not a truth that fears diversity, but instead welcomes and guides it. <!--
+Qp25g: What does truth do in regards to conflicts?
+A: --> It does not eliminate conflicts, but transforms them, reuniting that which history tends to scatter. <!--
+Qp25h: What image does Pope Leo XIV use to illustrate the truth of the Gospel growing over time within the concrete interweaving of lives, communities and cultures?
+A: --> This concept can also be illustrated by the image of a multifaceted polyhedron, [^19] in which the one truth of the Gospel is reflected from different angles.
 
-<!-- p26 12:07 Ch1::DYNAMIC::JOURNEYING::SHARED:: many_peoples -->
+<!-- p26 12:07 Ch1::DYNAMIC::JOURNEYING::SHARED:: many peoples        -->
 <a id=p026_ch1_history>26</a>. This attitude of openness to truth, which is at the same time both one and diverse, profoundly expresses the catholicity of the Church, for she embraces the entire human family yet is also immersed in the concrete situations of peoples and cultures.  The Second Vatican Council reminds us that, in virtue of this very catholicity, “each part contributes its own gifts to other parts and to the entire Church.”[^20] In this way, the Church grows as a whole and as individual communities thanks to a mutual exchange and to shared efforts toward an ever fuller communion.  It follows, then, that the People of God are not only gathered together from many peoples, but are also intertwined through different functions, vocations, cultures and traditions, each being called to support and enrich one another.
 From this perspective, Saint Paul VI acknowledged that, given the great variety of historical situations, it is unrealistic to think that the Church’s Social Doctrine can propose a single response that is valid in all contexts.[^21]
 For this reason, he invited each Christian community to interpret the reality in its own country with clarity and responsibility. The fruitful tension between the universality of the Church’s mission and her local roots is an intrinsic aspect of her life, for she encompasses the whole world, while addressing the specific issues of each context as the real setting in which the Gospel takes shape.
 
-<!-- p27 13:38 Ch1::DYNAMIC::JOURNEYING::SHARED:: a_process    -->
+<!-- p27 13:38 Ch1::DYNAMIC::JOURNEYING::SHARED:: a process           -->
 <a id=p027_ch1_history>27</a>. In light of what has been said so far, the Church’s Social Doctrine can be seen more authentically. It is not a handbook of principles and norms to be applied, but a process of shared discernment. It is born from the encounter between the eternal truth of the Gospel and the questions of history. It allows itself to be challenged by the signs of the times, and draws nourishment from the contributions of science, culture and human experience. Therefore, when the dignity of our brothers and sisters is violated, when politics fails to address the tragedies of humanity, when the economy turns against the person or science oversteps the limits of its competence, [^22] the Church — together with other Christian denominations and believers of other religions — must make her voice heard, not in order to dominate, but to promote communion. Understood in this way, Social Doctrine becomes a theology of communion in history, a history in which the Word made flesh continues to be present through dialogue, memory and prophecy.
 
 <!-- Ch1 B>4 SOCIAL DOCTINE ============================================================= -->
@@ -979,7 +995,7 @@ homogenization or dominance, but rather a setting in which inner freedom and cri
 <!-- Ch4 A.3 TRUTH  -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### Toward an ecology of communication
 
-<!-- p137 08:50 Ch4::SAFEGUARDING::TRUTH::COMMUNICATION -->
+<!--  p137 08:50 Ch4::SAFEGUARDING::TRUTH::COMMUNICATION -->
 <a id=p137_ch4_truth>137</a>. Our first task is neither to demonize nor idolize technological tools,
 but to utilize them on the basis of a fundamental principle,
 namely that truth is a common good and not the property of those with power or influence.
@@ -1089,21 +1105,68 @@ Schools are not called to follow the pace of the digital world, but to offer tha
 <!-- Ch4 B.1 WORK - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### The value of work
 
-<!-- p148 22:35 Ch4::SAFEGUARDING::WORK::VALUE -->
-<a id=p148_ch4_work>148</a>. Since the emergence of her Social Doctrine, beginning with Rerum Novarum, the Church has emphasized the protection of workers and the need to combat all forms of exploitation. Above all, however, the Magisterium has recognized in work “the essential key”[^150] to understanding the entire social question, since it is through their work that individuals develop many dimensions of their existence. In view of this, we can understand the great intuition of Saint Benedict of Nursia, who united prayer and work, showing daily activity to be a part of the human response to God’s call. Created in the image of the Creator, our own work in some way continues his, for thereby we contribute to the progress of society and the common good, put to good use the capabilities we have received, improve and beautify the world, support our families, engage in cooperative relationships and, through listening and dialogue, learn to build together something that no one could achieve alone.
+<!-- p148 22:35 Ch4::SAFEGUARDING::WORK::VALUE:: “the essential key” -->
+<a id=p148_ch4_work>148</a>. <!--
+Qp148a: --> Since the emergence of her Social Doctrine, beginning with Rerum Novarum, the Church has emphasized the protection of <!-- who? From what?
+A: --> workers and the need to combat all forms of exploitation. <!--
+Qp148b: --> Above all, however, the Magisterium has recognized in work “the essential key”[^150] to understanding the entire social question, since it is through their work that individuals <!-- do what?
+A: --> develop many dimensions of their existence. <!--
+Qp148c: --> In view of this<!--(through work individuals develop many dimensions of their existence)-->, we can understand the great intuition of Saint Benedict of Nursia, who united <!--- what two things?
+A: --> prayer and work,
+showing <!--
+Qp148d: Saint Benedict of Nursia's intuition uniting prayer and work showed that --> daily activity to be a part of <!-- what?
+A: --> the human response to God’s call. <!--
+Qp148e: --> Created in the image of the Creator, our own work <!-- does what?
+A: --> in some way continues his<!--(God's work as Creator)-->, <!--
+Qp148f: What does our daily activity of work allow us to: contribute to? put to good use what? improve and beautify what? support what? engage in cooperative what? and through listening and dialogue, learn to do what?
+A: --> for thereby we contribute to the progress of society and the common good, put to good use the capabilities we have received, improve and beautify the world, support our families, engage in cooperative relationships and, through listening and dialogue, learn to build together something that no one could achieve alone.
 
-<!-- p149 23:55 Ch4::SAFEGUARDING::WORK::VALUE -->
-<a id=p149_ch4_work>149</a>. For these reasons, work is not simply an instrument; it expresses and enhances the dignity of our lives. It is a requirement of the human condition, a normal path toward maturity, development and personal fulfilment. In this regard, financial assistance to the poor may at times be necessary in emergencies, but it cannot become the sole response, since the goal is to enable each person to live with dignity through his or her own work.[^151]
+<!-- p149 23:55 Ch4::SAFEGUARDING::WORK::VALUE:: live with dignity through our own work -->
+<a id=p149_ch4_work>149</a>. <!--
+Qp149a: --> For these reasons<!--(our work in some ways continues God's creation)-->, work is not simply an instrument; it expresses and enhances <!-- what?
+A: --> the dignity of our lives.
+It <!--
+Qp149b: What --> is a requirement of the human condition, a normal path toward maturity, development and personal fulfilment. <!--
+A: Work -->
+In this regard, <!--
+Qp149c: --> financial assistance to the poor may at times be necessary <!-- when?
+A: --> in emergencies, but it cannot become the sole response, since <!-- we should all have access to dignified work.
+Q149d: Regarding work, --> the goal is to enable each person to <!-- do what?
+A: --> live with dignity through his or her own work.[^151]
 
-<!-- p150 24:35 Ch4::SAFEGUARDING::WORK::VALUE -->
-<a id=p150_ch4_work>150</a>. Today, the convergence of automation, robotics and AI is rapidly transforming the very structure of work. It is said that this will bring great improvements for everyone. In reality, however, the “new ways” of working are not necessarily better, for “while AI promises to boost productivity by taking over mundane tasks, it frequently forces workers to adapt to the speed and demands of machines, rather than machines being designed to support those who work. As a result, contrary to the advertised benefits of AI, current approaches to technology can paradoxically de-skill workers, subject them to automated surveillance and relegate them to rigid and repetitive tasks. The need to keep up with the pace of technology can erode workers’ sense of agency and stifle the innovative abilities they are expected to bring to their work.”[^152] Precisely in order to avoid this drift, it is necessary to design systems that are centered on the human person and not solely on performance.
+<!-- p150 24:35 Ch4::SAFEGUARDING::WORK::VALUE:: stifles our innovation -->
+<a id=p150_ch4_work>150</a>. <!--
+Qp150a: --> Today, the convergence of automation, robotics and AI is <!-- doing what to work?
+A: --> rapidly transforming the very structure of work. <!--
+Qp150b: What positive effect is claimed regarding the convergence of automation, robotics and AI
+A: --> It is said that this will bring great improvements for everyone. <!--
+Qp150c: Will the convergence of automation, robotics and AI make work better?
+A: --> In reality, however, the “new ways” of working are not necessarily better, <!--
+Qp150d: --> for “while AI promises to boost productivity by taking over mundane tasks, it frequently forces workers to adapt to <!-- what?
+A: --> the speed and demands of machines, rather than machines being designed to support those who work. <!--
+Qp150e: What are the three drawbacks to workers of AI as it is currently being used?
+A: --> As a result, contrary to the advertised benefits of AI, current approaches to technology can paradoxically de-skill workers, subject them to automated surveillance and relegate them to rigid and repetitive tasks. <!--
+Qp150e: --> The need to keep up with the pace of technology can erode <!-- and stifle workers what?
+A: Erode --> workers’ sense of agency and stifle the innovative abilities they are expected to bring to their work.”[^152] <!--
+Qp150f: --> Precisely in order to avoid this drift<!-- (of stifling the innovative abilities we are expected to bring to our work)-->, it is necessary to <!-- do what?
+A: --> design systems that are centered on the human person and not solely on performance.
 
 <!-- Ch4 B.2 WORK - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### The problem of unemployment
 
-<!-- p151 26:00 Ch4::SAFEGUARDING::WORK::UNEMPLOYMENT -->
-<a id=p151_ch4_work>151</a>. Saint John Paul II recognized that unemployment is a grave evil.
-Indeed, when it reaches massive proportions, it becomes a true social calamity that especially requires the State to exercise responsibility.[^153] Today, amid the “fourth industrial revolution,” this concern is even more acute, as innovation is often pursued solely for reducing costs and increasing profits.[^154] In some contexts, there is a legitimate fear of a significant and rapid contraction in available jobs that would create a chain reaction deeply impacting families, young people and local economies. In many sectors, this can already be seen in new forms of job insecurity and inequality, characterized by outsized remuneration for a highly specialized minority alongside declining wages for a large portion of the workforce.
+<!-- p151 26:00 Ch4::SAFEGUARDING::WORK::UNEMPLOYMENT:: a grave evil -->
+<a id=p151_ch4_work>151</a>. <!--
+Qp151a: --> Saint John Paul II recognized that unemployment is <!-- what?
+A: --> a grave evil. <!--
+Qp151b: --> Indeed, when it <!-- (unemployment) --> reaches massive proportions, it becomes <!-- what?
+A: --> a true social calamity that especially requires the State to exercise responsibility.[^153] <!--
+Qp151c: --> Today, amid the “fourth industrial revolution,” this concern <!-- (unemployment) --> is even more acute, as innovation is often pursued solely for <!-- what two things?
+A: --> reducing costs and increasing profits.[^154]
+In some contexts, <!--
+Qp151d: --> there is a legitimate fear of a significant and rapid contraction in <!-- what?
+A: --> available jobs that would create a chain reaction deeply impacting families, young people and local economies. <!--
+Qp151e: --> In many sectors, this <!--(work "transformation") --> can already be seen in new forms of <!-- what?
+A: --> job insecurity and inequality, characterized by outsized remuneration for a highly specialized minority alongside declining wages for a large portion of the workforce.
 
 <!-- p152 27:10 Ch4::SAFEGUARDING::WORK::UNEMPLOYMENT -->
 <a id=p152_ch4_work>152</a>. It is certainly desirable for technology to relieve humans of arduous, repetitive or dangerous tasks and to provide intelligent support for human activity. Yet, the protection of employment opportunities and the irreplaceable role of the individual must remain the general rule. The pursuit of greater profits cannot justify choices that systematically sacrifice jobs, because the human person is an end, not a means, and the economic order must remain subordinate to human dignity and the common good.
@@ -1447,25 +1510,79 @@ as well as allowing AI models to establish appropriate boundaries.
 <!-- Ch5 B.4 CULTURE OF POWER: MULTILATERALISM - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### The crisis of multilateralism
 
-<!-- p201 19:00 Ch5::POWER::MULTILATERALISM -->
-<a id=p201_ch5_power>201</a>. The culture of power also stems from the crisis of the multilateral system. The institutions established to safeguard the concept of a common future for all peoples and a global common good appear to have been weakened. This is due not only to structural limitations, but also to a frequent lack of shared will to support and reform them, or to recognize their moral authority. Instead of making progress, we are regressing from the significant turning point of the twentieth century. After 1989, the collapse of communist regimes in Europe was followed by a predominantly economic globalization, which lacked an adequate political framework capable of sustaining dialogue and peace. An almost blind faith was placed in the ability of the markets to generate prosperity, democracy and stability. In reality, rather than automatically generating unity and peace, globalization has provoked fundamentalist, identity-based and nationalistic reactions. The result is a far cry from genuine multilateralism; instead, what has appeared is a disorderly and conflict-ridden multipolarism with a prevailing sense of mistrust.
+<!-- p201 19:00 Ch5::POWER::MULTILATERALISM:: the crisis of the multilateral system      -->
+<a id=p201_ch5_power>201</a>. <!--
+Qp201a: --> The culture of power also stems from the crisis of the multilateral system. <!-- What is the multilateral system?
+A: --> The institutions established to safeguard the concept of a common future for all peoples and a global common good
+appear to have <!--
+Qp201b: What caused the crisis of the multilateral system?
+A: The multilateral system has --> been weakened. <!--
+Qp201c: To what three things is the weakened multilateral system (which is in crisis) attributed?
+A: --> This is due not only to structural limitations, but also to a frequent lack of shared will to support and reform them, or to recognize their moral authority.
+Instead of making progress, we are regressing from the significant turning point of the twentieth century. <!--
+Qp201e: --> After 1989, the collapse of communist regimes in Europe was followed by <!-- predominantly what?
+A: --> a predominantly economic globalization,
+which lacked <!--
+Qp201f: The economic globalization occuring after the collapse of communist regimes in 1989 lacked what?
+A: --> an adequate political framework capable of sustaining dialogue and peace. <!--
+Qp201g: --> An almost blind faith was placed in the ability of the markets to <!-- do what three things?
+A: --> generate prosperity, democracy and stability. <!--
+Qp201h: --> In reality, rather than automatically generating unity and peace, <!--(ecomonic)--> globalization has <!-- done what?
+A: --> provoked fundamentalist, identity-based and nationalistic reactions. <!--
+Qp201i: What is the result of ecomonic globalization provoking fundamentalist, identity-based and nationalistic reactions?
+A: --> The result is a far cry from genuine multilateralism; instead, what has appeared is a disorderly and conflict-ridden multipolarism with a prevailing sense of mistrust.
 
-<!-- p202 20:15 Ch5::POWER::MULTILATERALISM -->
-<a id=p202_ch5_power>202</a>. What has also re-emerged is the temptation to forge a collective identity in opposition to an enemy, fueled by narratives in which each party portrays itself as a victim entitled to retribution. The reduction of complex issues into simplistic categories — “me first,” “friend or foe,” “us or them” — facilitates decisions that are often irresponsible and undermine mutual trust among nations. The force of international law is thus replaced by the claim that “might makes right.” Consequently, tribunals that are competent for settling disputes between States or dealing with war crimes are often weakened or bypassed, with devastating ramifications for political culture and social cohesion.[^185]
+<!-- p202 20:15 Ch5::POWER::MULTILATERALISM:: fueling narratives with devastating effect -->
+<a id=p202_ch5_power>202</a>. <!--
+Qp202a: What temptation has re-emerged due to the crisis in multilateralism and its resulting ecomonic globalization?
+A: --> What has also re-emerged is the temptation to forge a collective identity in opposition to an enemy,
+fueled by narratives <!--
+Qp202b: Forging a collective identity in opposition to an enemy does what?
+A: Fuels narratives --> in which each party portrays itself as a victim entitled to retribution. <!--
+Qp202c: --> The reduction of complex issues into simplistic categories — “me first,” “friend or foe,” “us or them” — facilitates <!-- what?
+A: --> decisions that are often irresponsible and undermine mutual trust among nations. <!--
+Qp202d: With the crisis of multilateralism, --> The force of international law is thus replaced by <!-- what?
+A: --> the claim that “might makes right.”
+Consequently, <!--
+Qp202e: With the crisis of multilateralism, --> tribunals that are competent for settling disputes between States or dealing with war crimes are often <!-- what?
+A: --> weakened or bypassed, with devastating ramifications for political culture and social cohesion.[^185]
 
-<!-- p203 21:00 Ch5::POWER::MULTILATERALISM -->
-<a id=p203_ch5_power>203</a>. In this context, peacebuilding has been relegated to a secondary role.  Cooperation for development, disarmament, conflict prevention and the establishment of mutual trust are neglected in the name of power politics. The achievements of humanitarian law are also being compromised. Indeed, the principle of proportionality in responding to aggression, the protection of access to water, food and essential goods, and respect for the lives of civilians, especially children, come to be regarded as naïve relics of the past.
+<!-- p203 21:00 Ch5::POWER::MULTILATERALISM:: humanitarian law                           -->
+<a id=p203_ch5_power>203</a>. In this context, <!--
+Qp203a: With the crisis of multilateralism, what has happened to peacebuilding?
+A: --> peacebuilding has been relegated to a secondary role. <!--
+Qp203b: With the crisis of multilateralism, --> Cooperation for development, disarmament, conflict prevention and the establishment of mutual trust are <!-- what?
+A: --> neglected in the name of power politics. <!--
+Qp203c: With the crisis of multilateralism, what is happening to the achievements of humanitarian law?
+A: The achievements of humanitarian law are also being compromised.
+Qp203d: Humanitarian law: responds to what principle? protects what three things? and urges respect for the lives of who?
+A: --> Indeed, the principle of proportionality in responding to aggression, the protection of access to water, food and essential goods, and respect for the lives of civilians, especially children, come to be regarded as naïve relics of the past.
 
 <!-- Ch5 B.4 CULTURE OF POWER: SUPPOSED -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### A supposed political realism
 
-<!-- p204 21:40 Ch5::POWER::SUPPOSED -->
-<a id=p204_ch5_power>204</a>. We live at a time of significant spiritual and cultural blindness. A false pragmatism urges us to sever the roots of our history, as if it were possible to inaugurate a kind of “new creation” detached from the past. Even those who cite important moral principles can fall into this historical nihilism, mistakenly believing that the atrocities of the twentieth century can never happen again. Yet, in reality, the same dynamics are re-emerging under new guises. The mentality of armed equilibrium and deterrence appears to be reasserting itself. Today, however, in contrast to the two-sided dynamic of the Cold War, the proliferation of operatives and battlefields makes this mentality increasingly fragile. Escalating conflicts lead to asymmetric and “hybrid” wars, fought not only on the battleground but also on the economic, financial and cyber fronts, where disinformation and campaigns that feed people’s fears are used to manipulate public opinion. In many countries, including those in the Global South, increased military spending is presented as the only response to an uncertain future or perceived threats. Meanwhile, the real cost falls on the poorest, who see resources for healthcare, education and social services being reduced.
+<!-- p204 21:40 Ch5::POWER::"POLITICS":: military costs cause suffering -->
+<a id=p204_ch5_power>204</a>. <!--
+Qp204a: --> We live at a time of significant spiritual and cultural <!-- what?
+A: -->blindness. <!--
+Qp204b: --> A false pragmatism urges us to sever the roots of <!-- what?
+A: --> our history, as if it were possible to inaugurate a kind of “new creation” detached from the past. <!--
+Qp204c: --> Even those who cite important moral principles can fall into this historical nihilism, mistakenly believing <!-- what?
+A: --> that the atrocities of the twentieth century can never happen again.
+Yet, in reality, the same dynamics are re-emerging under new guises. <!--
+Qp204e: --> The mentality of armed equilibrium and deterrence appears to be reasserting itself. Today, however, in contrast to the two-sided dynamic of the Cold War, the proliferation of <!-- what? And what is it doing?
+A: The proliferation of --> operatives and battlefields makes this mentality <!--(of armed equilibrium and deterrence as seen in the two-sided dynamic of the Cold War)--> increasingly fragile. <!--
+Qp204f: --> Escalating conflicts lead to asymmetric and “hybrid” wars, fought not only on the battleground but also <!-- where?
+A: --> on the economic, financial and cyber fronts, where disinformation and campaigns that feed people’s fears are used to manipulate public opinion. <!--
+Qp204g: --> In many countries, including those in the Global South, increased military spending is presented as <!-- what?
+A: --> the only response to an uncertain future or perceived threats. <!--aaaa
+Q: To whom do the real costs of increased military spending fall?
+A: --> Meanwhile, the real cost falls on the poorest, who see resources for healthcare, education and social services being reduced.
 
-<!-- p205 23:05 Ch5::POWER::SUPPOSED -->
+<!-- p205 23:05 Ch5::POWER::"POLITICS" -->
 <a id=p205_ch5_power>205</a>. At the core of these issues is a false realism, based not only on the prevailing mentality of force, but on the cultural and anthropological belief that war is an inevitable part of human nature. It is said that things have always been this way, except for occasional pauses, and that it will always be so! As a result, the concern is no longer the search for peace — which has been lost as a point of reference on the international stage — but rather how and when to take military action. This same argument maintains that it would be irresponsible not to prepare for conflict. I would argue, however, that what is truly irresponsible is Realpolitik, the form of political “realism” that sows in consciences and in society an attitude of resignation to the inevitability of war, and dismisses peace and dialogue as utopian or irrational positions that ignore the risks at stake. In fact, peace is neither a naïve hope nor merely the absence of war; instead, it is always possible as the fruit of justice and charity.
 
-<!-- p206 24:15 Ch5::POWER::SUPPOSED -->
+<!-- p206 24:15 Ch5::POWER::"POLITICS" -->
 <a id=p206_ch5_power>206</a>. In such a climate, nihilism and pragmatism become intertwined and end up normalizing grave errors.
 Religious extremism and identity-based fanaticism ally themselves with irrational economic policies,
 while politics often turns to misinformation and ridiculing opponents, and
@@ -1474,69 +1591,113 @@ Thus, diversity is increasingly perceived as a threat, which fuels a desire for 
 <a id=5bambition>hegemonic ambitions</a>, abuses of power and a fear of those who are different,
 thereby creating an environment in which new conflicts can develop almost imperceptibly.[^186]
 
-<!-- p207 25:06 Ch5::POWER::SUPPOSED -->
+<!-- p207 25:06 Ch5::POWER::"POLITICS" -->
 <a id=p207_ch5_power>207</a>. This, then, is the fertile ground for new wars that are perhaps even more dangerous than those of the past, since they tend to disregard all ethical limits. What was once considered unacceptable can now be carried out almost without hesitation, while the international response is increasingly influenced more by the interests of individual Governments than by the objective gravity of situations.  Decisions now seem to be driven almost exclusively by economic calculations, justified through media distortions, manufactured enthusiasm and “dreams” that inevitably shatter, generating frustration and further violence. When people come to believe that nothing is genuinely true and that principles are hollow words, then the fuse in their hearts is lit for new eruptions of intolerance and aggression.
 
-<!-- p208 26:00 Ch5::POWER::SUPPOSED -->
+<!-- p208 26:00 Ch5::POWER::"POLITICS" -->
 <a id=p208_ch5_power>208</a>. In these situations, the issue of concrete safeguards to prevent future violence remains an open question. When a culture normalizes and justifies conflict, a dangerous pathway opens up, in that what seems unthinkable today may become acceptable tomorrow in the name of utility or security. In countries marked by serious social tensions, we cannot rule out the possibility that some leaders may consider armed conflict as an effective way of diverting attention from domestic problems and a cynical tool for managing difficulties.
 
-<!-- p209 25:30 Ch5::POWER::SUPPOSED -->
+<!-- p209 25:30 Ch5::POWER::"POLITICS" -->
 <a id=p209_ch5_power>209</a>. A particular responsibility rests on the shoulders of those who work in the field of research. All the key players in this field — scientists, business owners, investors, academic authorities, politicians and others — must work with a transparent and responsible mindset, while maintaining an acute awareness of the broader context of the technological advancements they help to cultivate, including those related to AI. When people limit themselves to looking only at their own sector, they may deceive themselves into believing they are performing actions that are morally neutral and avoid questions about the ultimate ends that guide certain experiments. In this way, they risk cooperating — perhaps unknowingly — with questionable projects that fuel new forms of violence, manipulation and dominance.
 
 <!-- Ch5 C  CIVILIZATION OF LOVE ======================================================== -->
 ### Building the civilization of love
 
-<!-- p210 27:25 Ch5::LOVE -->
-<a id=p210_ch5_building>210</a>. The construction of a world in a state of perpetual conflict is an evil and must be named for what it is.
-This way of portraying our current situation may seem bleak or pessimistic, yet I consider it necessary to do so.
-The Christian perspective, however, is not limited to denouncing evil.
-We view history in the light of the crucified and risen Lord, to whom the Father has given “all authority in heaven and on earth” (Mt 28:18).
-We do not consider the present as a predetermined fate, but an opportunity for personal and collective conversion.
-Moreover, we believe in the power of the Kingdom, which grows from the tiny size of a mustard seed, which, once sown, sprouts and grows (cf. Mk 4:26-32).
-While the tumult of confusion is all around us, goodness grows silently from the earth.
-In the words of the prophet Isaiah: “Behold, I am doing a new thing; now it springs forth, do you not perceive it?” (Is 43:19).
+<!-- p210 27:25 Ch5::LOVE:: perpetual of conflict is evil -->
+<a id=p210_ch5_building>210</a>. <!--
+Qp210a: --> The construction of a world in a state of perpetual conflict is <!-- what? And what must we do?
+A: --> an evil and must be named for what it is.
+This way of portraying our current situation may seem bleak or pessimistic, yet I consider it necessary to do so. <!--
+Qp210b: --> The Christian perspective, however, is not limited to denouncing evil. <!-- What shapes Christian's view of history?
+A: --> We view history in the light of the crucified and risen Lord, to whom the Father has given “all authority in heaven and on earth” (Mt 28:18). <!--
+Qp210c: How do we consider the present?
+A: --> We do not consider the present as a predetermined fate, but an opportunity for personal and collective conversion. <!--
+Qp210d: We believe in the power of what?
+A: --> Moreover, we believe in the power of the Kingdom, which grows from the tiny size of a mustard seed, which, once sown, sprouts and grows (cf. Mk 4:26-32). <!--
+Qp210e: --> While the tumult of confusion is all around us, <!-- what happens to goodness?
+A: --> goodness grows silently from the earth. In the words of the prophet Isaiah: “Behold, I am doing a new thing; now it springs forth, do you not perceive it?” (Is 43:19).
 
-<!-- p211 28:11 Ch5::LOVE -->
-<a id=p211_ch5_building>211</a>. A closer analysis of history confirms this.
-Even in the darkest nights, the Lord raises up men and women
-who refuse to give up,
-who persevere in doing good,
-who protect the vulnerable and
-open pathways to reconciliation.
-The memory of the saints, righteous people and the oft-forgotten peacemakers, show us
-that grace does not magically eliminate conflict,
-but instead it inspires
-active resistance to evil and
-an astonishing creativity in doing good.
-Christians see the darkness and acknowledge it for what it is,
-yet they do not merely gaze upon it passively,
-for they know the light and
-understand that the darkness has not overcome it and cannot defeat it (cf. Jn 1:5).
-For this reason, even when suffering seems to have the last word,
-Christians serve the good and are sustained by a theological hope that gives reality both meaning and direction.
+<!-- p211 28:11 Ch5::LOVE:: sustained by theological hope -->
+<a id=p211_ch5_building>211</a>. A closer analysis of history confirms this. <!--
+Qp211a: --> Even in the darkest nights, the Lord raises up men and women <!-- who do what?
+A: --> who refuse to give up, who persevere in doing good, who protect the vulnerable and open pathways to reconciliation. <!--
+Qp211b: --> The memory of the saints, righteous people and the oft-forgotten peacemakers, show us that grace does not magically eliminate conflict, but instead <!-- does what?
+A: --> it inspires active resistance to evil and an astonishing creativity in doing good. <!--
+Qp211c: --> Christians see the darkness and acknowledge it for what it is, <!-- and then what do they do?
+A: --> yet they do not merely gaze upon it passively, for they know the light and understand that the darkness has not overcome it and cannot defeat it (cf. Jn 1:5).
+For this reason, <!--
+Qp211d: --> even when suffering seems to have the last word, <!-- what happens?
+A: --> Christians serve the good and are sustained by a theological hope that gives reality both meaning and direction.
 
 <!-- Ch5 B.4 CULTURE OF POWER: OUR -- -- - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### We can all do our part
 
-<!-- p212 29:25 Ch5::LOVE::OUR -->
-<a id=p212_ch5_building>212</a>. At this point, however, a subtle temptation may emerge, namely the thought that the problems are too big and we are too small, and that our choices, therefore, cannot make a difference. This is a polite form of resignation, often disguised as realism. Certainly, not everyone has the same power to make a difference. There are those who govern, make investment decisions, lead institutions, conduct research, educate, produce or provide information, and then there are those who only seem to live their daily lives. Yet, no one is without responsibility. We all have our own areas for action, and it is precisely there — and nowhere else — that we must choose whether to fuel the mentality of force (even if only through indifference, cynicism, lies or hatred), or to preserve the mindset of peace (with truth, moderation, closeness and care).
+<!-- p212 29:25 Ch5::LOVE::OUR:: We can all do our part to preserve the mindset of peace        -->
+<a id=p212_ch5_building>212</a>. <!--
+Qp212a: --> At this point, however, a subtle temptation may emerge, namely the thought that the problems are <!-- what? And how does that influence our choices?
+A: --> too big and we are too small, and that our choices, therefore, cannot make a difference.
+This <!--
+Qp212b: What? --> is a polite form of resignation, often disguised as realism. <!--
+A: That the problems are too big and we are too small, and that our choices, therefore, cannot make a difference. 
+Qp212c: --> Certainly, not everyone has the same power to make a difference. <!-- Who/what is an example of those with more power in society?
+A: --> There are those who govern, make investment decisions, lead institutions, conduct research, educate, produce or provide information, 
+and then there are <!--
+Qp212d: What is an example of the less powerful people in society?
+A: --> those who only seem to live their daily lives. <!--
+Qp212e: Do the less powerful have less responsibility to make a difference?
+A: --> Yet, no one is without responsibility. We all have our own areas for action,
+and <!--
+Qp212f: --> it is precisely there <!--(our own areas for action, not matter who we are)--> — and nowhere else — that we must choose <!-- between what two mindsets?
+A: --> whether to fuel the mentality of force (even if only through indifference, cynicism, lies or hatred), or to preserve the mindset of peace (with truth, moderation, closeness and care).
 
-<!-- p213 30:25 Ch5::LOVE::OUR::TOLKIEN -->
-<a id=p213_ch5_building>213</a>. The twentieth-century Catholic author J.R.R. Tolkien, in the words of a protagonist in one of his novels, described our responsibility in this way: “It is not our part to master all the tides of the world, but to do what is in us for the succour of those years wherein we are set, uprooting the evil in the fields that we know, so that those who live after may have clean earth to till.”[^187] The civilization of love will not arise from a single or spectacular gesture, but from the sum total of small and steadfast acts of fidelity that serve as a bulwark against dehumanization. For this reason, it is worthwhile pausing to reflect on some aspects of how we, each in our own way, can cooperate in building the civilization of love. Without presuming to exhaust this theme, I would like to propose five paths toward daily and public responsibility: the need to disarm words, building peace through justice, adopting the perspective of victims, cultivating a healthy realism and reviving dialogue and multilateralism.
+<!-- p213 30:25 Ch5::LOVE::OUR:: Tolkien: uprooting evil; our daily and public responsibilities -->
+<a id=p213_ch5_building>213</a>. The <!--
+Qp213a: Who is a well-known --> twentieth-century Catholic author <!-- ?
+A: --> J.R.R. Tolkien,
+in the words of a protagonist in one of his novels, described our responsibility in this way: <!--
+Qp213b: How does the Great Wizard, Gandolf describe the responsibility of each of us?
+A: --> “It is not our part to master all the tides of the world, but to do what is in us for the succour of those years wherein we are set, uprooting the evil in the fields that we know, so that those who live after may have clean earth to till.”[^187] <!--
+Qp213c: --> The civilization of love will not arise from a single or spectacular gesture, but from <!-- what?
+A: --> the sum total of small and steadfast acts of fidelity that serve as a bulwark against dehumanization.
+For this reason, it is worthwhile pausing to reflect on some aspects of how we, each in our own way, can cooperate in building the civilization of love.
+Without presuming to exhaust this theme, I would like to propose <!--
+Qp213d: What are Pope Leo XIV's --> five paths toward <!-- our --> daily and public responsibility: <!--
+A: --> the need to disarm words, building peace through justice, adopting the perspective of victims, cultivating a healthy realism and reviving dialogue and multilateralism.
 
 #### The need to disarm words
 
-<!-- p214 31:40 Ch5::LOVE::DISARM -->
-<a id=p214_ch5_building>214</a>. The first contribution we can make toward a more humane civilization is to be mindful of our words. “Let us disarm words and we will help to disarm the world.”[^188] Words have enormous power, something we experience in our daily interactions; for example, spoken words can change our mood for better or for worse. “Peace begins with each one of us: in the way we look at others, listen to others and speak about others. In this sense, the way we communicate is of fundamental importance: we must say ‘no’ to the war of words and images, we must reject the paradigm of war.”[^189] We must all, therefore, examine our conscience regarding the words we use, the prejudices we have and the explicit or implicit aggression that lies within them. We have a real opportunity to contribute to the common good each time we speak the truth, offer wise advice, support those in need of comfort, denounce injustice and give a voice to the voiceless.
+<!-- p214 31:40 Ch5::LOVE::DISARM::   1) disarm our words                       -->
+<a id=p214_ch5_building>214</a>. <!--
+Qp214a: --> The first contribution we can make toward a more humane civilization is to <!-- do what?
+A: --> be mindful of our words. “Let us disarm words and we will help to disarm the world.”[^188] <!--
+Qp214b: --> Words have enormous power, something we experience in our daily interactions; for example, spoken words can change <!-- what?
+A: --> our mood for better or for worse. <!--
+Qp214c: --> “Peace begins with each one of us: <!-- how (look, listen, speak)? 
+A: --> in the way we look at others, listen to others and speak about others. <!--
+Qp214d: --> In this sense, the way we communicate is of fundamental importance: we must say ‘no’ <!-- to what? and reject what?
+A: --> to the war of words and images, we must reject the paradigm of war.”[^189]
+We must all, therefore, examine our conscience regarding the words we use, the prejudices we have and the explicit or implicit aggression that lies within them. <!--
+Qp214f: --> We have a real opportunity to contribute to the common good <!-- each time we do speak what? Offer what? Support who? Denounce what? Give what?
+A: --> each time we speak the truth, offer wise advice, support those in need of comfort, denounce injustice and give a voice to the voiceless.
 
 #### Building peace through justice
 
-<!-- p215 32:50 Ch5::LOVE::JUSTICE -->
-<a id=p215_ch5_building>215</a>. All of us, at every level, can contribute to building the foundation of peace, which is justice. We do not merely seek any kind of peace — such as an absence of conflict at any cost — but instead, the true peace born of justice. “There exists a very close connection between the justice of the individual and the peace of everyone.”[^190] Commenting on the psalm verse “justice and peace have embraced” ( Ps 84:11), Saint Augustine wrote: “There is no one who shuns the desire for peace, yet not everyone is willing to practice justice… But perform the works of justice, keeping in mind that justice and peace have embraced; they are not at odds with one another. Why do you set yourself against justice? Here, for example, is justice telling you not to steal, but you pay no heed; not to commit adultery, and you turn a deaf ear; not to do to others what you would not want done to yourself; not to say about your neighbor the things you would not want said about yourself… Do you therefore wish to attain peace? Then practice justice!”[^191] Let us never grow weary of seeking justice!
+<!-- p215 32:50 Ch5::LOVE::JUSTICE::  2) seek justice always to find true peace -->
+<a id=p215_ch5_building>215</a>. <!--
+Qp215a: --> All of us, at every level, can contribute to building the foundation of peace, which is <!-- what?
+A: --> justice. <!--
+Qp215b: --> We do not merely seek any kind of peace — such as <!-- what?
+A: --> an absence of conflict at any cost — but instead, <!-- we must seek --> the true peace born of justice. <!--
+Qp215c: --> “There exists a very close connection between the justice of the individual and the peace of <!-- who?
+A: --> everyone.”[^190]
+Commenting on the psalm verse “justice and peace have embraced” (Ps 84:11), Saint Augustine wrote<!-- what? -->: <!--
+A: --> “There is no one who shuns the desire for peace, yet not everyone is willing to practice justice… But perform the works of justice, keeping in mind that justice and peace have embraced; they are not at odds with one another. Why do you set yourself against justice? Here, for example, is justice telling you not to steal, but you pay no heed; not to commit adultery, and you turn a deaf ear; not to do to others what you would not want done to yourself; not to say about your neighbor the things you would not want said about yourself… Do you therefore wish to attain peace? Then practice justice!”[^191] <!--
+Qp215d: Pope Leo XIV: --> Let us never grow weary of <!-- what?
+A: --> seeking justice!
 
 #### Adopting the perspective of victims
 
-<!-- p216 34:10 Ch5::LOVE::VICTIM:: "touch the wounded flesh"  -->
+<!-- p216 34:10 Ch5::LOVE::VICTIM::   3) "touch the wounded flesh"              -->
 <a id=p216_ch5_building>216</a>. <!--
 Qp216a: --> There are times when, in order to remain human, we must set aside our reservations and <!-- do what?
 A: --> take a stand. <!--
@@ -1552,19 +1713,48 @@ A: --> Pope Francis encouraged us to “touch the wounded flesh”[^193] of thos
 Qp216b: --> Painful events require both <!-- what?
 A: --> history and memory, the former to recount the facts, the latter to bear witness to lived experiences.
 
-<!-- p217 35:08 Ch5::LOVE::VICTIM -->
-<a id=p217_ch5_building>217</a>. Giving space to the perspectives and voices of victims through communication and education helps us to become aware of the abyss of evil inherent in war, and generally in all forms of violence. It helps us to reject the normalization of conflict; not to turn away when human dignity is violated; and to restore to victims the dignity of being recognized and heard.[^194] Paying attention to these voices strengthens the conviction that, apart from violent minorities, humanity does not desire war. In a particular way, the Church can be a place of living memory for victims.
-As Saint Paul VI recalled, the Church feels she must make her own both the voice of those who died in past wars and the voice of the living who still bear wounds today, so that their cries may become an appeal for peace and harmony and not a prelude to new conflicts.[^195]
+<!-- p217 35:08 Ch5::LOVE::VICTIM::       the voices of the victims             -->
+<a id=p217_ch5_building>217</a>. <!--
+Qp217a: --> Giving space to the perspectives and voices of victims through communication and education helps us to become aware of <!-- what?
+A: --> the abyss of evil inherent in war, and generally in all forms of violence. <!--
+Qp217b: --> It <!--(having the perspective of victims) --> helps us to reject the normalization of <!-- what?
+A: --> conflict; not to turn away when human dignity is violated; and to restore to victims the dignity of being recognized and heard.[^194] <!--
+Qp217c: --> Paying attention to these voices <!-- (voices of the victims) --> strengthens the conviction that, apart from violent minorities, humanity does not <!-- what?
+A: --> desire war. <!--
+Qp217d: --> In a particular way, the Church can be a place of living memory for <!-- who?
+A: --> victims. <!--
+Qp217e: --> As Saint Paul VI recalled, the Church feels she must make her own both the voice of those who died in past wars and the voice of the living who <!-- do what?
+A: --> still bear wounds today, so that their cries may become an appeal for peace and harmony and not a prelude to new conflicts.[^195]
 
 #### Cultivating a healthy realism
 
-<!-- p218 36:10 Ch5::LOVE::REALISM -->
-<a id=p218_ch5_building>218</a>. We are in need of a healthy realism that avoids both political idealism and cynicism. There is a kind of idealism that, in order to preserve its own worldview, tends to choose facts selectively, distorting and renaming them. Its proponents eventually, inhabit a reality constructed to fit their own convictions. Conversely, there is also a debased form of realism that confuses observation with resignation, arguing that since force prevails, it will always prevail. Authentic realism does not give up on changing the world; indeed, it starts by clearly identifying interests, fears, constraints and power dynamics, precisely in order to determine what can be achieved, and the measures needed to achieve it. It does not reduce politics to morality; neither does it surrender to violence. Instead, it seeks viable paths for making peace more than a mere word, through credible institutions, verifiable guarantees, patient negotiations, conflict prevention and the protection of civilians.
+<!-- p218 36:10 Ch5::LOVE::REALISM::  4) making peace more than a mere word     -->
+<a id=p218_ch5_building>218</a>. <!--
+Qp218a: --> We are in need of a healthy realism that avoids both <!-- what?
+A: --> political idealism and cynicism. <!--
+Qp218b: --> There is a kind of idealism that, in order to preserve its own worldview, tends to <!-- do what?
+A: --> choose facts selectively, distorting and renaming them. <!--
+Qp218c: --> Its proponents (political idealists) eventually, inhabit <!-- what?
+A: --> a reality constructed to fit their own convictions. <!--
+Qp218d: --> Conversely, there is also a debased form of realism that confuses <!-- what?
+A: --> observation with resignation, arguing that since force prevails, it will always prevail. <!--
+Qp218e: --> Authentic realism does not give up on changing the world; <!-- what it do instead of the debased form of realism?
+A: --> indeed, it <!-- (authentic realism) --> starts by clearly identifying interests, fears, constraints and power dynamics, precisely in order to determine what can be achieved, and the measures needed to achieve it. <!--
+Qp218f: --> It does not reduce politics to morality; neither does it surrender to violence. Instead, it <!-- does what?
+A: --> seeks viable paths for making peace more than a mere word, <!--
+Qp218g: How does authentic realism seek viable paths for making peace more than a mere word?
+A: --> through credible institutions, verifiable guarantees, patient negotiations, conflict prevention and the protection of civilians.
 
 #### Reviving dialogue
 
-<!-- p219 37:20 Ch5::LOVE::DIALOGUE -->
-<a id=p219_ch5_building>219</a>. In order to build the civilization of love, we must engage in dialogue, for this is the primary means of coexistence between people and nations, and it is the alternative to open conflict. On the eve of the Second World War, Pius XII affirmed that nothing is lost with peace, whereas with war everything can be lost. He insisted that people must return to speaking with one another, because a sincere and persevering dialogue always opens up the possibility of an honorable solution.[^196]
+<!-- p219 37:20 Ch5::LOVE::DIALOGUE:: 5) -->
+<a id=p219_ch5_building>219</a>. <!--
+Qp219a: --> In order to build the civilization of love, we must engage in <!-- what? And why?
+A: --> dialogue, for this is the primary means of coexistence between people and nations, and it is the alternative to open conflict. <!--
+Qp219b: --> On the eve of the Second World War, Pius XII affirmed <!-- what?
+A: --> that nothing is lost with peace, whereas with war everything can be lost. <!--
+Qp219c: --> He <!-- (Pope Pius XII) --> insisted that people must return to speaking with one another <!-- (on the eve of the Second World War) -->, because <!-- why?
+A: --> a sincere and persevering dialogue always opens up the possibility of an honorable solution.[^196]
 
 <!-- p220 38:00 Ch5::LOVE::DIALOGUE -->
 <a id=p220_ch5_building>220</a>. Indeed, dialogue is an ordinary part of human life and does not only concern relations between States. It involves acquiring an attitude that seeks to forge bonds of fraternity built on listening, an open demeanor, making time for each other and even wasting time together. For if we experience authentic encounters with others, with those who are different, strangers and migrants, it becomes much more difficult even to imagine war.
@@ -1664,7 +1854,15 @@ Qp241d: Why are we, like Nehemiah called to unite listening and courage, prayer 
 A: --> so that, even when a technocratic mentality or partisan interests seem to prevail, the human city may become a more fitting place to live.
 
 <!-- p242 20:00 END::SITE -->
-<a id=p242_fini_site>242</a>. The image of rebuilding Jerusalem evokes the New Testament promise of the holy city, which is given to us first and foremost as a gift. In the Book of Revelation, the new Jerusalem descends as a gift for all God’s people, “prepared as a bride adorned for her husband” (Rev 21:2). The walls of Jerusalem are no longer defensive fortifications, but the precious adornments of the Bride of the Lamb. Its gates, which Nehemiah guarded so diligently, remain permanently open to all nations. God’s presence offers light and life to all. The city is a new Eden, with its living water offered to the thirsty, and its tree of life whose leaves “are for the healing of the nations” (Rev 22:2). As we await its fulfillment, this vision is set before us as an encouragement — a call to overcome our divisions and to work together — for this is the way of Jesus Christ, yesterday, today and forever.
+<a id=p242_fini_site>242</a>. <!--
+Qp242a: --> The image of rebuilding Jerusalem evokes the New Testament promise of <!-- what?
+A: --> the holy city, which is given to us first and foremost as a gift. <!--
+Qp242b: --> In the Book of Revelation, the new Jerusalem <!-- (the promise of the holy city) --> descends as a gift for <!-- who?
+A: --> all God’s people, <!--
+Qp242c: How is the holy city, which descends as a gift for all God's people in the Book of Revelation prepared?
+A: --> “prepared as a bride adorned for her husband” (Rev 21:2). The walls of Jerusalem are no longer defensive fortifications, but the precious adornments of the Bride of the Lamb. Its gates, which Nehemiah guarded so diligently, remain permanently open to all nations. God’s presence offers light and life to all. The city is a new Eden, with its living water offered to the thirsty, and its tree of life whose leaves “are for the healing of the nations” (Rev 22:2). <!--
+Qp242d: --> As we await its fulfillment<!-- (of God's gift of the holy city to us) -->, this vision is set before us as <!-- what?
+A: --> an encouragement — a call to overcome our divisions and to work together — for this is the way of Jesus Christ, yesterday, today and forever.
 
 <!-- END D.  CONCLUSION::MAGNIFICAT - -- - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 ### The song of hope: the Magnificat
@@ -1697,22 +1895,35 @@ A: --> Yet, everything has changed within her, and this allows her to see what i
  God “takes the part of the lowly. His plan is one that is often hidden beneath the opaque context of human events that see ‘the proud, the mighty and the rich’ triumph. Yet his secret strength is destined in the end to be revealed.”[^222]
 
 <!-- p244 23:40 END::MAGNIFICAT -->
-<a id=p244_fini_song>244</a>. The Blessed Virgin Mary not only teaches us to recognize God’s invisible work,
-but also directs our gaze to “the points at which humanity is broken and the world becomes distorted: the contrast between the humble and the powerful, the poor and the rich, the satiated and the hungry,”
-teaching us “to look at the world from a lower position: through the eyes of those who suffer rather than the mighty;
+<a id=p244_fini_song>244</a>. <!--
+Qp244a: --> The Blessed Virgin Mary not only teaches us to recognize God’s invisible work, but also directs our gaze to <!-- what?
+A: --> “the points at which humanity is broken and the world becomes distorted: <!--
+Qp244b: What is seen when our gaze is directed to --> “the points at which humanity is broken and the world becomes distorted: <!--
+A: --> the contrast between the humble and the powerful, the poor and the rich, the satiated and the hungry,” <!--
+Qp244c: the contrast between the humble and the powerful, the poor and the rich, the satiated and the hungry” is teaching us to look at what?
+A: --> teaching us “to look at the world from a lower position: through the eyes of those who suffer rather than the mighty;
 to view history through the eyes of the little ones, rather than through the perspective of the powerful;
-to interpret the events of history from the viewpoint of the widow, the orphan, the stranger, the wounded child, the exile and the fugitive.”[^223]
-The Blessed Virgin thus becomes “poet and prophetess of Redemption,” because on her lips is proclaimed “the strongest and most innovative hymn ever articulated, the Magnificat;
-it is she who reveals the transformative vision of the Christian economy, the historical and social result that still draws its origin and strength from Christianity.”[^224]
+to interpret the events of history from the viewpoint of the widow, the orphan, the stranger, the wounded child, the exile and the fugitive.”[^223] <!--
+Qp244c: --> The Blessed Virgin thus becomes “poet and prophetess of Redemption,” because on her lips is proclaimed <!-- what?
+A: --> “the strongest and most innovative hymn ever articulated, the Magnificat; <!--
+Qp244d: What does Mary reveal in her Magnificat?
+A: --> it is she who reveals the transformative vision of the Christian economy, the historical and social result that still draws its origin and strength from Christianity.”[^224]
 
 <!-- p245 25:10 END::MAGNIFICAT -->
-<a id=p245_fini_song>245</a>. With the same faith as Mary, let us become “weavers of hope” in our world, sharing who we are and what we have,
-so that the presence of Jesus may grow among us and his Kingdom take shape.
-In the humble fidelity of daily life, even the era of AI can become a time in which the Holy Spirit brings about the civilization of love in our lives.
-Indeed, the Lord continues to make all things new and offers every era the possibility of becoming part of salvation history in the light of the Incarnation.
-I entrust our desire to the Mother of Christ, to the Woman of the Magnificat,
-that she may guide our steps through this time of change and preserve in each of us true faith in the Gospel,
-so that we may bear witness to the grandeur of humanity, in which God has made his dwelling.
+<a id=p245_fini_song>245</a>. <!--
+Qp245a: --> With the same faith as Mary, let us become <!-- what?
+A: --> “weavers of hope” in our world, sharing who we are and what we have, <!--
+Qp245b: Why should we become “weavers of hope”, sharing who we are and what we have?
+A: --> so that the presence of Jesus may grow among us and his Kingdom take shape. <!--
+Qp245c: --> In the humble fidelity of daily life, even the era of AI can become a time in which <!-- what happens?
+A: --> the Holy Spirit brings about the civilization of love in our lives. <!--
+Qp245d: --> Indeed, the Lord continues to make all things new and offers every era the possibility of <!-- what?
+A: --> becoming part of salvation history in the light of the Incarnation. <!--
+Qp245e: --> I <!-- (Pope Leo XIV) --> entrust our desire to the Mother of Christ, to the Woman of the Magnificat, <!-- so that she may do what?
+A: --> that she may guide our steps through this time of change
+and that she <!--
+Qp245f: Holy Mary --> may guide our steps through this time of change <!-- to --> preserve in each of us <!-- what?
+A: --> true faith in the Gospel, so that we may bear witness to the grandeur of humanity, in which God has made his dwelling.
 
 Given in Rome, at Saint Peter’s, on 15 May, in the year 2026, the second of my Pontificate.
 
