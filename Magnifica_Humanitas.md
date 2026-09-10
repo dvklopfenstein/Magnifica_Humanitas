@@ -1827,10 +1827,42 @@ If you are the body and members of Christ, then it is your sacrament that is pla
 ### The construction site of our time
 
 <!-- p236 11:10 END::SITE -->
-<a id=p236_fini_site>236</a>.  The spirituality I wish to commend is that of the “wise architect” who, driven by hope for the Kingdom of God, is committed to building the world for the common good (cf. 1 Cor 3:10). As I mentioned at the beginning of this reflection, [^217] the task of building in our time must place our relationship with God at its center. Our rule must be the acceptance of human limitations as a natural and positive reality, and should be characterized by shared responsibility and a language characterized by the Gospel. At the end of this reflection, the plan for a civilization of love can be seen more clearly, and the construction site appears to be already up and running, thanks especially to the many living stones solidly united to Christ the cornerstone (cf. 1 Pet 2:4-6). In this task, we are called to assume an active role, without taking refuge in spiritual sentimentality or retreating into our own little worlds. We must be faithful to the truth, invest in education, cultivate relationships and love justice and peace.
+<a id=p236_fini_site>236</a>. <!--
+Qp236a: --> The spirituality I <!-- (Pope Leo XIV) --> wish to commend <!--(to commit, entrust, or give in charge for care or preservation) --> is that of <!-- what?
+A: --> the “wise architect” who, driven by hope for the Kingdom of God, is committed to building the world for the common good
+(cf.  1 Cor 3:10). <!--
+Qp236b: --> As I <!-- (Pope Leo XIV) --> mentioned at the beginning of this reflection, [^217] the task of building in our time must place our relationship with <!-- who? where?
+A: --> God at its center. <!--
+Qp236c: --> Our rule must be the acceptance of <!-- what?
+A: --> human limitations as a natural and positive reality,
+and <!--
+Qp236c: And our rule --> should be characterized by shared <!-- what? And a language characterized by what? 
+A: --> responsibility and a language characterized by the Gospel. <!--
+Qp236d: --> At the end of this reflection, the plan for a civilization of love can be seen more clearly, and the construction site appears to be <!-- what? And thanks to who?
+A: --> already up and running, thanks especially to the many living stones solidly united to Christ the cornerstone (cf.  1 Pet 2:4-6). <!--
+Qp236e: --> In this task <!-- (building a civilization of love) -->, we are called to assume <!-- what? Without taking refuge in what? Without retreating into what?
+A: --> an active role, without taking refuge in spiritual sentimentality or retreating into our own little worlds. <!--
+Qp236f: We must be faithful to ¿what?, invest in ¿?what?, cultivate ¿?what? and love ¿?what two things, which go together?.
+A: --> We must be faithful to the truth, invest in education, cultivate relationships and love justice and peace.
 
 <!-- p237 12:35 END::SITE -->
-<a id=p237_fini_site>237</a>.  Let us remain faithful to the truth! Living amid incessant flows of information, opinions and images, we know how easy it can be to influence decisions and preferences through increasingly sophisticated algorithms.[^218] In this context, it is imperative to cultivate hearts that love the truth, prefer what is right despite the most appealing content and pursue wisdom rather than immediate results. We must always keep before us the truth about God and humanity, just as Christ has revealed them to us. We must lay aside an individualistic and technical view of humanity, as if reality were mere matter to be shaped according to selfish interests, whether individual or collective.[^219] Instead, let us cultivate what Pope Francis called a “situated anthropocentrism,”[^220] which recognizes the human being as a creature embedded in a network of relationships with other living beings and with all of creation. Fidelity to the truth requires integrating the possibilities offered by technology within a framework marked by wisdom, which is capable of safeguarding both the dignity of each person and the future of our common home.
+<a id=p237_fini_site>237</a>.  <!--
+Qp237a: Let us remain faithful to what? Living amid incessant ¿what three things?
+A: --> Let us remain faithful to the truth! Living amid incessant flows of information, opinions and images, <!--
+Qp237b: we know how easy it can be to influence ?what two things? through increasingly sophisticated ¿what?
+A: --> we know how easy it can be to influence decisions and preferences through increasingly sophisticated algorithms.[^218] <!--
+Qp237c: In this context, it is imperative to cultivate hearts ¿do what?, prefer ¿what? despite the ¿what? and pursue ¿what? rather than immediate results.
+A: --> In this context, it is imperative to cultivate hearts that love the truth, prefer what is right despite the most appealing content and pursue wisdom rather than immediate results. <!--
+Qp237d: We must always keep before us the truth about God and ¿what?
+A: --> We must always keep before us the truth about God and humanity, just as Christ has revealed them to us. <!--
+Qp237e: We must lay aside an individualistic and ¿what? view of humanity, as if reality were mere matter to be shaped according to ¿what?
+A: --> We must lay aside an individualistic and technical view of humanity, as if reality were mere matter to be shaped according to selfish interests, whether individual or collective.[^219] <!--
+Qp237f: --> Instead, let us cultivate what Pope Francis called a “situated anthropocentrism,”[^220] which recognizes the human being as <!--what?
+A: --> a creature embedded in a network of relationships with other living beings and with all of creation. <!--
+Qp237g: --> Fidelity to the truth requires integrating the possibilities offered by technology within a framework marked by <!-- what?
+A: --> wisdom, <!--
+Qp237h: Integrating the possibilities offered by technology within a framework marked by wisdon, which is capable of safegarding both what?
+A: --> which is capable of safeguarding both the dignity of each person and the future of our common home.
 
 <!-- p238 14:08 END::SITE -->
 <a id=p238_fini_site>238</a>. Let us invest in education, beginning with ourselves! We all need to learn how to engage with the digital world in a human way, as an integral part of our education in the faith and in a life lived according to the Gospel. Indeed, we must consider the digital world as a new continent to be evangelized, one that requires generous missionaries who are mature in the faith. In a particular way, we need adults to rediscover their vocation as artisans of education, prepared to work patiently each day, with the support of extensive and shared educational partnerships. Today, accompanying children and young people in using technology for developing responsible relationships, helping them to recognize the risks and choose what fosters inner freedom, is a concrete form of charity and will safeguard their dignity. Teaching new generations that technological evolution does not follow a predetermined path, but can be guided by personal and collective responsibility, constitutes one of the most valuable services to the common good.
