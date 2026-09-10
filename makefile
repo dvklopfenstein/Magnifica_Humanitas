@@ -8,6 +8,10 @@ ps:
 chs:
 	grep -n -P '^## \S+' Magnifica_Humanitas.md
 
+# CHAPTERS & PARAGRAPH starts
+chp:
+	@make ps | grep -e "----"
+
 # LINKS TO AUDIOBOOK CHAPTERS
 audio:
 	perl -ne 'if (/AUDIO..(https\S+)\)\)/) {printf "%s\n", $$1}' Magnifica_Humanitas.md
@@ -16,6 +20,9 @@ audio:
 # QUESTIONS: List questions which have been added
 qs:
 	@perl -ne 'if (/^(Qp\d+)\w:/) {print "$$1\n"}' Magnifica_Humanitas.md  | uniq -c
+
+newq:
+	@git diff | perl -ne 'if (/^\+(Qp\d+\w):/) {print "$$1\n"}'
 
 # How many paragraphs need to have questions added?
 qs0:
