@@ -1799,7 +1799,15 @@ The “spirit of Assisi,” evoked by Saint John Paul II and carried forward by 
 #### Praying and hoping
 
 <!-- p228 44:10 Ch5::LOVE::HOPE -->
-<a id=p228_ch5_building>228</a>. These avenues for exercising responsibility are sustained by prayer, and in turn nourish prayer. Indeed, for each of us, peace primarily comes “from God, God who loves us all, unconditionally.”[^203] It is a gift given by Jesus to his disciples on the day of Easter: “Peace be with you! It is the peace of the risen Christ. A peace that is unarmed and disarming, humble and persevering.”[^204] With these words, I greeted the Church and the world on the day of my election to the See of Peter. I wish to repeat them now, and to invite everyone to pray for this gift. Let us never tire of praying for peace and of committing ourselves to achieving it in our relationships and in society.
+<a id=p228_ch5_building>228</a>. <!--]
+Qp228a: --> These avenues for exercising responsibility are sustained by <!-- what?
+A: --> prayer, and in turn nourish prayer. <!--
+Qp228b: --> Indeed, for each of us, peace primarily comes <!-- who?
+A: --> “from God, God who loves us all, unconditionally.”[^203] <!--
+Qp228c: --> It is a gift given by Jesus to his disciples on the day of Easter: <!-- what is this gift?
+A: --> “Peace be with you! It is the peace of the risen Christ. A peace that is unarmed and disarming, humble and persevering.”[^204] <!--
+Qp228d: --> With these words, I greeted the Church and the world on the day of my election to the See of Peter. <!-- What are Pope Leo XIV's first words as Pope?
+A: --> I wish to repeat them now, and to invite everyone to pray for this gift. Let us never tire of praying for peace and of committing ourselves to achieving it in our relationships and in society.
 
 <!-- ==================================================================================== -->
 <!-- CONCLUSION                                                                           -->
@@ -1827,13 +1835,41 @@ A: --> This <!-- (God's) --> plan of mercy continues to unfold throughout histor
 <!-- p231 02:14 END::INCARNATE -->
 <a id=p231_fini_word>231</a>. <!--
 Qp231a: --> At the heart of everything is the mystery of the <!-- what? 
-A: --> Incarnation, the Word who became flesh and dwelt among us. The flesh of the Son, poor and vulnerable, evokes the flesh of so many brothers and sisters stripped of their dignity and reduced to silence.[^206] Through the Lord’s closeness, the gift of peace enters into the world in a paradoxical way. It does so through the power to become children of God, and is awakened when we allow ourselves to be moved by the tears of the little ones, the fragility of the elderly, the silence of victims and the struggle of those who fight against the evil they do not wish to commit.[^207] In this wounded yet beloved flesh, the Father shows us the true humanity of a life fulfilled through openness and communion, which leads us to desire that his will be done on earth as it is in heaven.[^208]
+A: --> Incarnation, the Word who became flesh and dwelt among us. <!--
+Qp231b: --> The flesh of the Son, poor and vulnerable, evokes the flesh of so many brothers and sisters <!-- stripped of what? And reduced to what?
+A: --> stripped of their dignity and reduced to silence.[^206] <!--
+Qp231c: --> Through the Lord’s closeness, the gift of peace enters into the world in a paradoxical way. It does so through the power <!-- to do what? Awakened when? 
+A: --> to become children of God, and is awakened when we allow ourselves to be moved by the tears of the little ones, the fragility of the elderly, the silence of victims and the struggle of those who fight against the evil they do not wish to commit.[^207] <!--
+Qp231d: --> In this wounded yet beloved flesh, the Father shows us the true humanity of a life fulfilled <!-- through what? Which leads us to desire what?
+A: --> through openness and communion, which leads us to desire that his will be done on earth as it is in heaven.[^208]
 
 <!-- p232 01:20 END::INCARNATE -->
-<a id=p232_fini_word>232</a>. In the promises of transhumanism and some posthumanist currents of thought, which seek an enhanced and almost disembodied humanity, we recognize a yearning that is of concern to us, namely the need for a fuller life, less exposed to limitations and suffering. Yet the Incarnation opens a different pathway. On the one hand, old and new ideologies alike urge humanity to overcome limitations through technology, and to rise above others by asserting dominance. Contrary to this, the mystery of the Son of God entering into our human condition promises something quite different. The living God descends into our history in order to free us from all forms of slavery.[^209] He takes upon himself our weakness and transforms it into a setting for salvation. There is no moment or human situation that is not worthy of God. “According to the teaching of our faith, we have and adore, in our mysteries, a God who is born in a manger, a God who lives and travels in Judea, a God who dies on the cross, a dead God who lies in the tomb.”[^210] The future of humanity, therefore, finds its standard in the ability to welcome this divine way of drawing near, of sharing the burden of the world, of transforming relationships from within. “O wonder... man is God and this God-Man passes through all those stages, endures all those states and ennobles them, sanctifies them, deifies them in himself!”[^211] What saves humanity is the divine love that descends into the most fragile point of our history and renews it from within.
+<a id=p232_fini_word>232</a>. <!--
+Qp232a: --> In the promises of transhumanism and some posthumanist currents of thought, which seek an enhanced and almost disembodied humanity, we recognize a yearning that is of concern to us, namely the need for <!-- what?
+A: --> a fuller life, less exposed to limitations and suffering. <!--
+Qp232b: --> Yet the Incarnation opens a different pathway<!-- than transhumanism and posthumanism-->. On the one hand, old and new ideologies alike urge humanity to overcome limitations through technology, and to rise above others by asserting dominance. Contrary to this, the mystery of the Son of God entering into our human condition promises something quite different. <!-- What does the Incarnation promise?
+A: --> The living God descends into our history in order to free us from all forms of slavery.[^209] He takes upon himself our weakness and transforms it into a setting for salvation. <!--
+Qp232c: --> There is no moment or human situation that is not worthy of God. “According to the teaching of our faith, we have and adore, in our mysteries, a God who <!-- has experienced what?
+A: --> is born in a manger, a God who lives and travels in Judea, a God who dies on the cross, a dead God who lies in the tomb.”[^210] <!--
+Qp232d: --> The future of humanity, therefore, finds its standard in the ability to welcome this divine way of <!-- drawing where? sharing what? transforming what?
+A: --> drawing near, of sharing the burden of the world, of transforming relationships from within. “O wonder... man is God and this God-Man passes through all those stages, endures all those states and ennobles them, sanctifies them, deifies them in himself!”[^211] <!--
+Qp232e: --> What saves humanity is the divine love that <!-- does what?
+A: --> descends into the most fragile point of our history and renews it from within.
 
 <!-- p233 05:45 END::INCARNATE -->
-<a id=p233_fini_word>233</a>. For this reason, as a believer among believers, I invite everyone to contemplate, in the face of the Son of God, the grandeur of humanity that shines a light also on the era of AI. In Christ, we are called to cooperate in the work of creation, rather than be disinterested observers of technological processes that limit our freedom and responsibility.[^212] The dignity inscribed in each of us by the Holy Spirit can also be seen in our capacity to reflect critically, choose and love freely, and form authentic relationships. No computational system, however sophisticated, can create a heart that gives itself, or a conscience that discerns good from evil. Even when machines excel in efficiency, a human face that asks to be gazed upon remains the center of our history. This human face is the fullness toward which history is moving. It is the mystery of “recapitulation”: the certainty that the Father has decreed to bring all things, those in heaven and those on earth, back to Christ, the one Head (cf. Eph 1:10). In this plan, nothing will be lost that is authentically human. Indeed, everything will be purified and reunited in the One, who gathers every fragment of life, every tear and every authentically human achievement, rescuing them from nothingness and delivering them, redeemed, to the Father.
+<a id=p233_fini_word>233</a>. For this reason, as a believer among believers, I invite everyone to contemplate, in the face of the Son of God, the grandeur of humanity that shines a light also on the era of AI. <!--
+Qp233b: --> In Christ, we are called to cooperate in the work of <!-- what? Rather than be disinterested what?
+A: --> creation, rather than be disinterested observers of technological processes that limit our freedom and responsibility.[^212] <!--
+Qp233c: --> The dignity inscribed in each of us by the Holy Spirit can also be seen in our capacity to reflect <!-- what? Choose what? And love how?
+A: --> critically, choose and love freely, and form authentic relationships. <!--
+Qp233d: --> No computational system, however sophisticated, can create a heart that <!-- does what? Or a conscience that discerns what?
+A: --> gives itself, or a conscience that discerns good from evil. <!--
+Qp233e: --> Even when machines excel in efficiency, a human face that asks to be <!-- what? And remains what?
+A: --> gazed upon remains the center of our history. This human face is the fullness toward which history is moving. 
+It is the mystery of “recapitulation”: the certainty that the Father has decreed to bring all things, those in heaven and those on earth, back to Christ, the one Head (cf. Eph 1:10). 
+In this plan, nothing will be lost that is authentically human. <!--
+Qp233h: --> Indeed, everything will be purified and reunited in the One, who gathers every fragment of life, every tear and every authentically human achievement, rescuing them <!-- from what? And delivering then how? And to who?
+A: --> from nothingness and delivering them, redeemed, to the Father.
 
 <!-- END B.  CONCLUSION::ONE -- - --- -- - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 ### One body in Christ
@@ -1854,8 +1890,7 @@ If you are the body and members of Christ, then it is your sacrament that is pla
 Qp236a: --> The spirituality I <!-- (Pope Leo XIV) --> wish to commend <!--(to commit, entrust, or give in charge for care or preservation) --> is that of <!-- what?
 A: --> the “wise architect” who, driven by hope for the Kingdom of God, is committed to building the world for the common good
 (cf.  1 Cor 3:10). <!--
-Qp236b: --> As I <!-- (Pope Leo XIV) --> mentioned at the beginning of this reflection, [^217] the task of building in our time must place our relationship with <!-- who? where?
-A: --> God at its center. <!--
+Qp236b: --> As I <!-- (Pope Leo XIV) --> mentioned at the beginning of this reflection, [^217] the task of building in our time must place our relationship with <!-- who? where?  A: --> God at its center. <!--
 Qp236c: --> Our rule must be the acceptance of <!-- what?
 A: --> human limitations as a natural and positive reality,
 and <!--
@@ -1888,13 +1923,49 @@ Qp237h: Integrating the possibilities offered by technology within a framework m
 A: --> which is capable of safeguarding both the dignity of each person and the future of our common home.
 
 <!-- p238 14:08 END::SITE -->
-<a id=p238_fini_site>238</a>. Let us invest in education, beginning with ourselves! We all need to learn how to engage with the digital world in a human way, as an integral part of our education in the faith and in a life lived according to the Gospel. Indeed, we must consider the digital world as a new continent to be evangelized, one that requires generous missionaries who are mature in the faith. In a particular way, we need adults to rediscover their vocation as artisans of education, prepared to work patiently each day, with the support of extensive and shared educational partnerships. Today, accompanying children and young people in using technology for developing responsible relationships, helping them to recognize the risks and choose what fosters inner freedom, is a concrete form of charity and will safeguard their dignity. Teaching new generations that technological evolution does not follow a predetermined path, but can be guided by personal and collective responsibility, constitutes one of the most valuable services to the common good.
+<a id=p238_fini_site>238</a>. <!--
+Qp238a: --> Let us invest in education, beginning with ourselves! We all need to learn how to engage with the digital world in <!-- what way?
+A: --> a human way, as an integral part of our education in the faith and in a life lived according to the Gospel. <!--
+Qp238b: --> Indeed, we must consider the digital world as <!-- what?
+A: --> a new continent to be evangelized, one that requires generous missionaries who are mature in the faith. <!--
+Qp238c: --> In a particular way, we need adults to rediscover their vocation as artisans of education, prepared to work <!-- how?
+A: --> patiently each day, with the support of extensive and shared educational partnerships. <!--
+Qp238d: --> Today, accompanying children and young people in using technology for <!-- what?
+A: --> developing responsible relationships, helping them to recognize the risks and choose what fosters inner freedom, is a concrete form of charity and will safeguard their dignity. <!--
+Qp238e: --> Teaching new generations that technological evolution does not follow a predetermined path, but can be guided by <!-- what? And what does this help particularly?
+A: --> personal and collective responsibility, constitutes one of the most valuable services to the common good.
 
 <!-- p239 15:33 END::SITE -->
-<a id=p239_fini_site>239</a>. Let us cultivate relationships! In an era that favors speed and fragmentation, the human person still yearns to receive care and recognition from attentive minds, kind words and hands capable of tenderness. The digital culture multiplies connections and offers new opportunities for interaction; yet, the human heart retains an irrevocable need for genuine closeness. I invite everyone to cherish places and times where physical presence remains crucial, such as shared meals, Christian community gatherings, time spent with the lonely and serving the poor. These are signs of a humanity that continues to believe that every person’s body is a dwelling place of God and a temple of the Holy Spirit. It is precisely this covenant between glory and fragility that becomes the criterion for evaluating the anthropological models offered by contemporary culture.
+<a id=p239_fini_site>239</a>. <!--
+Qp239a: --> Let us cultivate <!-- what?
+A: --> relationships! <!--
+Qp239b: --> In an era that favors speed and fragmentation, the human person still yearns to receive <!-- what?
+A: --> care and recognition from attentive minds, kind words and hands capable of tenderness. <!--
+Qp239c: --> The digital culture multiplies connections and offers new opportunities for interaction; yet, the human heart retains an irrevocable need <!-- for what?
+A: --> for genuine closeness. <!--
+Qp239d: --> I <!-- (Pope Leo XIV) --> invite everyone to cherish places and times where physical presence remains crucial, such as <!-- what?
+A: --> shared meals, Christian community gatherings, time spent with the lonely and serving the poor.
+These are signs of a <!--
+Qp239e: --> humanity that continues to believe that every person’s body is <!-- what?
+A: --> a dwelling place of God and a temple of the Holy Spirit.
+It is precisely this covenant between glory and fragility that becomes the criterion for evaluating the anthropological models offered by contemporary culture.
 
 <!-- p240 16:50 END::SITE -->
-<a id=p240_fini_site>240</a>. Let us love justice and peace! The same technologies that facilitate communication and access to resources can also support models that exploit the most vulnerable, create new forms of slavery and derive profit from conflict. Every technical or economic decision should include spiritual discernment and be an opportunity for assessing whether the advances in AI are promoting justice and participation or concentrating wealth and power in the hands of a select few. I would encourage a careful examination of the supply chains of digital production, the working conditions hidden behind our devices and the mechanisms that profit from manipulation and war. At the same time, practical ways of fostering fairness, participation and care for creation must be found. We proclaim a hope rooted in the One who came down from heaven to “create a new story here below.” For this reason, those who believe are committed to ensuring that a greater justice will take the place of inequality, and that the industry of war will be replaced by the craft of peace.[^221]
+<a id=p240_fini_site>240</a>. <!--
+Qp240a: --> Let us love <!-- ¿what? and ¿what?
+A: --> justice and peace! <!--
+Qp240b: --> The same technologies that facilitate communication and access to resources can also support models that exploit <!-- what? And create what? And derive what from what?
+A: --> the most vulnerable, create new forms of slavery and derive profit from conflict. <!--
+Qp240c: --> Every technical or economic decision should include <!-- what? And be an opportunity for what?
+A: --> spiritual discernment and be an opportunity for assessing whether the advances in AI are promoting justice and participation or concentrating wealth and power in the hands of a select few. <!--
+Qp240d: --> I would encourage a careful examination <!-- what three things?
+A: --> of the supply chains of digital production, the working conditions hidden behind our devices and the mechanisms that profit from manipulation and war. <!--
+Qp240e: --> At the same time, practical ways of fostering <!-- what three things must be found?
+A: --> fairness, participation and care for creation must be found. <!--
+Qp240f: --> We proclaim a hope rooted in <!-- who? And what did he do?
+A: --> the One who came down from heaven to “create a new story here below.” <!--
+Qp240g: --> For this reason, those who believe are committed to ensuring that a greater justice will take the place of <!-- what? And that the industry of war will be replaced by what?
+A: --> inequality, and that the industry of war will be replaced by the craft of peace.[^221]
 
 <!-- p241 18:25 END::SITE -->
 <a id=p241_fini_site>241</a>.

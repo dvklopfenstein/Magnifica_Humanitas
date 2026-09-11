@@ -22,7 +22,11 @@ qs:
 	@perl -ne 'if (/^(Qp\d+)\w:/) {print "$$1\n"}' Magnifica_Humanitas.md  | uniq -c
 
 newq:
-	@git diff | perl -ne 'if (/^\+(Qp\d+\w):/) {print "$$1\n"}'
+	@git diff | perl -ne 'if (/^\+(Qp\d+)\w:/) {print "$$1\n"}'
+
+newcnts:
+	@echo $(shell make newq | wc -l) new questions
+	@echo $(shell make newq | uniq -c | wc -l) paragraphs that have been questions added
 
 # How many paragraphs need to have questions added?
 qs0:
