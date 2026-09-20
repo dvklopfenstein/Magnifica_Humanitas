@@ -7,7 +7,7 @@
 Use `$ make audio`:
 ```
 $ make audio | grep -i INTRO
-perl -ne 'if (/AUDIO..(https\S+)\)\)/) {printf "%s\n", $1}' Magnifica_Humanitas.md | grep intro
+perl -ne 'if (/AUDIO..(https\S+)\)\)/) {printf "%s\n", $1}' Magnifica_Humanitas-EN.md | grep intro
 https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-introduction.html
 ```
 The audio for the INTRODUCTION is the first link in the listing above.
@@ -17,12 +17,12 @@ Paste the `https://.../magnifica-humanitas-introduction.html` link in your brows
 ### 2. SEE: Quickly find paragraph locations
 Example: See, from a birds-eye view, where the reader is
 as they call out each paragraph number
-in `Magnifica_Humanitas.md`
+in `Magnifica_Humanitas-EN.md`
 
 Use `$make ps | grep INTRO`:
 ````
 $ make ps | grep INTRO
-grep -n -P ' p\d+ ' Magnifica_Humanitas.md
+grep -n -P ' p\d+ ' Magnifica_Humanitas-EN.md
 107:<!-- p1  00:18 INTRO:: ------------ INTRODUCTION ----------- -->
 110:<!-- p2  01:37 INTRO:: -->
 114:<!-- p3  03:08 INTRO:: -->
@@ -40,9 +40,9 @@ grep -n -P ' p\d+ ' Magnifica_Humanitas.md
 183:<!-- p15 24:00 INTRO::HUMANITY -->
 186:<!-- p16 25:10 INTRO::HUMANITY -->
 ````
-The INTRODUCTION in `Magnifica_Humanitas.md`:
+The INTRODUCTION in `Magnifica_Humanitas-EN.md`:
 * Encompasses paragraphs `p1` to `p16`
-* Located on lines ranging from `107:` to `186:` in `Magnifica_Humanitas.md`
+* Located on lines ranging from `107:` to `186:` in `Magnifica_Humanitas-EN.md`
 * Audio timestamps range from `00:18` to `25:10` in the [**AUDIOBOOK**](https://www.vaticannews.va/en/podcast/magnifica-humanitas/2026/06/magnifica-humanitas-introduction.html)
 * Has four INTRODUCTION subtitles, aliased as: `RESNOVAE`, `2IMAGES`, `BUILDING`, `HUMANITY`
 

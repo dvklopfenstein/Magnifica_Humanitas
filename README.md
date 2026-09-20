@@ -11,9 +11,9 @@ on safeguarding the human person in the time of Artificial Intelligence.
 <!-- ---------------------------------------------------------------------------- -->
 # Links to Pope Leo's material and markdown notes
 ## 1. The Encyclical
-Pope Leo's 42,000 word Encyclical, [***Magnifica Humantas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html), presented Monday, May 25, 2026.
+Pope Leo's 42,000 word Encyclical, [***Magnifica Humanitas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html), presented Monday, May 25, 2026.
 * [**Audiobook**](https://www.vaticannews.va/en/podcast/magnifica-humanitas.html) (free: $0) read by real human persons
-* [**markdown**](https://github.com/dvklopfenstein/Magnifica_Humanitas/blob/main/Magnifica_Humanitas.md) to:
+* [**markdown**](https://github.com/dvklopfenstein/Magnifica_Humanitas/blob/main/Magnifica_Humanitas-EN.md) to:
   * [**edit**](https://github.com/dvklopfenstein/Magnifica_Humanitas/fork) notes or
   * [**view**](https://github.com/biaojiang/mdviewer) rendered markdown locally
   * Create Anki flashcard material
@@ -35,9 +35,9 @@ is intended for extensive circulation
 
 <!-- ---------------------------------------------------------------------------- -->
 # [Why markdown?](doc/why_markdown.md)
-* To add notes to `Magnifica_Humanitas.md`, without disturbing the original text
-* To add flashcard source to `Magnifica_Humanitas.md` to generate Anki flashcards
-* To do `grep` workflows on `Magnifica_Humanitas.md`
+* To add notes to `Magnifica_Humanitas-EN.md`, without disturbing the original text
+* To add flashcard source to `Magnifica_Humanitas-EN.md` to generate Anki flashcards
+* To do `grep` workflows on `Magnifica_Humanitas-EN.md`
 
 
 <!-- ---------------------------------------------------------------------------- -->
