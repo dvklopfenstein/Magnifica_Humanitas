@@ -392,7 +392,7 @@ Indeed some mining workers, the mining workers, define the place and condition o
 -->
 The ethical obligation to shutter these oppressive chains and defend the right of vulnerable workers rests with us all.<!--
 -->
-And to conclude, *Magnifica Humantas* reminds us that safeguarding the dignity of all workers is fundamental to the common good.
+And to conclude, *Magnifica Humanitas* reminds us that safeguarding the dignity of all workers is fundamental to the common good.
 Especially in the age of AI, where workers suffering often goes unnoticed in the global supply chains
 as AI provide user with immediate result,
 leaving them without understanding who’s life made those results possible.

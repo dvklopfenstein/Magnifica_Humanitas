@@ -1187,7 +1187,7 @@ Qp155c: Are these sufficient to protect humanity in the digital age: improving l
 A: --> Today, however, these instruments are no longer sufficient by themselves in the face of the transformations driven by AI, the new organization of markets and the competitiveness that is rarely concerned with social sustainability. <!--
 Qp155d: What types of organization and leaders are now needed to develop rapidly adequate shared regulations and protections, including at the international level?
 A: --> New collaborative efforts are needed among political leaders, labor organizations, the business world and the scientific community in order to develop rapidly adequate shared regulations and protections, including at the international level.[^157] <!--
-Qp155e: What does Magnifica Humantas call upon labor unions to do now?
+Qp155e: What does Magnifica Humanitas call upon labor unions to do now?
 A: --> Labor unions, which the Church has consistently supported, are called upon to be open to new types of employment and the corresponding needs of workers, in order to represent and defend them. 
 In this context, <!--
 Qp155f: --> without bold decisions<!-- to support labor, what looms large? -->, <!--
