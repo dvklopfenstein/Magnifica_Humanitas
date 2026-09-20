@@ -129,7 +129,7 @@ And who determines that worth?
 For our freedom to be augmented, and not habituated, or coerced or erroded,
 we must be free in work, in education, and in families to use these technologies (or not), to support them (or not).<!--
 -->
-Pope Leo quotes Romano Guardini observation made nearly a century ago [“contemporary man has not been trained to use power well.“](../Magnifica_Humanitas.md#3Guardini)
+Pope Leo quotes Romano Guardini observation made nearly a century ago [“contemporary man has not been trained to use power well.“](../Magnifica_Humanitas-EN.md#3Guardini)
 This spiritual diagnosis runs like connecting thread through the Encyclical, addressing how technology is reshaping multilateral politics,
 Pope Leo diagnosis a deep connection between poverties of relationship and a culture of power, characterized by polarization and violence.
 He describes deep connections between what he calls the false realisms that normalize war and social domination,
@@ -172,10 +172,10 @@ It’s an honor to be here today.
 I want to begin with something that may sound strange coming from the cofounder of an AI company
 and someone who chose this work out of a desire to help things go well for humanity.
 Every frontier AI lab, including Anthropic, operates inside a set of incentives and constraints, that can sometimes conflict with doing the right thing.
-The pressure to stay commercially viable[[1](../Magnifica_Humanitas.md#1acomm),[2](../Magnifica_Humanitas.md#1bcomm),[3](../Magnifica_Humanitas.md#3comm),[4](../Magnifica_Humanitas.md#4acomm),[5](../Magnifica_Humanitas.md#4bcomm),[6](../Magnifica_Humanitas.md#protecting-freedom-against-dependencies-and-commercialization)]
+The pressure to stay commercially viable[[1](../Magnifica_Humanitas-EN.md#1acomm),[2](../Magnifica_Humanitas-EN.md#1bcomm),[3](../Magnifica_Humanitas-EN.md#3comm),[4](../Magnifica_Humanitas-EN.md#4acomm),[5](../Magnifica_Humanitas-EN.md#4bcomm),[6](../Magnifica_Humanitas-EN.md#protecting-freedom-against-dependencies-and-commercialization)]
 and to stay at the frontier of research: geopolitical pressure and
-the older plainer pressures of pride[[7](../Magnifica_Humanitas.md#ipride),[8](../Magnifica_Humanitas.md#5pride)] and
-ambition[[9](../Magnifica_Humanitas.md#5aambition),[10](../Magnifica_Humanitas.md#5bambition)].
+the older plainer pressures of pride[[7](../Magnifica_Humanitas-EN.md#ipride),[8](../Magnifica_Humanitas-EN.md#5pride)] and
+ambition[[9](../Magnifica_Humanitas-EN.md#5aambition),[10](../Magnifica_Humanitas-EN.md#5bambition)].
 No matter how sincerely any of us intend to do the right thing, and I believe many of us do, we will always be influenced by those incentives.
 That is why if we want this technology to go well it is enormously important that there be people outside those incentives---people who care about things going well, who are paying close attention, who are willing to say hard things and insist on safety.
 Who are willing to be our earnest thoughtful critics.
@@ -265,20 +265,20 @@ We must find the truth in ourself and in relation to others growing in conscient
 
 **The second** caution centers on preserving inner freedom.
 Pope Leo remind us to be aware of digital platforms that are
-["designed to capture user time and attention, exploiting their vulnerability, and weakening their internal freedom."](../Magnifica_Humanitas.md#4capture)
+["designed to capture user time and attention, exploiting their vulnerability, and weakening their internal freedom."](../Magnifica_Humanitas-EN.md#4capture)
 Pope Leo continues,
-["what prevails is efficiency rather than respect for freedom and the human dignity."](../Magnifica_Humanitas.md#4prevails)<!--
+["what prevails is efficiency rather than respect for freedom and the human dignity."](../Magnifica_Humanitas-EN.md#4prevails)<!--
 -->
 We may know many things, but lack a sense of purpose.
 Human can know not only a set of facts, but also make coherent a sense of information, thereby building a world view.
 Pope Leo means: if we offload our judgment onto machine,
-[then we will no longer strive to know the whole](../Magnifica_Humanitas.md#4whole)---and we consign ourselves to mere recognition of partial aspect.
+[then we will no longer strive to know the whole](../Magnifica_Humanitas-EN.md#4whole)---and we consign ourselves to mere recognition of partial aspect.
 Pope Leo argues that maintaining internal freedom requires a healthy attitude, characterized by:
-[attitude, such as: silence, deep study, reading and careful analysis](../Magnifica_Humanitas.md#4attitude).
+[attitude, such as: silence, deep study, reading and careful analysis](../Magnifica_Humanitas-EN.md#4attitude).
 
 **The third** caution, *Magnifica Humanitas* raises regards the fact that truth is deeply relational.
 Data and fact are subject to, I quote Pope Leo,
-["verification, cross checking of sources, and responsible argumentation."](../Magnifica_Humanitas.md#4verification)
+["verification, cross checking of sources, and responsible argumentation."](../Magnifica_Humanitas-EN.md#4verification)
 He means that knowledge is relational, for it is built through bonds of trust and shared practice;
 as well as an honest exchange with others, and with the world.
 A point made by a theologian, the 20th century Jesuit philosopher, Bernard Lonergran, which fits well here,
@@ -319,23 +319,23 @@ so there is therefore a danger that those cultures that understand learning is a
 This would make those cultures even more vulnerable to colonial extractivism.<!--
 -->
 For this reason, I emphasize Pope Leo's claim that
-["Even today, colonial lease assumes new forms; it’s no longer dominated on the bodies, but appropriated data transforming personal lives into exploitable information."](../Magnifica_Humanitas.md#4colonialism)
+["Even today, colonial lease assumes new forms; it’s no longer dominated on the bodies, but appropriated data transforming personal lives into exploitable information."](../Magnifica_Humanitas-EN.md#4colonialism)
 
 <!-- -------------------------------------------------------------------------- -->
 Yes, AI can very easily be colonial;
 because it stymies social imagination, creativity and insight.<!--
 -->
-[The speed of AI extinguishes the desire to ask the questions.](../Magnifica_Humanitas.md#4extinguish)
+[The speed of AI extinguishes the desire to ask the questions.](../Magnifica_Humanitas-EN.md#4extinguish)
 Pope Leo warns us that knowing is not merely an accumulation of data already stimulated by technology,
 but rather the ability to engage in the four basic human basic activities that Lonergan suggested that are:
 experiencing, understanding, judging and deciding.<!--
 -->
 Knowing goes with these four operations.
-[Pope Leo cautions us not to forfeit wonder to AI.](../Magnifica_Humanitas.md#3wonder)
+[Pope Leo cautions us not to forfeit wonder to AI.](../Magnifica_Humanitas-EN.md#3wonder)
 And to remember that,
-["Nothing in the world of AI is immaterial or magical."](../Magnifica_Humanitas.md#4magic)<!--
+["Nothing in the world of AI is immaterial or magical."](../Magnifica_Humanitas-EN.md#4magic)<!--
 -->
-[He suggests rethinking the role of teachers, schools and evaluation methods](../Magnifica_Humanitas.md#4rethink)
+[He suggests rethinking the role of teachers, schools and evaluation methods](../Magnifica_Humanitas-EN.md#4rethink)
 to provide an authentically integrated education that forms the inner and the whole person enabling growth in virtue.
 
 <!-- -------------------------------------------------------------------------- -->
@@ -351,7 +351,7 @@ we can cry with each other.
 AI is increasing the vulnerability of those seeking jobs, especially in developing countries.<!--
 -->
 *Magnificent humanitas* recalls the need to look beyond GDP, and like for Francis, to care for our common home and
-break ["the chains of new forms of slavery."](../Magnifica_Humanitas.md#breaking-the-chains-of-new-forms-of-slavery)<!--
+break ["the chains of new forms of slavery."](../Magnifica_Humanitas-EN.md#breaking-the-chains-of-new-forms-of-slavery)<!--
 -->
 These chains need to be disarmed.
 Technology needs to be disarmed.
@@ -359,14 +359,14 @@ But that does not mean renouncing it.
 But using it as a means, not as an end in itself.<!--
 -->
 Pope Leo calls for the
-[irreplaceable social function of credit in creating jobs,](../Magnifica_Humanitas.md#4credit)
+[irreplaceable social function of credit in creating jobs,](../Magnifica_Humanitas-EN.md#4credit)
 urging us to
-[reject finance for its own sake.](../Magnifica_Humanitas.md#4sake)
+[reject finance for its own sake.](../Magnifica_Humanitas-EN.md#4sake)
 
 <!-- -------------------------------------------------------------------------- -->
-[So technology should serve human flourishing and human dignity, not control conscienceness.](../Magnifica_Humanitas.md#4control)
+[So technology should serve human flourishing and human dignity, not control conscienceness.](../Magnifica_Humanitas-EN.md#4control)
 Pope Leo denounce a technological development that replace humanity and
-[widens the gap between the rich and the poor](../Magnifica_Humanitas.md#4widen),
+[widens the gap between the rich and the poor](../Magnifica_Humanitas-EN.md#4widen),
 as AI tends to do---following the patterns of economic globalization.<!--
 -->
 As Pope Francis already suggested in the World Day of Peace letter in January 2024,
@@ -377,8 +377,8 @@ but on the contrary, aggravate, inequalities and conflict can never count is tru
 that benefit from AI to the detriment of the poor, especially the workers who are the poorest.<!--
 -->
 And I quote Pope Leo saying,
-"[who pay the highest price at the poorest.](../Magnifica_Humanitas.md#4highest)
-And the [promise of automatic general prosperity often prove to be illusory.](../Magnifica_Humanitas.md#4illusory)"
+"[who pay the highest price at the poorest.](../Magnifica_Humanitas-EN.md#4highest)
+And the [promise of automatic general prosperity often prove to be illusory.](../Magnifica_Humanitas-EN.md#4illusory)"
 He goes beyond mutuality.
 Pope Leo goes beyond reciprocity to emphasize alterity: that is, the otherness of the victim.
 
@@ -386,7 +386,7 @@ And here I remember Gustavo Gutiérrez when I read, Pope Leo saying "El solta mi
 
 It is a demand to make a space for the irreducible otherness of Christ in "the least of these" as it’s written in Matthew 25.
 Pope Leo says, "in some regions of the world, (especially in the Global South, which is my emphasis),
-[children and adolescent to work in dangerous conditions, crushing the material from which rare earth elements are extracted. The bodies of the people are scarred, injured and worn down so that computational flow may continue uninterruptedly.](../Magnifica_Humanitas.md#4illusory)<!--
+[children and adolescent to work in dangerous conditions, crushing the material from which rare earth elements are extracted. The bodies of the people are scarred, injured and worn down so that computational flow may continue uninterruptedly.](../Magnifica_Humanitas-EN.md#4illusory)<!--
 -->
 Indeed some mining workers, the mining workers, define the place and condition of work as "We work in our own grave."<!--
 -->

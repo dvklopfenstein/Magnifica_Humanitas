@@ -70,7 +70,7 @@ XYZ sublime
 
 <!-- -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   -->
 20:44    
-Number [122](../Magnifica_Humanitas.md#p122_ch3_must) and [126](../Magnifica_Humanitas.md#p126_ch3_must)
+Number [122](../Magnifica_Humanitas-EN.md#p122_ch3_must) and [126](../Magnifica_Humanitas-EN.md#p126_ch3_must)
 XYZ want humanity
 
 <!-- -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -   -->
