@@ -8,6 +8,9 @@ ps:
 chs:
 	grep -n -P '^## \S+' Magnifica_Humanitas-EN.md
 
+secs:
+	perl -ne 'if (/ p\d+\s+\S+ (\S+)/) {print "$$1\n"}' Magnifica_Humanitas-EN.md  | uniq
+
 # CHAPTERS & PARAGRAPH starts
 chp:
 	@make ps | grep -e "----"
