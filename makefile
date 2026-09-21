@@ -22,10 +22,10 @@ audio:
 
 # QUESTIONS: List questions which have been added
 qs:
-	@perl -ne 'if (/^(Qp\d+)\w:/) {print "$$1\n"}' Magnifica_Humanitas-EN.md  | uniq -c
+	@perl -ne 'if (/^(Qp\d+)\w+:/) {print "$$1\n"}' Magnifica_Humanitas-EN.md  | uniq -c
 
 newq:
-	@git diff | perl -ne 'if (/^\+(Qp\d+)\w:/) {print "$$1\n"}'
+	@git diff | perl -ne 'if (/^\+(Qp\d+)\w+:/) {print "$$1\n"}'
 
 newcnts:
 	@echo $(shell make newq | wc -l) new questions
