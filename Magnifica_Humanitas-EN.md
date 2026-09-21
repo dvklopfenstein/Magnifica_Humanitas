@@ -426,7 +426,7 @@ A: --> grasp more effectively their <!-- (the seven aspects of Social Doctrine) 
 <!-- ===================================================================================== -->
 ## CHAPTER TWO: FOUNDATIONS AND PRINCIPLES OF THE SOCIAL DOCTRINE OF THE CHURCH
 
-<!-- p46 00:20 Ch2::FOUNDATIONS AND PRINCIPLES OF THE SOCIAL DOCTRINE OF THE CHURCH ------ -->
+<!-- p46 00:20 Ch2:: FOUNDATIONS AND PRINCIPLES OF THE SOCIAL DOCTRINE OF THE CHURCH ------ -->
 <a id=p046_ch2>46</a>. <!--
 Q46a: --> The Social Doctrine of the Church is a living reality, in dialogue with <!-- what three things?
 A: --> history, cultures and sciences. <!--
@@ -930,7 +930,7 @@ If, however, power grows while the heart withers and human bonds fray, then we a
 <!-- ===================================================================================== -->
 ## CHAPTER FOUR: SAFEGUARDING HUMANITY AT A TIME OF TRANSFORMATION; TRUTH, WORK, FREEDOM
 
-<!-- p131 00:25 Ch4::SAFEGUARDING HUMANITY AT A TIME OF TRANSFORMATION; TRUTH, WORK, FREEDOM ---- -->
+<!-- p131 00:25 Ch4:: SAFEGUARDING HUMANITY AT A TIME OF TRANSFORMATION; TRUTH, WORK, FREEDOM ---- -->
 <a id=p131_ch4>131</a>. Having outlined the context in which the challenge of technological transformation is situated,
 especially those linked to AI and to transhumanist and posthumanist currents,
 we cannot remain at the level of general analysis alone.
