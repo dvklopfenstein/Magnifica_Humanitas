@@ -1,7 +1,7 @@
 # [Remaining human in the age of AI](https://www.vaticannews.va/en/pope/news/2026-05/encyclical-magnifica-humanitas-editorial-tornielli-ai-pope-leo.html)
 Remaining human in the age of Artificial Intelligence
 
-Notes and links to Pope Leo XIV's Encyclical,
+Anki flashcard source and links to Pope Leo XIV's Encyclical,
 [***Magnifica Humanitas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html),
 on safeguarding the human person in the time of Artificial Intelligence.
 
@@ -10,14 +10,6 @@ on safeguarding the human person in the time of Artificial Intelligence.
 
 <!-- ---------------------------------------------------------------------------- -->
 # Links to Pope Leo's material and markdown notes
-## 1. The Encyclical
-Pope Leo's 42,000 word Encyclical, [***Magnifica Humanitas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html), presented Monday, May 25, 2026.
-* [**Audiobook**](https://www.vaticannews.va/en/podcast/magnifica-humanitas.html) (free: $0) read by real human persons
-* [**markdown**](https://github.com/dvklopfenstein/Magnifica_Humanitas/blob/main/Magnifica_Humanitas-EN.md) to:
-  * [**edit**](https://github.com/dvklopfenstein/Magnifica_Humanitas/fork) notes or
-  * [**view**](https://github.com/biaojiang/mdviewer) rendered markdown locally
-  * Create Anki flashcard material
-
 
 #### The [**Unabridged Merriam-Webster**](https://unabridged.merriam-webster.com/unabridged/Encyclical) definition of *encyclical*:
 
@@ -26,6 +18,26 @@ an encyclical letter (as sent by a bishop of high church official)
 that treats a matter of grave or timely importance and
 is intended for extensive circulation
 *specifically* : such a letter issued by a pope
+
+## 1. The Encyclical
+Pope Leo's 42,000 word Encyclical, [***Magnifica Humanitas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html), presented Monday, May 25, 2026.
+* [**Audiobook**](https://www.vaticannews.va/en/podcast/magnifica-humanitas.html) (free: $0) read by real human persons
+* [**markdown**](https://github.com/dvklopfenstein/Magnifica_Humanitas/blob/main/Magnifica_Humanitas-EN.md) to:
+  * [**edit**](https://github.com/dvklopfenstein/Magnifica_Humanitas/fork) notes or
+  * [**view**](https://github.com/biaojiang/mdviewer) rendered markdown locally
+  * Create Anki flashcard material
+
+|AZ|HTML                                                                                                           |Markdown
+|--|---------------------------------------------------------------------------------------------------------------|--------
+|AR|[Arabic](https://www.vatican.va/content/leo-xiv/ar/encyclicals/documents/20260515-magnifica-humanitas.html)    |الرسائل العامة البابوية
+|DE|[German](https://www.vatican.va/content/leo-xiv/de/encyclicals/documents/20260515-magnifica-humanitas.html)    |Deutsch
+|EN|[English](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)   |[English](Magnifica_Humanitas-EN.md)
+|ES|[Spanish](https://www.vatican.va/content/leo-xiv/es/encyclicals/documents/20260515-magnifica-humanitas.html)   |Español
+|FR|[French](https://www.vatican.va/content/leo-xiv/fr/encyclicals/documents/20260515-magnifica-humanitas.html)    |Français
+|IT|[Italian](https://www.vatican.va/content/leo-xiv/it/encyclicals/documents/20260515-magnifica-humanitas.html)   |Italiano
+|PL|[Polish](https://www.vatican.va/content/leo-xiv/pl/encyclicals/documents/20260515-magnifica-humanitas.html)    |Polski
+|PT|[Portuguese](https://www.vatican.va/content/leo-xiv/pt/encyclicals/documents/20260515-magnifica-humanitas.html)|Português
+|RU|[Russian](https://www.vatican.va/content/leo-xiv/ru/encyclicals/documents/20260515-magnifica-humanitas.html)   |Русский
 
 
 ## 2. The Presentation
@@ -63,6 +75,7 @@ is intended for extensive circulation
 * Official [***Magnifica Humanitas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html) from the Vatican
 * [Another markdown version](https://github.com/cucho/magnifica-humanitas/blob/master/markdown/en.md)
 * [GitHub Search for *Magnifica Humanitas*](https://github.com/search?q=Magnifica+Humanitas&type=repositories)
+* [GitHub Search for Vatican](https://github.com/search?q=vatican&type=repositories)
 * [This repo](https://dvklopfenstein.github.io/Magnifica_Humanitas/)
 * [Skilled coders hate AI (LLM models specifically):](https://www.youtube.com/watch?v=2ZU3j4GQ4K8&list=PLCAnsuyJ3jb4)
   * [A year of agentic coding and its results](https://youtu.be/2ZU3j4GQ4K8?si=cyRQtbwpyosKQQM5)
