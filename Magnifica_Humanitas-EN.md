@@ -229,7 +229,7 @@ Like Nehemiah, let us pray, plan wisely and work perseveringly, placing God at t
 <!-- ==================================================================================== -->
 ## CHAPTER ONE: A DYNAMIC APPROACH FAITHFUL TO THE GOSPEL
 
-<!-- p17 00:20 Ch1:: A DYNAMIC APPROACH FAITHFUL TO THE GOSPEL --------------------------- -->
+<!-- p0  00:20 Ch1:: A DYNAMIC APPROACH FAITHFUL TO THE GOSPEL --------------------------- -->
 <!-- p17 00:20 Ch1::DYNAMIC:: Social Doctrine -->
 <a id=p017_ch1>17</a>. In this first chapter, I intend to present synthetically how the Social Doctrine of the Church has taken shape in the recent Papal Magisterium and in the Second Vatican Council, in order to demonstrate its dynamic character. Indeed, in each era the res novae require that this teaching address historical questions in the light of revealed Truth. In this regard, artificial intelligence, too, should not be considered as merely yet another theme to be studied or a crisis to be managed, but rather as a development that challenges the categories of Social Doctrine from within, calling for their further development in fidelity to the Gospel.
 
@@ -426,7 +426,8 @@ A: --> grasp more effectively their <!-- (the seven aspects of Social Doctrine) 
 <!-- ===================================================================================== -->
 ## CHAPTER TWO: FOUNDATIONS AND PRINCIPLES OF THE SOCIAL DOCTRINE OF THE CHURCH
 
-<!-- p46 00:20 Ch2:: FOUNDATIONS AND PRINCIPLES OF THE SOCIAL DOCTRINE OF THE CHURCH ------ -->
+<!-- p0  00:20 Ch2:: FOUNDATIONS AND PRINCIPLES OF THE SOCIAL DOCTRINE OF THE CHURCH ------ -->
+<!-- p46 00:20 Ch2::FOUNDATIONS -->
 <a id=p046_ch2>46</a>. <!--
 Q46a: --> The Social Doctrine of the Church is a living reality, in dialogue with <!-- what three things?
 A: --> history, cultures and sciences. <!--
@@ -668,7 +669,8 @@ In this way, the Church will be able to bear credible witness to society that se
 <!-- ================================================================================================ -->
 ## CHAPTER THREE: TECHNOLOGY AND DOMINANCE; THE GRANDEUR OF HUMANITY IN LIGHT OF THE PROMISES OF AI
 
-<!-- p90 00:25 Ch3::TECHNOLOGY AND DOMINANCE; THE GRANDEUR OF HUMANITY IN LIGHT OF THE PROMISES OF AI ---- -->
+<!-- p0 00:25 Ch3:: TECHNOLOGY AND DOMINANCE; THE GRANDEUR OF HUMANITY IN LIGHT OF THE PROMISES OF AI ---- -->
+<!-- p90 00:25 Ch3:: -->
 <a id=p090_ch3>90</a>. Having recalled the principles that shine a light on Social Doctrine, I would now like to focus on certain challenges that profoundly shape our way of living today.  The biblical image accompanying these reflections is that of a building project. On the one hand, there is the Tower of Babel, where collective effort follows a plan that dominates and ultimately dehumanizes (cf. Gen 11:1-9). On the other hand, there are the ruins of Jerusalem, which under Nehemiah’s direction are rebuilt piece by piece as a project of shared responsibility (cf. Neh 2–6). We are called to reflect on the great “construction sites” of our era and ask: What are we building? As technological development rapidly transforms languages, relationships, institutions and forms of power, we believers must and can choose which projects to work on and in what manner, so as to safeguard and value the grandeur of humanity that has been given to us as a gift. This is a choice not only for our future but also for our present, since artificial intelligence and other emerging technologies are already part of our daily lives.
 
 <!-- p91 01:44 Ch3:: -->
@@ -930,7 +932,8 @@ If, however, power grows while the heart withers and human bonds fray, then we a
 <!-- ===================================================================================== -->
 ## CHAPTER FOUR: SAFEGUARDING HUMANITY AT A TIME OF TRANSFORMATION; TRUTH, WORK, FREEDOM
 
-<!-- p131 00:25 Ch4:: SAFEGUARDING HUMANITY AT A TIME OF TRANSFORMATION; TRUTH, WORK, FREEDOM ---- -->
+<!-- p0   00:25 Ch4:: SAFEGUARDING HUMANITY AT A TIME OF TRANSFORMATION; TRUTH, WORK, FREEDOM ---- -->
+<!-- p131 00:25 Ch4::SAFEGUARDING -->
 <a id=p131_ch4>131</a>. Having outlined the context in which the challenge of technological transformation is situated,
 especially those linked to AI and to transhumanist and posthumanist currents,
 we cannot remain at the level of general analysis alone.
@@ -1574,7 +1577,7 @@ A: --> Indeed, the principle of proportionality in responding to aggression, the
 <!-- Ch5 B.4 CULTURE OF POWER: SUPPOSED -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### A supposed political realism
 
-<!-- p204 21:40 Ch5::POWER::"POLITICS":: military costs cause suffering -->
+<!-- p204 21:40 Ch5::POWER::SUPPOSED:: military costs cause suffering -->
 <a id=p204_ch5_power>204</a>. <!--
 Qp204a: --> We live at a time of significant spiritual and cultural <!-- what?
 A: -->blindness. <!--
@@ -1592,10 +1595,10 @@ A: --> the only response to an uncertain future or perceived threats. <!--aaaa
 Q: To whom do the real costs of increased military spending fall?
 A: --> Meanwhile, the real cost falls on the poorest, who see resources for healthcare, education and social services being reduced.
 
-<!-- p205 23:05 Ch5::POWER::"POLITICS" -->
+<!-- p205 23:05 Ch5::POWER::SUPPOSED -->
 <a id=p205_ch5_power>205</a>. At the core of these issues is a false realism, based not only on the prevailing mentality of force, but on the cultural and anthropological belief that war is an inevitable part of human nature. It is said that things have always been this way, except for occasional pauses, and that it will always be so! As a result, the concern is no longer the search for peace — which has been lost as a point of reference on the international stage — but rather how and when to take military action. This same argument maintains that it would be irresponsible not to prepare for conflict. I would argue, however, that what is truly irresponsible is Realpolitik, the form of political “realism” that sows in consciences and in society an attitude of resignation to the inevitability of war, and dismisses peace and dialogue as utopian or irrational positions that ignore the risks at stake. In fact, peace is neither a naïve hope nor merely the absence of war; instead, it is always possible as the fruit of justice and charity.
 
-<!-- p206 24:15 Ch5::POWER::"POLITICS" -->
+<!-- p206 24:15 Ch5::POWER::SUPPOSED -->
 <a id=p206_ch5_power>206</a>. In such a climate, nihilism and pragmatism become intertwined and end up normalizing grave errors.
 Religious extremism and identity-based fanaticism ally themselves with irrational economic policies,
 while politics often turns to misinformation and ridiculing opponents, and
@@ -1604,13 +1607,13 @@ Thus, diversity is increasingly perceived as a threat, which fuels a desire for 
 <a id=5bambition>hegemonic ambitions</a>, abuses of power and a fear of those who are different,
 thereby creating an environment in which new conflicts can develop almost imperceptibly.[^186]
 
-<!-- p207 25:06 Ch5::POWER::"POLITICS" -->
+<!-- p207 25:06 Ch5::POWER::SUPPOSED -->
 <a id=p207_ch5_power>207</a>. This, then, is the fertile ground for new wars that are perhaps even more dangerous than those of the past, since they tend to disregard all ethical limits. What was once considered unacceptable can now be carried out almost without hesitation, while the international response is increasingly influenced more by the interests of individual Governments than by the objective gravity of situations.  Decisions now seem to be driven almost exclusively by economic calculations, justified through media distortions, manufactured enthusiasm and “dreams” that inevitably shatter, generating frustration and further violence. When people come to believe that nothing is genuinely true and that principles are hollow words, then the fuse in their hearts is lit for new eruptions of intolerance and aggression.
 
-<!-- p208 26:00 Ch5::POWER::"POLITICS" -->
+<!-- p208 26:00 Ch5::POWER::SUPPOSED -->
 <a id=p208_ch5_power>208</a>. In these situations, the issue of concrete safeguards to prevent future violence remains an open question. When a culture normalizes and justifies conflict, a dangerous pathway opens up, in that what seems unthinkable today may become acceptable tomorrow in the name of utility or security. In countries marked by serious social tensions, we cannot rule out the possibility that some leaders may consider armed conflict as an effective way of diverting attention from domestic problems and a cynical tool for managing difficulties.
 
-<!-- p209 25:30 Ch5::POWER::"POLITICS" -->
+<!-- p209 25:30 Ch5::POWER::SUPPOSED -->
 <a id=p209_ch5_power>209</a>. A particular responsibility rests on the shoulders of those who work in the field of research. All the key players in this field — scientists, business owners, investors, academic authorities, politicians and others — must work with a transparent and responsible mindset, while maintaining an acute awareness of the broader context of the technological advancements they help to cultivate, including those related to AI. When people limit themselves to looking only at their own sector, they may deceive themselves into believing they are performing actions that are morally neutral and avoid questions about the ultimate ends that guide certain experiments. In this way, they risk cooperating — perhaps unknowingly — with questionable projects that fuel new forms of violence, manipulation and dominance.
 
 <!-- Ch5 C  CIVILIZATION OF LOVE ======================================================== -->
