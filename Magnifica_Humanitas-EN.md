@@ -104,7 +104,7 @@ IN THE TIME OF ARTIFICIAL INTELLIGENCE
 <!-- ==================================================================================== -->
 ## INTRODUCTION
 
-<!-- p1  00:18 INTRO:: --------------------------- INTRODUCTION -------------------------- -->
+<!-- p1  00:18 INTRO::INTRO --------------------------- INTRODUCTION -------------------------- -->
 <a id=p001_intro>1</a>. <!--
 Qp1a: --> Humanity, created by God in all its grandeur, is today facing a pivotal choice: <!--
 A: --> either to construct a new Tower of Babel or to build the city in which God and humanity dwell together. <!--
@@ -117,7 +117,7 @@ A: --> we Christians lift our eyes to the Incarnate God, knowing that it is “o
 Qp1e: --> In Jesus Christ, this humanity in its grandeur becomes <!-- what?
 A: --> the Way, the Truth and the Life, opening the path for each of us to grow toward fullness.
 
-<!-- p2  01:37 INTRO:: Thy Will be Done -->
+<!-- p2  01:37 INTRO::INTRO Thy Will be Done -->
 <a id=p002_intro>2</a>. Founded on Christ, the living stone, we experience the powerful and mysterious action of the Holy Spirit, and <!--
 Qp2b: Outcome of: --> we believe that every authentic human effort to cooperate with him <!-- (Christ, the living stone) --> for the good will be blessed by our heavenly Father, in whom we place our hope. <!--
 A: --> For this reason, we can diligently contribute to every initiative that builds a more just world, and we can call others to collaborate in promoting the integral development of every human being.
@@ -131,7 +131,7 @@ she <!--
 A: --> as the place where the Gospel challenges and directs human experience.
 
 <!-- https://www.americamagazine.org/podcasts/2026/05/28/pope-leo-ai-encyclical-podcast/ 12:00 -->
-<!-- p3  03:08 INTRO:: 1891 Pope Leo XIII's Rerum Novarum (New Things): Church Social Doctrine (teaching) -->
+<!-- p3  03:08 INTRO::INTRO 1891 Pope Leo XIII's Rerum Novarum (New Things): Church Social Doctrine (teaching) -->
 <a id=p003_intro>3</a>. In this spirit, <!--
 Qp3a: --> Pope Leo XIII published his Encyclical [Rerum Novarum](https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html) in <!-- what year?
 A: --> 1891, the 135th anniversary of which we celebrate with deep gratitude this year.
@@ -230,43 +230,43 @@ Like Nehemiah, let us pray, plan wisely and work perseveringly, placing God at t
 ## CHAPTER ONE: A DYNAMIC APPROACH FAITHFUL TO THE GOSPEL
 
 <!-- p0  00:20 Ch1:: A DYNAMIC APPROACH FAITHFUL TO THE GOSPEL --------------------------- -->
-<!-- p17 00:20 Ch1::DYNAMIC:: Social Doctrine -->
+<!-- p17 00:20 Ch1_DYNAMIC::INTRO Social Doctrine -->
 <a id=p017_ch1>17</a>. In this first chapter, I intend to present synthetically how the Social Doctrine of the Church has taken shape in the recent Papal Magisterium and in the Second Vatican Council, in order to demonstrate its dynamic character. Indeed, in each era the res novae require that this teaching address historical questions in the light of revealed Truth. In this regard, artificial intelligence, too, should not be considered as merely yet another theme to be studied or a crisis to be managed, but rather as a development that challenges the categories of Social Doctrine from within, calling for their further development in fidelity to the Gospel.
 
-<!-- p18 01:08 Ch1::DYNAMIC:: rightly speaks  -->
+<!-- p18 01:08 Ch1_DYNAMIC::INTRO rightly speaks  -->
 <a id=p018_ch1>18</a>. This overview, however, would not be very comprehensible if, before reflecting on the contribution of individual popes and their most relevant documents, we do not first clarify some fundamental principles concerning the way in which the Church exists in history and relates to the world. Failing to do so would expose Social Doctrine to the risk of being perceived as an undue interference in “worldly” matters or as an external code of ethics imposed from above. In reality, it stems from a Church that walks alongside humanity, recognizing the autonomy of earthly realities and the distinction between ecclesial and political communities. Indeed, it is for this very reason that she strives to serve the common good.
 
 <!-- Ch1 A>2 JOURNEYING ================================================================= -->
 ### A Church journeying through human history
 
-<!-- p19 01:58 Ch1::DYNAMIC::JOURNEYING:: human unity       -->
+<!-- p19 01:58 Ch1_DYNAMIC::JOURNEYING:: human unity       -->
 <a id=p019_ch1_history>19</a>. The Church is present in the world as a sign of unity for the entire human family. She recognizes today’s questions and challenges as the current setting in which to carry out her particular vocation of listening, dialogue and service, and of being responsive to everything concerning the lives of contemporary men and women. This involvement in people’s lives helps the Church understand ever more clearly that her mission has a historical scope and entails a responsibility for the way in which social relations are built. For this reason, she cannot consider herself a stranger to the forces shaping society. On the contrary, the Church actively participates in the processes by which society grows and is organized, and she offers her own contribution to the creation of a more just and fraternal society. Pope Francis emphasized this historical dimension of the Church’s mission: “No one can demand that religion should be relegated to the inner sanctum of personal life, without influence on societal and national life, without concern for the soundness of civil institutions, without a right to offer an opinion on events affecting society.”[^9]
 
-<!-- p20 03:14 Ch1::DYNAMIC::JOURNEYING:: original goodness -->
+<!-- p20 03:14 Ch1_DYNAMIC::JOURNEYING:: original goodness -->
 <a id=p020_ch1_history>20</a>. The Church’s vocation and duty to accompany humanity in the specifics of history leads her to recognize that earthly realities possess their own proper character and order. The Second Vatican Council expressed this principle with particular precision in the [Pastoral Constitution Gaudium et Spes](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html), whose sixtieth anniversary we remembered and celebrated with gratitude on 7 December 2025: “If by the autonomy of earthly affairs is meant that created things and societies themselves enjoy their own laws and values… then the demand for autonomy is perfectly in order.”[^10] This affirmation shows that creation bears the imprint of an original goodness that our human outlook must preserve, cultivate and bring to fulfilment. In this regard, the Church offers herself in a way that helps to interpret reality in all its depth. She supports with humble firmness the choices that promote the dignity of every person, the cohesion of communities and the good of all. The Church thus stands alongside the world without overpowering it, so that the promise of justice and peace that the Holy Spirit continues to sustain in the heart of humanity may come to fruition in every human endeavor.
 
-<!-- p21 04:32 Ch1::DYNAMIC::JOURNEYING:: the State         -->
+<!-- p21 04:32 Ch1_DYNAMIC::JOURNEYING:: the State         -->
 <a id=p021_ch1_history>21</a>. Recognizing that God upholds the freedom of men and women in the unfolding of history, the Second Vatican Council affirmed the distinction between the ecclesial community and the political community, emphasizing that each must operate with full autonomy. The Church’s presence in the world is also expressed through her relationship with civil society and public institutions. By engaging with these entities, the Church acknowledges the value of social and political realities and honors their specific responsibilities, supporting everything that fosters the wellbeing of individuals and strengthens the fabric of society. The Church does not claim to assume the functions belonging to the State. On the contrary, she esteems those who serve the common good, and she firmly acknowledges the responsibility that civil institutions hold within society. At the same time, the mission entrusted to the Church prompts her to address the real suffering of the men and women of our time. This closeness does not stem from an intent to supplant civil institutions, much less from an implicit criticism of their work. Rather, it stems from evangelical charity, which impels the Church to draw near to the wounds of humanity whenever they surface with greater severity. When the Church intervenes, she does so following the example of the Good Samaritan, with discretion and closeness, aware that what arises from urgent necessity cannot become the norm, nor replace the institutional responsibilities proper to the civil community.
 
-<!-- p22 06:04 Ch1::DYNAMIC::JOURNEYING:: all cultures      -->
+<!-- p22 06:04 Ch1_DYNAMIC::JOURNEYING:: all cultures      -->
 < a id=p022_ch1_history>22</a>. Starting from this twofold acknowledgment — the autonomy of earthly realities and the distinction between ecclesiastical and political spheres of competence — allows for a clearer understanding of the direction that the Second Vatican Council set for the Church in her relationship with the world. Gaudium et Spes reminds us that “it is the task of the whole People of God, particularly of its pastors and theologians, to listen to and distinguish the many voices of our times and to interpret them in the light of God’s word, in order that the revealed Truth may be more deeply penetrated, better understood and more suitably presented.”[^11]  Listening to the “many voices” is no mere sociological exercise, but instead requires spiritual discernment. Guided by the Spirit, the People of God come to recognize in cultural and social transformations both the signs of the presence of Christ, who comes and guides history toward its fulfilment, and those aberrations that obscure his face. In this way, the essential core of revealed Truth is not altered, but made explicit and adopted as a living standard for guiding concrete choices, inspiring paths of personal and communal conversion, promoting structural reforms and supporting new forms of evangelical witness in public life. History is thus understood as one of the places in which the Church allows herself to be taught by the Spirit about the humanizing power of the Gospel; and she learns to develop her own teaching at the service of the dignity of every person and the good of all peoples.
 
 <!-- Ch1 A.1 JOURNEYING - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### The wisdom of the word of God in dialogue with the human sciences
 
-<!-- p23 07:44 Ch1::DYNAMIC::JOURNEYING::WISDOM:: precious allies     -->
+<!-- p23 07:44 Ch1_DYNAMIC::JOURNEYING::WISDOM:: precious allies     -->
 <a id=p023_ch1_history>23</a>. The Church regards all who sincerely seek “truth, goodness and beauty” as companions on the journey, and considers them as “precious allies”[^12] in defending the dignity of every person and in caring for creation. Adopting the pastoral approach of the Second Vatican Council, which invites us to listen, discern and interpret the signs of the times, and enlightened by the wisdom of the word, the Church is not afraid to encounter human knowledge. Indeed, the word of God provides reliable standards for establishing paths of justice and opening ways of reconciliation and peace among peoples. When it comes to applying these standards to the complex situations of our time, the contributions of philosophy and of the human and social sciences is essential. These disciplines help us understand and analyze cultural, economic and political dynamics more deeply.
 Saint John Paul II recalled that the Church welcomes the contributions of the social sciences in order “to draw from them concrete insights that help her carry out her magisterial office.”[^13] A dialogue with such kinds of knowledge does not diminish the power of the Gospel.
 On the contrary, it makes it possible to identify with greater clarity what genuinely fosters the lives of individuals and communities.
 Following this perspective, Pope Francis emphasized that when dealing with many specific questions, the Church does not claim to offer “a definitive opinion,”[^14] but recognizes the importance of listening to scientific research and of encouraging a serious and honest debate among experts while welcoming a diversity of opinions.
 
-<!-- p24 09:28 Ch1::DYNAMIC::JOURNEYING::WISDOM:: Social Doctrine     -->
+<!-- p24 09:28 Ch1_DYNAMIC::JOURNEYING::WISDOM:: Social Doctrine     -->
 <a id=p024_ch1_history>24</a>. Nourished by this fruitful dialogue between the Gospel and human knowledge, the Church has progressively developed her Social Doctrine, cultivating in history a wise patrimony marked by theological and anthropological coherence rooted in the Christian understanding of the person. Precisely because this patrimony arises from faith and a corresponding vision of reality, it does not amount to a repertoire of technical solutions or an economic or political model to be set against others.  Instead, it belongs to a different order, [^15] namely that of the principles that guide the interpretation of events and sustain an evangelical understanding of historical processes and the choices these entail. Herein lies the proper function of Social Doctrine, which does not claim to supplant the responsibilities of politics or institutions, but offers itself as a foundation for collective discernment, helping to recognize and promote whatever serves the dignity of persons, the vitality of communities and the common good.
 
 <!-- Ch1 A.2 JOURNEYING -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### Social Doctrine as a shared discernment
 
-<!-- p25 10:35 Ch1::DYNAMIC::JOURNEYING::SHARED:: truth of the Gospel -->
+<!-- p25 10:35 Ch1_DYNAMIC::JOURNEYING::SHARED:: truth of the Gospel -->
 <a id=p025_ch1_history>25</a>. <!--
 Qp25a: --> Understanding that the truth is a gift to be shared, not a <!-- what? And from what does this free the Church?
 A: --> possession to be monopolized, frees the Church from the temptation of seeking forms of presence based on power. <!--
@@ -287,18 +287,18 @@ A: --> It does not eliminate conflicts, but transforms them, reuniting that whic
 Qp25h: What image does Pope Leo XIV use to illustrate the truth of the Gospel growing over time within the concrete interweaving of lives, communities and cultures?
 A: --> This concept can also be illustrated by the image of a multifaceted polyhedron, [^19] in which the one truth of the Gospel is reflected from different angles.
 
-<!-- p26 12:07 Ch1::DYNAMIC::JOURNEYING::SHARED:: many peoples        -->
+<!-- p26 12:07 Ch1_DYNAMIC::JOURNEYING::SHARED:: many peoples        -->
 <a id=p026_ch1_history>26</a>. This attitude of openness to truth, which is at the same time both one and diverse, profoundly expresses the catholicity of the Church, for she embraces the entire human family yet is also immersed in the concrete situations of peoples and cultures.  The Second Vatican Council reminds us that, in virtue of this very catholicity, “each part contributes its own gifts to other parts and to the entire Church.”[^20] In this way, the Church grows as a whole and as individual communities thanks to a mutual exchange and to shared efforts toward an ever fuller communion.  It follows, then, that the People of God are not only gathered together from many peoples, but are also intertwined through different functions, vocations, cultures and traditions, each being called to support and enrich one another.
 From this perspective, Saint Paul VI acknowledged that, given the great variety of historical situations, it is unrealistic to think that the Church’s Social Doctrine can propose a single response that is valid in all contexts.[^21]
 For this reason, he invited each Christian community to interpret the reality in its own country with clarity and responsibility. The fruitful tension between the universality of the Church’s mission and her local roots is an intrinsic aspect of her life, for she encompasses the whole world, while addressing the specific issues of each context as the real setting in which the Gospel takes shape.
 
-<!-- p27 13:38 Ch1::DYNAMIC::JOURNEYING::SHARED:: a process           -->
+<!-- p27 13:38 Ch1_DYNAMIC::JOURNEYING::SHARED:: a process           -->
 <a id=p027_ch1_history>27</a>. In light of what has been said so far, the Church’s Social Doctrine can be seen more authentically. It is not a handbook of principles and norms to be applied, but a process of shared discernment. It is born from the encounter between the eternal truth of the Gospel and the questions of history. It allows itself to be challenged by the signs of the times, and draws nourishment from the contributions of science, culture and human experience. Therefore, when the dignity of our brothers and sisters is violated, when politics fails to address the tragedies of humanity, when the economy turns against the person or science oversteps the limits of its competence, [^22] the Church — together with other Christian denominations and believers of other religions — must make her voice heard, not in order to dominate, but to promote communion. Understood in this way, Social Doctrine becomes a theology of communion in history, a history in which the Word made flesh continues to be present through dialogue, memory and prophecy.
 
 <!-- Ch1 B>4 SOCIAL DOCTINE ============================================================= -->
 ### The development of Social Doctrine from Leo XIII to the present
 
-<!-- p28 14:46 Ch1::DYNAMIC::DEVEL -->
+<!-- p28 14:46 Ch1_DYNAMIC::DEVEL -->
 <a id=p028_ch1_social>28</a>.
 Having outlined the way in which the Church is present in history and engages in dialogue with the world,
 I would now like to consider the development of Social Doctrine in the Magisterium,
@@ -317,37 +317,37 @@ I will now review some of the significant stages of this development, beginning 
 <!-- Ch1 B.1 SOCIAL DOCTINE - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### The first stages of the Church’s Social Doctrine
 
-<!-- p29 16:10 Ch1::DYNAMIC::DEVEL::FIRST -->
+<!-- p29 16:10 Ch1_DYNAMIC::DEVEL::FIRST -->
 <a id=p029_ch1_social>29</a>. What we now call the “Social Doctrine of the Church” is not a spontaneous product of the modern age. Instead, it is the fruit of receiving and structuring a long tradition of ecclesial reflection on life in society, rooted in Sacred Scripture, the Church Fathers and the theological and legal developments of the Middle Ages and modern era. Although the expression “Social Doctrine of the Church” was coined by Pius XII in 1950, [^23] its content began to take shape as an organic corpus of social teaching with Leo XIII’s Encyclical Rerum Novarum. Confronted with the “new things” of his time — the conflict between capital and labor, the question of the workforce, and economic and social transformations — Leo XIII did not limit himself merely to acknowledging the unrest, but saw these situations as an area for the Church’s pastoral mission. He exposed them to rigorous discernment, illuminating their causes and possible solutions in the light of the Gospel and an integral vision of the human person created in the image of God.
 Saint John Paul II regarded this approach as a “lasting paradigm”[^24] of Social Doctrine: an exemplary practice through which the Church, when faced with historical changes, exercises her right and duty to examine social realities, make pronouncements about them and indicate paths for finding just solutions.
 In this way, the perennial contents of the faith and ancient ecclesial wisdom find expression in a living doctrine that remains faithful to the Gospel while growing in response to the “new things” of every era.
 
-<!-- p30 17:47 Ch1::DYNAMIC::DEVEL::FIRST -->
+<!-- p30 17:47 Ch1_DYNAMIC::DEVEL::FIRST -->
 <a id=p030_ch1_social>30</a>. Leo XIII’s Encyclical Rerum Novarum constitutes a milestone in the development of the Church’s social teaching. The document places the dignity of work and of workers at the forefront of its reflection; affirms the right to a fair wage for oneself and one’s family; recognizes that persons have a fundamental value that takes precedence over capital and profit; defends private property along with its indispensable societal role; esteems workers’ associations; and proposes forms of cooperation between the different components of society as an alternative to the mentality of class struggle. It is not surprising, then, that Pius XI defined it as the “ Magna Carta”[^25] of Christian social action. In Rerum Novarum, the Church’s ancient wisdom regarding the human person and life in society took on a new form capable of responding to the industrial age and offering the first major systematic framework for the Social Doctrine that would be further developed in the following decades. While many of the historical conditions described by Leo XIII have changed, at least two insights remain highly relevant today: the primacy of human labor over any mindset focused solely on finance or productivity — with the consequent attention to the people and families most susceptible to exploitation — and the inseparable link between proclaiming the Gospel and pursuing a more just social order. Rerum Novarum thereby continues to remind us that there is no authentic evangelization that does not also affect the structures of human society.
 
-<!-- p31 19:28 Ch1::DYNAMIC::DEVEL::FIRST -->
+<!-- p31 19:28 Ch1_DYNAMIC::DEVEL::FIRST -->
 <a id=p031_ch1_social>31</a>. Pius XI’s Encyclical Quadragesima Anno was published in 1931 on the fortieth anniversary of Rerum Novarum at the height of a major global economic crisis, marking a further step in the Church’s social teaching. Rather than limiting itself to addressing the “workforce question,” it broadened its focus to encompass the overall structure of the economic and political order. The Encyclical denounces the concentration of economic power in the hands of a few; criticizes both unlimited competition and collectivist projects that undermine the freedom and responsibility of the individual; strongly affirms the workers’ right to association; and reiterates the requirement that wages be proportionate not only to performance, but also to the needs of workers and their families. Within this framework, Pius XI systematically formulated the principle of subsidiarity, which was to become one of the cornerstones of Social Doctrine. According to this principle, whatever can be carried out by individuals, families, intermediary organizations and local communities should not be carried out by higher-level authorities. Alongside these contributions, in various interventions of his Magisterium — from the Encyclicals Non Abbiamo Bisogno and Mit Brennender Sorge to Divini Redemptoris —  Pius XI clearly recalled the societal role of private property and denounced forms of totalitarianism that demean the dignity of the person, stifle life in society, exalt the State above its just value and discriminate according to race. At least three insights of his social teaching remain particularly relevant today: the awareness that injustice concerns not only individual behavior but also economic and institutional structures; the importance of the principle of subsidiarity, which calls for the strengthening of the fabric of associations and communities while avoiding further centralization of power; and the link between the dignity of work, fair remuneration and the genuine possibility for families to lead a dignified life.
 
-<!-- p32 21:35 Ch1::DYNAMIC::DEVEL::FIRST -->
+<!-- p32 21:35 Ch1_DYNAMIC::DEVEL::FIRST -->
 <a id=p032_ch1_social>32</a>. In the tragic context of the Second World War, and the years of reconstruction that followed, the teachings of Pius XII made a significant contribution to the development of Social Doctrine. This is particularly true of his Christmas radio messages, in which he outlined the framework of an international order based on justice, peace and the recognition of human dignity. In these messages, the Pope proposed a dialogue with society based on an appeal to natural law understood as a set of objective principles that precede the interests of individuals and States, and which must regulate both the internal life of nations and their mutual relations. Pius XII also attributed a decisive role to professional associations, labor unions and the various intermediary organizations in the economic and social order. He recognized these organized forms of society as an essential safeguard for civil equilibrium and for protecting the common good. He affirmed the need for a sound rule of law for guarding against the abuse of power, and he recognized democracy as a means for ensuring the proper exercise of authority. At the same time, he warned against any attempt to base law on utility or force, recalling that an international order governed by the advantage of the strongest exposes weaker peoples to oppression and fundamentally undermines trust between nations. Finally, Pius XII identified profound economic imbalances between countries as one of the factors fueling conflicts.[^26] Three guidelines remain particularly significant for our own times, currently marked by new forms of global power and growing inequalities: the need for law to take precedence over interests; the awareness that economic disparities are a breeding ground for tension and violence; and the necessity of a network of associations capable of mediating between the individual and the State. These guidelines continue to provide important criteria that enable Social Doctrine to interpret the dynamics of globalization and promote a more just and peaceful international order.
 
 <!-- Ch1 B.2 SOCIAL DOCTINE - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### The years of the Second Vatican Council
 [Second Vatican Council](https://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm)
 
-<!-- p33 23:48 Ch1::DYNAMIC::DEVEL::SECOND -->
+<!-- p33 23:48 Ch1_DYNAMIC::DEVEL::SECOND -->
 <a id=p033_ch1_social>33</a>. A new phase in the Church’s social teaching began with Saint John XXIII, who placed a greater emphasis on the global dimension of social issues and the language of rights. In Mater et Magistra, he presented the Christian faith as a light capable of uniting heaven and earth. He recalled that, while the Church’s primary mission is the sanctification and proclamation of eternal goods, she does not neglect the concrete needs of people’s daily lives, and is concerned with every authentic human good.[^27] Based on this unified vision of humanity, John XXIII emphasized that societal life requires a balance between the initiative of citizens and groups — who are called to organize themselves and work together — and the action of the State, which must coordinate and provide support without stifling the freedom and responsibility of individuals. Hence, he drew attention to fair remuneration for work, worker participation and the growing disparities between countries. A few years later, in Pacem in Terris, John XXIII addressed for the first time not only the faithful, but also all people of good will, organically linking the dignity of the person to the recognition of fundamental rights and duties, and proposing a direction for society — at the international level too — based on truth, justice, love and freedom.[^28] In the present day, which is marked by widespread conflict and new forms of global interdependence, the following aspects of his thought remain particularly significant: the universal perspective of his appeal; his reference to human rights as a shared framework; and his conviction that lasting peace requires institutions and relations between peoples that are inspired by the dignity of every person.
 
-<!-- p34 25:39 Ch1::DYNAMIC::DEVEL::SECOND -->
+<!-- p34 25:39 Ch1_DYNAMIC::DEVEL::SECOND -->
 <a id=p034_ch1_social>34</a>. The Second Vatican Council marked a turning point in the Church’s understanding of herself in the contemporary world. In the Pastoral Constitution Gaudium et Spes, the Council presented the image of a Church that is close to humanity, engaged with the world and committed to reflecting on the concrete reality of historical situations, rather than abstract concepts. The text addresses the major issues of marriage and the family, economic and societal life, the political community, war and peace. It insists that economic and institutional structures are just only to the extent that they serve the integral development of the person and promote the responsible participation of all.[^29] The importance of this conciliar document for the Social Doctrine of the Church lies not only in having opened up horizons for thematic reflection, but also in its method of discernment that invites us to interpret historical changes guided by the Gospel and human expertise. This approach reveals that dialogue with the world is not a tactical choice for the Church, but a concrete expression of her mission because the Gospel, like leaven, is capable of transforming the structures of society from within and forging paths toward a greater humanity. The Declaration Dignitatis Humanae can be included in the same context. Here, the Council recognized that religious freedom is a fundamental right grounded in human dignity that must be guaranteed by law so as to prevent people from being forced to act against their conscience or impeded from seeking and professing the truth both privately and publicly.[^30] This principle is highly relevant today and continues to provide Social Doctrine with decisive criteria for protecting individuals and building pluralistic and peaceful societies.
 
-<!-- p35 27:30 Ch1::DYNAMIC::DEVEL::SECOND -->
+<!-- p35 27:30 Ch1_DYNAMIC::DEVEL::SECOND -->
 <a id=p035_ch1_social>35</a>. During the Pontificate of Saint Paul VI, an understanding of peace emerged that was not reduced to the mere absence of war, but took shape within the scope of integral human development.
 In Populorum Progressio, he described development as a transition from less humane to more humane living conditions. He further understood it as a process that concerns “each person and the whole person,”[^31] that is every dimension of the person and all people without exception.
 For this reason, Paul VI could affirm that development understood in this way is in reality “the new name for peace,”[^32] because it aims to eradicate the roots of injustice and conflict and create opportunities for a more dignified life for all.
 The establishment of the Pontifical Commission Iustitia et Pax should also be seen in this light as an attempt to give stable form to this insight at the ecclesial and international levels, while bearing in mind the growing gap between rich and poor countries and the need for policies that genuinely promote more humane living conditions for all.
 
-<!-- p36 28:37 Ch1::DYNAMIC::DEVEL::SECOND -->
+<!-- p36 28:37 Ch1_DYNAMIC::DEVEL::SECOND -->
 <a id=p036_ch1_social>36</a>. In Octogesima Adveniens, written on the occasion of the eightieth anniversary of Rerum Novarum, Paul VI applied this perspective to postindustrial society, marked by urbanization, new forms of poverty and rapid cultural changes that called into question the future of individuals and communities.
 Paul VI believed that although the Gospel was proclaimed, written and lived out in a historical and cultural context very different from our own, its message was not “outdated.”[^33]
 Instead, it offers a vision of the human person, relationships, authority and the common good that is still capable of guiding economic, political and cultural choices today. In other words, the Gospel remains relevant because it provides the criteria for recognizing what humanizes or dehumanizes and what liberates or oppresses in ever-changing situations.
@@ -357,11 +357,11 @@ Rather, beginning where people are marginalized, it must allow the Gospel to pas
 <!-- Ch1 B.3 SOCIAL DOCTINE - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### The recent Magisterium
 
-<!-- p37 30:14 Ch1::DYNAMIC::DEVEL::RECENT -->
+<!-- p37 30:14 Ch1_DYNAMIC::DEVEL::RECENT -->
 <a id=p037_ch1_social>37</a>. The rich social teaching of Saint John Paul II lies at the crossroads of the crisis of the great ideological systems of the twentieth century and the onset of economic globalization.
 His Encyclical Laborem Exercens, written ninety years after the publication of Rerum Novarum, opened up a new avenue for reflection on work. It presents fair wages as the concrete means of verifying the justness of the entire socioeconomic system because they reveal whether the worker is treated as a person or merely as a cost of production.[^35] Work is not considered simply as a problem to be dealt with or a means of generating income, but a fundamental good for the person, a principle of economic activity and the key to the entire societal question. Through work, human beings bring their freedom, creativity and capacity for cooperation into play, contributing to the cultural and moral elevation of society.[^36] In light of this, the various kinds of job insecurity, fragmented career paths and automation must not be evaluated solely in terms of efficiency, but in relation to the dignity of the worker, the right to sufficient remuneration and the genuine possibility of participating in society.
 
-<!-- p38 31:30 Ch1::DYNAMIC::DEVEL::RECENT -->
+<!-- p38 31:30 Ch1_DYNAMIC::DEVEL::RECENT -->
 <a id=p038_ch1_social>38</a>. With his Encyclical Sollicitudo Rei Socialis, marking the twentieth anniversary of Populorum Progressio, John Paul II reexamined the scourge of underdevelopment.
 He acknowledged the failure of numerous attempts to accelerate the economic development of poor peoples and
 to assist them in the process of industrialization,
@@ -371,12 +371,12 @@ structurally favor their own interests while stifling weaker economies, and he a
 In this context, solidarity was understood as a concrete, shared responsibility among individuals,
 peoples and nations — a form of social friendship or political charity oriented toward the “civilization of love” proposed by Paul VI.[^39]
 
-<!-- p39 33:30 Ch1::DYNAMIC::DEVEL::RECENT -->
+<!-- p39 33:30 Ch1_DYNAMIC::DEVEL::RECENT -->
 <a id=p039_ch1_social>39</a>. On the centenary of Rerum Novarum, the Encyclical Centesimus Annus offered a reflection on the collapse of the Soviet system and the rise of democracy and the market economy.
 Saint John Paul II reiterated Pius XII’s message that the Church values democracy insofar as it guarantees the effective participation of citizens, enables them to elect and peacefully replace their leaders and prevents power from being monopolized by small elite groups motivated by particular or ideological interests.[^40]
 Likewise, the Church recognizes the positive potential of the market and private initiative only if they remain subordinate to the moral law and are guided by the principle of solidarity, without sacrificing the most vulnerable to the rationale of profit.[^41] This adds a particularly relevant legacy to the Social Doctrine of the Church. The affirmation of the link between the dignity of work, solidarity among peoples, a critical assessment of democracy and the market economy continues to provide criteria for evaluating new forms of exploitation, exclusion and crises in political representation.
 
-<!-- p40 33:45 Ch1::DYNAMIC::DEVEL::RECENT -->
+<!-- p40 33:45 Ch1_DYNAMIC::DEVEL::RECENT -->
 <a id=p040_ch1_social>40</a>. In his social Encyclical Caritas in Veritate, Pope Benedict XVI sought to reassess and expand the concept of development presented in Populorum Progressio, interpreting it in light of globalization.
 He noted that such development should translate into “real growth, of benefit to everyone and genuinely sustainable.”[^42]
 That is, economic progress that is truly inclusive and respectful of the limits of creation.
@@ -389,22 +389,22 @@ For this reason, Benedict XVI reiterated that
 <a id=1bcomm>economic activity cannot claim to solve social problems simply through the expansion of a commercial mentality</a>,
 but must be ordered toward the common good, for which the political community bears its own irreplaceable responsibility.[^45]
 
-<!-- p41 35:00 Ch1::DYNAMIC::DEVEL::RECENT -->
+<!-- p41 35:00 Ch1_DYNAMIC::DEVEL::RECENT -->
 <a id=p041_ch1_social>41</a>. Benedict XVI placed charity at the center of his analysis, stating that it “is at the heart of the Church’s Social Doctrine,”[^46] provided that it is always united with truth. He also noted with concern that there is a tendency to dismiss moral relevance precisely within the social, legal, political and economic fields. The originality of his contribution lies in showing that development, justice, institutions and the market are not neutral realities, but spaces where charity in truth must find historical expression. This teaching is especially relevant today in light of growing inequalities, pressures in the financial markets, the environmental crisis and a lack of trust in politics. It stands as an invitation to evaluate every model of development on its ability to be inclusive and sustainable, to rebuild the relationship between economics and politics on the common good, and to acknowledge the critical and generative role of charity in public life.
 
-<!-- p42 36:00 Ch1::DYNAMIC::DEVEL::RECENT -->
+<!-- p42 36:00 Ch1_DYNAMIC::DEVEL::RECENT -->
 <a id=p042_ch1_social>42</a>. Pope Francis’ social teaching develops along the lines of Gaudium et Spes, which invites us to view history through the lens of human hopes and vulnerabilities, and to bring them into dialogue with the Gospel. This approach emerges with particular clarity in Evangelii Gaudium, where he states that the Christian proclamation has an intrinsic social dimension and calls for a Church capable of listening to the cry of the poor, migrants and victims of new forms of slavery. Francis’ insistence on a synodal Church, a Church that “walks together,” that seeks to read the signs of the times in the light of the Gospel and allows herself to be evangelized by the poor with whom she shares history, also fits into this perspective.[^47]
 
-<!-- p43 36:50 Ch1::DYNAMIC::DEVEL::RECENT -->
+<!-- p43 36:50 Ch1_DYNAMIC::DEVEL::RECENT -->
 <a id=p043_ch1_social>43</a>. In Laudato Si’, Francis provided the first significant systematic treatment of the environmental crisis in a social Encyclical, demonstrating that it is not an isolated issue, but rather the ecological aspect of the contemporary socio-economic crisis. His proposal for an integral ecology combined care for our common home with the preferential option for the poor, and strongly affirmed that “the cry of the earth and the cry of the poor”[^48] cannot be separated. In this light, the universal destination of goods was brought to the forefront, alongside the critique of a technocratic paradigm that seeks to reduce everything to an object to be dominated; the defense of human labor threatened by the mindset of waste; and the need for intergenerational justice. Finally, he advocated for genuine dialogue between those working in the fields of politics and finance, so that neither would become self-referential.
 
-<!-- p44 37:50 Ch1::DYNAMIC::DEVEL::RECENT -->
+<!-- p44 37:50 Ch1_DYNAMIC::DEVEL::RECENT -->
 <a id=p044_ch1_social>44</a>. Faced with the breakdown of the social fabric, a “world war being fought piecemeal,” individualistic globalization and the impact of the pandemic on community ties, Francis, in Fratelli Tutti , sought to revive the dream of a humanity that opts for social friendship and universal fraternity. He proposed a culture of encounter, a “better politics” capable of seeking the common good, paths of reconciliation and a world that ensures “land, housing and work for all.”[^49] Finally, in Dilexit Nos, he showed that these significant social endeavors cannot be separated from a personal relationship with Christ. Turning to the word of God, he reminded us that the truest response to the love of the heart of Jesus is concrete love for our brothers and sisters, and affirmed that “there is no greater way for us to return love for love.”[^50]
 
 <!-- Ch1 B.4 SOCIAL DOCTINE - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### Interpreting history in the light of faith
 
-<!-- p45 38:50 Ch1::DYNAMIC::DEVEL::HISTORY -->
+<!-- p45 38:50 Ch1_DYNAMIC::DEVEL::HISTORY -->
 <a id=p045_ch1_social>45</a>. Considering this historical overview, it is clear that <!--
 Qp45a: --> the Church’s Social Doctrine is not the result of a project devised at a desk, but rather the product of <!-- what?
 A: --> a patient process in which each pontiff — together with the Second Vatican Council — made a unique contribution in light of the “new things” of each particular era. <!--
@@ -427,7 +427,7 @@ A: --> grasp more effectively their <!-- (the seven aspects of Social Doctrine) 
 ## CHAPTER TWO: FOUNDATIONS AND PRINCIPLES OF THE SOCIAL DOCTRINE OF THE CHURCH
 
 <!-- p0  00:20 Ch2:: FOUNDATIONS AND PRINCIPLES OF THE SOCIAL DOCTRINE OF THE CHURCH ------ -->
-<!-- p46 00:20 Ch2::FOUNDATIONS -->
+<!-- p46 00:20 Ch2::INTRO -->
 <a id=p046_ch2>46</a>. <!--
 Q46a: --> The Social Doctrine of the Church is a living reality, in dialogue with <!-- what three things?
 A: --> history, cultures and sciences. <!--
@@ -442,7 +442,7 @@ A: --> the common good, the universal destination of goods, subsidiarity, solida
 Q46f: --> I <!-- (Pope Leo XIV) --> am convinced that a harmonious relationship between these principles requires that they be considered <!-- how?
 A: --> collectively, so that it becomes clear how they relate to and complement each other.
 
-<!-- p47 01:45 Ch2::FOUNDATIONS -->
+<!-- p47 01:45 Ch2::INTRO -->
 <a id=p047_ch2>47</a>. <!--
 Q47a: --> In offering these reflections <!-- (on Social Doctrine) -->, my hope is, first and foremost, to help the lay faithful and people of goodwill rediscover <!-- what?
 A: --> their duty of implementing the above-mentioned principles in their daily lives, family relationships, work and involvement in society. Thus, they will let themselves be inspired by the aim of embodying God’s love in the concrete events of life. <!--
@@ -513,7 +513,7 @@ It is “a milestone on the long and difficult path of the human race.”[^66] F
 <!-- p56 12:55 Ch2::FOUNDATIONS::RIGHTS -->
 <a id=p056_ch2_foundation>56</a>. Looking at our own time, we cannot ignore the fact that the protection of human rights has been exposed to two particularly serious dangers. The first is that these rights are declared in a purely formal sense, while technological progress continues alongside covert or overt violations of human dignity. The second, which is in fact the root of the first, is the inability to recognize the foundation of their universality, since we have abandoned “the search for the solid foundations sustaining our decisions and our laws.”[^72] Pope Francis urged us not to underestimate this last issue. He pointed out that when reason seriously examines human nature, it is capable of discovering values that apply to everyone, since they derive from human nature. If this task of inquiry were abandoned, it is conceivable that rights considered untouchable today might, in the future, end up being questioned or denied by those in power, perhaps after having obtained only an apparent consensus from populations that are frightened or manipulated.[^73]
 
-<!-- p57 14:23 Ch2::FOUNDATIONS::RIGHTS::WOMEN -->
+<!-- p57 14:23 Ch2::FOUNDATIONS::RIGHTS:: Women -->
 <a id=p057_ch2_foundation>57</a>. Along with a greater awareness of the value of every human person and their rights, recognition of minority rights has also grown. Yet, there is still a long way to go to ensure that the rights of a great many, namely women, are equally and genuinely guaranteed throughout the world. It is a fact that “doubly poor are those women who endure situations of exclusion, mistreatment and violence, since they are frequently less able to defend their rights.”[^74] It is, therefore, not enough to state simply that men and women have equal dignity and rights; it is necessary that this be reflected in concrete decisions, such as in laws, access to employment, education, social and political responsibilities, and the way society listens to and values women’s contributions. As long as this gap persists, we cannot say that society truly and fully recognizes that women have the same dignity as men.
 
 <!-- p58 15:42 Ch2::FOUNDATIONS::RIGHTS -->
@@ -670,10 +670,10 @@ In this way, the Church will be able to bear credible witness to society that se
 ## CHAPTER THREE: TECHNOLOGY AND DOMINANCE; THE GRANDEUR OF HUMANITY IN LIGHT OF THE PROMISES OF AI
 
 <!-- p0 00:25 Ch3:: TECHNOLOGY AND DOMINANCE; THE GRANDEUR OF HUMANITY IN LIGHT OF THE PROMISES OF AI ---- -->
-<!-- p90 00:25 Ch3:: -->
+<!-- p90 00:25 Ch3::INTRO -->
 <a id=p090_ch3>90</a>. Having recalled the principles that shine a light on Social Doctrine, I would now like to focus on certain challenges that profoundly shape our way of living today.  The biblical image accompanying these reflections is that of a building project. On the one hand, there is the Tower of Babel, where collective effort follows a plan that dominates and ultimately dehumanizes (cf. Gen 11:1-9). On the other hand, there are the ruins of Jerusalem, which under Nehemiah’s direction are rebuilt piece by piece as a project of shared responsibility (cf. Neh 2–6). We are called to reflect on the great “construction sites” of our era and ask: What are we building? As technological development rapidly transforms languages, relationships, institutions and forms of power, we believers must and can choose which projects to work on and in what manner, so as to safeguard and value the grandeur of humanity that has been given to us as a gift. This is a choice not only for our future but also for our present, since artificial intelligence and other emerging technologies are already part of our daily lives.
 
-<!-- p91 01:44 Ch3:: -->
+<!-- p91 01:44 Ch3::INTRO -->
 <a id=p091_ch3>91</a>. I am convinced that the concrete way of living out social relationships in the light of the Gospel is not established once and for all, but remains a task entrusted, from generation to generation, to the Christian community. Under the guidance of the Holy Spirit, the Church allows herself to be enlightened by God’s word, reads the signs of the times and creatively seeks new ways for relationships between peoples and nations to become ever more conformed to the demands of the Kingdom of God.[^118] For this reason, I encourage all members of the Church not to be afraid of the present challenges, but to listen to one another and firmly embrace their responsibilities in building a more humane and fraternal society.
 
 <!-- ------------------------------------------------------------------------------------ -->
@@ -889,13 +889,13 @@ To renounce this adventure, both tragic and splendid, in the name of a presumed 
 <!-- p121 31:24 Ch3::LOST::GRANDEUR -->
 <a id=p121_ch3_must>121</a>. The moral corruption of our limitations as created beings — namely the evil that clearly agitates the human heart — ruins society and life, at times reaching extreme forms of inhumanity. Yet even these painful expressions of our limitations leave openings for the good. Even when persons dehumanize themselves and bring about tragedy, a small light continues to shine within humanity, one that can be rekindled, with God’s grace, along paths of conversion and reconciliation. As Viktor Frankl rightly observed, in moments of horror, “we have come to know man as he really is. After all, man is that being who invented the gas chambers of Auschwitz; however, he is also that being who entered those gas chambers upright, with the Lord’s Prayer or the Shema Yisrael on his lips.”[^133]
 
-<!-- p122 32:20 Ch3::LOST::GRANDEUR::ART -->
+<!-- p122 32:20 Ch3::LOST::GRANDEUR:: Art -->
 <a id=p122_ch3_must>122</a>. Finitude, when truly accepted, does not diminish us but opens us to recognizing the face of God and others. Indeed, precisely because we experience limits — vulnerability, suffering and failure — we can recognize the inviolable dignity of every person, both our own and that of others. In this same experience, we remain capable of intuiting a fraternity greater than ourselves and of perceiving injustice as a scandal. Authentic culture and art preserve this spark, resisting the normalization of evil. For this reason, certain works have taken on an almost prophetic significance: Beethoven’s Ninth Symphony can be seen as a desire for unity; Guernica as a denunciation of dehumanization; Schindler’s List as a call not to consign the past to oblivion.
 
-<!-- p123 33:14 Ch3::LOST::GRANDEUR::PROGRESS -->
+<!-- p123 33:14 Ch3::LOST::GRANDEUR:: Progress -->
 <a id=p123_ch3_must>123</a>. History does not appear solely as a record of human violence, but also as evidence that humanity is capable of creating institutions that protect our shared life. Over the past two centuries, this can be seen in several emblematic achievements: the founding of the International Committee of the Red Cross (1863), whose operational neutrality ensures compassionate care for all; the long process that led to the abolition of slavery, which represented not only a legal shift but a transformation of conscience; the establishment of the United Nations (1945) and the Universal Declaration of Human Rights (1948), which articulated a shared language for affirming, at least as a common ideal, the universality of human dignity; and the 1951 Refugee Convention, which recognizes the duty to protect those fleeing persecution and danger. In each of these cases, the desire for good took concrete shape in public contexts — laws, institutions and practices — capable of limiting the abuse of power and defending the vulnerable.  Yet none of these developments emerged without encountering resistance, narrow interests or cultural inertia. Moral progress almost always unfolds through a long and demanding journey, often marked by setbacks. We need only think of stalled peace processes or the slow implementation of environmental commitments. The very fragility of these achievements highlights how precious the responsibility is of those who initiate and sustain them.
 
-<!-- p124 34:47 Ch3::LOST::GRANDEUR::CIVILRIGHTS -->
+<!-- p124 34:47 Ch3::LOST::GRANDEUR::  Civil rights -->
 <!-- https://www.americamagazine.org/podcasts/2026/05/28/pope-leo-ai-encyclical-podcast/ 12:00  35:00 -->
 <a id=p124_ch3_must>124</a>. Certain events make it clear that history can also change when individuals truly take the dignity of everyone seriously: the civil rights movement in the United States of America, closely associated with the testimony of **Martin Luther King Jr.**, or the end of apartheid in South Africa following the release of **Nelson Mandela** and his decision not to surrender the future to hatred. In different contexts, many courageous and generous women have also stood out, including **Saint Laura Montoya**, **Saint Teresa of Calcutta**, **Dorothy Day**, **Marie Skłodowska-Curie**, **Maria Montessori**, **Elisabeth Elliot**, **Wangari Maathai**, **Benazir Bhutto** and countless others from every continent whose commitment has contributed to making history more humane.
 
