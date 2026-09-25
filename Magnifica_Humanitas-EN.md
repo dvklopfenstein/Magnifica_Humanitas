@@ -106,23 +106,23 @@ IN THE TIME OF ARTIFICIAL INTELLIGENCE
 
 <!-- p1  00:18 BEGIN::INTRO --------------------------- INTRODUCTION -------------------------- -->
 <a id=p001_intro>1</a>. <!--
-Qp1a: --> Humanity, created by God in all its grandeur, is today facing a pivotal choice: <!--
+Qp1ba: --> Humanity, created by God in all its grandeur, is today facing a pivotal choice: <!--
 A: --> either to construct a new Tower of Babel or to build the city in which God and humanity dwell together. <!--
-Qp1b: --> Each generation inherits the task of shaping its own era, of guiding history to become <!--
+Qp1bb: --> Each generation inherits the task of shaping its own era, of guiding history to become <!--
 A: --> a place where the dignity of every person is safeguarded, justice is promoted and fraternity is made possible. <!--
-Qp1c: --> Yet every era also runs the risk of creating <!-- what?
+Qp1bc: --> Yet every era also runs the risk of creating <!-- what?
 A: --> an inhumane and more unjust world. <!--
-Qp1d: What do we do --> Whenever humanity is in danger of marring its true identity, <!--
+Qp1bd: What do we do --> Whenever humanity is in danger of marring its true identity, <!--
 A: --> we Christians lift our eyes to the Incarnate God, knowing that it is “only in the mystery of the Word made flesh that the mystery of humanity truly becomes clear.”[^apple] <!--
-Qp1e: --> In Jesus Christ, this humanity in its grandeur becomes <!-- what?
+Qp1be: --> In Jesus Christ, this humanity in its grandeur becomes <!-- what?
 A: --> the Way, the Truth and the Life, opening the path for each of us to grow toward fullness.
 
 <!-- p2  01:37 BEGIN::INTRO:: Thy Will be Done -->
 <a id=p002_intro>2</a>. Founded on Christ, the living stone, we experience the powerful and mysterious action of the Holy Spirit, and <!--
-Qp2b: Outcome of: --> we believe that every authentic human effort to cooperate with him <!-- (Christ, the living stone) --> for the good will be blessed by our heavenly Father, in whom we place our hope. <!--
+Qp2bb: Outcome of: --> we believe that every authentic human effort to cooperate with him <!-- (Christ, the living stone) --> for the good will be blessed by our heavenly Father, in whom we place our hope. <!--
 A: --> For this reason, we can diligently contribute to every initiative that builds a more just world, and we can call others to collaborate in promoting the integral development of every human being.
 We wish to engage in dialogue with all men and women of our time, with whom we share in the events, questions and aspirations of humanity.[^pear] <!--
-Qp2c: --> Together with them, <!-- (all men and women of our time) --> we seek <!-- what?
+Qp2bc: --> Together with them, <!-- (all men and women of our time) --> we seek <!-- what?
 A: --> to identify new paths for the common good and for promoting a dignified life for all.
 Indeed, openness to dialogue is an integral part of the Church’s vocation because,
 constituted in Christ as “a sacrament… of communion with God and of the unity of the entire human race,”[^3]
@@ -133,18 +133,18 @@ A: --> as the place where the Gospel challenges and directs human experience.
 <!-- https://www.americamagazine.org/podcasts/2026/05/28/pope-leo-ai-encyclical-podcast/ 12:00 -->
 <!-- p3  03:08 BEGIN::INTRO:: 1891 Pope Leo XIII's Rerum Novarum (New Things): Church Social Doctrine (teaching) -->
 <a id=p003_intro>3</a>. In this spirit, <!--
-Qp3a: --> Pope Leo XIII published his Encyclical [Rerum Novarum](https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html) in <!-- what year?
+Qp3ba: --> Pope Leo XIII published his Encyclical [Rerum Novarum](https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html) in <!-- what year?
 A: --> 1891, the 135th anniversary of which we celebrate with deep gratitude this year.
 With that document, my beloved predecessor gave impetus to <!--
-Qp3b: What does the "Social Doctrine of the Catholic Church" reflect upon?
+Qp3bb: What does the "Social Doctrine of the Catholic Church" reflect upon?
 A: --> the reflection on society, the economy and politics, which is now known as the “Social Doctrine of the Church.” <!--
-Qp3c: What is the response to this criticsm: -->
+Qp3bc: What is the response to this criticsm: -->
 When some objected that the Church should not waste energy on worldly matters, but instead focus on communicating the message of eternal life, <!--
 A: --> Leo XIII responded with realism and wisdom, saying that the proclamation of the Gospel cannot overlook the concrete lives of people.[^4]
 Many decades have passed since then, and the Magisterium, pastors, theologians and faithful have continued to reflect on social issues in the light of the Gospel. <!--
-Qp3d: What can we find in the Social Doctrine of the Church?
+Qp3bd: What can we find in the Social Doctrine of the Church?
 A: --> Today, the Social Doctrine of the Church is a legacy of wisdom, where we find principles for thought, criteria for discernment and judgment, and concrete guidelines for action. <!--
-Qp3e: What is the definition of "discernment" according to Unabridged Merriam-Webster?
+Qp3be: What is the definition of "discernment" according to Unabridged Merriam-Webster?
 A: the quality of being able to grasp and comprehend that which is hidden or obscure : readiness and accuracy in discriminating : keenness of insight; -->
 Founded on Sacred Scripture and Tradition, and in engagement with the sciences, it helps us clearly interpret the challenges of the present and
 identify appropriate ways for living out a clear Christian witness, with joy and in service to the world.
@@ -268,23 +268,23 @@ Following this perspective, Pope Francis emphasized that when dealing with many 
 
 <!-- p25 10:35 Ch1_DYNAMIC::JOURNEYING::SHARED:: truth of the Gospel -->
 <a id=p025_ch1_history>25</a>. <!--
-Qp25a: --> Understanding that the truth is a gift to be shared, not a <!-- what? And from what does this free the Church?
+Qp25ba: --> Understanding that the truth is a gift to be shared, not a <!-- what? And from what does this free the Church?
 A: --> possession to be monopolized, frees the Church from the temptation of seeking forms of presence based on power. <!--
-Qp25b: --> In order to rediscover the evangelical approach of a gentle proclamation of truth that is not imposed, <!-- what did Saint John Paul II invite us to examine?
+Qp25bb: --> In order to rediscover the evangelical approach of a gentle proclamation of truth that is not imposed, <!-- what did Saint John Paul II invite us to examine?
 A: --> Saint John Paul II invited us to examine honestly the times when acquiescence was given to “intolerance and even the use of violence in the service of truth.”[^16]
 In this same vein, I too have <!--
-Qp25c: Why has Pope Leo XIV --> reaffirmed that the Church “does not claim to possess a monopoly on truth,”[^17] <!--
+Qp25bc: Why has Pope Leo XIV --> reaffirmed that the Church “does not claim to possess a monopoly on truth,”[^17] <!--
 A: --> because truth is not a territory to be defended, but a good to be shared.
 For his part, Pope Francis expressed this same perspective in his striking phrase, <!--
-Qp25d: To what does Pope Francis' striking phrase --> “time is greater than space.”[^18] refer? <!--
+Qp25bd: To what does Pope Francis' striking phrase --> “time is greater than space.”[^18] refer? <!--
 A: --> What matters most is not occupying positions of power or defending cultural strongholds, but initiating good processes and enabling them to mature. <!--
-Qp25e: --> In this way<!--(not forcing dominance but rather initiating good processes)-->, the truth of the Gospel is not imposed from above, but <!-- does what?
+Qp25be: --> In this way<!--(not forcing dominance but rather initiating good processes)-->, the truth of the Gospel is not imposed from above, but <!-- does what?
 A: --> grows over time within the concrete interweaving of lives, communities and cultures. <!--
-Qp25f: Does truth fear diversity?
+Qp25bf: Does truth fear diversity?
 A: --> This is not a truth that fears diversity, but instead welcomes and guides it. <!--
-Qp25g: What does truth do in regards to conflicts?
+Qp25bg: What does truth do in regards to conflicts?
 A: --> It does not eliminate conflicts, but transforms them, reuniting that which history tends to scatter. <!--
-Qp25h: What image does Pope Leo XIV use to illustrate the truth of the Gospel growing over time within the concrete interweaving of lives, communities and cultures?
+Qp25bh: What image does Pope Leo XIV use to illustrate the truth of the Gospel growing over time within the concrete interweaving of lives, communities and cultures?
 A: --> This concept can also be illustrated by the image of a multifaceted polyhedron, [^19] in which the one truth of the Gospel is reflected from different angles.
 
 <!-- p26 12:07 Ch1_DYNAMIC::JOURNEYING::SHARED:: many peoples        -->
@@ -304,11 +304,11 @@ Having outlined the way in which the Church is present in history and engages in
 I would now like to consider the development of Social Doctrine in the Magisterium,
 which has responded to the major social transformations from the nineteenth century to the present day.
 Naturally, I cannot do justice to the full richness of this teaching, whose <!--
-Qp28c: What document contains the --> fundamental principles <!-- of Social Doctrine in the Magisterium 
+Qp28bc: What document contains the --> fundamental principles <!-- of Social Doctrine in the Magisterium 
 A: Fundamental principles of Social Doctrine in the Magisterium --> are presented in the [***Compendium of the Social Doctrine of the Church***](https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html) 
 and have been further examined by recent Magisterial teaching.
 Nor can I systematically explore everything that has been <!--
-Qp28d: Which two recent Magisterial documents are further --> developed in the Encyclicals of my <!-- (Pope Leo XIV's) --> late venerable predecessors, especially in <!-- what?
+Qp28bd: Which two recent Magisterial documents are further --> developed in the Encyclicals of my <!-- (Pope Leo XIV's) --> late venerable predecessors, especially in <!-- what?
 A: --> [***Laudato Si’***](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html) and [***Fratelli Tutti***](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html).
 Nevertheless, I will emphasize some essential points in order to show how the present text stands in continuity with that tradition.
 I would also like to stress how, within this tradition, the unchanging core of revealed truths regarding the human person and society is constantly intertwined with a renewed capacity for listening to historical situations and for responding to contemporary issues.
@@ -406,19 +406,19 @@ but must be ordered toward the common good, for which the political community be
 
 <!-- p45 38:50 Ch1_DYNAMIC::DEVEL::HISTORY -->
 <a id=p045_ch1_social>45</a>. Considering this historical overview, it is clear that <!--
-Qp45a: --> the Church’s Social Doctrine is not the result of a project devised at a desk, but rather the product of <!-- what?
+Qp45ba: --> the Church’s Social Doctrine is not the result of a project devised at a desk, but rather the product of <!-- what?
 A: --> a patient process in which each pontiff — together with the Second Vatican Council — made a unique contribution in light of the “new things” of each particular era. <!--
-Qp45b: --> In response to the challenges of their <!-- (each pontiff) --> time, each one interpreted historical changes according to the Gospel, bringing to light different aspects of a single heritage: <!-- what are the seven aspects to Social Doctrine (teaching)?
+Qp45bb: --> In response to the challenges of their <!-- (each pontiff) --> time, each one interpreted historical changes according to the Gospel, bringing to light different aspects of a single heritage: <!-- what are the seven aspects to Social Doctrine (teaching)?
 A: --> the dignity of the person, the value of work, the universal destination of goods, solidarity and subsidiarity, care for creation and the centrality of peace and fraternity.  <!--
 https://www.americamagazine.org/podcasts/2026/05/28/pope-leo-ai-encyclical-podcast/
-Qp45c: --> The result <!-- (of the seven aspects of social teaching) --> is a harmonious, though not always linear, development that is marked by different emphases, progressive insights, and, at times, changes in perspective that do <!-- do what?
+Qp45bc: --> The result <!-- (of the seven aspects of social teaching) --> is a harmonious, though not always linear, development that is marked by different emphases, progressive insights, and, at times, changes in perspective that do <!-- do what?
 A: do --> not break with what came before, but allow its implications to mature. <!--
-Qp45d: --> If today we can speak of a corpus of shared principles and criteria<!-- (of the seven aspects of social teaching) -->, it is because <!-- why?
+Qp45bd: --> If today we can speak of a corpus of shared principles and criteria<!-- (of the seven aspects of social teaching) -->, it is because <!-- why?
 A: --> this faith-based interpretation of history has never been interrupted, remaining ever open to the challenges posed by each generation. <!--
-Qp45e: --> It is to the great principles of Social Doctrine, which direct the discernment of believers in their <!-- what?
+Qp45be: --> It is to the great principles of Social Doctrine, which direct the discernment of believers in their <!-- what?
 A: --> personal and public lives,
 that <!--
-Qp45f: --> I <!-- (Pope Leo XIV) --> now wish to turn our attention, in order to <!-- do what?
+Qp45bf: --> I <!-- (Pope Leo XIV) --> now wish to turn our attention, in order to <!-- do what?
 A: --> grasp more effectively their <!-- (the seven aspects of Social Doctrine) --> internal coherence and capacity to guide our times.
 
 <!-- ===================================================================================== -->
@@ -714,37 +714,37 @@ For this reason, technological progress — valuable in itself — requires care
 First, any statement regarding AI risks becoming quickly outdated, given the remarkable pace at which these systems are developing.
 Second, all of us, including those who design them, possess only a limited understanding of their actual functioning.
 Indeed, <!--
-Qp98c: Why are the --> current AI systems are more “cultivated” than “built,” <!--
+Qp98bc: Why are the --> current AI systems are more “cultivated” than “built,” <!--
 A: --> for developers do not directly design every detail, but instead create a framework within which the intelligence “grows.” <!--
-Qp98d: What is the result of AI systems being more "cultivated" than "built?"
+Qp98bd: What is the result of AI systems being more "cultivated" than "built?"
 A: --> As a result, fundamental scientific aspects — such as the internal representations and computational processes of these systems — remain, at present, unknown.
 There thus <!--
-Qp98e: What -->emerges an urgent need for a twofold commitment: <!-- regarding artificial intelligence?
+Qp98be: What -->emerges an urgent need for a twofold commitment: <!-- regarding artificial intelligence?
 A: --> on the one hand, a deepening of scientific research; on the other, the exercise of moral and spiritual discernment.
 
 <!-- p99  08:00 Ch3::AI::INTRO -->
 <a id=p099_ch3_AI>99</a>. It is not possible to provide a single, comprehensive definition of AI.
 What can be stated, however, is that we must avoid the misconception of equating this type of “intelligence” with that of human beings.
 These systems <!--
-Qp99c: Artificial intelligence --> merely imitate certain functions of <!-- what?
+Qp99bc: Artificial intelligence --> merely imitate certain functions of <!-- what?
 A: --> human intelligence.
 In doing so, they often surpass human intelligence in speed and computational capacity, offering tangible benefits across many fields.
 Yet this <!--
-Qp99d: The --> power <!-- of artificial intelligence --> remains entirely tied to <!-- what?
+Qp99bd: The --> power <!-- of artificial intelligence --> remains entirely tied to <!-- what?
 A: --> data processing. <!--
-Qp99e: --> So-called artificial intelligences do not <!-- what?
+Qp99be: --> So-called artificial intelligences do not <!-- what?
 A: --> undergo experiences, do not possess a body, do not feel joy or pain, do not mature through relationships and do not know from within what love, work, friendship or responsibility mean. <!--
-Qp99f: What are the affects of artificial intelligence not having a moral conscience?
+Qp99bf: What are the affects of artificial intelligence not having a moral conscience?
 A: --> Nor do they have a moral conscience, since they do not judge good and evil, grasp the ultimate meaning of situations, or bear responsibility for consequences.
 They <!--
-Qp99g: Artificial intelligence --> may imitate language, behavior and analytical skills, or even simulate empathy and understanding, but they do not understand what <!--?
+Qp99bg: Artificial intelligence --> may imitate language, behavior and analytical skills, or even simulate empathy and understanding, but they do not understand what <!--?
 A: Artificial intelligence does not understand what --> they produce, for they lack the affective, relational and spiritual perspective through which human beings grow in wisdom. <!--
-Qp99h: --> Even when these tools <!-- (artificial intelligence) --> are described as capable of “learning,” their way of doing so is different from that of <!-- what?
+Qp99bh: --> Even when these tools <!-- (artificial intelligence) --> are described as capable of “learning,” their way of doing so is different from that of <!-- what?
 A: --> a human person.
 It is not the <!--
-Qp99i: Artificial intelligence's --> experience <!-- is not the same as --> of those who <!-- do what?
+Qp99bi: Artificial intelligence's --> experience <!-- is not the same as --> of those who <!-- do what?
 A: --> allow themselves to be shaped by life and grow over time through choices, mistakes, forgiveness and fidelity. <!--
-Qp99j: --> Rather, it <!-- (artificial intelligence) --> is a form of <!-- what?
+Qp99bj: --> Rather, it <!-- (artificial intelligence) --> is a form of <!-- what?
 A: --> statistical adaptation based on data and feedback, which can be very effective, but does not imply inner growth.
 
 <!-- Ch3 B.1 AI::TOOL --- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
@@ -753,17 +753,17 @@ A: --> statistical adaptation based on data and feedback, which can be very effe
 <!-- p100 09:45 Ch3::AI::TOOL -->
 <a id=p100_ch3_AI>100</a>. In light of what has been said, we can better understand why AI can be a valuable tool and, at the same time, why it calls for a measured and vigilant approach.
 In recent years, its private use has expanded significantly, prompting growing reflection on both the opportunities it offers and the risks tied to its rapid spread.<!--
-Qp100c: --> In personal use, <!-- what --> three aspects <!-- of artificial intelligence --> in particular deserve careful consideration: <!--
+Qp100bc: --> In personal use, <!-- what --> three aspects <!-- of artificial intelligence --> in particular deserve careful consideration: <!--
 A: --> the ease with which results are obtained, the impression of objectivity and the simulation of human communication.<!--
-Qp100d: --> The speed and simplicity with which information, complex analyses, media content and practical assistance <!-- that artificial intelligence --> can be accessed undoubtedly makes life easier. Yet they can also encourage <!-- what?
+Qp100bd: --> The speed and simplicity with which information, complex analyses, media content and practical assistance <!-- that artificial intelligence --> can be accessed undoubtedly makes life easier. Yet they can also encourage <!-- what?
 A: --> excessive reliance and the search for ready-made answers, and weaken personal creativity and judgment. <!--
-Qp100d: --> The apparent objectivity of the responses and suggestions these systems <!-- (artificial intelligence) --> provide can lead us to overlook <!-- what?
+Qp100bd: --> The apparent objectivity of the responses and suggestions these systems <!-- (artificial intelligence) --> provide can lead us to overlook <!-- what?
 A: --> the fact that they reflect the cultural assumptions of those who designed and trained them, with all their strengths and limitations. <!--
-Qp100e: --> The artificial imitation of positive human communication — words of advice, empathy, friendship and even love — can be engaging and at times genuinely helpful. However, for less discerning users, it can also be <!-- what?
+Qp100be: --> The artificial imitation of positive human communication — words of advice, empathy, friendship and even love — can be engaging and at times genuinely helpful. However, for less discerning users, it can also be <!-- what?
 A: --> misleading, creating the illusion of a relationship with a real personal subject. <!--
-Qp100f: --> When words are simulated, they do not build <!-- what?
+Qp100bf: --> When words are simulated, they do not build <!-- what?
 A: --> genuine relationships, but only their appearance. <!--
-Qp100g: --> The artificial imitation of care or support can become particularly risky when it enters contexts where real relationships and emotional bonds are lacking. Here, the danger is not so much that a person may believe they are communicating with another person, but rather <!-- what?
+Qp100bg: --> The artificial imitation of care or support can become particularly risky when it enters contexts where real relationships and emotional bonds are lacking. Here, the danger is not so much that a person may believe they are communicating with another person, but rather <!-- what?
 A: --> that they may gradually lose the very desire to form genuine human connections.
 
 <!-- p101 11:45 Ch3::AI::TOOL -->
@@ -859,12 +859,12 @@ For this reason, a clear distinction must be made. It is one thing to integrate 
 
 <!-- p118 28:44 Ch3::LOST::GRANDEUR -->
 <a id=p118_ch3_must>118</a>. <!--
-Qp118a: --> Our relationship with life seems to be <!--
+Qp118ba: --> Our relationship with life seems to be <!--
 A: --> in crisis today. 
 Everything that <!--
-Qp118b: What --> appears as a “limit” <!-- for humans?--> — <!--
+Qp118bb: What --> appears as a “limit” <!-- for humans?--> — <!--
 A: --> incapacity, illness, old age, suffering, vulnerability — tends to be seen primarily as a defect to be corrected, rather than as a reality through which our humanity matures and opens itself to relationship. <!--
-Qp118c: --> And yet we must remember that humanity flourishes not despite limitations, but <!-- what?
+Qp118bc: --> And yet we must remember that humanity flourishes not despite limitations, but <!-- what?
 A: -->often through them.
 The light of faith offers a perspective on reality that helps us recognize what we call the “contingency” of the things of this world.
 While it is right to strive to alleviate the suffering that marks human life, it is also wise to acknowledge our fundamental finitude, knowing that “religious experience, and in particular Christian faith, propose that we live, without oversimplification, this ambivalence between human greatness and limitation, interpreting it in the light of our original and fundamental relationship with God.”[^131]
@@ -874,11 +874,11 @@ While it is right to strive to alleviate the suffering that marks human life, it
 
 <!-- p120 30:30 Ch3::LOST::GRANDEUR -->
 <a id=p120_ch3_must>120</a>. <!--
-Qp120a: --> Even when limitations are experienced as inner suffering, human wisdom teaches us <!-- what?
+Qp120ba: --> Even when limitations are experienced as inner suffering, human wisdom teaches us <!-- what?
 A: --> not to deny or suppress it, but to integrate it. <!--
-Qp120b: --> To eliminate suffering entirely would mean, in the end, extinguishing <!-- what?
+Qp120bb: --> To eliminate suffering entirely would mean, in the end, extinguishing <!-- what?
 A: --> love and desire as well. <!--
-Qp120c: --> Those who love and desire cannot avoid passing through <!-- what?
+Qp120bc: --> Those who love and desire cannot avoid passing through <!-- what?
 A: -->trial and suffering;
 and over the years, we carry within us lessons that leave their mark like scars,
 the memories of a journey shaped by freedom and failure, dreams and disappointments.
@@ -1110,48 +1110,48 @@ Schools are not called to follow the pace of the digital world, but to offer tha
 
 <!-- p148 22:35 Ch4_SAFEGUARDING::WORK::VALUE:: “the essential key” -->
 <a id=p148_ch4_work>148</a>. <!--
-Qp148a: --> Since the emergence of her Social Doctrine, beginning with Rerum Novarum, the Church has emphasized the protection of <!-- who? From what?
+Qp148ba: --> Since the emergence of her Social Doctrine, beginning with Rerum Novarum, the Church has emphasized the protection of <!-- who? From what?
 A: --> workers and the need to combat all forms of exploitation. <!--
-Qp148b: --> Above all, however, the Magisterium has recognized in work “the essential key”[^150] to understanding the entire social question, since it is through their work that individuals <!-- do what?
+Qp148bb: --> Above all, however, the Magisterium has recognized in work “the essential key”[^150] to understanding the entire social question, since it is through their work that individuals <!-- do what?
 A: --> develop many dimensions of their existence. <!--
-Qp148c: --> In view of this<!--(through work individuals develop many dimensions of their existence)-->, we can understand the great intuition of Saint Benedict of Nursia, who united <!--- what two things?
+Qp148bc: --> In view of this<!--(through work individuals develop many dimensions of their existence)-->, we can understand the great intuition of Saint Benedict of Nursia, who united <!--- what two things?
 A: --> prayer and work,
 showing <!--
-Qp148d: Saint Benedict of Nursia's intuition uniting prayer and work showed that --> daily activity to be a part of <!-- what?
+Qp148bd: Saint Benedict of Nursia's intuition uniting prayer and work showed that --> daily activity to be a part of <!-- what?
 A: --> the human response to God’s call. <!--
-Qp148e: --> Created in the image of the Creator, our own work <!-- does what?
+Qp148be: --> Created in the image of the Creator, our own work <!-- does what?
 A: --> in some way continues his<!--(God's work as Creator)-->, <!--
-Qp148f: What does our daily activity of work allow us to: contribute to? put to good use what? improve and beautify what? support what? engage in cooperative what? and through listening and dialogue, learn to do what?
+Qp148bf: What does our daily activity of work allow us to: contribute to? put to good use what? improve and beautify what? support what? engage in cooperative what? and through listening and dialogue, learn to do what?
 A: --> for thereby we contribute to the progress of society and the common good, put to good use the capabilities we have received, improve and beautify the world, support our families, engage in cooperative relationships and, through listening and dialogue, learn to build together something that no one could achieve alone.
 
 <!-- p149 23:55 Ch4_SAFEGUARDING::WORK::VALUE:: live with dignity through our own work -->
 <a id=p149_ch4_work>149</a>. <!--
-Qp149a: --> For these reasons<!--(our work in some ways continues God's creation)-->, work is not simply an instrument; it expresses and enhances <!-- what?
+Qp149ba: --> For these reasons<!--(our work in some ways continues God's creation)-->, work is not simply an instrument; it expresses and enhances <!-- what?
 A: --> the dignity of our lives.
 It <!--
-Qp149b: What --> is a requirement of the human condition, a normal path toward maturity, development and personal fulfilment. <!--
+Qp149bb: What --> is a requirement of the human condition, a normal path toward maturity, development and personal fulfilment. <!--
 A: Work -->
 In this regard, <!--
-Qp149c: --> financial assistance to the poor may at times be necessary <!-- when?
+Qp149bc: --> financial assistance to the poor may at times be necessary <!-- when?
 A: --> in emergencies, but it cannot become the sole response, since <!-- we should all have access to dignified work.
 Q149d: Regarding work, --> the goal is to enable each person to <!-- do what?
 A: --> live with dignity through his or her own work.[^151]
 
 <!-- p150 24:35 Ch4_SAFEGUARDING::WORK::VALUE:: stifles our innovation -->
 <a id=p150_ch4_work>150</a>. <!--
-Qp150a: --> Today, the convergence of automation, robotics and AI is <!-- doing what to work?
+Qp150ba: --> Today, the convergence of automation, robotics and AI is <!-- doing what to work?
 A: --> rapidly transforming the very structure of work. <!--
-Qp150b: What positive effect is claimed regarding the convergence of automation, robotics and AI
+Qp150bb: What positive effect is claimed regarding the convergence of automation, robotics and AI
 A: --> It is said that this will bring great improvements for everyone. <!--
-Qp150c: Will the convergence of automation, robotics and AI make work better?
+Qp150bc: Will the convergence of automation, robotics and AI make work better?
 A: --> In reality, however, the “new ways” of working are not necessarily better, <!--
-Qp150d: --> for “while AI promises to boost productivity by taking over mundane tasks, it frequently forces workers to adapt to <!-- what?
+Qp150bd: --> for “while AI promises to boost productivity by taking over mundane tasks, it frequently forces workers to adapt to <!-- what?
 A: --> the speed and demands of machines, rather than machines being designed to support those who work. <!--
-Qp150e: What are the three drawbacks to workers of AI as it is currently being used?
+Qp150be: What are the three drawbacks to workers of AI as it is currently being used?
 A: --> As a result, contrary to the advertised benefits of AI, current approaches to technology can paradoxically de-skill workers, subject them to automated surveillance and relegate them to rigid and repetitive tasks. <!--
-Qp150e: --> The need to keep up with the pace of technology can erode <!-- and stifle workers what?
+Qp150be: --> The need to keep up with the pace of technology can erode <!-- and stifle workers what?
 A: Erode --> workers’ sense of agency and stifle the innovative abilities they are expected to bring to their work.”[^152] <!--
-Qp150f: --> Precisely in order to avoid this drift<!-- (of stifling the innovative abilities we are expected to bring to our work)-->, it is necessary to <!-- do what?
+Qp150bf: --> Precisely in order to avoid this drift<!-- (of stifling the innovative abilities we are expected to bring to our work)-->, it is necessary to <!-- do what?
 A: --> design systems that are centered on the human person and not solely on performance.
 
 <!-- Ch4 B.2 WORK - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
@@ -1159,16 +1159,16 @@ A: --> design systems that are centered on the human person and not solely on pe
 
 <!-- p151 26:00 Ch4_SAFEGUARDING::WORK::UNEMPLOYMENT:: a grave evil -->
 <a id=p151_ch4_work>151</a>. <!--
-Qp151a: --> Saint John Paul II recognized that unemployment is <!-- what?
+Qp151ba: --> Saint John Paul II recognized that unemployment is <!-- what?
 A: --> a grave evil. <!--
-Qp151b: --> Indeed, when it <!-- (unemployment) --> reaches massive proportions, it becomes <!-- what?
+Qp151bb: --> Indeed, when it <!-- (unemployment) --> reaches massive proportions, it becomes <!-- what?
 A: --> a true social calamity that especially requires the State to exercise responsibility.[^153] <!--
-Qp151c: --> Today, amid the “fourth industrial revolution,” this concern <!-- (unemployment) --> is even more acute, as innovation is often pursued solely for <!-- what two things?
+Qp151bc: --> Today, amid the “fourth industrial revolution,” this concern <!-- (unemployment) --> is even more acute, as innovation is often pursued solely for <!-- what two things?
 A: --> reducing costs and increasing profits.[^154]
 In some contexts, <!--
-Qp151d: --> there is a legitimate fear of a significant and rapid contraction in <!-- what?
+Qp151bd: --> there is a legitimate fear of a significant and rapid contraction in <!-- what?
 A: --> available jobs that would create a chain reaction deeply impacting families, young people and local economies. <!--
-Qp151e: --> In many sectors, this <!--(work "transformation") --> can already be seen in new forms of <!-- what?
+Qp151be: --> In many sectors, this <!--(work "transformation") --> can already be seen in new forms of <!-- what?
 A: --> job insecurity and inequality, characterized by outsized remuneration for a highly specialized minority alongside declining wages for a large portion of the workforce.
 
 <!-- p152 27:10 Ch4_SAFEGUARDING::WORK::UNEMPLOYMENT -->
@@ -1182,18 +1182,18 @@ A: --> job insecurity and inequality, characterized by outsized remuneration for
 
 <!-- p155 31:30 Ch4_SAFEGUARDING::WORK::UNEMPLOYMENT -->
 <a id=p155_ch4_work>155</a>. In light of this conviction, we can better appreciate the history of the Church’s Social Doctrine after Rerum Novarum. <!--
-Qp155a: What are the initiatives which emerged from the tradition of the Church's Social Doctrine after Rerum Novarum?
+Qp155ba: What are the initiatives which emerged from the tradition of the Church's Social Doctrine after Rerum Novarum?
 A: --> The initiatives which emerged from that tradition, including associations, trade unions, cooperatives and welfare organizations, <!--
-Qp155b: What was the result of the initiatives emerging from the Social Doctrine tradition launched by Rerum Novarum?
+Qp155bb: What was the result of the initiatives emerging from the Social Doctrine tradition launched by Rerum Novarum?
 A: --> have contributed decisively to improving labor legislation, protecting the most vulnerable and promoting more humane conditions.[^156] <!--
-Qp155c: Are these sufficient to protect humanity in the digital age: improving labor legislation, protecting the most vulnerable and promoting more humane conditions?
+Qp155bc: Are these sufficient to protect humanity in the digital age: improving labor legislation, protecting the most vulnerable and promoting more humane conditions?
 A: --> Today, however, these instruments are no longer sufficient by themselves in the face of the transformations driven by AI, the new organization of markets and the competitiveness that is rarely concerned with social sustainability. <!--
-Qp155d: What types of organization and leaders are now needed to develop rapidly adequate shared regulations and protections, including at the international level?
+Qp155bd: What types of organization and leaders are now needed to develop rapidly adequate shared regulations and protections, including at the international level?
 A: --> New collaborative efforts are needed among political leaders, labor organizations, the business world and the scientific community in order to develop rapidly adequate shared regulations and protections, including at the international level.[^157] <!--
-Qp155e: What does Magnifica Humanitas call upon labor unions to do now?
+Qp155be: What does Magnifica Humanitas call upon labor unions to do now?
 A: --> Labor unions, which the Church has consistently supported, are called upon to be open to new types of employment and the corresponding needs of workers, in order to represent and defend them. 
 In this context, <!--
-Qp155f: --> without bold decisions<!-- to support labor, what looms large? -->, <!--
+Qp155bf: --> without bold decisions<!-- to support labor, what looms large? -->, <!--
 A: --> the prospect of greater poverty and inequality looms large, which would leave many individuals marginalized, stranded and surrounded by the machines and automated systems that have replaced them.
 
 <!-- p156 33:10 Ch4_SAFEGUARDING::WORK::UNEMPLOYMENT -->
@@ -1528,50 +1528,50 @@ as well as allowing AI models to establish appropriate boundaries.
 
 <!-- p201 19:00 Ch5::POWER::MULTILATERALISM:: the crisis of the multilateral system      -->
 <a id=p201_ch5_power>201</a>. <!--
-Qp201a: --> The culture of power also stems from the crisis of the multilateral system. <!-- What is the multilateral system?
+Qp201ba: --> The culture of power also stems from the crisis of the multilateral system. <!-- What is the multilateral system?
 A: --> The institutions established to safeguard the concept of a common future for all peoples and a global common good
 appear to have <!--
-Qp201b: What caused the crisis of the multilateral system?
+Qp201bb: What caused the crisis of the multilateral system?
 A: The multilateral system has --> been weakened. <!--
-Qp201c: To what three things is the weakened multilateral system (which is in crisis) attributed?
+Qp201bc: To what three things is the weakened multilateral system (which is in crisis) attributed?
 A: --> This is due not only to structural limitations, but also to a frequent lack of shared will to support and reform them, or to recognize their moral authority.
 Instead of making progress, we are regressing from the significant turning point of the twentieth century. <!--
-Qp201e: --> After 1989, the collapse of communist regimes in Europe was followed by <!-- predominantly what?
+Qp201be: --> After 1989, the collapse of communist regimes in Europe was followed by <!-- predominantly what?
 A: --> a predominantly economic globalization,
 which lacked <!--
-Qp201f: The economic globalization occuring after the collapse of communist regimes in 1989 lacked what?
+Qp201bf: The economic globalization occuring after the collapse of communist regimes in 1989 lacked what?
 A: --> an adequate political framework capable of sustaining dialogue and peace. <!--
-Qp201g: --> An almost blind faith was placed in the ability of the markets to <!-- do what three things?
+Qp201bg: --> An almost blind faith was placed in the ability of the markets to <!-- do what three things?
 A: --> generate prosperity, democracy and stability. <!--
-Qp201h: --> In reality, rather than automatically generating unity and peace, <!--(ecomonic)--> globalization has <!-- done what?
+Qp201bh: --> In reality, rather than automatically generating unity and peace, <!--(ecomonic)--> globalization has <!-- done what?
 A: --> provoked fundamentalist, identity-based and nationalistic reactions. <!--
-Qp201i: What is the result of ecomonic globalization provoking fundamentalist, identity-based and nationalistic reactions?
+Qp201bi: What is the result of ecomonic globalization provoking fundamentalist, identity-based and nationalistic reactions?
 A: --> The result is a far cry from genuine multilateralism; instead, what has appeared is a disorderly and conflict-ridden multipolarism with a prevailing sense of mistrust.
 
 <!-- p202 20:15 Ch5::POWER::MULTILATERALISM:: fueling narratives with devastating effect -->
 <a id=p202_ch5_power>202</a>. <!--
-Qp202a: What temptation has re-emerged due to the crisis in multilateralism and its resulting ecomonic globalization?
+Qp202ba: What temptation has re-emerged due to the crisis in multilateralism and its resulting ecomonic globalization?
 A: --> What has also re-emerged is the temptation to forge a collective identity in opposition to an enemy,
 fueled by narratives <!--
-Qp202b: Forging a collective identity in opposition to an enemy does what?
+Qp202bb: Forging a collective identity in opposition to an enemy does what?
 A: Fuels narratives --> in which each party portrays itself as a victim entitled to retribution. <!--
-Qp202c: --> The reduction of complex issues into simplistic categories — “me first,” “friend or foe,” “us or them” — facilitates <!-- what?
+Qp202bc: --> The reduction of complex issues into simplistic categories — “me first,” “friend or foe,” “us or them” — facilitates <!-- what?
 A: --> decisions that are often irresponsible and undermine mutual trust among nations. <!--
-Qp202d: With the crisis of multilateralism, --> The force of international law is thus replaced by <!-- what?
+Qp202bd: With the crisis of multilateralism, --> The force of international law is thus replaced by <!-- what?
 A: --> the claim that “might makes right.”
 Consequently, <!--
-Qp202e: With the crisis of multilateralism, --> tribunals that are competent for settling disputes between States or dealing with war crimes are often <!-- what?
+Qp202be: With the crisis of multilateralism, --> tribunals that are competent for settling disputes between States or dealing with war crimes are often <!-- what?
 A: --> weakened or bypassed, with devastating ramifications for political culture and social cohesion.[^185]
 
 <!-- p203 21:00 Ch5::POWER::MULTILATERALISM:: humanitarian law                           -->
 <a id=p203_ch5_power>203</a>. In this context, <!--
-Qp203a: With the crisis of multilateralism, what has happened to peacebuilding?
+Qp203ba: With the crisis of multilateralism, what has happened to peacebuilding?
 A: --> peacebuilding has been relegated to a secondary role. <!--
-Qp203b: With the crisis of multilateralism, --> Cooperation for development, disarmament, conflict prevention and the establishment of mutual trust are <!-- what?
+Qp203bb: With the crisis of multilateralism, --> Cooperation for development, disarmament, conflict prevention and the establishment of mutual trust are <!-- what?
 A: --> neglected in the name of power politics. <!--
-Qp203c: With the crisis of multilateralism, what is happening to the achievements of humanitarian law?
+Qp203bc: With the crisis of multilateralism, what is happening to the achievements of humanitarian law?
 A: The achievements of humanitarian law are also being compromised.
-Qp203d: Humanitarian law: responds to what principle? protects what three things? and urges respect for the lives of who?
+Qp203bd: Humanitarian law: responds to what principle? protects what three things? and urges respect for the lives of who?
 A: --> Indeed, the principle of proportionality in responding to aggression, the protection of access to water, food and essential goods, and respect for the lives of civilians, especially children, come to be regarded as naïve relics of the past.
 
 <!-- Ch5 B.4 CULTURE OF POWER: SUPPOSED -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
@@ -1579,18 +1579,18 @@ A: --> Indeed, the principle of proportionality in responding to aggression, the
 
 <!-- p204 21:40 Ch5::POWER::SUPPOSED:: military costs cause suffering -->
 <a id=p204_ch5_power>204</a>. <!--
-Qp204a: --> We live at a time of significant spiritual and cultural <!-- what?
+Qp204ba: --> We live at a time of significant spiritual and cultural <!-- what?
 A: -->blindness. <!--
-Qp204b: --> A false pragmatism urges us to sever the roots of <!-- what?
+Qp204bb: --> A false pragmatism urges us to sever the roots of <!-- what?
 A: --> our history, as if it were possible to inaugurate a kind of “new creation” detached from the past. <!--
-Qp204c: --> Even those who cite important moral principles can fall into this historical nihilism, mistakenly believing <!-- what?
+Qp204bc: --> Even those who cite important moral principles can fall into this historical nihilism, mistakenly believing <!-- what?
 A: --> that the atrocities of the twentieth century can never happen again.
 Yet, in reality, the same dynamics are re-emerging under new guises. <!--
-Qp204e: --> The mentality of armed equilibrium and deterrence appears to be reasserting itself. Today, however, in contrast to the two-sided dynamic of the Cold War, the proliferation of <!-- what? And what is it doing?
+Qp204be: --> The mentality of armed equilibrium and deterrence appears to be reasserting itself. Today, however, in contrast to the two-sided dynamic of the Cold War, the proliferation of <!-- what? And what is it doing?
 A: The proliferation of --> operatives and battlefields makes this mentality <!--(of armed equilibrium and deterrence as seen in the two-sided dynamic of the Cold War)--> increasingly fragile. <!--
-Qp204f: --> Escalating conflicts lead to asymmetric and “hybrid” wars, fought not only on the battleground but also <!-- where?
+Qp204bf: --> Escalating conflicts lead to asymmetric and “hybrid” wars, fought not only on the battleground but also <!-- where?
 A: --> on the economic, financial and cyber fronts, where disinformation and campaigns that feed people’s fears are used to manipulate public opinion. <!--
-Qp204g: --> In many countries, including those in the Global South, increased military spending is presented as <!-- what?
+Qp204bg: --> In many countries, including those in the Global South, increased military spending is presented as <!-- what?
 A: --> the only response to an uncertain future or perceived threats. <!--aaaa
 Q: To whom do the real costs of increased military spending fall?
 A: --> Meanwhile, the real cost falls on the poorest, who see resources for healthcare, education and social services being reduced.
@@ -1621,28 +1621,28 @@ thereby creating an environment in which new conflicts can develop almost imperc
 
 <!-- p210 27:25 Ch5::LOVE::INTRO:: perpetual of conflict is evil -->
 <a id=p210_ch5_building>210</a>. <!--
-Qp210a: --> The construction of a world in a state of perpetual conflict is <!-- what? And what must we do?
+Qp210ba: --> The construction of a world in a state of perpetual conflict is <!-- what? And what must we do?
 A: --> an evil and must be named for what it is.
 This way of portraying our current situation may seem bleak or pessimistic, yet I consider it necessary to do so. <!--
-Qp210b: --> The Christian perspective, however, is not limited to denouncing evil. <!-- What shapes Christian's view of history?
+Qp210bb: --> The Christian perspective, however, is not limited to denouncing evil. <!-- What shapes Christian's view of history?
 A: --> We view history in the light of the crucified and risen Lord, to whom the Father has given “all authority in heaven and on earth” (Mt 28:18). <!--
-Qp210c: How do we consider the present?
+Qp210bc: How do we consider the present?
 A: --> We do not consider the present as a predetermined fate, but an opportunity for personal and collective conversion. <!--
-Qp210d: We believe in the power of what?
+Qp210bd: We believe in the power of what?
 A: --> Moreover, we believe in the power of the Kingdom, which grows from the tiny size of a mustard seed, which, once sown, sprouts and grows (cf. Mk 4:26-32). <!--
-Qp210e: --> While the tumult of confusion is all around us, <!-- what happens to goodness?
+Qp210be: --> While the tumult of confusion is all around us, <!-- what happens to goodness?
 A: --> goodness grows silently from the earth. In the words of the prophet Isaiah: “Behold, I am doing a new thing; now it springs forth, do you not perceive it?” (Is 43:19).
 
 <!-- p211 28:11 Ch5::LOVE::INTRO:: sustained by theological hope -->
 <a id=p211_ch5_building>211</a>. A closer analysis of history confirms this. <!--
-Qp211a: --> Even in the darkest nights, the Lord raises up men and women <!-- who do what?
+Qp211ba: --> Even in the darkest nights, the Lord raises up men and women <!-- who do what?
 A: --> who refuse to give up, who persevere in doing good, who protect the vulnerable and open pathways to reconciliation. <!--
-Qp211b: --> The memory of the saints, righteous people and the oft-forgotten peacemakers, show us that grace does not magically eliminate conflict, but instead <!-- does what?
+Qp211bb: --> The memory of the saints, righteous people and the oft-forgotten peacemakers, show us that grace does not magically eliminate conflict, but instead <!-- does what?
 A: --> it inspires active resistance to evil and an astonishing creativity in doing good. <!--
-Qp211c: --> Christians see the darkness and acknowledge it for what it is, <!-- and then what do they do?
+Qp211bc: --> Christians see the darkness and acknowledge it for what it is, <!-- and then what do they do?
 A: --> yet they do not merely gaze upon it passively, for they know the light and understand that the darkness has not overcome it and cannot defeat it (cf. Jn 1:5).
 For this reason, <!--
-Qp211d: --> even when suffering seems to have the last word, <!-- what happens?
+Qp211bd: --> even when suffering seems to have the last word, <!-- what happens?
 A: --> Christians serve the good and are sustained by a theological hope that gives reality both meaning and direction.
 
 <!-- Ch5 B.4 CULTURE OF POWER: OUR -- -- - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
@@ -1650,126 +1650,126 @@ A: --> Christians serve the good and are sustained by a theological hope that gi
 
 <!-- p212 29:25 Ch5::LOVE::OUR:: We can all do our part to preserve the mindset of peace        -->
 <a id=p212_ch5_building>212</a>. <!--
-Qp212a: --> At this point, however, a subtle temptation may emerge, namely the thought that the problems are <!-- what? And how does that influence our choices?
+Qp212ba: --> At this point, however, a subtle temptation may emerge, namely the thought that the problems are <!-- what? And how does that influence our choices?
 A: --> too big and we are too small, and that our choices, therefore, cannot make a difference.
 This <!--
-Qp212b: What? --> is a polite form of resignation, often disguised as realism. <!--
+Qp212bb: What? --> is a polite form of resignation, often disguised as realism. <!--
 A: That the problems are too big and we are too small, and that our choices, therefore, cannot make a difference. 
-Qp212c: --> Certainly, not everyone has the same power to make a difference. <!-- Who/what is an example of those with more power in society?
+Qp212bc: --> Certainly, not everyone has the same power to make a difference. <!-- Who/what is an example of those with more power in society?
 A: --> There are those who govern, make investment decisions, lead institutions, conduct research, educate, produce or provide information, 
 and then there are <!--
-Qp212d: What is an example of the less powerful people in society?
+Qp212bd: What is an example of the less powerful people in society?
 A: --> those who only seem to live their daily lives. <!--
-Qp212e: Do the less powerful have less responsibility to make a difference?
+Qp212be: Do the less powerful have less responsibility to make a difference?
 A: --> Yet, no one is without responsibility. We all have our own areas for action,
 and <!--
-Qp212f: --> it is precisely there <!--(our own areas for action, not matter who we are)--> — and nowhere else — that we must choose <!-- between what two mindsets?
+Qp212bf: --> it is precisely there <!--(our own areas for action, not matter who we are)--> — and nowhere else — that we must choose <!-- between what two mindsets?
 A: --> whether to fuel the mentality of force (even if only through indifference, cynicism, lies or hatred), or to preserve the mindset of peace (with truth, moderation, closeness and care).
 
 <!-- p213 30:25 Ch5::LOVE::OUR:: Tolkien: uprooting evil; our daily and public responsibilities -->
 <a id=p213_ch5_building>213</a>. The <!--
-Qp213a: Who is a well-known --> twentieth-century Catholic author <!-- ?
+Qp213ba: Who is a well-known --> twentieth-century Catholic author <!-- ?
 A: --> J.R.R. Tolkien,
 in the words of a protagonist in one of his novels, described our responsibility in this way: <!--
-Qp213b: How does the Great Wizard, Gandolf describe the responsibility of each of us?
+Qp213bb: How does the Great Wizard, Gandolf describe the responsibility of each of us?
 A: --> “It is not our part to master all the tides of the world, but to do what is in us for the succour of those years wherein we are set, uprooting the evil in the fields that we know, so that those who live after may have clean earth to till.”[^187] <!--
-Qp213c: --> The civilization of love will not arise from a single or spectacular gesture, but from <!-- what?
+Qp213bc: --> The civilization of love will not arise from a single or spectacular gesture, but from <!-- what?
 A: --> the sum total of small and steadfast acts of fidelity that serve as a bulwark against dehumanization.
 For this reason, it is worthwhile pausing to reflect on some aspects of how we, each in our own way, can cooperate in building the civilization of love.
 Without presuming to exhaust this theme, I would like to propose <!--
-Qp213d: What are Pope Leo XIV's --> five paths toward <!-- our --> daily and public responsibility: <!--
+Qp213bd: What are Pope Leo XIV's --> five paths toward <!-- our --> daily and public responsibility: <!--
 A: --> the need to disarm words, building peace through justice, adopting the perspective of victims, cultivating a healthy realism and reviving dialogue and multilateralism.
 
 #### The need to disarm words
 
 <!-- p214 31:40 Ch5::LOVE::DISARM::   1) disarm our words                       -->
 <a id=p214_ch5_building>214</a>. <!--
-Qp214a: --> The first contribution we can make toward a more humane civilization is to <!-- do what?
+Qp214ba: --> The first contribution we can make toward a more humane civilization is to <!-- do what?
 A: --> be mindful of our words. “Let us disarm words and we will help to disarm the world.”[^188] <!--
-Qp214b: --> Words have enormous power, something we experience in our daily interactions; for example, spoken words can change <!-- what?
+Qp214bb: --> Words have enormous power, something we experience in our daily interactions; for example, spoken words can change <!-- what?
 A: --> our mood for better or for worse. <!--
-Qp214c: --> “Peace begins with each one of us: <!-- how (look, listen, speak)? 
+Qp214bc: --> “Peace begins with each one of us: <!-- how (look, listen, speak)? 
 A: --> in the way we look at others, listen to others and speak about others. <!--
-Qp214d: --> In this sense, the way we communicate is of fundamental importance: we must say ‘no’ <!-- to what? and reject what?
+Qp214bd: --> In this sense, the way we communicate is of fundamental importance: we must say ‘no’ <!-- to what? and reject what?
 A: --> to the war of words and images, we must reject the paradigm of war.”[^189]
 We must all, therefore, examine our conscience regarding the words we use, the prejudices we have and the explicit or implicit aggression that lies within them. <!--
-Qp214f: --> We have a real opportunity to contribute to the common good <!-- each time we do speak what? Offer what? Support who? Denounce what? Give what?
+Qp214bf: --> We have a real opportunity to contribute to the common good <!-- each time we do speak what? Offer what? Support who? Denounce what? Give what?
 A: --> each time we speak the truth, offer wise advice, support those in need of comfort, denounce injustice and give a voice to the voiceless.
 
 #### Building peace through justice
 
 <!-- p215 32:50 Ch5::LOVE::JUSTICE::  2) seek justice always to find true peace -->
 <a id=p215_ch5_building>215</a>. <!--
-Qp215a: --> All of us, at every level, can contribute to building the foundation of peace, which is <!-- what?
+Qp215ba: --> All of us, at every level, can contribute to building the foundation of peace, which is <!-- what?
 A: --> justice. <!--
-Qp215b: --> We do not merely seek any kind of peace — such as <!-- what?
+Qp215bb: --> We do not merely seek any kind of peace — such as <!-- what?
 A: --> an absence of conflict at any cost — but instead, <!-- we must seek --> the true peace born of justice. <!--
-Qp215c: --> “There exists a very close connection between the justice of the individual and the peace of <!-- who?
+Qp215bc: --> “There exists a very close connection between the justice of the individual and the peace of <!-- who?
 A: --> everyone.”[^190]
 Commenting on the psalm verse “justice and peace have embraced” (Ps 84:11), Saint Augustine wrote<!-- what? -->: <!--
 A: --> “There is no one who shuns the desire for peace, yet not everyone is willing to practice justice… But perform the works of justice, keeping in mind that justice and peace have embraced; they are not at odds with one another. Why do you set yourself against justice? Here, for example, is justice telling you not to steal, but you pay no heed; not to commit adultery, and you turn a deaf ear; not to do to others what you would not want done to yourself; not to say about your neighbor the things you would not want said about yourself… Do you therefore wish to attain peace? Then practice justice!”[^191] <!--
-Qp215d: Pope Leo XIV: --> Let us never grow weary of <!-- what?
+Qp215bd: Pope Leo XIV: --> Let us never grow weary of <!-- what?
 A: --> seeking justice!
 
 #### Adopting the perspective of victims
 
 <!-- p216 34:10 Ch5::LOVE::VICTIM::   3) "touch the wounded flesh"              -->
 <a id=p216_ch5_building>216</a>. <!--
-Qp216a: --> There are times when, in order to remain human, we must set aside our reservations and <!-- do what?
+Qp216ba: --> There are times when, in order to remain human, we must set aside our reservations and <!-- do what?
 A: --> take a stand. <!--
-Qp216b: --> In some conflicts, it is unjust to <!-- do what?
+Qp216bb: --> In some conflicts, it is unjust to <!-- do what?
 A: --> remain neutral, nor is it enough merely to claim that we are not complicit.[^192] <!--
-Qp216c: --> When we witness the bombing of civilians, attacks on hospitals, schools or vital infrastructure, and violence that affects children, we are confronted with scandals that <!-- do what?
+Qp216bc: --> When we witness the bombing of civilians, attacks on hospitals, schools or vital infrastructure, and violence that affects children, we are confronted with scandals that <!-- do what?
 A: --> wound humanity itself.
 For this reason, we cannot <!--
-Qp216d: For what reason can we not --> limit ourselves to the level of abstract analysis. <!-- (in some conflicts)?
+Qp216bd: For what reason can we not --> limit ourselves to the level of abstract analysis. <!-- (in some conflicts)?
 A: When we witness the bombing of civilians, attacks on hospitals, schools or vital infrastructure, and violence that affects children, we are confronted with scandals that wound humanity itself. 
-Qp216e: What did Pope Francis encourage us to do with those who suffer?
+Qp216be: What did Pope Francis encourage us to do with those who suffer?
 A: --> Pope Francis encouraged us to “touch the wounded flesh”[^193] of those who suffer, look at their faces, listen to their stories and acknowledge their wounds. <!--
-Qp216b: --> Painful events require both <!-- what?
+Qp216bb: --> Painful events require both <!-- what?
 A: --> history and memory, the former to recount the facts, the latter to bear witness to lived experiences.
 
 <!-- p217 35:08 Ch5::LOVE::VICTIM::       the voices of the victims             -->
 <a id=p217_ch5_building>217</a>. <!--
-Qp217a: --> Giving space to the perspectives and voices of victims through communication and education helps us to become aware of <!-- what?
+Qp217ba: --> Giving space to the perspectives and voices of victims through communication and education helps us to become aware of <!-- what?
 A: --> the abyss of evil inherent in war, and generally in all forms of violence. <!--
-Qp217b: --> It <!--(having the perspective of victims) --> helps us to reject the normalization of <!-- what?
+Qp217bb: --> It <!--(having the perspective of victims) --> helps us to reject the normalization of <!-- what?
 A: --> conflict; not to turn away when human dignity is violated; and to restore to victims the dignity of being recognized and heard.[^194] <!--
-Qp217c: --> Paying attention to these voices <!-- (voices of the victims) --> strengthens the conviction that, apart from violent minorities, humanity does not <!-- what?
+Qp217bc: --> Paying attention to these voices <!-- (voices of the victims) --> strengthens the conviction that, apart from violent minorities, humanity does not <!-- what?
 A: --> desire war. <!--
-Qp217d: --> In a particular way, the Church can be a place of living memory for <!-- who?
+Qp217bd: --> In a particular way, the Church can be a place of living memory for <!-- who?
 A: --> victims. <!--
-Qp217e: --> As Saint Paul VI recalled, the Church feels she must make her own both the voice of those who died in past wars and the voice of the living who <!-- do what?
+Qp217be: --> As Saint Paul VI recalled, the Church feels she must make her own both the voice of those who died in past wars and the voice of the living who <!-- do what?
 A: --> still bear wounds today, so that their cries may become an appeal for peace and harmony and not a prelude to new conflicts.[^195]
 
 #### Cultivating a healthy realism
 
 <!-- p218 36:10 Ch5::LOVE::REALISM::  4) making peace more than a mere word     -->
 <a id=p218_ch5_building>218</a>. <!--
-Qp218a: --> We are in need of a healthy realism that avoids both <!-- what?
+Qp218ba: --> We are in need of a healthy realism that avoids both <!-- what?
 A: --> political idealism and cynicism. <!--
-Qp218b: --> There is a kind of idealism that, in order to preserve its own worldview, tends to <!-- do what?
+Qp218bb: --> There is a kind of idealism that, in order to preserve its own worldview, tends to <!-- do what?
 A: --> choose facts selectively, distorting and renaming them. <!--
-Qp218c: --> Its proponents (political idealists) eventually, inhabit <!-- what?
+Qp218bc: --> Its proponents (political idealists) eventually, inhabit <!-- what?
 A: --> a reality constructed to fit their own convictions. <!--
-Qp218d: --> Conversely, there is also a debased form of realism that confuses <!-- what?
+Qp218bd: --> Conversely, there is also a debased form of realism that confuses <!-- what?
 A: --> observation with resignation, arguing that since force prevails, it will always prevail. <!--
-Qp218e: --> Authentic realism does not give up on changing the world; <!-- what it do instead of the debased form of realism?
+Qp218be: --> Authentic realism does not give up on changing the world; <!-- what it do instead of the debased form of realism?
 A: --> indeed, it <!-- (authentic realism) --> starts by clearly identifying interests, fears, constraints and power dynamics, precisely in order to determine what can be achieved, and the measures needed to achieve it. <!--
-Qp218f: --> It does not reduce politics to morality; neither does it surrender to violence. Instead, it <!-- does what?
+Qp218bf: --> It does not reduce politics to morality; neither does it surrender to violence. Instead, it <!-- does what?
 A: --> seeks viable paths for making peace more than a mere word, <!--
-Qp218g: How does authentic realism seek viable paths for making peace more than a mere word?
+Qp218bg: How does authentic realism seek viable paths for making peace more than a mere word?
 A: --> through credible institutions, verifiable guarantees, patient negotiations, conflict prevention and the protection of civilians.
 
 #### Reviving dialogue
 
 <!-- p219 37:20 Ch5::LOVE::DIALOGUE:: 5) -->
 <a id=p219_ch5_building>219</a>. <!--
-Qp219a: --> In order to build the civilization of love, we must engage in <!-- what? And why?
+Qp219ba: --> In order to build the civilization of love, we must engage in <!-- what? And why?
 A: --> dialogue, for this is the primary means of coexistence between people and nations, and it is the alternative to open conflict. <!--
-Qp219b: --> On the eve of the Second World War, Pius XII affirmed <!-- what?
+Qp219bb: --> On the eve of the Second World War, Pius XII affirmed <!-- what?
 A: --> that nothing is lost with peace, whereas with war everything can be lost. <!--
-Qp219c: --> He <!-- (Pope Pius XII) --> insisted that people must return to speaking with one another <!-- (on the eve of the Second World War) -->, because <!-- why?
+Qp219bc: --> He <!-- (Pope Pius XII) --> insisted that people must return to speaking with one another <!-- (on the eve of the Second World War) -->, because <!-- why?
 A: --> a sincere and persevering dialogue always opens up the possibility of an honorable solution.[^196]
 
 <!-- p220 38:00 Ch5::LOVE::DIALOGUE -->
@@ -1803,13 +1803,13 @@ The “spirit of Assisi,” evoked by Saint John Paul II and carried forward by 
 
 <!-- p228 44:10 Ch5::LOVE::HOPE -->
 <a id=p228_ch5_building>228</a>. <!--]
-Qp228a: --> These avenues for exercising responsibility are sustained by <!-- what?
+Qp228ba: --> These avenues for exercising responsibility are sustained by <!-- what?
 A: --> prayer, and in turn nourish prayer. <!--
-Qp228b: --> Indeed, for each of us, peace primarily comes <!-- who?
+Qp228bb: --> Indeed, for each of us, peace primarily comes <!-- who?
 A: --> “from God, God who loves us all, unconditionally.”[^203] <!--
-Qp228c: --> It is a gift given by Jesus to his disciples on the day of Easter: <!-- what is this gift?
+Qp228bc: --> It is a gift given by Jesus to his disciples on the day of Easter: <!-- what is this gift?
 A: --> “Peace be with you! It is the peace of the risen Christ. A peace that is unarmed and disarming, humble and persevering.”[^204] <!--
-Qp228d: --> With these words, I greeted the Church and the world on the day of my election to the See of Peter. <!-- What are Pope Leo XIV's first words as Pope?
+Qp228bd: --> With these words, I greeted the Church and the world on the day of my election to the See of Peter. <!-- What are Pope Leo XIV's first words as Pope?
 A: --> I wish to repeat them now, and to invite everyone to pray for this gift. Let us never tire of praying for peace and of committing ourselves to achieving it in our relationships and in society.
 
 <!-- ==================================================================================== -->
@@ -1828,50 +1828,50 @@ This avenue emerges through contemplating God’s plan, living ecclesial unity b
 
 <!-- p230 01:20 END::INCARNATE -->
 <a id=p230_fini_word>230</a>. <!--
-Qp230a: --> Our world is filled with attempts to seize control of markets and spheres of influence, often shrouded in reassuring rhetoric and seductive ideologies. Yet our hearts yearn for <!-- what?
+Qp230ba: --> Our world is filled with attempts to seize control of markets and spheres of influence, often shrouded in reassuring rhetoric and seductive ideologies. Yet our hearts yearn for <!-- what?
 A: --> an approach that is wise and benevolent, <!--
-Qp230b: What is the wise and benevolent approach to navigate this epochal change akin to (HINT: proclaimed in Mary's Magnificat)?
+Qp230bb: What is the wise and benevolent approach to navigate this epochal change akin to (HINT: proclaimed in Mary's Magnificat)?
 A: It is --> akin to that which Mary praises in her Magnificat, when she proclaims that God’s mercy extends in every generation to those who fear him.[^205] <!--
-Qp230c: What becomes a compass in the digital era for living our lives according to the Gospel?
+Qp230bc: What becomes a compass in the digital era for living our lives according to the Gospel?
 A: --> This <!-- (God's) --> plan of mercy continues to unfold throughout history today, even amid the rapid and unsettling changes brought by algorithms and global networks, and it becomes a compass in the digital era for living our lives according to the Gospel.
 
 <!-- p231 02:14 END::INCARNATE -->
 <a id=p231_fini_word>231</a>. <!--
-Qp231a: --> At the heart of everything is the mystery of the <!-- what? 
+Qp231ba: --> At the heart of everything is the mystery of the <!-- what? 
 A: --> Incarnation, the Word who became flesh and dwelt among us. <!--
-Qp231b: --> The flesh of the Son, poor and vulnerable, evokes the flesh of so many brothers and sisters <!-- stripped of what? And reduced to what?
+Qp231bb: --> The flesh of the Son, poor and vulnerable, evokes the flesh of so many brothers and sisters <!-- stripped of what? And reduced to what?
 A: --> stripped of their dignity and reduced to silence.[^206] <!--
-Qp231c: --> Through the Lord’s closeness, the gift of peace enters into the world in a paradoxical way. It does so through the power <!-- to do what? Awakened when? 
+Qp231bc: --> Through the Lord’s closeness, the gift of peace enters into the world in a paradoxical way. It does so through the power <!-- to do what? Awakened when? 
 A: --> to become children of God, and is awakened when we allow ourselves to be moved by the tears of the little ones, the fragility of the elderly, the silence of victims and the struggle of those who fight against the evil they do not wish to commit.[^207] <!--
-Qp231d: --> In this wounded yet beloved flesh, the Father shows us the true humanity of a life fulfilled <!-- through what? Which leads us to desire what?
+Qp231bd: --> In this wounded yet beloved flesh, the Father shows us the true humanity of a life fulfilled <!-- through what? Which leads us to desire what?
 A: --> through openness and communion, which leads us to desire that his will be done on earth as it is in heaven.[^208]
 
 <!-- p232 01:20 END::INCARNATE -->
 <a id=p232_fini_word>232</a>. <!--
-Qp232a: --> In the promises of transhumanism and some posthumanist currents of thought, which seek an enhanced and almost disembodied humanity, we recognize a yearning that is of concern to us, namely the need for <!-- what?
+Qp232ba: --> In the promises of transhumanism and some posthumanist currents of thought, which seek an enhanced and almost disembodied humanity, we recognize a yearning that is of concern to us, namely the need for <!-- what?
 A: --> a fuller life, less exposed to limitations and suffering. <!--
-Qp232b: --> Yet the Incarnation opens a different pathway<!-- than transhumanism and posthumanism-->. On the one hand, old and new ideologies alike urge humanity to overcome limitations through technology, and to rise above others by asserting dominance. Contrary to this, the mystery of the Son of God entering into our human condition promises something quite different. <!-- What does the Incarnation promise?
+Qp232bb: --> Yet the Incarnation opens a different pathway<!-- than transhumanism and posthumanism-->. On the one hand, old and new ideologies alike urge humanity to overcome limitations through technology, and to rise above others by asserting dominance. Contrary to this, the mystery of the Son of God entering into our human condition promises something quite different. <!-- What does the Incarnation promise?
 A: --> The living God descends into our history in order to free us from all forms of slavery.[^209] He takes upon himself our weakness and transforms it into a setting for salvation. <!--
-Qp232c: --> There is no moment or human situation that is not worthy of God. “According to the teaching of our faith, we have and adore, in our mysteries, a God who <!-- has experienced what?
+Qp232bc: --> There is no moment or human situation that is not worthy of God. “According to the teaching of our faith, we have and adore, in our mysteries, a God who <!-- has experienced what?
 A: --> is born in a manger, a God who lives and travels in Judea, a God who dies on the cross, a dead God who lies in the tomb.”[^210] <!--
-Qp232d: --> The future of humanity, therefore, finds its standard in the ability to welcome this divine way of <!-- drawing where? sharing what? transforming what?
+Qp232bd: --> The future of humanity, therefore, finds its standard in the ability to welcome this divine way of <!-- drawing where? sharing what? transforming what?
 A: --> drawing near, of sharing the burden of the world, of transforming relationships from within. “O wonder... man is God and this God-Man passes through all those stages, endures all those states and ennobles them, sanctifies them, deifies them in himself!”[^211] <!--
-Qp232e: --> What saves humanity is the divine love that <!-- does what?
+Qp232be: --> What saves humanity is the divine love that <!-- does what?
 A: --> descends into the most fragile point of our history and renews it from within.
 
 <!-- p233 05:45 END::INCARNATE -->
 <a id=p233_fini_word>233</a>. For this reason, as a believer among believers, I invite everyone to contemplate, in the face of the Son of God, the grandeur of humanity that shines a light also on the era of AI. <!--
-Qp233b: --> In Christ, we are called to cooperate in the work of <!-- what? Rather than be disinterested what?
+Qp233bb: --> In Christ, we are called to cooperate in the work of <!-- what? Rather than be disinterested what?
 A: --> creation, rather than be disinterested observers of technological processes that limit our freedom and responsibility.[^212] <!--
-Qp233c: --> The dignity inscribed in each of us by the Holy Spirit can also be seen in our capacity to reflect <!-- what? Choose what? And love how?
+Qp233bc: --> The dignity inscribed in each of us by the Holy Spirit can also be seen in our capacity to reflect <!-- what? Choose what? And love how?
 A: --> critically, choose and love freely, and form authentic relationships. <!--
-Qp233d: --> No computational system, however sophisticated, can create a heart that <!-- does what? Or a conscience that discerns what?
+Qp233bd: --> No computational system, however sophisticated, can create a heart that <!-- does what? Or a conscience that discerns what?
 A: --> gives itself, or a conscience that discerns good from evil. <!--
-Qp233e: --> Even when machines excel in efficiency, a human face that asks to be <!-- what? And remains what?
+Qp233be: --> Even when machines excel in efficiency, a human face that asks to be <!-- what? And remains what?
 A: --> gazed upon remains the center of our history. This human face is the fullness toward which history is moving. 
 It is the mystery of “recapitulation”: the certainty that the Father has decreed to bring all things, those in heaven and those on earth, back to Christ, the one Head (cf. Eph 1:10). 
 In this plan, nothing will be lost that is authentically human. <!--
-Qp233h: --> Indeed, everything will be purified and reunited in the One, who gathers every fragment of life, every tear and every authentically human achievement, rescuing them <!-- from what? And delivering then how? And to who?
+Qp233bh: --> Indeed, everything will be purified and reunited in the One, who gathers every fragment of life, every tear and every authentically human achievement, rescuing them <!-- from what? And delivering then how? And to who?
 A: --> from nothingness and delivering them, redeemed, to the Father.
 
 <!-- END B.  CONCLUSION::ONE -- - --- -- - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
@@ -1890,107 +1890,107 @@ If you are the body and members of Christ, then it is your sacrament that is pla
 
 <!-- p236 11:10 END::SITE -->
 <a id=p236_fini_site>236</a>. <!--
-Qp236a: --> The spirituality I <!-- (Pope Leo XIV) --> wish to commend <!--(to commit, entrust, or give in charge for care or preservation) --> is that of <!-- what?
+Qp236ba: --> The spirituality I <!-- (Pope Leo XIV) --> wish to commend <!--(to commit, entrust, or give in charge for care or preservation) --> is that of <!-- what?
 A: --> the “wise architect” who, driven by hope for the Kingdom of God, is committed to building the world for the common good
 (cf.  1 Cor 3:10). <!--
-Qp236b: --> As I <!-- (Pope Leo XIV) --> mentioned at the beginning of this reflection, [^217] the task of building in our time must place our relationship with <!-- who? where?  A: --> God at its center. <!--
-Qp236c: --> Our rule must be the acceptance of <!-- what?
+Qp236bb: --> As I <!-- (Pope Leo XIV) --> mentioned at the beginning of this reflection, [^217] the task of building in our time must place our relationship with <!-- who? where?  A: --> God at its center. <!--
+Qp236bc: --> Our rule must be the acceptance of <!-- what?
 A: --> human limitations as a natural and positive reality,
 and <!--
-Qp236c: And our rule --> should be characterized by shared <!-- what? And a language characterized by what? 
+Qp236bc: And our rule --> should be characterized by shared <!-- what? And a language characterized by what? 
 A: --> responsibility and a language characterized by the Gospel. <!--
-Qp236d: --> At the end of this reflection, the plan for a civilization of love can be seen more clearly, and the construction site appears to be <!-- what? And thanks to who?
+Qp236bd: --> At the end of this reflection, the plan for a civilization of love can be seen more clearly, and the construction site appears to be <!-- what? And thanks to who?
 A: --> already up and running, thanks especially to the many living stones solidly united to Christ the cornerstone (cf.  1 Pet 2:4-6). <!--
-Qp236e: --> In this task <!-- (building a civilization of love) -->, we are called to assume <!-- what? Without taking refuge in what? Without retreating into what?
+Qp236be: --> In this task <!-- (building a civilization of love) -->, we are called to assume <!-- what? Without taking refuge in what? Without retreating into what?
 A: --> an active role, without taking refuge in spiritual sentimentality or retreating into our own little worlds. <!--
-Qp236f: We must be faithful to ¿what?, invest in ¿?what?, cultivate ¿?what? and love ¿?what two things, which go together?.
+Qp236bf: We must be faithful to ¿what?, invest in ¿?what?, cultivate ¿?what? and love ¿?what two things, which go together?.
 A: --> We must be faithful to the truth, invest in education, cultivate relationships and love justice and peace.
 
 <!-- p237 12:35 END::SITE -->
 <a id=p237_fini_site>237</a>.  <!--
-Qp237a: Let us remain faithful to what? Living amid incessant ¿what three things?
+Qp237ba: Let us remain faithful to what? Living amid incessant ¿what three things?
 A: --> Let us remain faithful to the truth! Living amid incessant flows of information, opinions and images, <!--
-Qp237b: we know how easy it can be to influence ?what two things? through increasingly sophisticated ¿what?
+Qp237bb: we know how easy it can be to influence ?what two things? through increasingly sophisticated ¿what?
 A: --> we know how easy it can be to influence decisions and preferences through increasingly sophisticated algorithms.[^218] <!--
-Qp237c: In this context, it is imperative to cultivate hearts ¿do what?, prefer ¿what? despite the ¿what? and pursue ¿what? rather than immediate results.
+Qp237bc: In this context, it is imperative to cultivate hearts ¿do what?, prefer ¿what? despite the ¿what? and pursue ¿what? rather than immediate results.
 A: --> In this context, it is imperative to cultivate hearts that love the truth, prefer what is right despite the most appealing content and pursue wisdom rather than immediate results. <!--
-Qp237d: We must always keep before us the truth about God and ¿what?
+Qp237bd: We must always keep before us the truth about God and ¿what?
 A: --> We must always keep before us the truth about God and humanity, just as Christ has revealed them to us. <!--
-Qp237e: We must lay aside an individualistic and ¿what? view of humanity, as if reality were mere matter to be shaped according to ¿what?
+Qp237be: We must lay aside an individualistic and ¿what? view of humanity, as if reality were mere matter to be shaped according to ¿what?
 A: --> We must lay aside an individualistic and technical view of humanity, as if reality were mere matter to be shaped according to selfish interests, whether individual or collective.[^219] <!--
-Qp237f: --> Instead, let us cultivate what Pope Francis called a “situated anthropocentrism,”[^220] which recognizes the human being as <!--what?
+Qp237bf: --> Instead, let us cultivate what Pope Francis called a “situated anthropocentrism,”[^220] which recognizes the human being as <!--what?
 A: --> a creature embedded in a network of relationships with other living beings and with all of creation. <!--
-Qp237g: --> Fidelity to the truth requires integrating the possibilities offered by technology within a framework marked by <!-- what?
+Qp237bg: --> Fidelity to the truth requires integrating the possibilities offered by technology within a framework marked by <!-- what?
 A: --> wisdom, <!--
-Qp237h: Integrating the possibilities offered by technology within a framework marked by wisdon, which is capable of safegarding both what?
+Qp237bh: Integrating the possibilities offered by technology within a framework marked by wisdon, which is capable of safegarding both what?
 A: --> which is capable of safeguarding both the dignity of each person and the future of our common home.
 
 <!-- p238 14:08 END::SITE -->
 <a id=p238_fini_site>238</a>. <!--
-Qp238a: --> Let us invest in education, beginning with ourselves! We all need to learn how to engage with the digital world in <!-- what way?
+Qp238ba: --> Let us invest in education, beginning with ourselves! We all need to learn how to engage with the digital world in <!-- what way?
 A: --> a human way, as an integral part of our education in the faith and in a life lived according to the Gospel. <!--
-Qp238b: --> Indeed, we must consider the digital world as <!-- what?
+Qp238bb: --> Indeed, we must consider the digital world as <!-- what?
 A: --> a new continent to be evangelized, one that requires generous missionaries who are mature in the faith. <!--
-Qp238c: --> In a particular way, we need adults to rediscover their vocation as artisans of education, prepared to work <!-- how?
+Qp238bc: --> In a particular way, we need adults to rediscover their vocation as artisans of education, prepared to work <!-- how?
 A: --> patiently each day, with the support of extensive and shared educational partnerships. <!--
-Qp238d: --> Today, accompanying children and young people in using technology for <!-- what?
+Qp238bd: --> Today, accompanying children and young people in using technology for <!-- what?
 A: --> developing responsible relationships, helping them to recognize the risks and choose what fosters inner freedom, is a concrete form of charity and will safeguard their dignity. <!--
-Qp238e: --> Teaching new generations that technological evolution does not follow a predetermined path, but can be guided by <!-- what? And what does this help particularly?
+Qp238be: --> Teaching new generations that technological evolution does not follow a predetermined path, but can be guided by <!-- what? And what does this help particularly?
 A: --> personal and collective responsibility, constitutes one of the most valuable services to the common good.
 
 <!-- p239 15:33 END::SITE -->
 <a id=p239_fini_site>239</a>. <!--
-Qp239a: --> Let us cultivate <!-- what?
+Qp239ba: --> Let us cultivate <!-- what?
 A: --> relationships! <!--
-Qp239b: --> In an era that favors speed and fragmentation, the human person still yearns to receive <!-- what?
+Qp239bb: --> In an era that favors speed and fragmentation, the human person still yearns to receive <!-- what?
 A: --> care and recognition from attentive minds, kind words and hands capable of tenderness. <!--
-Qp239c: --> The digital culture multiplies connections and offers new opportunities for interaction; yet, the human heart retains an irrevocable need <!-- for what?
+Qp239bc: --> The digital culture multiplies connections and offers new opportunities for interaction; yet, the human heart retains an irrevocable need <!-- for what?
 A: --> for genuine closeness. <!--
-Qp239d: --> I <!-- (Pope Leo XIV) --> invite everyone to cherish places and times where physical presence remains crucial, such as <!-- what?
+Qp239bd: --> I <!-- (Pope Leo XIV) --> invite everyone to cherish places and times where physical presence remains crucial, such as <!-- what?
 A: --> shared meals, Christian community gatherings, time spent with the lonely and serving the poor.
 These are signs of a <!--
-Qp239e: --> humanity that continues to believe that every person’s body is <!-- what?
+Qp239be: --> humanity that continues to believe that every person’s body is <!-- what?
 A: --> a dwelling place of God and a temple of the Holy Spirit.
 It is precisely this covenant between glory and fragility that becomes the criterion for evaluating the anthropological models offered by contemporary culture.
 
 <!-- p240 16:50 END::SITE -->
 <a id=p240_fini_site>240</a>. <!--
-Qp240a: --> Let us love <!-- ¿what? and ¿what?
+Qp240ba: --> Let us love <!-- ¿what? and ¿what?
 A: --> justice and peace! <!--
-Qp240b: --> The same technologies that facilitate communication and access to resources can also support models that exploit <!-- what? And create what? And derive what from what?
+Qp240bb: --> The same technologies that facilitate communication and access to resources can also support models that exploit <!-- what? And create what? And derive what from what?
 A: --> the most vulnerable, create new forms of slavery and derive profit from conflict. <!--
-Qp240c: --> Every technical or economic decision should include <!-- what? And be an opportunity for what?
+Qp240bc: --> Every technical or economic decision should include <!-- what? And be an opportunity for what?
 A: --> spiritual discernment and be an opportunity for assessing whether the advances in AI are promoting justice and participation or concentrating wealth and power in the hands of a select few. <!--
-Qp240d: --> I would encourage a careful examination <!-- what three things?
+Qp240bd: --> I would encourage a careful examination <!-- what three things?
 A: --> of the supply chains of digital production, the working conditions hidden behind our devices and the mechanisms that profit from manipulation and war. <!--
-Qp240e: --> At the same time, practical ways of fostering <!-- what three things must be found?
+Qp240be: --> At the same time, practical ways of fostering <!-- what three things must be found?
 A: --> fairness, participation and care for creation must be found. <!--
-Qp240f: --> We proclaim a hope rooted in <!-- who? And what did he do?
+Qp240bf: --> We proclaim a hope rooted in <!-- who? And what did he do?
 A: --> the One who came down from heaven to “create a new story here below.” <!--
-Qp240g: --> For this reason, those who believe are committed to ensuring that a greater justice will take the place of <!-- what? And that the industry of war will be replaced by what?
+Qp240bg: --> For this reason, those who believe are committed to ensuring that a greater justice will take the place of <!-- what? And that the industry of war will be replaced by what?
 A: --> inequality, and that the industry of war will be replaced by the craft of peace.[^221]
 
 <!-- p241 18:25 END::SITE -->
 <a id=p241_fini_site>241</a>.
 As we look to the future, I would like to recall the image of Nehemiah whom we chose as our companion and guide at the outset. <!--
-Qp241a: --> Nehemiah heard the cry of a devastated city, <!-- and did what?
+Qp241ba: --> Nehemiah heard the cry of a devastated city, <!-- and did what?
 A: --> brought that pain to prayer, discerned before God, asked for help, received permission to return, organized the work, confronted internal and external resistance and rebuilt the walls of Jerusalem with the assistance of the people, brick by brick. <!--
-Qp241b: --> In this era of digital transformation, I see in him <!-- (Nehemiah) --> a striking parable of our own vocation, <!-- which is what?
+Qp241bb: --> In this era of digital transformation, I see in him <!-- (Nehemiah) --> a striking parable of our own vocation, <!-- which is what?
 A: --> which is not to be passive spectators of social and cultural fractures, nor mere commentators on what is crumbling, but men and women prepared to enter the construction sites of history — research laboratories, technology companies, schools, the media, institutions and local communities — in order to rebuild what has collapsed and protect what is threatened. <!--
-Qp241c: --> Like Nehemiah, we too are called to unite <!--: listening and what? prayer and what?
+Qp241bc: --> Like Nehemiah, we too are called to unite <!--: listening and what? prayer and what?
 A: --> listening and courage, prayer and responsibility, <!--
-Qp241d: Why are we, like Nehemiah called to unite listening and courage, prayer and responsibility? 
+Qp241bd: Why are we, like Nehemiah called to unite listening and courage, prayer and responsibility? 
 A: --> so that, even when a technocratic mentality or partisan interests seem to prevail, the human city may become a more fitting place to live.
 
 <!-- p242 20:00 END::SITE -->
 <a id=p242_fini_site>242</a>. <!--
-Qp242a: --> The image of rebuilding Jerusalem evokes the New Testament promise of <!-- what?
+Qp242ba: --> The image of rebuilding Jerusalem evokes the New Testament promise of <!-- what?
 A: --> the holy city, which is given to us first and foremost as a gift. <!--
-Qp242b: --> In the Book of Revelation, the new Jerusalem <!-- (the promise of the holy city) --> descends as a gift for <!-- who?
+Qp242bb: --> In the Book of Revelation, the new Jerusalem <!-- (the promise of the holy city) --> descends as a gift for <!-- who?
 A: --> all God’s people, <!--
-Qp242c: How is the holy city, which descends as a gift for all God's people in the Book of Revelation prepared?
+Qp242bc: How is the holy city, which descends as a gift for all God's people in the Book of Revelation prepared?
 A: --> “prepared as a bride adorned for her husband” (Rev 21:2). The walls of Jerusalem are no longer defensive fortifications, but the precious adornments of the Bride of the Lamb. Its gates, which Nehemiah guarded so diligently, remain permanently open to all nations. God’s presence offers light and life to all. The city is a new Eden, with its living water offered to the thirsty, and its tree of life whose leaves “are for the healing of the nations” (Rev 22:2). <!--
-Qp242d: --> As we await its fulfillment<!-- (of God's gift of the holy city to us) -->, this vision is set before us as <!-- what?
+Qp242bd: --> As we await its fulfillment<!-- (of God's gift of the holy city to us) -->, this vision is set before us as <!-- what?
 A: --> an encouragement — a call to overcome our divisions and to work together — for this is the way of Jesus Christ, yesterday, today and forever.
 
 <!-- END D.  CONCLUSION::MAGNIFICAT - -- - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
@@ -1998,60 +1998,60 @@ A: --> an encouragement — a call to overcome our divisions and to work togethe
 
 <!-- p243 21:29 END::MAGNIFICAT -->
 <a id=p243_fini_song>243</a>. <!--
-Qp243a: What are the four pillars of the program for Christian life?
+Qp243ba: What are the four pillars of the program for Christian life?
 A: Faith, Hope, Love, and Prayer -->
 After having considered <!--
-Qp243b: What does this cause us to contemplate? --> faith, <!--
+Qp243bb: What does this cause us to contemplate? --> faith, <!--
 A: --> which contemplates the Father’s loving plan; <!--
-Qp243c: What does this unite us in?: --> love, <!--
+Qp243bc: What does this unite us in?: --> love, <!--
 A: --> which unites us in one ecclesial body; and <!--
-Qp243d: What does this sustain?: --> hope, <!--
+Qp243bd: What does this sustain?: --> hope, <!--
 A: --> which sustains our actions in the world, <!--
-Qp243e: What is --> the fourth pillar of this program for Christian life is <!--
+Qp243be: What is --> the fourth pillar of this program for Christian life is <!--
 A: --> prayer. <!--
-Qp243f: --> Mary’s song accompanies our commitment. <!-- to what?
+Qp243bf: --> Mary’s song accompanies our commitment. <!-- to what?
 A: To having faith, love, hope, and prayer to do the will of God.
-Qp243g: When did Mary burst into a hymn (a song) of praise and joy?
+Qp243bg: When did Mary burst into a hymn (a song) of praise and joy?
 A: --> Before Elizabeth who announces to her that she has become the mother of the Lord, Mary bursts into a hymn of praise and joy. <!--
-Qp243h: When Mary bursts into a hymn of praise in and joy, --> Her soul magnifies the Lord, and her spirit rejoices in God her Savior, for he chose <!-- who and what?
+Qp243bh: When Mary bursts into a hymn of praise in and joy, --> Her soul magnifies the Lord, and her spirit rejoices in God her Savior, for he chose <!-- who and what?
 A: --> a young, poor and humble girl for his plan of salvation. <!--
-Qp243i: --> Mary suddenly sees all of history through the lens of this revelation. <!-- What is Mary's revelation?
+Qp243bi: --> Mary suddenly sees all of history through the lens of this revelation. <!-- What is Mary's revelation?
 A: Her soul magnifies the Lord, and her spirit rejoices in God her Savior, for he chose a young, poor and humble girl for his plan of salvation. 
-Qp243k: What has physically has changed around Mary when she sees all of history through the lens of the revelation that he chose a young, poor and humble gir for his plan of salvation?
+Qp243bk: What has physically has changed around Mary when she sees all of history through the lens of the revelation that he chose a young, poor and humble gir for his plan of salvation?
 A: --> Nothing has changed around her; the socio-political situation of her time remains the same. The Romans continue to control her land, and her people are still subjugated and humiliated. <!--
-Qp243l: What has spiritually has changed in Mary when she sees all of history through the lens of the revelation that he chose a young, poor and humble gir for his plan of salvation?
+Qp243bl: What has spiritually has changed in Mary when she sees all of history through the lens of the revelation that he chose a young, poor and humble gir for his plan of salvation?
 A: --> Yet, everything has changed within her, and this allows her to see what is invisible. God has already shown the strength of his arm; he has already scattered the proud, cast down the mighty, lifted up the lowly, filled the hungry with good things and sent the rich away empty-handed. He has already helped Israel, his servant.
  God “takes the part of the lowly. His plan is one that is often hidden beneath the opaque context of human events that see ‘the proud, the mighty and the rich’ triumph. Yet his secret strength is destined in the end to be revealed.”[^222]
 
 <!-- p244 23:40 END::MAGNIFICAT -->
 <a id=p244_fini_song>244</a>. <!--
-Qp244a: --> The Blessed Virgin Mary not only teaches us to recognize God’s invisible work, but also directs our gaze to <!-- what?
+Qp244ba: --> The Blessed Virgin Mary not only teaches us to recognize God’s invisible work, but also directs our gaze to <!-- what?
 A: --> “the points at which humanity is broken and the world becomes distorted: <!--
-Qp244b: What is seen when our gaze is directed to --> “the points at which humanity is broken and the world becomes distorted: <!--
+Qp244bb: What is seen when our gaze is directed to --> “the points at which humanity is broken and the world becomes distorted: <!--
 A: --> the contrast between the humble and the powerful, the poor and the rich, the satiated and the hungry,” <!--
-Qp244c: the contrast between the humble and the powerful, the poor and the rich, the satiated and the hungry” is teaching us to look at what?
+Qp244bc: the contrast between the humble and the powerful, the poor and the rich, the satiated and the hungry” is teaching us to look at what?
 A: --> teaching us “to look at the world from a lower position: through the eyes of those who suffer rather than the mighty;
 to view history through the eyes of the little ones, rather than through the perspective of the powerful;
 to interpret the events of history from the viewpoint of the widow, the orphan, the stranger, the wounded child, the exile and the fugitive.”[^223] <!--
-Qp244c: --> The Blessed Virgin thus becomes “poet and prophetess of Redemption,” because on her lips is proclaimed <!-- what?
+Qp244bc: --> The Blessed Virgin thus becomes “poet and prophetess of Redemption,” because on her lips is proclaimed <!-- what?
 A: --> “the strongest and most innovative hymn ever articulated, the Magnificat; <!--
-Qp244d: What does Mary reveal in her Magnificat?
+Qp244bd: What does Mary reveal in her Magnificat?
 A: --> it is she who reveals the transformative vision of the Christian economy, the historical and social result that still draws its origin and strength from Christianity.”[^224]
 
 <!-- p245 25:10 END::MAGNIFICAT -->
 <a id=p245_fini_song>245</a>. <!--
-Qp245a: --> With the same faith as Mary, let us become <!-- what?
+Qp245ba: --> With the same faith as Mary, let us become <!-- what?
 A: --> “weavers of hope” in our world, sharing who we are and what we have, <!--
-Qp245b: Why should we become “weavers of hope”, sharing who we are and what we have?
+Qp245bb: Why should we become “weavers of hope”, sharing who we are and what we have?
 A: --> so that the presence of Jesus may grow among us and his Kingdom take shape. <!--
-Qp245c: --> In the humble fidelity of daily life, even the era of AI can become a time in which <!-- what happens?
+Qp245bc: --> In the humble fidelity of daily life, even the era of AI can become a time in which <!-- what happens?
 A: --> the Holy Spirit brings about the civilization of love in our lives. <!--
-Qp245d: --> Indeed, the Lord continues to make all things new and offers every era the possibility of <!-- what?
+Qp245bd: --> Indeed, the Lord continues to make all things new and offers every era the possibility of <!-- what?
 A: --> becoming part of salvation history in the light of the Incarnation. <!--
-Qp245e: --> I <!-- (Pope Leo XIV) --> entrust our desire to the Mother of Christ, to the Woman of the Magnificat, <!-- so that she may do what?
+Qp245be: --> I <!-- (Pope Leo XIV) --> entrust our desire to the Mother of Christ, to the Woman of the Magnificat, <!-- so that she may do what?
 A: --> that she may guide our steps through this time of change
 and that she <!--
-Qp245f: Holy Mary --> may guide our steps through this time of change <!-- to --> preserve in each of us <!-- what?
+Qp245bf: Holy Mary --> may guide our steps through this time of change <!-- to --> preserve in each of us <!-- what?
 A: --> true faith in the Gospel, so that we may bear witness to the grandeur of humanity, in which God has made his dwelling.
 
 Given in Rome, at Saint Peter’s, on 15 May, in the year 2026, the second of my Pontificate.
