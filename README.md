@@ -65,6 +65,7 @@ Pope Leo's 42,000 word Encyclical, [***Magnifica Humanitas***](https://www.vatic
 * 2026/05/25 [Pope Leo XIV makes historic apology for Holy See's own role in legitimizing slavery](https://abcnews.com/International/wireStory/pope-leo-xiv-makes-historic-apology-holy-sees-133279925)
 * 2026/05/25 [Pope Leo’s ‘Magnifica humanitas’: AI must serve humanity not concentrate power](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html)
 * 2025/05/13 [Faith Meets AI And Tech In Vatican’s Bold Move Under Pope Leo XIV](https://www.forbes.com/sites/torconstantino/2025/05/13/faith-meets-ai-and-tech-in-vaticans-bold-move-under-pope-leo-xiv/)
+* 2024/12/21 [OpenAI whistleblower found dead in San Francisco apartment](https://www.bbc.com/news/articles/cd0el3r2nlko)
 * 2024/04/24 [Cisco Systems joins Microsoft, IBM in Vatican pledge to ensure ethical use and development of AI](https://apnews.com/article/pope-ai-artificial-intelligence-cisco-microsoft-ibm-79b279570b2e7a2d945c452852a19657)
 
 
