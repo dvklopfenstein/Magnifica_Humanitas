@@ -54,6 +54,9 @@ Pope Leo's 42,000 word Encyclical, [***Magnifica Humanitas***](https://www.vatic
 
 <!-- ---------------------------------------------------------------------------- -->
 # News
+* 2026/09/29 Before the presentation of the encyclical, The New York Times reports:    
+  [Billionaire co-founder of Anthropic pressured Pope-claiming AI models might be "conscious"](https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html);    
+  Pope Leo XIV stood firm that "so-called artificial intelligences" [do not have a moral conscience](https://github.com/dvklopfenstein/Magnifica_Humanitas/blob/main/Magnifica_Humanitas-EN.md#p099_ch3_AI) (p99). 
 * 2026/07/31 [Rock legend Patti Smith meets fellow Chicago legend, Pope Leo XIV](https://www.americamagazine.org/news/2026/07/31/patti-smith-pope-leo/)
 * 2026/06/02 [Mathematicians issue public cry for help and call to action regarding AI](https://leidendeclaration.ai/)
 * 2026/05/28 [Peter Thiel leaves the United States](https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html)
