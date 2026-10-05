@@ -266,7 +266,7 @@ Following this perspective, Pope Francis emphasized that when dealing with many 
 <!-- Ch1 A.2 JOURNEYING -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### Social Doctrine as a shared discernment
 
-<!-- p25 10:35 Ch1_DYNAMIC::JOURNEYING::SHARED:: truth of the Gospel -->
+<!-- p25 10:35 Ch1_DYNAMIC::JOURNEYING::SHARED_DISCERNMENT:: truth of the Gospel -->
 <a id=p025_ch1_history>25</a>. <!--
 Qp25ba: --> Understanding that the truth is a gift to be shared, not a <!-- what? And from what does this free the Church?
 A: --> possession to be monopolized, frees the Church from the temptation of seeking forms of presence based on power. <!--
@@ -287,12 +287,12 @@ A: --> It does not eliminate conflicts, but transforms them, reuniting that whic
 Qp25bh: What image does Pope Leo XIV use to illustrate the truth of the Gospel growing over time within the concrete interweaving of lives, communities and cultures?
 A: --> This concept can also be illustrated by the image of a multifaceted polyhedron, [^19] in which the one truth of the Gospel is reflected from different angles.
 
-<!-- p26 12:07 Ch1_DYNAMIC::JOURNEYING::SHARED:: many peoples        -->
+<!-- p26 12:07 Ch1_DYNAMIC::JOURNEYING::SHARED_DISCERNMENT:: many peoples        -->
 <a id=p026_ch1_history>26</a>. This attitude of openness to truth, which is at the same time both one and diverse, profoundly expresses the catholicity of the Church, for she embraces the entire human family yet is also immersed in the concrete situations of peoples and cultures.  The Second Vatican Council reminds us that, in virtue of this very catholicity, “each part contributes its own gifts to other parts and to the entire Church.”[^20] In this way, the Church grows as a whole and as individual communities thanks to a mutual exchange and to shared efforts toward an ever fuller communion.  It follows, then, that the People of God are not only gathered together from many peoples, but are also intertwined through different functions, vocations, cultures and traditions, each being called to support and enrich one another.
 From this perspective, Saint Paul VI acknowledged that, given the great variety of historical situations, it is unrealistic to think that the Church’s Social Doctrine can propose a single response that is valid in all contexts.[^21]
 For this reason, he invited each Christian community to interpret the reality in its own country with clarity and responsibility. The fruitful tension between the universality of the Church’s mission and her local roots is an intrinsic aspect of her life, for she encompasses the whole world, while addressing the specific issues of each context as the real setting in which the Gospel takes shape.
 
-<!-- p27 13:38 Ch1_DYNAMIC::JOURNEYING::SHARED:: a process           -->
+<!-- p27 13:38 Ch1_DYNAMIC::JOURNEYING::SHARED_DISCERNMENT:: a process           -->
 <a id=p027_ch1_history>27</a>. In light of what has been said so far, the Church’s Social Doctrine can be seen more authentically. It is not a handbook of principles and norms to be applied, but a process of shared discernment. It is born from the encounter between the eternal truth of the Gospel and the questions of history. It allows itself to be challenged by the signs of the times, and draws nourishment from the contributions of science, culture and human experience. Therefore, when the dignity of our brothers and sisters is violated, when politics fails to address the tragedies of humanity, when the economy turns against the person or science oversteps the limits of its competence, [^22] the Church — together with other Christian denominations and believers of other religions — must make her voice heard, not in order to dominate, but to promote communion. Understood in this way, Social Doctrine becomes a theology of communion in history, a history in which the Word made flesh continues to be present through dialogue, memory and prophecy.
 
 <!-- Ch1 B>4 SOCIAL DOCTINE ============================================================= -->
@@ -488,14 +488,14 @@ In this way, both the proclamation of the Gospel and Christian life, guided by t
 <!-- Ch2 A.2 FOUNDATIONS - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### The equal dignity of all human beings
 
-<!-- p51 06:20 Ch2::FOUNDATIONS::DIGNITY -->
+<!-- p51 06:20 Ch2::FOUNDATIONS::EQUAL_DIGNITY -->
 <a id=p051_ch2_foundation>51</a>. Saint John Paul II stated that, “this heightened sense of the dignity of the human person and of his or her uniqueness, and of the respect due to the journey of conscience, certainly represents one of the positive achievements of modern culture.”[^57]
 This statement follows the line already laid out by the Second Vatican Council, which had noted a growing recognition of the sublime dignity of all persons, their superiority over material things and their universal and inviolable rights and duties.[^58] It is important to ensure that this growth in appreciation of human dignity is not obscured by the pressure of new ideologies or very powerful interests in today’s world. Among these ideologies, I consider particularly insidious the one that suggests that every person must earn or justify his or her own worth, to the point of attributing greater value to those who are more efficient or effective. From this perspective, persons end up being reduced to a means of achieving results, a resource to be used and exploited, and are no longer recognized as a proper end in themselves who should never be instrumentalized. The value of persons, however, does not depend on what they achieve or produce. There are rights that apply to everyone simply by virtue of being human, and no human power can legitimately deny or arbitrarily limit them.[^59]
 
-<!-- p52 08:14 Ch2::FOUNDATIONS::DIGNITY -->
+<!-- p52 08:14 Ch2::FOUNDATIONS::EQUAL_DIGNITY -->
 <a id=p052_ch2_foundation>52</a>. When we speak of dignity, we do not always use the word in the same way. Sometimes we refer to moral dignity, namely the way in which a person directs his or her choices and actions. At other times, we think of social dignity, which refers to a person’s living conditions and the concrete respect received from society. In other cases, we refer to existential dignity, meaning the way in which a person perceives his or her own worth and the value of life. These aspects of dignity can be enhanced or diminished. In addition to these notions, there is also the more profound and important level of ontological dignity. This is the dignity that belongs to every human being simply by virtue of existing, of having been willed, created and loved by God.[^60] No sin, failure, humiliation or exclusion can diminish the profound value of a human life that God has willed and called into being.[^61]
 
-<!-- p53 09:25 Ch2::FOUNDATIONS::DIGNITY -->
+<!-- p53 09:25 Ch2::FOUNDATIONS::EQUAL_DIGNITY -->
 <a id=p053_ch2_foundation>53</a>. The fundamental dignity of each person, therefore, is neither acquired nor earned, nor does it need to be justified. The recent Declaration Dignitas Infinita offers a summary of the Church’s thinking on this subject: “Every human person possesses an infinite dignity, inalienably grounded in his or her very being, which prevails in and beyond every circumstance, state, or situation the person may ever encounter”[^62] — in other words, always and without exception.
 The dignity of every human being can be described as infinite, as Saint John Paul II stated,[^63] for two reasons: first, because the love of God, who calls us to friendship with him, is infinite; and second, his love is absolutely unconditional, in the sense that, even if we search endlessly, we will never find anything that can erase or deny it.
 
@@ -600,23 +600,23 @@ Fraternity is not merely an aspiration of believers, but is a social and politic
 <!-- Ch2 B.5 PRINCIPLES - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### The principle of social justice
 
-<!-- p77 40:20 Ch2::PRINCIPLES::JUSTICE -->
+<!-- p77 40:20 Ch2::PRINCIPLES::SOCIAL_JUSTICE -->
 <a id=p077_ch2_princibes>77</a>. For the Christian community, social justice is a concrete way of following Jesus and remaining faithful to the Gospel. In the New Testament, Jesus proclaims the “good news to the poor” ( Lk 4:18) and identifies himself with the lowly, the sick, the imprisoned and strangers (cf. Mt 25:31-46). He thus teaches us that justice is born from, and fulfilled in, fraternity, because the way we approach and relate to the least among us becomes, in concrete terms, the measure of our relationship with God and with our brothers and sisters. Justice, however, concerns not only the behavior of individuals, but also the way in which the structures of society are conceived and organized. In this regard, the Second Vatican Council reminds us that every institution is called to serve the human person and his or her dignity.[^105] Social justice is, therefore, characterized by the capacity of a social, economic and political order to allow everyone — particularly the weakest — to live a truly dignified life, without leaving anyone behind.
 
-<!-- p78 41:50 Ch2::PRINCIPLES::JUSTICE -->
+<!-- p78 41:50 Ch2::PRINCIPLES::SOCIAL_JUSTICE -->
 <a id=p078_ch2_princibes>78</a>. The recent Magisterium has insisted that social justice begins with the least among us.
 Saint John Paul II spoke of a preferential option for the poor [^106] that must guide both personal and societal choices, while Pope Francis denounced a “‘throw away’ culture”[^107] that generates ever new forms of exclusion.
 From this perspective, social justice requires us to look at individuals and communities, starting with the most vulnerable: the poor, migrants, refugees, internally displaced persons, victims of violence and people living in urban or existential peripheries.
 
-<!-- p79 42:45 Ch2::PRINCIPLES::JUSTICE -->
+<!-- p79 42:45 Ch2::PRINCIPLES::SOCIAL_JUSTICE -->
 <a id=p079_ch2_princibes>79</a>. The idea of “social justice” helps us recognize that injustices do not arise solely from the wrong choices of individuals, but also from structures, mechanisms and economic and cultural systems that produce inequality almost automatically.
 Saint John Paul II spoke in this vein of structures of sin [^108] that oppose God’s will and require a commitment to personal and social conversion.
 In this perspective, justice is not merely about the fairer distribution of resources or the correction of current injustices, but also assumes a restorative dimension. It aims to mend broken bonds and reintegrate those who have been excluded, taking into account the wounds caused by injustices, such as wars, colonialism, racial or gender discrimination, violence against entire peoples and exploitation. This may include restoring dignity and a voice to those who have been ignored, fostering processes of healing for collective memory, opposing discriminatory laws and practices, and providing concrete support to those who still bear the consequences of wrongs suffered in the past.
 
-<!-- p80 44:30 Ch2::PRINCIPLES::JUSTICE -->
+<!-- p80 44:30 Ch2::PRINCIPLES::SOCIAL_JUSTICE -->
 <a id=p080_ch2_princibes>80</a>. In this day and age, social justice must also grapple with the environment shaped by digital technologies. The spread of global networks, platforms and artificial intelligence systems is changing the way we obtain information, communicate and access services. Justice demands that we prevent the emergence of new forms of exclusion and deprivation of freedoms: individuals and peoples hindered or denied access to basic technologies, communities exposed to invasive surveillance and social groups penalized by opaque algorithms that perpetuate prejudice and discrimination. In the digital age, a just social order guarantees everyone equal access to opportunities, protects the youngest and weakest members of society, combats hate and misinformation and subjects the use of data and technology to public oversight, so that the guiding principle is not solely profit but the dignity of every person and the common good of all people.
 
-<!-- p81 45:40 Ch2::PRINCIPLES::JUSTICE -->
+<!-- p81 45:40 Ch2::PRINCIPLES::SOCIAL_JUSTICE -->
 <a id=p081_ch2_princibes>81</a>. A litmus test for social justice today is the treatment of migrants, refugees and those forced to move due to poverty, violence, climate change and environmental disasters. The way a society treats them reveals whether its sense of justice is driven by fear or by the spirit of fraternity. Pope Francis urged us to see migrants not simply as a problem to be managed, but as a living image of the People of God on the move.[^109] They are people with dignity, resources and dreams, who have the right to be treated with respect and to ask to become active members of the societies that welcome them. Social justice in this area entails at least two complementary commitments. On the one hand, this means protecting the rightful hopes of those forced to leave by ensuring safe and legal routes, dignified conditions for receiving them, and genuine pathways to integration. On the other hand, it means promoting the right to remain in one’s homeland in peace and security by addressing the root causes that force people to migrate, including those linked to economic injustices and the climate crisis. When these rights are respected, migration can become an opportunity for encounter and mutual enrichment among peoples.
 
 <!-- ------------------------------------------------------------------------------------ -->
@@ -916,15 +916,15 @@ To renounce this adventure, both tragic and splendid, in the name of a presumed 
 <a id=p128_ch3_must>128</a>. When we embrace the possibility of transcending ourselves through God’s grace, we do not deny our nature, nor do we become less human. On the contrary, as Pope Francis explained, “We become fully human when we become more than human, when we let God bring us beyond ourselves in order to attain the fullest truth of our being.”[^137] Herein lies the radical departure from Promethean dreams: what saves humanity is not enhanced self-sufficiency, but a relationship that liberates, a communion that transforms. In this light, a technology that merely classifies and optimizes what already exists can, however unintentionally, become an obstacle to change and growth. For an algorithm, an error is a flaw to be corrected; for a person, however, an error can be a catalyst for profound change. A person’s future is not calculable, but depends on one’s freedom — elevated by the inexhaustible grace of God — and on the relationships cultivated.
 
 <!-- ------------------------------------------------------------------------------------ -->
-<!-- Ch3 E.  LOVE ======================================================================= -->
+<!-- Ch3 E.  TWO LOVES ================================================================== -->
 #### Two cities and two loves
 
-<!-- p129 40:05 Ch3::LOVE -->
+<!-- p129 40:05 Ch3::TWO_LOVES -->
 <a id=p129_ch3_must>129</a>. Christian humanism does not reject science or technology, but embraces them with gratitude and realism, and grounds them within a higher vocation. The creative intelligence of humanity is a gift that can alleviate suffering and open up new possibilities, but it must remain ordered toward the common good, justice, the care of the vulnerable and creation. In this sense, the true alternative is not between enthusiasm and fear, but between two paths of development: a progress that serves individuals and peoples, or a progress that subjects them to the mentality of power.
 Ultimately, the key question remains the one posed by Saint John Paul II: does AI “make human life on earth ‘more human’ in every aspect of that life? Does it make it more worthy of man?”[^138] If the answer is yes, then we can recognize it as an opportunity to be embraced responsibly, on a path of patient, shared reconstruction, akin to the rebuilding of Jerusalem narrated in the Book of Nehemiah.
 If, however, power grows while the heart withers and human bonds fray, then we are faced with a new form of Babel — a construction that is grandiose, yet fundamentally dehumanizing.
 
-<!-- p130 41:32 Ch3::LOVE -->
+<!-- p130 41:32 Ch3::TWO_LOVES -->
 <a id=p130_ch3_must>130</a>. Questioning this alternative path of progress and how we interpret and live it is ultimately a matter of examining our own hearts. The way we understand and shape relationships, work and institutions, in practice reveals our fundamental values. In the end, it all stems from what we hold most dear. This is a love that guides us as to what we truly cherish, both as individuals and as a society, and directs our lives and actions. Saint Augustine described human history as a struggle between two loves, which give rise to two ways of inhabiting the world and living together — or two “cities,” as it were: on the one hand, the love of God and neighbor; on the other, the exclusive love of self. “Two loves have built two cities: the earthly city, the love of self even to the contempt of God; the heavenly city, the love of God even to the contempt of self.”[^139] As throughout history, these two loves continue to contend for dominance in our hearts today. The age of AI is no exception: the construction of Babel or the rebuilding of Jerusalem begins within each one of us.
 
 <!-- ===================================================================================== -->
@@ -1202,10 +1202,10 @@ A: --> the prospect of greater poverty and inequality looms large, which would l
 <!-- Ch4 B.3 WORK - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### An economy that values dignity
 
-<!-- p157 34:43 Ch4_SAFEGUARDING::WORK::DIGNITY -->
+<!-- p157 34:43 Ch4_SAFEGUARDING::WORK::DIGNIFIED_JOBS -->
 <a id=p157_ch4_work>157</a>. The labor market is one area in which the risks associated with new technologies more clearly emerge. It is thus necessary to remember that economic freedom is not absolute; it must always be measured against the common good and the dignity of every person. Entrepreneurial initiative can indeed be a true vocation, generating wealth and improving lives, rather than a variable that is dependent only on profit. This is possible when it recognizes that the creation of dignified, valuable jobs are an essential part of its proper service to society.[^158]
 
-<!-- p158 35:28 Ch4_SAFEGUARDING::WORK::DIGNITY -->
+<!-- p158 35:28 Ch4_SAFEGUARDING::WORK::DIGNIFIED_JOBS -->
 <a id=p158_ch4_work>158</a>. With prophetic spirit, Pope Francis warned against an economic freedom proclaimed in words alone, while actual conditions prevent many from benefiting from it.[^159]
 Economic models that exalt efficiency and individual success often view investment in disadvantaged people or in those with slower development paths as useless or inconvenient,
 as if their futures depended solely on their ability to keep pace with the “winners.”
@@ -1218,10 +1218,10 @@ The experience of recent decades shows that in economic and financial crises,
 while the theories that
 <a id=4illusory>[promise automatic general prosperity often prove to be illusory.](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)</a>
 
-<!-- p159 36:57 Ch4_SAFEGUARDING::WORK::DIGNITY -->
+<!-- p159 36:57 Ch4_SAFEGUARDING::WORK::DIGNIFIED_JOBS -->
 <a id=p159_ch4_work>159</a>. It is important to move beyond the current metrics of development — which for more than eighty years have been tied to the concept of Gross Domestic Product (GDP) — since these metrics almost systematically neglect aspects essential to the overall wellbeing of people and the environment. The development of parameters and metrics complementary to GDP is crucial for improving the databases used for conducting analyses, political and economic decision-making and establishing regional, national and international priorities. The introduction of new parameters will allow for a comprehensive and timely assessment of how legislative and regulatory decisions impact the dignity of work, shared prosperity, inequality reduction and environmental protection. It will also affect the concept of development, educational processes, mindsets and public opinion, as well as peace, which is only authentic when based on justice.
 
-<!-- p160 38:10 Ch4_SAFEGUARDING::WORK::DIGNITY:: Credit -->
+<!-- p160 38:10 Ch4_SAFEGUARDING::WORK::DIGNIFIED_JOBS:: Credit -->
 <a id=p160_ch4_work>160</a>. In recent years, finance has increased in importance and has undergone significant innovation,
 driven partly by the introduction of cryptocurrencies.
 The reflections and observations contained in the teaching of my predecessors, particularly in their Encyclicals,
@@ -1238,17 +1238,17 @@ remain central for development and the investments that must accompany ongoing t
 <a id=4sake>[Finance for its own sake](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)</a>
 is fundamentally different from finance aimed at the development, creation and evolution of work.
 
-<!-- p161 39:40 Ch4_SAFEGUARDING::WORK::DIGNITY -->
+<!-- p161 39:40 Ch4_SAFEGUARDING::WORK::DIGNIFIED_JOBS -->
 <a id=p161_ch4_work>161</a>. This perspective needs to become part of a broader view of global dynamics. While the world’s wealth has grown in absolute terms, it is increasingly concentrated in fewer hands, widening inequalities both within and between countries. “There are a few who have too much, and too many who have little, that is the logic of today.”[^162] Scientific and technological advances, even in the medical field, are not easily accessible to the vast majority of people, as was dramatically demonstrated during the recent pandemic. While some regions spend heavily on superfluous interventions or dreams of individual enhancement accessible only to a select few, other parts of the world lack the essential equipment needed to save millions of human lives. To think that new technologies will automatically benefit everyone is to ignore the evidence. Unless transformations at the design stage prioritize the prevention of new and further disparities, technological progress will inevitably produce structural inequalities. Today, justice requires access to the benefits of innovation, including care, knowledge, tools and opportunities.
 
-<!-- p162 41:32 Ch4_SAFEGUARDING::WORK::DIGNITY:: Taxes -->
+<!-- p162 41:32 Ch4_SAFEGUARDING::WORK::DIGNIFIED_JOBS:: Taxes -->
 <a id=p162_ch4_work>162</a>. Just laws and methods of redistribution are certainly necessary for correcting imbalances, including tax systems that lighten the burden on the weakest and ask for more from those with greater resources. However, the pursuit of social justice should not be considered a separate issue that follows only after the production of wealth, as if the economy existed solely to create wealth, with politicians only intervening afterwards in order to distribute it. Indeed, justice concerns every phase of economic activity, from resource acquisition to financing, and from production to consumption; every choice has moral consequences.[^163]
 
-<!-- p163 42:06 Ch4_SAFEGUARDING::WORK::DIGNITY -->
+<!-- p163 42:06 Ch4_SAFEGUARDING::WORK::DIGNIFIED_JOBS -->
 <a id=p163_ch4_work>163</a>.  More than ever, in the age of AI and robotics, it is no longer possible to rely solely on the “invisible hand” of the market.[^164] Politics has the task of orientating economies and technologies to the common good, promoting dignified work, social inclusion and an equitable distribution of the benefits of innovation. Since many economic decisions transcend national borders, there is also a need for international cooperation capable of defining common strategies, especially in favor of the most vulnerable countries and people, in order to promote development and overcome welfare dependency. The thinking behind these choices is the immeasurable dignity of every person, the common good and a world truly governed for everyone.
 The interdependence between peace and development, as Saint Paul VI prophetically wrote in 1967, [^165] remains applicable today, for prosperity contributes to building and reinforcing peace only if it is widespread, inclusive and sustainable.
 
-<!-- p164 43:29 Ch4_SAFEGUARDING::WORK::DIGNITY -->
+<!-- p164 43:29 Ch4_SAFEGUARDING::WORK::DIGNIFIED_JOBS -->
 <a id=p164_ch4_work>164</a>. In practical terms, in the age of AI and robotics, ensuring that the economy favors human dignity means adopting certain criteria for firm action. <!--
 -->
 First, transparency and accountability: when data and algorithms influence
@@ -1406,10 +1406,10 @@ Entire regions, especially those marked by structural fragility and limited geop
 <!-- Ch4 D  SHARED RESPONSIBILITY ======================================================= -->
 ### A shared responsibility
 
-<!-- p180 1:05:38 Ch4_SAFEGUARDING::SHARED -->
+<!-- p180 1:05:38 Ch4_SAFEGUARDING::SHARED_RESPONSIBILITY -->
 <a id=p180_ch4_shared>180</a>. The various areas just considered— the search for the truth in public life, education in the digital environment, the transformation of work, the fragility of families and new forms of slavery—are not isolated phenomena. Rather, they reflect a common underlying issue, namely that if technology becomes the ultimate criterion, the human person risks being reduced to data, a cog in a machine or a commodity. If, however, technology is integrated with a wise perspective, it can become an instrument of growth, justice and fraternity.
 
-<!-- p181 1:06:28 Ch4_SAFEGUARDING::SHARED -->
+<!-- p181 1:06:28 Ch4_SAFEGUARDING::SHARED_RESPONSIBILITY -->
 <a id=p181_ch4_shared>181</a>. From this perspective, the Social Doctrine of the Church calls for a shared responsibility. It asks that these processes be guided with foresight: by institutions capable of regulating without stifling, and protecting without taking over; by businesses that recognize work and dignity as measures of success; by intermediary organizations and educational communities that rebuild trust and relationships; and by citizens who cultivate responsibility, moderation, discernment and a sense of truth. Only in this way can innovation genuinely serve integral human development, rather than becoming a source of exclusion and dominance. And only in this way can the promise of progress be recognized as authentic, because it is measured against the inviolable dignity of every man and woman.
 
 <!-- ==================================================================================== -->
@@ -1453,11 +1453,11 @@ It is this prospect of commitment, this construction site of hope, that we call 
 <!-- Ch5 A.  CIVILIZATION OF LOVE ======================================================= -->
 ### The civilization of love in the digital age
 
-<!-- p186 04:35 Ch5::LOVE -->
+<!-- p186 04:35 Ch5::LOVE_IN_DIGITAL_AGE:: -->
 <a id=p186_ch5_love>186</a>. When Saint Paul VI coined the phrase “the civilization of love,”[^177] the world was in the midst of the Cold War, an arms race and severe economic instability.
 In that context, the Church proposed an alternative path to that of ideological opposition between systems, and envisioned a social order in which justice and charity are intertwined and love becomes the guiding principle of economic, political and cultural life. Today, we must resolutely recover this vision, for the civilization of love is no naïve utopia, but a demanding project, which consists in translating charity into structures of justice, giving institutional form to fraternity and regarding others — whether individuals or peoples — as allies necessary for building the common good. As the Encyclical Letter Fratelli Tutti reminded us, only this social love is capable of becoming a culture and a norm, and thereby of bringing about a stable international order, transforming mere armed coexistence into a community with a shared future.[^178]
 
-<!-- p187 05:40 Ch5::LOVE -->
+<!-- p187 05:40 Ch5::LOVE_IN_DIGITAL_AGE:: -->
 <a id=p187_ch5_love>187</a>. This insight proves even more fundamental in the current context of digital transformation. Digital networks, the globalized economy and the development of AI create increasingly tighter bonds, linking — in real time — decisions made in one place to the effects they produce elsewhere. In this sense, the words of the Second Vatican Council on the growing interdependence between peoples remain timely, for the common good is taking on an increasingly universal dimension, with rights and duties concerning the entire human family.[^179] The project for a civilization of love, therefore, must undertake the task of transforming this imposed interdependence into a willed and chosen solidarity. This is the guiding principle for technological processes: it is not enough for artificial intelligence to make us more efficient or connected; it must also serve to build a universal human family, with shared rights and duties, where digital proximity becomes a real opportunity for encounter and mutual care.
 
 <!-- Ch5 B<5 CULTURE OF POWER ============================================================ -->
@@ -1619,7 +1619,7 @@ thereby creating an environment in which new conflicts can develop almost imperc
 <!-- Ch5 C  CIVILIZATION OF LOVE ======================================================== -->
 ### Building the civilization of love
 
-<!-- p210 27:25 Ch5::LOVE::INTRO:: perpetual of conflict is evil -->
+<!-- p210 27:25 Ch5::CIVILIZATION_OF_LOVE::INTRO:: perpetual of conflict is evil -->
 <a id=p210_ch5_building>210</a>. <!--
 Qp210ba: --> The construction of a world in a state of perpetual conflict is <!-- what? And what must we do?
 A: --> an evil and must be named for what it is.
@@ -1633,7 +1633,7 @@ A: --> Moreover, we believe in the power of the Kingdom, which grows from the ti
 Qp210be: --> While the tumult of confusion is all around us, <!-- what happens to goodness?
 A: --> goodness grows silently from the earth. In the words of the prophet Isaiah: “Behold, I am doing a new thing; now it springs forth, do you not perceive it?” (Is 43:19).
 
-<!-- p211 28:11 Ch5::LOVE::INTRO:: sustained by theological hope -->
+<!-- p211 28:11 Ch5::CIVILIZATION_OF_LOVE::INTRO:: sustained by theological hope -->
 <a id=p211_ch5_building>211</a>. A closer analysis of history confirms this. <!--
 Qp211ba: --> Even in the darkest nights, the Lord raises up men and women <!-- who do what?
 A: --> who refuse to give up, who persevere in doing good, who protect the vulnerable and open pathways to reconciliation. <!--
@@ -1648,7 +1648,7 @@ A: --> Christians serve the good and are sustained by a theological hope that gi
 <!-- Ch5 B.4 CULTURE OF POWER: OUR -- -- - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### We can all do our part
 
-<!-- p212 29:25 Ch5::LOVE::OUR:: We can all do our part to preserve the mindset of peace        -->
+<!-- p212 29:25 Ch5::CIVILIZATION_OF_LOVE::OUR:: We can all do our part to preserve the mindset of peace        -->
 <a id=p212_ch5_building>212</a>. <!--
 Qp212ba: --> At this point, however, a subtle temptation may emerge, namely the thought that the problems are <!-- what? And how does that influence our choices?
 A: --> too big and we are too small, and that our choices, therefore, cannot make a difference.
@@ -1666,7 +1666,7 @@ and <!--
 Qp212bf: --> it is precisely there <!--(our own areas for action, not matter who we are)--> — and nowhere else — that we must choose <!-- between what two mindsets?
 A: --> whether to fuel the mentality of force (even if only through indifference, cynicism, lies or hatred), or to preserve the mindset of peace (with truth, moderation, closeness and care).
 
-<!-- p213 30:25 Ch5::LOVE::OUR:: Tolkien: uprooting evil; our daily and public responsibilities -->
+<!-- p213 30:25 Ch5::CIVILIZATION_OF_LOVE::OUR:: Tolkien: uprooting evil; our daily and public responsibilities -->
 <a id=p213_ch5_building>213</a>. The <!--
 Qp213ba: Who is a well-known --> twentieth-century Catholic author <!-- ?
 A: --> J.R.R. Tolkien,
@@ -1682,7 +1682,7 @@ A: --> the need to disarm words, building peace through justice, adopting the pe
 
 #### The need to disarm words
 
-<!-- p214 31:40 Ch5::LOVE::DISARM::   1) disarm our words                       -->
+<!-- p214 31:40 Ch5::CIVILIZATION_OF_LOVE::DISARM::   1) disarm our words                       -->
 <a id=p214_ch5_building>214</a>. <!--
 Qp214ba: --> The first contribution we can make toward a more humane civilization is to <!-- do what?
 A: --> be mindful of our words. “Let us disarm words and we will help to disarm the world.”[^188] <!--
@@ -1698,7 +1698,7 @@ A: --> each time we speak the truth, offer wise advice, support those in need of
 
 #### Building peace through justice
 
-<!-- p215 32:50 Ch5::LOVE::JUSTICE::  2) seek justice always to find true peace -->
+<!-- p215 32:50 Ch5::CIVILIZATION_OF_LOVE::PEACE_AND_JUSTICE::  2) seek justice always to find true peace -->
 <a id=p215_ch5_building>215</a>. <!--
 Qp215ba: --> All of us, at every level, can contribute to building the foundation of peace, which is <!-- what?
 A: --> justice. <!--
@@ -1713,7 +1713,7 @@ A: --> seeking justice!
 
 #### Adopting the perspective of victims
 
-<!-- p216 34:10 Ch5::LOVE::VICTIM::   3) "touch the wounded flesh"              -->
+<!-- p216 34:10 Ch5::CIVILIZATION_OF_LOVE::VICTIM::   3) "touch the wounded flesh"              -->
 <a id=p216_ch5_building>216</a>. <!--
 Qp216ba: --> There are times when, in order to remain human, we must set aside our reservations and <!-- do what?
 A: --> take a stand. <!--
@@ -1729,7 +1729,7 @@ A: --> Pope Francis encouraged us to “touch the wounded flesh”[^193] of thos
 Qp216bb: --> Painful events require both <!-- what?
 A: --> history and memory, the former to recount the facts, the latter to bear witness to lived experiences.
 
-<!-- p217 35:08 Ch5::LOVE::VICTIM::       the voices of the victims             -->
+<!-- p217 35:08 Ch5::CIVILIZATION_OF_LOVE::VICTIM::       the voices of the victims             -->
 <a id=p217_ch5_building>217</a>. <!--
 Qp217ba: --> Giving space to the perspectives and voices of victims through communication and education helps us to become aware of <!-- what?
 A: --> the abyss of evil inherent in war, and generally in all forms of violence. <!--
@@ -1744,7 +1744,7 @@ A: --> still bear wounds today, so that their cries may become an appeal for pea
 
 #### Cultivating a healthy realism
 
-<!-- p218 36:10 Ch5::LOVE::REALISM::  4) making peace more than a mere word     -->
+<!-- p218 36:10 Ch5::CIVILIZATION_OF_LOVE::REALISM::  4) making peace more than a mere word     -->
 <a id=p218_ch5_building>218</a>. <!--
 Qp218ba: --> We are in need of a healthy realism that avoids both <!-- what?
 A: --> political idealism and cynicism. <!--
@@ -1763,7 +1763,7 @@ A: --> through credible institutions, verifiable guarantees, patient negotiation
 
 #### Reviving dialogue
 
-<!-- p219 37:20 Ch5::LOVE::DIALOGUE:: 5) -->
+<!-- p219 37:20 Ch5::CIVILIZATION_OF_LOVE::DIALOGUE:: 5) -->
 <a id=p219_ch5_building>219</a>. <!--
 Qp219ba: --> In order to build the civilization of love, we must engage in <!-- what? And why?
 A: --> dialogue, for this is the primary means of coexistence between people and nations, and it is the alternative to open conflict. <!--
@@ -1772,36 +1772,36 @@ A: --> that nothing is lost with peace, whereas with war everything can be lost.
 Qp219bc: --> He <!-- (Pope Pius XII) --> insisted that people must return to speaking with one another <!-- (on the eve of the Second World War) -->, because <!-- why?
 A: --> a sincere and persevering dialogue always opens up the possibility of an honorable solution.[^196]
 
-<!-- p220 38:00 Ch5::LOVE::DIALOGUE -->
+<!-- p220 38:00 Ch5::CIVILIZATION_OF_LOVE::DIALOGUE -->
 <a id=p220_ch5_building>220</a>. Indeed, dialogue is an ordinary part of human life and does not only concern relations between States. It involves acquiring an attitude that seeks to forge bonds of fraternity built on listening, an open demeanor, making time for each other and even wasting time together. For if we experience authentic encounters with others, with those who are different, strangers and migrants, it becomes much more difficult even to imagine war.
 
-<!-- p221 38:30 Ch5::LOVE::DIALOGUE -->
+<!-- p221 38:30 Ch5::CIVILIZATION_OF_LOVE::DIALOGUE -->
 <a id=p221_ch5_building>221</a>. At the political level, there is an urgent need to shift from the “culture of power” to a genuine “culture of negotiation,” in which dialogue and diplomacy become the standard means of resolving conflicts. Giorgio La Pira expressed the hope that “the method of war be replaced by the method of peace: the method of negotiation, of encounter, of convergence, that is, the authentically human method!”[^197] The awareness that all peoples share a common future demands that the “culture of negotiation” become an increasingly shared political and cultural commitment, capable of gradually leading humanity away from the cycle of violence.
 
-<!-- p222 39:15 Ch5::LOVE::DIALOGUE -->
+<!-- p222 39:15 Ch5::CIVILIZATION_OF_LOVE::DIALOGUE -->
 <a id=p222_ch5_building>222</a>. To those who have the honor and responsibility of governing, I would like to repeat the words that I spoke at the start of my Pontificate: “The peoples of our world desire peace, and to their leaders I appeal with all my heart:  Let us meet, let us talk, let us negotiate! War is never inevitable. Weapons can and must be silenced, for they do not resolve problems but only increase them. Those who make history are the peacemakers, not those who sow seeds of suffering. Our neighbors are not first our enemies, but our fellow human beings; not criminals to be hated, but other men and women with whom we can speak. Let us reject the Manichean notions so typical of that mindset of violence that divides the world into those who are good and those who are evil.”[^198]
 
-<!-- p223 40:10 Ch5::LOVE::DIALOGUE -->
+<!-- p223 40:10 Ch5::CIVILIZATION_OF_LOVE::DIALOGUE -->
 <a id=p223_ch5_building>223</a>. In rejecting the mindset of violence, interreligious dialogue plays a decisive role, because at the heart of the great spiritual paths lies a message of peace.[^199] Whereas those who use the name of God to legitimize terrorism, violence or war betray his true nature, for to fight in the name of religion means attacking religion itself.[^200]
 The “spirit of Assisi,” evoked by Saint John Paul II and carried forward by Pope Francis — for example, through his dialogue with the Grand Imam of Al-Azhar — shows that believers can draw upon the most authentic sources of their particular spiritual traditions, where there is no room for “sanctified hatred.”
 
 #### The necessity of diplomacy and multilateralism
 
-<!-- p224 41:02 Ch5::LOVE::DIMPLOMACY -->
+<!-- p224 41:02 Ch5::CIVILIZATION_OF_LOVE::DIMPLOMACY -->
 <a id=p224_ch5_building>224</a>.  In international relations, dialogue is an irreplaceable diplomatic tool for preventing conflicts and rebuilding bonds of trust. Faced with the impulsive broadcasts, aggressive rhetoric and power politics that characterize our time, “the vocation of diplomacy is to foster dialogue with all parties, including those interlocutors considered less ‘convenient’ or not considered legitimized to negotiate.”[^201] Therefore, every ounce of humility and patience should be employed in order to nurture even the faintest signs of goodwill among parties in conflict, so as to advance the process of peace.
 
-<!-- p225 41:35 Ch5::LOVE::DIMPLOMACY -->
+<!-- p225 41:35 Ch5::CIVILIZATION_OF_LOVE::DIMPLOMACY -->
 <a id=p225_ch5_building>225</a>. Cyberspace too has become a battleground. Cyberattacks, data manipulation and campaigns of influence, orchestrated with the help of AI, can destabilize entire countries even before open armed conflict erupts. Moreover, in this area, the attribution of responsibility is often uncertain. When it is unclear who carried out an attack, the risk of disproportionate reaction, miscalculation and escalation increases. For this reason, diplomacy must be capable of operating effectively in this new environment, negotiating shared regulations on the use of digital technologies, in order to protect civilians and the most vulnerable from “invisible” yet real forms of violence.
 
-<!-- p226 42:30 Ch5::LOVE::DIMPLOMACY -->
+<!-- p226 42:30 Ch5::CIVILIZATION_OF_LOVE::DIMPLOMACY -->
 <a id=p226_ch5_building>226</a>. International organizations, particularly the United Nations, are essential instruments for promoting a civilization of love, for they can foster dialogue among nations and promote the peaceful resolution of conflicts, the integral development of peoples, the protection of the most vulnerable, disarmament and the care of creation. Through such efforts, the international community can work to reduce inequalities, defend the rights of refugees and minorities, reallocate resources from military spending to human development and protect our common home. The Holy See supports and accompanies these endeavors, while also recognizing that the current weaknesses of the UN and the international political system reveal the need for profound reforms. This is not simply a question of technical adjustments, for the crisis of convictions and values that also concerns the ethical foundations of nations makes it more difficult to direct multilateralism toward the true common good.[^202]
 
-<!-- p227 43:30 Ch5::LOVE::DIMPLOMACY -->
+<!-- p227 43:30 Ch5::CIVILIZATION_OF_LOVE::DIMPLOMACY -->
 <a id=p227_ch5_building>227</a>. In the international context, the Holy See’s diplomacy adopts the Gospel’s principle of mercy as a concrete criterion for political action. This is one of the ways in which the Holy See places itself at the service of humanity, thereby appealing to consciences in the name of charity and truth, defending the dignity of every person and speaking up on behalf of the poor, migrants and victims of war. In this way, papal diplomacy expresses the catholicity of the Church and contributes to the building of a civilization of love, where even new technologies can be oriented toward the common good.
 
 #### Praying and hoping
 
-<!-- p228 44:10 Ch5::LOVE::HOPE -->
+<!-- p228 44:10 Ch5::CIVILIZATION_OF_LOVE::HOPE -->
 <a id=p228_ch5_building>228</a>. <!--]
 Qp228ba: --> These avenues for exercising responsibility are sustained by <!-- what?
 A: --> prayer, and in turn nourish prayer. <!--
