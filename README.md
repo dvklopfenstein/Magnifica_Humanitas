@@ -3,7 +3,7 @@ Remaining human in the age of Artificial Intelligence
 
 *[**Truly Know**](#know-his-teachings) Pope Leo XIV's social teachings* (+42,000 words) using the Anki flashcard system
 
-Anki flashcards coming soon. [**Contributions**](CONTRIBUTING.md) are most welcome.
+Anki flashcards coming soon. [**Contributions**](https://github.com/dvklopfenstein/Magnifica_Humanitas/blob/main/CONTRIBUTING.md) are most welcome.
 
 
 [![People Together](doc/images/people_together.jpeg)](https://www.vaticannews.va/en/pope/news/2026-05/encyclical-magnifica-humanitas-editorial-tornielli-ai-pope-leo.html)
