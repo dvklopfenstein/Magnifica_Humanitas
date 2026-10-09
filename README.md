@@ -1,9 +1,10 @@
 # [Remaining human in the age of AI](https://www.vaticannews.va/en/pope/news/2026-05/encyclical-magnifica-humanitas-editorial-tornielli-ai-pope-leo.html)
 Remaining human in the age of Artificial Intelligence
 
-Anki flashcard source and links to Pope Leo XIV's Encyclical,
-[***Magnifica Humanitas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html),
-on safeguarding the human person in the time of Artificial Intelligence.
+*[**Truly Know**](#know-his-teachings) Pope Leo XIV's social teachings* (+42,000 words) using the Anki flashcard system
+
+Anki flashcards coming soon. [**Contributions**](CONTRIBUTING.md) are most welcome.
+
 
 [![People Together](doc/images/people_together.jpeg)](https://www.vaticannews.va/en/pope/news/2026-05/encyclical-magnifica-humanitas-editorial-tornielli-ai-pope-leo.html)
 
@@ -27,7 +28,8 @@ Pope Leo's 42,000 word Encyclical, [***Magnifica Humanitas***](https://www.vatic
   * [**view**](https://github.com/biaojiang/mdviewer) rendered markdown locally
   * Create Anki flashcard material
 
-|AZ|HTML                                                                                                           |Markdown
+<!--
+|AZ|Vatican                                                                                                        |Markdown
 |--|---------------------------------------------------------------------------------------------------------------|--------
 |AR|[Arabic](https://www.vatican.va/content/leo-xiv/ar/encyclicals/documents/20260515-magnifica-humanitas.html)    |الرسائل العامة البابوية
 |DE|[German](https://www.vatican.va/content/leo-xiv/de/encyclicals/documents/20260515-magnifica-humanitas.html)    |Deutsch
@@ -38,12 +40,21 @@ Pope Leo's 42,000 word Encyclical, [***Magnifica Humanitas***](https://www.vatic
 |PL|[Polish](https://www.vatican.va/content/leo-xiv/pl/encyclicals/documents/20260515-magnifica-humanitas.html)    |Polski
 |PT|[Portuguese](https://www.vatican.va/content/leo-xiv/pt/encyclicals/documents/20260515-magnifica-humanitas.html)|Português
 |RU|[Russian](https://www.vatican.va/content/leo-xiv/ru/encyclicals/documents/20260515-magnifica-humanitas.html)   |Русский
-
+-->
 
 ## 2. The Presentation
 * Full Presentation with Distinguished Speakers ([**VIDEO**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html) and [**markdown transcript**](doc/Magnifica_Humanitas_Presentation.md))
 * Short movie at the Presentation's start ([**VIDEO**](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html) and [**markdown notes**](doc/intro_movie.md))
 
+
+<!-- ---------------------------------------------------------------------------- -->
+# *Know his teachings*
+*Know*, in your heart and in your mind and in your body, the principles of Social Doctrine (Social Teaching)
+by absorbing Pope Leo XIV's reflections found in ***Magnifica Humanitas*** forty-two thousand words.
+
+*Know* by using Anki spaced-repetition flash cards-the same free flashcard system
+that Medical students use to study tens of thousands of concepts to pass the MCATs
+to enter a excellent medical school.
 
 <!-- ---------------------------------------------------------------------------- -->
 # [Why markdown?](doc/why_markdown.md)
@@ -54,6 +65,10 @@ Pope Leo's 42,000 word Encyclical, [***Magnifica Humanitas***](https://www.vatic
 
 <!-- ---------------------------------------------------------------------------- -->
 # News
+* 2026/10/05 [NYC AI Hearing Raises Major Questions](https://patch.com/new-york/ditmaspark/s/kt1fx/nyc-ai-hearing-raises-major-questions)
+* 2026/09/29 Before the presentation of the encyclical, The New York Times reports:    
+  [Billionaire co-founder of Anthropic pressured Pope-claiming AI models might be "conscious"](https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html);    
+  Pope Leo XIV stood firm that "so-called artificial intelligences" [do not have a moral conscience](https://github.com/dvklopfenstein/Magnifica_Humanitas/blob/main/Magnifica_Humanitas-EN.md#p099_ch3_AI) (p99). 
 * 2026/07/31 [Rock legend Patti Smith meets fellow Chicago legend, Pope Leo XIV](https://www.americamagazine.org/news/2026/07/31/patti-smith-pope-leo/)
 * 2026/06/02 [Mathematicians issue public cry for help and call to action regarding AI](https://leidendeclaration.ai/)
 * 2026/05/28 [Peter Thiel leaves the United States](https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html)
@@ -62,6 +77,7 @@ Pope Leo's 42,000 word Encyclical, [***Magnifica Humanitas***](https://www.vatic
 * 2026/05/25 [Pope Leo XIV makes historic apology for Holy See's own role in legitimizing slavery](https://abcnews.com/International/wireStory/pope-leo-xiv-makes-historic-apology-holy-sees-133279925)
 * 2026/05/25 [Pope Leo’s ‘Magnifica humanitas’: AI must serve humanity not concentrate power](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html)
 * 2025/05/13 [Faith Meets AI And Tech In Vatican’s Bold Move Under Pope Leo XIV](https://www.forbes.com/sites/torconstantino/2025/05/13/faith-meets-ai-and-tech-in-vaticans-bold-move-under-pope-leo-xiv/)
+* 2024/12/21 [Twenty-six year-old OpenAI whistleblower found dead in San Francisco apartment](https://www.bbc.com/news/articles/cd0el3r2nlko)
 * 2024/04/24 [Cisco Systems joins Microsoft, IBM in Vatican pledge to ensure ethical use and development of AI](https://apnews.com/article/pope-ai-artificial-intelligence-cisco-microsoft-ibm-79b279570b2e7a2d945c452852a19657)
 
 
