@@ -1,9 +1,10 @@
 # [Remaining human in the age of AI](https://www.vaticannews.va/en/pope/news/2026-05/encyclical-magnifica-humanitas-editorial-tornielli-ai-pope-leo.html)
 Remaining human in the age of Artificial Intelligence
 
-Anki flashcard source and links to Pope Leo XIV's Encyclical,
-[***Magnifica Humanitas***](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html),
-on safeguarding the human person in the time of Artificial Intelligence.
+*[**Truly Know**](#know-his-teachings) Pope Leo XIV's social teachings* (+42,000 words) using the Anki flashcard system
+
+Anki flashcards coming soon. [**Contributions**](CONTRIBUTING.md) are most welcome.
+
 
 [![People Together](doc/images/people_together.jpeg)](https://www.vaticannews.va/en/pope/news/2026-05/encyclical-magnifica-humanitas-editorial-tornielli-ai-pope-leo.html)
 
@@ -27,7 +28,8 @@ Pope Leo's 42,000 word Encyclical, [***Magnifica Humanitas***](https://www.vatic
   * [**view**](https://github.com/biaojiang/mdviewer) rendered markdown locally
   * Create Anki flashcard material
 
-|AZ|HTML                                                                                                           |Markdown
+<!--
+|AZ|Vatican                                                                                                        |Markdown
 |--|---------------------------------------------------------------------------------------------------------------|--------
 |AR|[Arabic](https://www.vatican.va/content/leo-xiv/ar/encyclicals/documents/20260515-magnifica-humanitas.html)    |الرسائل العامة البابوية
 |DE|[German](https://www.vatican.va/content/leo-xiv/de/encyclicals/documents/20260515-magnifica-humanitas.html)    |Deutsch
@@ -38,12 +40,21 @@ Pope Leo's 42,000 word Encyclical, [***Magnifica Humanitas***](https://www.vatic
 |PL|[Polish](https://www.vatican.va/content/leo-xiv/pl/encyclicals/documents/20260515-magnifica-humanitas.html)    |Polski
 |PT|[Portuguese](https://www.vatican.va/content/leo-xiv/pt/encyclicals/documents/20260515-magnifica-humanitas.html)|Português
 |RU|[Russian](https://www.vatican.va/content/leo-xiv/ru/encyclicals/documents/20260515-magnifica-humanitas.html)   |Русский
-
+-->
 
 ## 2. The Presentation
 * Full Presentation with Distinguished Speakers ([**VIDEO**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html) and [**markdown transcript**](doc/Magnifica_Humanitas_Presentation.md))
 * Short movie at the Presentation's start ([**VIDEO**](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html) and [**markdown notes**](doc/intro_movie.md))
 
+
+<!-- ---------------------------------------------------------------------------- -->
+# *Know his teachings*
+*Know*, in your heart and in your mind and in your body, the principles of Social Doctrine (Social Teaching)
+by absorbing Pope Leo XIV's reflections found in ***Magnifica Humanitas*** forty-two thousand words.
+
+*Know* by using Anki spaced-repetition flash cards-the same free flashcard system
+that Medical students use to study tens of thousands of concepts to pass the MCATs
+to enter a excellent medical school.
 
 <!-- ---------------------------------------------------------------------------- -->
 # [Why markdown?](doc/why_markdown.md)
@@ -54,6 +65,7 @@ Pope Leo's 42,000 word Encyclical, [***Magnifica Humanitas***](https://www.vatic
 
 <!-- ---------------------------------------------------------------------------- -->
 # News
+* 2026/10/05 [NYC AI Hearing Raises Major Questions](https://patch.com/new-york/ditmaspark/s/kt1fx/nyc-ai-hearing-raises-major-questions)
 * 2026/09/29 Before the presentation of the encyclical, The New York Times reports:    
   [Billionaire co-founder of Anthropic pressured Pope-claiming AI models might be "conscious"](https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html);    
   Pope Leo XIV stood firm that "so-called artificial intelligences" [do not have a moral conscience](https://github.com/dvklopfenstein/Magnifica_Humanitas/blob/main/Magnifica_Humanitas-EN.md#p099_ch3_AI) (p99). 
