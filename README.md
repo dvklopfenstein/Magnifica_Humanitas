@@ -1,9 +1,10 @@
 # [Remaining human in the age of AI](https://www.vaticannews.va/en/pope/news/2026-05/encyclical-magnifica-humanitas-editorial-tornielli-ai-pope-leo.html)
 Remaining human in the age of Artificial Intelligence
 
-*[**Truly Know**](#know-his-teachings) Pope Leo XIV's social teachings* (+42,000 words) using the Anki flashcard system
+*[**Truly Know**](#know-his-teachings) Pope Leo XIV's social teachings* (+42,000 words)
+using the [Anki](https://apps.ankiweb.net/) flashcard system
 
-Anki flashcards coming soon. [**Contributions**](https://github.com/dvklopfenstein/Magnifica_Humanitas/blob/main/CONTRIBUTING.md) are most welcome.
+Anki flashcards coming soon. [**Contributions**](https://github.com/dvklopfenstein/Magnifica_Humanitas/blob/main/CONTRIBUTING.md) are heartily welcome.
 
 
 [![People Together](doc/images/people_together.jpeg)](https://www.vaticannews.va/en/pope/news/2026-05/encyclical-magnifica-humanitas-editorial-tornielli-ai-pope-leo.html)
