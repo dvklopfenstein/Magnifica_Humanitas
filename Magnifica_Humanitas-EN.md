@@ -757,13 +757,13 @@ Qp100b2: --> In personal use, <!-- what --> three aspects <!-- of artificial int
 A: --> the ease with which results are obtained, the impression of objectivity and the simulation of human communication.<!--
 Qp100b3: --> The speed and simplicity with which information, complex analyses, media content and practical assistance <!-- that artificial intelligence --> can be accessed undoubtedly makes life easier. Yet they can also encourage <!-- what?
 A: --> excessive reliance and the search for ready-made answers, and weaken personal creativity and judgment. <!--
-Qp100b3: --> The apparent objectivity of the responses and suggestions these systems <!-- (artificial intelligence) --> provide can lead us to overlook <!-- what?
+Qp100b4: --> The apparent objectivity of the responses and suggestions these systems <!-- (artificial intelligence) --> provide can lead us to overlook <!-- what?
 A: --> the fact that they reflect the cultural assumptions of those who designed and trained them, with all their strengths and limitations. <!--
-Qp100b4: --> The artificial imitation of positive human communication — words of advice, empathy, friendship and even love — can be engaging and at times genuinely helpful. However, for less discerning users, it can also be <!-- what?
+Qp100b5: --> The artificial imitation of positive human communication — words of advice, empathy, friendship and even love — can be engaging and at times genuinely helpful. However, for less discerning users, it can also be <!-- what?
 A: --> misleading, creating the illusion of a relationship with a real personal subject. <!--
-Qp100b5: --> When words are simulated, they do not build <!-- what?
+Qp100b6: --> When words are simulated, they do not build <!-- what?
 A: --> genuine relationships, but only their appearance. <!--
-Qp100b6: --> The artificial imitation of care or support can become particularly risky when it enters contexts where real relationships and emotional bonds are lacking. Here, the danger is not so much that a person may believe they are communicating with another person, but rather <!-- what?
+Qp100b7: --> The artificial imitation of care or support can become particularly risky when it enters contexts where real relationships and emotional bonds are lacking. Here, the danger is not so much that a person may believe they are communicating with another person, but rather <!-- what?
 A: --> that they may gradually lose the very desire to form genuine human connections.
 
 <!-- p101 11:45 Ch3::AI::TOOL -->
@@ -1149,9 +1149,9 @@ Qp150b3: --> for “while AI promises to boost productivity by taking over munda
 A: --> the speed and demands of machines, rather than machines being designed to support those who work. <!--
 Qp150b4: What are the three drawbacks to workers of AI as it is currently being used?
 A: --> As a result, contrary to the advertised benefits of AI, current approaches to technology can paradoxically de-skill workers, subject them to automated surveillance and relegate them to rigid and repetitive tasks. <!--
-Qp150b4: --> The need to keep up with the pace of technology can erode <!-- and stifle workers what?
+Qp150b5: --> The need to keep up with the pace of technology can erode <!-- and stifle workers what?
 A: Erode --> workers’ sense of agency and stifle the innovative abilities they are expected to bring to their work.”[^152] <!--
-Qp150b5: --> Precisely in order to avoid this drift<!-- (of stifling the innovative abilities we are expected to bring to our work)-->, it is necessary to <!-- do what?
+Qp150b6: --> Precisely in order to avoid this drift<!-- (of stifling the innovative abilities we are expected to bring to our work)-->, it is necessary to <!-- do what?
 A: --> design systems that are centered on the human person and not solely on performance.
 
 <!-- Ch4 B.2 WORK - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
@@ -1726,7 +1726,7 @@ Qp216b3: For what reason can we not --> limit ourselves to the level of abstract
 A: When we witness the bombing of civilians, attacks on hospitals, schools or vital infrastructure, and violence that affects children, we are confronted with scandals that wound humanity itself. 
 Qp216b4: What did Pope Francis encourage us to do with those who suffer?
 A: --> Pope Francis encouraged us to “touch the wounded flesh”[^193] of those who suffer, look at their faces, listen to their stories and acknowledge their wounds. <!--
-Qp216b1: --> Painful events require both <!-- what?
+Qp216b5: --> Painful events require both <!-- what?
 A: --> history and memory, the former to recount the facts, the latter to bear witness to lived experiences.
 
 <!-- p217 35:08 Ch5::CIVILIZATION_OF_LOVE::VICTIM::       the voices of the victims             -->
@@ -1897,13 +1897,13 @@ Qp236b1: --> As I <!-- (Pope Leo XIV) --> mentioned at the beginning of this ref
 Qp236b2: --> Our rule must be the acceptance of <!-- what?
 A: --> human limitations as a natural and positive reality,
 and <!--
-Qp236b2: And our rule --> should be characterized by shared <!-- what? And a language characterized by what? 
+Qp236b3: And our rule --> should be characterized by shared <!-- what? And a language characterized by what? 
 A: --> responsibility and a language characterized by the Gospel. <!--
-Qp236b3: --> At the end of this reflection, the plan for a civilization of love can be seen more clearly, and the construction site appears to be <!-- what? And thanks to who?
+Qp236b4: --> At the end of this reflection, the plan for a civilization of love can be seen more clearly, and the construction site appears to be <!-- what? And thanks to who?
 A: --> already up and running, thanks especially to the many living stones solidly united to Christ the cornerstone (cf.  1 Pet 2:4-6). <!--
-Qp236b4: --> In this task <!-- (building a civilization of love) -->, we are called to assume <!-- what? Without taking refuge in what? Without retreating into what?
+Qp236b5: --> In this task <!-- (building a civilization of love) -->, we are called to assume <!-- what? Without taking refuge in what? Without retreating into what?
 A: --> an active role, without taking refuge in spiritual sentimentality or retreating into our own little worlds. <!--
-Qp236b5: We must be faithful to ¿what?, invest in ¿?what?, cultivate ¿?what? and love ¿?what two things, which go together?.
+Qp236b6: We must be faithful to ¿what?, invest in ¿?what?, cultivate ¿?what? and love ¿?what two things, which go together?.
 A: --> We must be faithful to the truth, invest in education, cultivate relationships and love justice and peace.
 
 <!-- p237 12:35 END::SITE -->
@@ -2033,9 +2033,9 @@ Qp244b2: the contrast between the humble and the powerful, the poor and the rich
 A: --> teaching us “to look at the world from a lower position: through the eyes of those who suffer rather than the mighty;
 to view history through the eyes of the little ones, rather than through the perspective of the powerful;
 to interpret the events of history from the viewpoint of the widow, the orphan, the stranger, the wounded child, the exile and the fugitive.”[^223] <!--
-Qp244b2: --> The Blessed Virgin thus becomes “poet and prophetess of Redemption,” because on her lips is proclaimed <!-- what?
+Qp244b3: --> The Blessed Virgin thus becomes “poet and prophetess of Redemption,” because on her lips is proclaimed <!-- what?
 A: --> “the strongest and most innovative hymn ever articulated, the Magnificat; <!--
-Qp244b3: What does Mary reveal in her Magnificat?
+Qp244b4: What does Mary reveal in her Magnificat?
 A: --> it is she who reveals the transformative vision of the Christian economy, the historical and social result that still draws its origin and strength from Christianity.”[^224]
 
 <!-- p245 25:10 END::MAGNIFICAT -->
