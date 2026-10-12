@@ -249,7 +249,7 @@ Like Nehemiah, let us pray, plan wisely and work perseveringly, placing God at t
 <a id=p021_ch1_history>21</a>. Recognizing that God upholds the freedom of men and women in the unfolding of history, the Second Vatican Council affirmed the distinction between the ecclesial community and the political community, emphasizing that each must operate with full autonomy. The Church’s presence in the world is also expressed through her relationship with civil society and public institutions. By engaging with these entities, the Church acknowledges the value of social and political realities and honors their specific responsibilities, supporting everything that fosters the wellbeing of individuals and strengthens the fabric of society. The Church does not claim to assume the functions belonging to the State. On the contrary, she esteems those who serve the common good, and she firmly acknowledges the responsibility that civil institutions hold within society. At the same time, the mission entrusted to the Church prompts her to address the real suffering of the men and women of our time. This closeness does not stem from an intent to supplant civil institutions, much less from an implicit criticism of their work. Rather, it stems from evangelical charity, which impels the Church to draw near to the wounds of humanity whenever they surface with greater severity. When the Church intervenes, she does so following the example of the Good Samaritan, with discretion and closeness, aware that what arises from urgent necessity cannot become the norm, nor replace the institutional responsibilities proper to the civil community.
 
 <!-- p22 06:04 Ch1_DYNAMIC::JOURNEYING::INTRO:: all cultures      -->
-< a id=p022_ch1_history>22</a>. Starting from this twofold acknowledgment — the autonomy of earthly realities and the distinction between ecclesiastical and political spheres of competence — allows for a clearer understanding of the direction that the Second Vatican Council set for the Church in her relationship with the world. Gaudium et Spes reminds us that “it is the task of the whole People of God, particularly of its pastors and theologians, to listen to and distinguish the many voices of our times and to interpret them in the light of God’s word, in order that the revealed Truth may be more deeply penetrated, better understood and more suitably presented.”[^11]  Listening to the “many voices” is no mere sociological exercise, but instead requires spiritual discernment. Guided by the Spirit, the People of God come to recognize in cultural and social transformations both the signs of the presence of Christ, who comes and guides history toward its fulfilment, and those aberrations that obscure his face. In this way, the essential core of revealed Truth is not altered, but made explicit and adopted as a living standard for guiding concrete choices, inspiring paths of personal and communal conversion, promoting structural reforms and supporting new forms of evangelical witness in public life. History is thus understood as one of the places in which the Church allows herself to be taught by the Spirit about the humanizing power of the Gospel; and she learns to develop her own teaching at the service of the dignity of every person and the good of all peoples.
+<a id=p022_ch1_history>22</a>. Starting from this twofold acknowledgment — the autonomy of earthly realities and the distinction between ecclesiastical and political spheres of competence — allows for a clearer understanding of the direction that the Second Vatican Council set for the Church in her relationship with the world. Gaudium et Spes reminds us that “it is the task of the whole People of God, particularly of its pastors and theologians, to listen to and distinguish the many voices of our times and to interpret them in the light of God’s word, in order that the revealed Truth may be more deeply penetrated, better understood and more suitably presented.”[^11]  Listening to the “many voices” is no mere sociological exercise, but instead requires spiritual discernment. Guided by the Spirit, the People of God come to recognize in cultural and social transformations both the signs of the presence of Christ, who comes and guides history toward its fulfilment, and those aberrations that obscure his face. In this way, the essential core of revealed Truth is not altered, but made explicit and adopted as a living standard for guiding concrete choices, inspiring paths of personal and communal conversion, promoting structural reforms and supporting new forms of evangelical witness in public life. History is thus understood as one of the places in which the Church allows herself to be taught by the Spirit about the humanizing power of the Gospel; and she learns to develop her own teaching at the service of the dignity of every person and the good of all peoples.
 
 <!-- Ch1 A.1 JOURNEYING - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  -->
 #### The wisdom of the word of God in dialogue with the human sciences
@@ -429,27 +429,27 @@ A: --> grasp more effectively their <!-- (the seven aspects of Social Doctrine) 
 <!-- p0  00:20 Ch2:: FOUNDATIONS AND PRINCIPLES OF THE SOCIAL DOCTRINE OF THE CHURCH ------ -->
 <!-- p46 00:20 Ch2::INTRO -->
 <a id=p046_ch2>46</a>. <!--
-Q46a: --> The Social Doctrine of the Church is a living reality, in dialogue with <!-- what three things?
+Qp46ba: --> The Social Doctrine of the Church is a living reality, in dialogue with <!-- what three things?
 A: --> history, cultures and sciences. <!--
-Q46b: --> At the same time<!-- that the Social Doctrine of the Church is a living reality, in dialogue with history, cultures and sciences -->, it enshrines <!-- what?
+Qp46bb: --> At the same time<!-- that the Social Doctrine of the Church is a living reality, in dialogue with history, cultures and sciences -->, it enshrines <!-- what?
 A: -->a core set of unchanging truths. <!--
-Q46c: --> For this reason<!-- (the Social Doctrine enshrines a core set of unchanging truths)-->, it can be considered a form of <!-- what?
+Qp46bc: --> For this reason<!-- (the Social Doctrine enshrines a core set of unchanging truths)-->, it can be considered a form of <!-- what?
 A: -->wisdom that is capable of guiding the personal and societal lives of believers even today. <!--
-Q46d: --> In this second chapter, I <!-- (Pope Leo XIV) --> would like to focus on some of the foundations and principles of the Church’s Social Doctrine that will help us to <!-- do what?
+Qp46bd: --> In this second chapter, I <!-- (Pope Leo XIV) --> would like to focus on some of the foundations and principles of the Church’s Social Doctrine that will help us to <!-- do what?
 A: --> interpret the “new things” of our time, particularly in view of the inherent dignity of the human person. <!--
-Q46e: --> In order to protect the human person in the age of artificial intelligence, I believe that today we must once again reflect on <!-- what six parts of the Social Doctrine (teaching)?
+Qp46be: --> In order to protect the human person in the age of artificial intelligence, I believe that today we must once again reflect on <!-- what six parts of the Social Doctrine (teaching)?
 A: --> the common good, the universal destination of goods, subsidiarity, solidarity and social justice. <!--
-Q46f: --> I <!-- (Pope Leo XIV) --> am convinced that a harmonious relationship between these principles requires that they be considered <!-- how?
+Qp46bf: --> I <!-- (Pope Leo XIV) --> am convinced that a harmonious relationship between these principles requires that they be considered <!-- how?
 A: --> collectively, so that it becomes clear how they relate to and complement each other.
 
 <!-- p47 01:45 Ch2::INTRO -->
 <a id=p047_ch2>47</a>. <!--
-Q47a: --> In offering these reflections <!-- (on Social Doctrine) -->, my hope is, first and foremost, to help the lay faithful and people of goodwill rediscover <!-- what?
+Qp47ba: --> In offering these reflections <!-- (on Social Doctrine) -->, my hope is, first and foremost, to help the lay faithful and people of goodwill rediscover <!-- what?
 A: --> their duty of implementing the above-mentioned principles in their daily lives, family relationships, work and involvement in society. Thus, they will let themselves be inspired by the aim of embodying God’s love in the concrete events of life. <!--
-Q47b: --> At the same time, I <!-- (Pope Leo XIV) --> would like to encourage academic institutions and universities to <!-- do what?
+Qp47bb: --> At the same time, I <!-- (Pope Leo XIV) --> would like to encourage academic institutions and universities to <!-- do what?
 A: --> give fresh impetus to these principles <!-- (of Social Docrine) -->, and to apply them in a way that will be relevant and effective in addressing the digital revolution.
 In this way, <!--
-Q47c: With --> theological and philosophical enquiry <!-- (of Social Docrine) we --> will be able to further explore and support the Church’s pastoral journey, and contribute to the Magisterium’s task of <!-- doing what?
+Qp47bc: With --> theological and philosophical enquiry <!-- (of Social Docrine) we --> will be able to further explore and support the Church’s pastoral journey, and contribute to the Magisterium’s task of <!-- doing what?
 A: --> enlightening the consciences of the faithful and guiding their efforts to make the life of our societies more just and fraternal.
 
 <!-- ------------------------------------------------------------------------------------ -->
@@ -461,24 +461,24 @@ A: --> enlightening the consciences of the faithful and guiding their efforts to
 
 <!-- p48 03:05 Ch2::FOUNDATIONS::TRIUNE -->
 <a id=p048_ch2_foundation>48</a>. <!--
-Q48a: --> The Church’s Social Doctrine brings us to the very heart of our faith: <!-- which is what?
+Qp48ba: --> The Church’s Social Doctrine brings us to the very heart of our faith: <!-- which is what?
 A: --> the mystery of the living God, revealed in Jesus Christ, who, as a communion of Persons — Father, Son and Holy Spirit — is <!--
-Q48b: What is the mystery of the living God, revealed in Jesus Christ, who, as a communion of Persons — Father, Son and Holy Spirit —?
+Qp48bb: What is the mystery of the living God, revealed in Jesus Christ, who, as a communion of Persons — Father, Son and Holy Spirit —?
 A: --> love itself in relationship, expressed in the mutual gift of self and in sharing with the world.[^51] <!--
-Q48c: --> As the <!-- the Second Vatican --> Council recalled, human persons are called to communion with God <!-- to do what? 
+Qp48bc: --> As the <!-- the Second Vatican --> Council recalled, human persons are called to communion with God <!-- to do what? 
 A: --> and “can fully discover their true selves only in sincere self-giving.”[^52] <!--
-Q48d: --> Indeed their <!-- (human persons) --> deepest vocation is to enter into <!-- what?
+Qp48bd: --> Indeed their <!-- (human persons) --> deepest vocation is to enter into <!-- what?
 A: --> the Trinitarian dynamic of love received and shared.
 
 <!-- p49 03:52 Ch2::FOUNDATIONS::TRIUNE -->
 <a id=p049_ch2_foundation>49</a>. If <!--
-Q49a: --> the mystery of God as Love is the source of Social Doctrine, we see its most concrete expression in <!-- what?
+Qp49ba: --> the mystery of God as Love is the source of Social Doctrine, we see its most concrete expression in <!-- what?
 A: --> the face of Jesus Christ, the Incarnate Word. <!--
-Q49b: --> By becoming man, the Son of God enters <!-- what?
+Qp49bb: --> By becoming man, the Son of God enters <!-- what?
 A: --> our history and takes on human flesh, bringing with him the love that unites him to the Father and the Holy Spirit. <!--
-Q49c: --> In him<!-- (Jesus Christ) -->, “the mystery of humanity truly becomes clear”[^53] because <!-- why?
+Qp49bc: --> In him<!-- (Jesus Christ) -->, “the mystery of humanity truly becomes clear”[^53] because <!-- why?
 A: --> his humanity is completely free, open to others, capable of building healthy and beautiful relationships and committed to the total gift of self. <!--
-Q49d: --> Those who believe in him are engaged in the great work of <!-- what?
+Qp49bd: --> Those who believe in him are engaged in the great work of <!-- what?
 A: --> renewal that began with the mystery of his passion, death and resurrection, and they cooperate in building up the Kingdom of God, learning to embrace all men and women as brothers and sisters, children of one Father.
 In this way, both the proclamation of the Gospel and Christian life, guided by the action of the Holy Spirit, tend to bring about social consequences in the world.[^54]
 
@@ -1134,7 +1134,7 @@ A: Work -->
 In this regard, <!--
 Qp149bc: --> financial assistance to the poor may at times be necessary <!-- when?
 A: --> in emergencies, but it cannot become the sole response, since <!-- we should all have access to dignified work.
-Q149d: Regarding work, --> the goal is to enable each person to <!-- do what?
+Qp149bd: Regarding work, --> the goal is to enable each person to <!-- do what?
 A: --> live with dignity through his or her own work.[^151]
 
 <!-- p150 24:35 Ch4_SAFEGUARDING::WORK::VALUE:: stifles our innovation -->
@@ -1592,7 +1592,7 @@ Qp204bf: --> Escalating conflicts lead to asymmetric and “hybrid” wars, foug
 A: --> on the economic, financial and cyber fronts, where disinformation and campaigns that feed people’s fears are used to manipulate public opinion. <!--
 Qp204bg: --> In many countries, including those in the Global South, increased military spending is presented as <!-- what?
 A: --> the only response to an uncertain future or perceived threats. <!--aaaa
-Q: To whom do the real costs of increased military spending fall?
+Qp204bh: To whom do the real costs of increased military spending fall?
 A: --> Meanwhile, the real cost falls on the poorest, who see resources for healthcare, education and social services being reduced.
 
 <!-- p205 23:05 Ch5::POWER::SUPPOSED -->
