@@ -66,6 +66,9 @@ to enter a excellent medical school.
 
 <!-- ---------------------------------------------------------------------------- -->
 # News
+* 2026/10/07-2026/10/14 Pope Leo calls for:
+  * [Ten years after Amoris Laetitia: proclaiming the Gospel with families today](https://www.amorislaetitia.va/en.html)
+  * [Amoris Laetitia](https://www.vatican.va/content/dam/francesco/pdf/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia_en.pdf); Pope Francis "Joy of Love"
 * 2026/10/05 [NYC AI Hearing Raises Major Questions](https://patch.com/new-york/ditmaspark/s/kt1fx/nyc-ai-hearing-raises-major-questions)
 * 2026/09/29 Before the presentation of the encyclical, The New York Times reports:    
   [Billionaire co-founder of Anthropic pressured Pope-claiming AI models might be "conscious"](https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html);    
