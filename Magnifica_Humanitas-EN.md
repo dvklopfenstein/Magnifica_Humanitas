@@ -639,6 +639,19 @@ In the decades that followed, the Social Doctrine of the Church reprised and ref
 <!-- ------------------------------------------------------------------------------------ -->
 <!-- Ch2 D.  EXAMEN ===================================================================== -->
 ### An examen for the Church
+<!-- The examen is an ancient prayer practice that enables you to find God in your daily life. -->
+<!-- Unabridged Merriam-Webster:
+
+ex·a·men noun \ igˈzāmə̇n  , eg- \
+   inflected form(s): plural -s
+
+    1: examination, inquiry, or investigation especially when conducted to study or weigh the worth or state of something
+       <a regular examen of conscience>
+       <show a periodic structure under electron microscope examen — Biological Abstracts>
+
+    2: a critical study (as of a writer or a phenomenon)
+       <a sound, often brilliant examen of the most powerful English poet of this century — Robert Halsband>
+-->
 
 <!-- p86 51:55 Ch2::EXAMEN -->
 <a id=p086_ch2_examen>86</a>. In conclusion, I would like to touch on a point that is particularly close to my heart. Social Doctrine is not merely a message addressed to society; it is also an examination of conscience for the Church — a home and school of communion that is always called to ensure that the principles outlined in this chapter are applied, especially within its own structures. In the ecclesial context, the common good takes the form of a synodal approach for mission at the service of the Kingdom.  Indeed, the Church is the “communitarian and historical subject of synodality and mission.”[^113] This requires attention to the way decisions are taken and responsibilities are exercised. The Final Document of the Synod identifies a culture of transparency, accountability and evaluation as key practices for missionary transformation.[^114]
