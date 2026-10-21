@@ -12,7 +12,7 @@ TOC_LINES = [
     """   D. Rimanere umani"""                                        , # Rimanere umani
 
     """  C1. UN PENSIERO DINAMICO"""                                  , # Capitolo Primo: Un Pensiero Dinamico Fedele al Vangelo
-    """   A. Una Chiesa in cammino nella storia dell’umanità"""       , # Una Chiesa in cammino nella storia dell’umanità
+    """   A. Cammino nella storia dell’umanità"""                     , # Una Chiesa in cammino nella storia dell’umanità
     """    1. Sapienza della Parola e dialogo con le scienze umane""" , # Sapienza della Parola e dialogo con le scienze umane
     """    2. La Dottrina sociale come discernimento comunitario"""   , # La Dottrina sociale come discernimento comunitario
     """   B. Lo sviluppo del Magistero sociale da Leone XIII a oggi""", # Lo sviluppo del Magistero sociale da Leone XIII a oggi
@@ -21,12 +21,12 @@ TOC_LINES = [
     """    3. Il Magistero recente"""                                 , # Il Magistero recente
     """    4. Una lettura della storia alla luce della fede"""        , # Una lettura della storia alla luce della fede
 
-    """  C2. DOTTRINA SOCIALE DELLA CHIESA"""                         , # Capitolo Secondo: Fondamenti e Principi della Dottrina Sociale della Chiesa
-    """   A. I fondamenti della Dottrina sociale"""                   , # I fondamenti della Dottrina sociale
-    """    1. L’essere umano immagine del Dio trinitario"""           , # L’essere umano immagine del Dio trinitario
-    """    2. L’uguale dignità di tutti gli esseri umani"""           , # L’uguale dignità di tutti gli esseri umani
-    """    3. L’altissimo valore dei diritti umani"""                 , # L’altissimo valore dei diritti umani
-    """   B. I principi della Dottrina sociale"""                     , # I principi della Dottrina sociale
+    """  C2. CHIESA DOTTRINA SOCIALE"""                               , # Capitolo Secondo: Fondamenti e Principi della Dottrina Sociale della Chiesa
+    """   A. Dottrina Sociale Fondamenti"""                           , # I fondamenti della Dottrina sociale
+    """    1. Immagine del Dio trinitario"""                          , # L’essere umano immagine del Dio trinitario
+    """    2. L’uguale dignità di tutti umanis"""                     , # L’uguale dignità di tutti gli esseri umani
+    """    3. L’altissimo valore dei diritti"""                       , # L’altissimo valore dei diritti umani
+    """   B. Dottrina Sociale Principi"""                             , # I principi della Dottrina sociale
     """    1. Bene comune"""                                          , # Il principio del bene comune
     """    2. Destinazione universale dei beni"""                     , # Il principio della destinazione universale dei beni
     """    3. Sussidiarietà"""                                        , # Il principio di sussidiarietà
@@ -63,7 +63,7 @@ TOC_LINES = [
     """    2. Spezzare le catene delle nuove schiavitù"""             , # Spezzare le catene delle nuove schiavitù
     """   D. Una responsabilità condivisa"""                          , # Una responsabilità condivisa
 
-    """  C5. POTENZA E LA CIVILTÀ DELL’AMORE"""                       , # Capitolo Quinto: La Cultura della Potenza e la Civiltà dell’Amore
+    """  C5. POTENZA CONTRO AMORE"""                                  , # Capitolo Quinto: La Cultura della Potenza e la Civiltà dell’Amore
     """   A. La civiltà dell’amore nell’era digitale"""               , # La civiltà dell’amore nell’era digitale
     """   B. La cultura della potenza"""                              , # La cultura della potenza
     """    1. La normalizzazione della guerra"""                      , # La normalizzazione della guerra
@@ -85,5 +85,5 @@ TOC_LINES = [
     """   A. Il Verbo si è fatto carne"""                             , # Il Verbo si è fatto carne
     """   B. Un solo corpo in Cristo"""                               , # Un solo corpo in Cristo
     """   C. Il cantiere del nostro tempo"""                          , # Il cantiere del nostro tempo
-    """   D. Il canto della speranza: il Magnificat"""                , # Il canto della speranza: il Magnificat
+    """   D. Speranza canzone: il Magnificat"""                       , # Il canto della speranza: il Magnificat
 ]
