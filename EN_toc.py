@@ -84,5 +84,5 @@ TOC_LINES = [
     """   A. The Word became flesh"""              , # The Word became flesh
     """   B. One body in Christ"""                 , # One body in Christ
     """   C. Our construction site"""              , # The construction site of our time
-    """   D. Hope: the Magnificat"""               , # The song of hope: the Magnificat
+    """   D. Hope song: the Magnificat"""          , # The song of hope: the Magnificat
 ]
