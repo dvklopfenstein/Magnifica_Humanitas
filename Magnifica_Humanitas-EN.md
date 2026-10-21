@@ -101,7 +101,9 @@ IN THE TIME OF ARTIFICIAL INTELLIGENCE
 # Magnifica Humanitas Content
 <!-- ==================================================================================== -->
 <!-- INTRODUCTION                                                                         -->
-<!-- ==================================================================================== -->
+<!-- ====================================================================================
+keys: Magnifica_Humanitas EN
+-->
 ## INTRODUCTION
 
 <!-- p1  00:18 BEGIN::INTRO --------------------------- INTRODUCTION -------------------------- -->
@@ -1906,7 +1908,8 @@ If you are the body and members of Christ, then it is your sacrament that is pla
 Qp236b0: --> The spirituality I <!-- (Pope Leo XIV) --> wish to commend <!--(to commit, entrust, or give in charge for care or preservation) --> is that of <!-- what?
 A: --> the “wise architect” who, driven by hope for the Kingdom of God, is committed to building the world for the common good
 (cf.  1 Cor 3:10). <!--
-Qp236b1: --> As I <!-- (Pope Leo XIV) --> mentioned at the beginning of this reflection, [^217] the task of building in our time must place our relationship with <!-- who? where?  A: --> God at its center. <!--
+Qp236b1: --> As I <!-- (Pope Leo XIV) --> mentioned at the beginning of this reflection, [^217] the task of building in our time must place our relationship with <!-- who? where?
+A: --> God at its center. <!--
 Qp236b2: --> Our rule must be the acceptance of <!-- what?
 A: --> human limitations as a natural and positive reality,
 and <!--
