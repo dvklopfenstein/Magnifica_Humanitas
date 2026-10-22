@@ -36,14 +36,14 @@ TOC_LINES = [
     """   D. Una verifica per la Chiesa"""                            , # Una verifica per la Chiesa
 
     """  C3. TECNICA E DOMINIO"""                                     , # Capitolo Terzo: Tecnica e Dominio. La Grandezza della Persona Umana Davanti alle Promesse dell’IA
-    """   A. Il paradigma tecnocratico e il potere digitale"""        , # Il paradigma tecnocratico e il potere digitale
+    """   A. Paradigma tecnocratico e potere"""                       , # Il paradigma tecnocratico e il potere digitale
     """   B. L’intelligenza artificiale"""                            , # L’intelligenza artificiale
-    """    1. Un aiuto prezioso che richiede attenzione"""            , # Un aiuto prezioso che richiede attenzione
-    """    2. Responsabilità, trasparenza e governo dell’IA"""        , # Responsabilità, trasparenza e governo dell’IA
+    """    1. IA richiede attenzione"""                               , # Un aiuto prezioso che richiede attenzione
+    """    2. Responsabilità dell’IA"""                               , # Responsabilità, trasparenza e governo dell’IA
     """   C. Ciò che non possiamo perdere"""                          , # Ciò che non possiamo perdere
-    """    1. Narrazioni di fondo: transumanesimo e postumanesimo"""  , # Narrazioni di fondo: transumanesimo e postumanesimo
-    """    2. Il limite, il cuore, la grandezza dell’essere umano"""  , # Il limite, il cuore, la grandezza dell’essere umano
-    """   D. Il vero “più che umano”: grazia e umanesimo cristiano""" , # Il vero “più che umano”: grazia e umanesimo cristiano
+    """    1. trans- e post-umanesimo"""                              , # Narrazioni di fondo: transumanesimo e postumanesimo
+    """    2. Il cuore e la grandezza"""                              , # Il limite, il cuore, la grandezza dell’essere umano
+    '''   D. Il vero “più che umano”'''                               , # Il vero “più che umano”: grazia e umanesimo cristiano
     """   E. Due città e due amori"""                                 , # Due città e due amori
 
     """  C4. CUSTODIRE L’UMANO"""                                     , # Capitolo Quarto: Custodire l’Umano nella Trasformazione. Verità, Lavoro, Libertà
