@@ -34,7 +34,7 @@ DO NOT REMOVE
 |AZ|Vatican                                                                                                        |Markdown
 |--|---------------------------------------------------------------------------------------------------------------|--------
 |AR|[Arabic](https://www.vatican.va/content/leo-xiv/ar/encyclicals/documents/20260515-magnifica-humanitas.html)    |العربية
-|BE|[Belarusian](https://www.vatican.va/content/leo-xiv/be/encyclicals/documents/20260515-magnifica-humanitas.html)|Беларуская 
+|BE|[Belarusian](https://www.vatican.va/content/leo-xiv/be/encyclicals/documents/20260515-magnifica-humanitas.html)|Беларуская
 |DE|[German](https://www.vatican.va/content/leo-xiv/de/encyclicals/documents/20260515-magnifica-humanitas.html)    |Deutsch
 |EN|[English](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)   |English
 |ES|[Spanish](https://www.vatican.va/content/leo-xiv/es/encyclicals/documents/20260515-magnifica-humanitas.html)   |Español
