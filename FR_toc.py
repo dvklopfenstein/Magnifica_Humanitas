@@ -1,7 +1,7 @@
 """Table of Contents; (to be OR is) shortened for use in flashcard decks --- French (fr)"""
 
 
-'''   Edit the string between the `"""`s;                               Do not edit the original TOC text right of the `#`'''
+'''Edit the flashcard TOC text between the `"""s;                     Do not edit the Vatican's TOC text right of the `#`'''
 
 TOC_LINES = [
 
