@@ -13,13 +13,13 @@ TOC_LINES = [
 
     """  C1. UN PENSIERO DINAMICO"""                                  , # Capitolo Primo: Un Pensiero Dinamico Fedele al Vangelo
     """   A. Cammino nella storia dell’umanità"""                     , # Una Chiesa in cammino nella storia dell’umanità
-    """    1. Sapienza della Parola e dialogo con le scienze umane""" , # Sapienza della Parola e dialogo con le scienze umane
-    """    2. La Dottrina sociale come discernimento comunitario"""   , # La Dottrina sociale come discernimento comunitario
-    """   B. Lo sviluppo del Magistero sociale da Leone XIII a oggi""", # Lo sviluppo del Magistero sociale da Leone XIII a oggi
-    """    1. Primi passi della Dottrina sociale della Chiesa"""      , # Primi passi della Dottrina sociale della Chiesa
+    """    1. Sapienza della Parola e scienze umane"""                , # Sapienza della Parola e dialogo con le scienze umane
+    """    2. Discernimento comunitario"""                            , # La Dottrina sociale come discernimento comunitario
+    """   B. Lo sviluppo del Magistero sociale"""                     , # Lo sviluppo del Magistero sociale da Leone XIII a oggi
+    """    1. Primi passi"""                                          , # Primi passi della Dottrina sociale della Chiesa
     """    2. Gli anni del Concilio Vaticano II"""                    , # Gli anni del Concilio Vaticano II
     """    3. Il Magistero recente"""                                 , # Il Magistero recente
-    """    4. Una lettura della storia alla luce della fede"""        , # Una lettura della storia alla luce della fede
+    """    4. Una lettura della storia"""                             , # Una lettura della storia alla luce della fede
 
     """  C2. CHIESA DOTTRINA SOCIALE"""                               , # Capitolo Secondo: Fondamenti e Principi della Dottrina Sociale della Chiesa
     """   A. Dottrina Sociale Fondamenti"""                           , # I fondamenti della Dottrina sociale
@@ -49,36 +49,36 @@ TOC_LINES = [
     """  C4. CUSTODIRE L’UMANO"""                                     , # Capitolo Quarto: Custodire l’Umano nella Trasformazione. Verità, Lavoro, Libertà
     """   A. VERITÀ: bene comune"""                                   , # La verità come bene comune
     """    1. Verità e democrazia"""                                  , # Verità e democrazia
-    """    2. Comunicazione e immaginario collettivo"""               , # Comunicazione e immaginario collettivo
-    """    3. Per un’ecologia della comunicazione"""                  , # Per un’ecologia della comunicazione
-    """    4. Un’alleanza educativa per l’era digitale"""             , # Un’alleanza educativa per l’era digitale
+    """    2. Immaginario collettivo"""                               , # Comunicazione e immaginario collettivo
+    """    3. Ecologia della comunicazione"""                         , # Per un’ecologia della comunicazione
+    """    4. Un’alleanza educativa"""                                , # Un’alleanza educativa per l’era digitale
     """    5. Centralità della scuola"""                              , # Centralità della scuola
     """   B. LAVORO: La dignità del"""                                , # La dignità del lavoro nella transizione digitale
     """    1. Il valore del lavoro"""                                 , # Il valore del lavoro
-    """    2. Il problema della disoccupazione"""                     , # Il problema della disoccupazione
+    """    2. Problema della disoccupazione"""                        , # Il problema della disoccupazione
     """    3. Un’economia che valorizzi la dignità"""                 , # Un’economia che valorizzi la dignità
-    """    4. Famiglia e giovani: condizioni sociali della speranza""", # Famiglia e giovani: condizioni sociali della speranza
+    """    4. Famiglia e giovani: Speranza"""                         , # Famiglia e giovani: condizioni sociali della speranza
     """   C. LIBERTÀ: Custodire"""                                    , # Custodire la libertà contro dipendenza e mercificazione
     """    1. Dipendenze e controllo sociale"""                       , # Dipendenze e controllo sociale
-    """    2. Spezzare le catene delle nuove schiavitù"""             , # Spezzare le catene delle nuove schiavitù
+    """    2. Delle nuove schiavitù"""                                , # Spezzare le catene delle nuove schiavitù
     """   D. Una responsabilità condivisa"""                          , # Una responsabilità condivisa
 
-    """  C5. POTENZA CONTRO AMORE"""                                  , # Capitolo Quinto: La Cultura della Potenza e la Civiltà dell’Amore
-    """   A. La civiltà dell’amore nell’era digitale"""               , # La civiltà dell’amore nell’era digitale
+    """  C5. FORZA CONTRO AMORE"""                                    , # Capitolo Quinto: La Cultura della Potenza e la Civiltà dell’Amore
+    """   A. La civiltà dell’amore"""                                 , # La civiltà dell’amore nell’era digitale
     """   B. La cultura della potenza"""                              , # La cultura della potenza
-    """    1. La normalizzazione della guerra"""                      , # La normalizzazione della guerra
+    """    1. Normalizzazione della guerra"""                         , # La normalizzazione della guerra
     """    2. La forza senza limiti"""                                , # La forza senza limiti
     """    3. Armi e IA"""                                            , # Armi e IA
-    """    4. La crisi del multilateralismo"""                        , # La crisi del multilateralismo
-    """    5. Un presunto realismo politico"""                        , # Un presunto realismo politico
-    """   C. Costruire la civiltà dell’amore"""                       , # Costruire la civiltà dell’amore
+    """    4. Crisi del multilateralismo"""                           , # La crisi del multilateralismo
+    """    5. Presunto realismo politico"""                           , # Un presunto realismo politico
+    """   C. Costruire civiltà dell’amore"""                          , # Costruire la civiltà dell’amore
     """    1. Tutti possiamo fare la nostra parte"""                  , # Tutti possiamo fare la nostra parte
     """    2. Disarmare le parole"""                                  , # Disarmare le parole
-    """    3. Costruire la pace nella giustizia"""                    , # Costruire la pace nella giustizia
-    """    4. Assumere lo sguardo delle vittime"""                    , # Assumere lo sguardo delle vittime
+    """    3. La pace nella giustizia"""                              , # Costruire la pace nella giustizia
+    """    4. Lo sguardo delle vittime"""                             , # Assumere lo sguardo delle vittime
     """    5. Coltivare un sano realismo"""                           , # Coltivare un sano realismo
     """    6. Rilanciare il dialogo"""                                , # Rilanciare il dialogo
-    """    7. La necessità della diplomazia e del multilateralismo""" , # La necessità della diplomazia e del multilateralismo
+    """    7. Diplomazia e del multilateralismo"""                    , # La necessità della diplomazia e del multilateralismo
     """    8. Pregare e sperare"""                                    , # Pregare e sperare
 
     """  ~ CONCLUSIONE"""                                             , # Conclusione

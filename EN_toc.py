@@ -57,13 +57,13 @@ TOC_LINES = [
     """    1. The value of work"""                 , # The value of work
     """    2. Problem of unemployment"""           , # The problem of unemployment
     """    3. Economy that values dignity"""       , # An economy that values dignity
-    """    4. Families & young people"""           , # Families and young people: the social conditions for hope
+    """    4. Families & young people: Hope"""     , # Families and young people: the social conditions for hope
     """   C. FREEDOM: protecting"""                , # Protecting freedom against dependencies and commercialization
     """    1. Dependencies & societal control"""   , # Dependencies and societal control
     """    2. New forms of slavery"""              , # Breaking the chains of new forms of slavery
     """   D. A shared responsibility"""            , # A shared responsibility
 
-    """  C5. POWER VS LOVE"""                      , # Chapter Five: The Culture of Power and the Civilization of Love
+    """  C5. FORCE VS LOVE"""                      , # Chapter Five: The Culture of Power and the Civilization of Love
     """   A. The civilization of love"""           , # The civilization of love in the digital age
     """   B. The culture of power"""               , # The culture of power
     """    1. The normalization of war"""          , # The normalization of war
