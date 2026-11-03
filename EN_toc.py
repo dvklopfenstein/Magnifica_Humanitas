@@ -16,7 +16,7 @@ TOC_LINES = [
     """    1. God's Wisdom & our science"""        , # The wisdom of the word of God in dialogue with the human sciences
     """    2. Shared discernment"""                , # Social Doctrine as a shared discernment
     """   B. Social teaching development"""        , # The development of Social Doctrine from Leo XIII to the present
-    """    1. The First stages"""                  , # The first stages of the Church’s Social Doctrine
+    """    1. First stages"""                      , # The first stages of the Church’s Social Doctrine
     """    2. Second Vatican Council"""            , # The years of the Second Vatican Council
     """    3. Recent Magisterium"""                , # The recent Magisterium
     """    4. Interpreting history"""              , # Interpreting history in the light of faith

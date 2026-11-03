@@ -12,7 +12,7 @@ TOC_LINES = [
     """   C. Édifier dans le bien"""                                  , # Édifier dans le bien
     """   D. Rester humains"""                                        , # Rester humains
 
-    """  C1. CHAPITRE 1: UNE PENSÉE DYNAMIQUE FIDÈLE À L’ÉVANGILE"""  , # Chapitre 1: Une Pensée Dynamique Fidèle à l’Évangile
+    """  C1. UNE PENSÉE DYNAMIQUE FIDÈLE À L’ÉVANGILE"""  , # Chapitre 1: Une Pensée Dynamique Fidèle à l’Évangile
     """   A. Une Église en marche dans l’histoire de l’humanité"""    , # Une Église en marche dans l’histoire de l’humanité
     """    1. La sagesse de la Parole et le dialogue avec les sciences humaines""", # La sagesse de la Parole et le dialogue avec les sciences humaines
     """    2. La Doctrine sociale comme discernement communautaire""" , # La Doctrine sociale comme discernement communautaire
@@ -22,7 +22,7 @@ TOC_LINES = [
     """    3. Le Magistère récent"""                                  , # Le Magistère récent
     """    4. Une lecture de l’histoire à la lumière de la foi"""     , # Une lecture de l’histoire à la lumière de la foi
 
-    """  C2. CHAPITRE 2: FONDEMENTS ET PRINCIPES DE LA DOCTRINE SOCIALE DE L’ÉGLISE""", # Chapitre 2: Fondements et Principes de la Doctrine Sociale de l’Église
+    """  C2. FONDEMENTS ET PRINCIPES DE LA DOCTRINE SOCIALE DE L’ÉGLISE""", # Chapitre 2: Fondements et Principes de la Doctrine Sociale de l’Église
     """   A. Les fondements de la Doctrine sociale"""                 , # Les fondements de la Doctrine sociale
     """    1. L’être humain, image du Dieu trinitaire"""              , # L’être humain, image du Dieu trinitaire
     """    2. L’égale dignité de tous les êtres humains"""            , # L’égale dignité de tous les êtres humains
@@ -36,7 +36,7 @@ TOC_LINES = [
     """   C. Le développement humain intégral"""                      , # Le développement humain intégral
     """   D. Un examen pour l’Église"""                               , # Un examen pour l’Église
 
-    """  C3. CHAPITRE 3: TECHNIQUE ET MAÎTRISE LA GRANDEUR DE LA PERSONNE HUMAINE FACE AUX PROMESSES DE L’IA""", # Chapitre 3: Technique et Maîtrise la Grandeur de la Personne Humaine Face aux Promesses de l’IA
+    """  C3. TECHNIQUE ET MAÎTRISE LA GRANDEUR DE LA PERSONNE HUMAINE FACE AUX PROMESSES DE L’IA""", # Chapitre 3: Technique et Maîtrise la Grandeur de la Personne Humaine Face aux Promesses de l’IA
     """   A. Le paradigme technocratique et le pouvoir numérique"""   , # Le paradigme technocratique et le pouvoir numérique
     """   B. L’intelligence artificielle"""                           , # L’intelligence artificielle
     """    1. Une aide précieuse qui requiert de l’attention"""       , # Une aide précieuse qui requiert de l’attention
@@ -47,7 +47,7 @@ TOC_LINES = [
     """   D. Le véritable “plus qu’humain” : grâce et humanisme chrétien""", # Le véritable “plus qu’humain” : grâce et humanisme chrétien
     """   E. Deux cités et deux amours"""                             , # Deux cités et deux amours
 
-    """  C4. CHAPITRE 4: PRÉSERVER L’HUMAIN DANS LA TRANSFORMATION VÉRITÉ, TRAVAIL, LIBERTÉ""", # Chapitre 4: Préserver l’Humain dans la Transformation Vérité, Travail, Liberté
+    """  C4. PRÉSERVER L’HUMAIN DANS LA TRANSFORMATION VÉRITÉ, TRAVAIL, LIBERTÉ""", # Chapitre 4: Préserver l’Humain dans la Transformation Vérité, Travail, Liberté
     """   A. La vérité comme bien commun"""                           , # La vérité comme bien commun
     """    1. Vérité et démocratie"""                                 , # Vérité et démocratie
     """    2. Communication et imaginaire collectif"""                , # Communication et imaginaire collectif
@@ -64,7 +64,7 @@ TOC_LINES = [
     """    2. Briser les chaînes des nouvelles formes d’esclavage"""  , # Briser les chaînes des nouvelles formes d’esclavage
     """   D. Une responsabilité partagée"""                           , # Une responsabilité partagée
 
-    """  C5. CHAPITRE 5: LA CULTURE DU POUVOIR ET LA CIVILISATION DE L’AMOUR""", # Chapitre 5: La Culture du Pouvoir et la Civilisation de l’Amour
+    """  C5. LA CULTURE DU POUVOIR ET LA CIVILISATION DE L’AMOUR""", # Chapitre 5: La Culture du Pouvoir et la Civilisation de l’Amour
     """   A. La civilisation de l’amour à l’ère numérique"""          , # La civilisation de l’amour à l’ère numérique
     """   B. La culture du pouvoir"""                                 , # La culture du pouvoir
     """    1. La banalisation de la guerre"""                         , # La banalisation de la guerre

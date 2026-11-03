@@ -12,7 +12,7 @@ TOC_LINES = [
     """   C. Edificar en el bien"""                                   , # Edificar en el bien
     """   D. Permanecer siendo humanos"""                             , # Permanecer siendo humanos
 
-    """  C1. CAPÍTULO PRIMERO: UN PENSAMIENTO DINÁMICO FIEL AL EVANGELIO""", # Capítulo Primero: Un Pensamiento Dinámico Fiel al Evangelio
+    """  C1. PRIMERO: UN PENSAMIENTO DINÁMICO FIEL AL EVANGELIO""", # Capítulo Primero: Un Pensamiento Dinámico Fiel al Evangelio
     """   A. Una Iglesia en camino en la historia de la humanidad"""  , # Una Iglesia en camino en la historia de la humanidad
     """    1. La sabiduría de la Palabra y el diálogo con las ciencias humanas""", # La sabiduría de la Palabra y el diálogo con las ciencias humanas
     """    2. La Doctrina social como discernimiento comunitario"""   , # La Doctrina social como discernimiento comunitario
@@ -22,7 +22,7 @@ TOC_LINES = [
     """    3. El Magisterio reciente"""                               , # El Magisterio reciente
     """    4. Una lectura de la historia a la luz de la fe"""         , # Una lectura de la historia a la luz de la fe
 
-    """  C2. CAPÍTULO SEGUNDO: FUNDAMENTOS Y PRINCIPIOS DE LA DOCTRINA SOCIAL DE LA IGLESIA""", # Capítulo Segundo: Fundamentos y Principios de la Doctrina Social de la Iglesia
+    """  C2. SEGUNDO: FUNDAMENTOS Y PRINCIPIOS DE LA DOCTRINA SOCIAL DE LA IGLESIA""", # Capítulo Segundo: Fundamentos y Principios de la Doctrina Social de la Iglesia
     """   A. Los fundamentos de la Doctrina social"""                 , # Los fundamentos de la Doctrina social
     """    1. El ser humano, imagen del Dios trinitario"""            , # El ser humano, imagen del Dios trinitario
     """    2. La igual dignidad de todos los seres humanos"""         , # La igual dignidad de todos los seres humanos
@@ -36,7 +36,7 @@ TOC_LINES = [
     """   C. El desarrollo humano integral"""                         , # El desarrollo humano integral
     """   D. Un examen para la Iglesia"""                             , # Un examen para la Iglesia
 
-    """  C3. CAPÍTULO TERCERO: TÉCNICA Y DOMINIO. LA GRANDEZA DE LA PERSONA HUMANA ANTE LAS PROMESAS DE LA IA""", # Capítulo Tercero: Técnica y Dominio. La Grandeza de la Persona Humana ante las Promesas de la IA
+    """  C3. TERCERO: TÉCNICA Y DOMINIO. LA GRANDEZA DE LA PERSONA HUMANA ANTE LAS PROMESAS DE LA IA""", # Capítulo Tercero: Técnica y Dominio. La Grandeza de la Persona Humana ante las Promesas de la IA
     """   A. El paradigma tecnocrático y el poder digital"""          , # El paradigma tecnocrático y el poder digital
     """   B. La inteligencia artificial"""                            , # La inteligencia artificial
     """    1. Una ayuda valiosa que requiere atención"""              , # Una ayuda valiosa que requiere atención
@@ -47,7 +47,7 @@ TOC_LINES = [
     """   D. El verdadero “más que humano”: gracia y humanismo cristiano""", # El verdadero “más que humano”: gracia y humanismo cristiano
     """   E. Dos ciudades y dos amores"""                             , # Dos ciudades y dos amores
 
-    """  C4. CAPÍTULO CUARTO: CUSTODIAR LO HUMANO EN LA TRANSFORMACIÓN. VERDAD, TRABAJO, LIBERTAD""", # Capítulo Cuarto: Custodiar lo Humano en la Transformación. Verdad, Trabajo, Libertad
+    """  C4. CUARTO: CUSTODIAR LO HUMANO EN LA TRANSFORMACIÓN. VERDAD, TRABAJO, LIBERTAD""", # Capítulo Cuarto: Custodiar lo Humano en la Transformación. Verdad, Trabajo, Libertad
     """   A. La verdad como bien común"""                             , # La verdad como bien común
     """    1. Verdad y democracia"""                                  , # Verdad y democracia
     """    2. Comunicación e imaginario colectivo"""                  , # Comunicación e imaginario colectivo
@@ -64,7 +64,7 @@ TOC_LINES = [
     """    2. Romper las cadenas de las nuevas esclavitudes"""        , # Romper las cadenas de las nuevas esclavitudes
     """   D. Una responsabilidad compartida"""                        , # Una responsabilidad compartida
 
-    """  C5. CAPÍTULO QUINTO: LA CULTURA DEL PODER Y LA CIVILIZACIÓN DEL AMOR""", # Capítulo Quinto: La Cultura del Poder y la Civilización del Amor
+    """  C5. QUINTO: LA CULTURA DEL PODER Y LA CIVILIZACIÓN DEL AMOR""", # Capítulo Quinto: La Cultura del Poder y la Civilización del Amor
     """   A. La civilización del amor en la era digital"""            , # La civilización del amor en la era digital
     """   B. La cultura del poder"""                                  , # La cultura del poder
     """    1. La normalización de la guerra"""                        , # La normalización de la guerra

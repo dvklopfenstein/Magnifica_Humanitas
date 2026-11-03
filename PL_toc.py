@@ -11,7 +11,7 @@ TOC_LINES = [
     """   B. Dwa obrazy biblijne"""                                   , # Dwa obrazy biblijne
     """   C. Budować na fundamencie dobra"""                          , # Budować na fundamencie dobra
     """   D. Pozostać ludźmi"""                                       , # Pozostać ludźmi
-    """  R1. ROZDZIAŁ I: MYŚL DYNAMICZNA I WIERNA EWANGELII"""        , # Rozdział I: Myśl Dynamiczna i Wierna Ewangelii
+    """  R1. I: MYŚL DYNAMICZNA I WIERNA EWANGELII"""        , # Rozdział I: Myśl Dynamiczna i Wierna Ewangelii
     """   A. Kościół pielgrzymujący w dziejach ludzkości"""           , # Kościół pielgrzymujący w dziejach ludzkości
     """    1. Mądrość Słowa i dialog z naukami o człowieku"""         , # Mądrość Słowa i dialog z naukami o człowieku
     """    2. Nauka społeczna jako rozeznawanie wspólnotowe"""        , # Nauka społeczna jako rozeznawanie wspólnotowe
@@ -20,7 +20,7 @@ TOC_LINES = [
     """    2. Lata Soboru Watykańskiego II"""                         , # Lata Soboru Watykańskiego II
     """    3. Najnowsze Magisterium"""                                , # Najnowsze Magisterium
     """    4. Odczytywanie dziejów w świetle wiary"""                 , # Odczytywanie dziejów w świetle wiary
-    """  R2. ROZDZIAŁ II: PODSTAWY I ZASADY NAUKI SPOŁECZNEJ KOŚCIOŁA""", # Rozdział II: Podstawy i Zasady Nauki Społecznej Kościoła
+    """  R2. II: PODSTAWY I ZASADY NAUKI SPOŁECZNEJ KOŚCIOŁA"""       , # Rozdział II: Podstawy i Zasady Nauki Społecznej Kościoła
     """   A. Podstawy nauki społecznej Kościoła"""                    , # Podstawy nauki społecznej Kościoła
     """    1. Człowiek obrazem Boga Trójjedynego"""                   , # Człowiek obrazem Boga Trójjedynego
     """    2. Równa godność wszystkich istnień ludzkich"""            , # Równa godność wszystkich istnień ludzkich
@@ -33,7 +33,7 @@ TOC_LINES = [
     """    5. Zasada sprawiedliwości społecznej"""                    , # Zasada sprawiedliwości społecznej
     """   C. Integralny rozwój człowieka"""                           , # Integralny rozwój człowieka
     """   D. Sprawdzian dla Kościoła"""                               , # Sprawdzian dla Kościoła
-    """  R3. ROZDZIAŁ III: TECHNIKA I PANOWANIE. WIELKOŚĆ OSOBY LUDZKIEJ WOBEC OBIETNIC SZTUCZNEJ INTELIGENCJI""", # Rozdział III: Technika i Panowanie. Wielkość Osoby Ludzkiej Wobec Obietnic Sztucznej Inteligencji
+    """  R3. III: TECHNIKA I PANOWANIE. WIELKOŚĆ OSOBY LUDZKIEJ WOBEC OBIETNIC SZTUCZNEJ INTELIGENCJI""", # Rozdział III: Technika i Panowanie. Wielkość Osoby Ludzkiej Wobec Obietnic Sztucznej Inteligencji
     """   A. Paradygmat technokratyczny i władza cyfrowa"""           , # Paradygmat technokratyczny i władza cyfrowa
     """   B. Sztuczna inteligencja"""                                 , # Sztuczna inteligencja
     """    1. Cenne wsparcie wymagające uwagi"""                      , # Cenne wsparcie wymagające uwagi
@@ -43,7 +43,7 @@ TOC_LINES = [
     """    2. Ograniczenia, serce i wielkość istoty ludzkiej"""       , # Ograniczenia, serce i wielkość istoty ludzkiej
     """   D. To, co prawdziwie „więcej niż ludzkie”: łaska i humanizm chrześcijański""", # To, co prawdziwie „więcej niż ludzkie”: łaska i humanizm chrześcijański
     """   E. Dwa miasta i dwie miłości"""                             , # Dwa miasta i dwie miłości
-    """  R4. ROZDZIAŁ IV: STRZEC CZŁOWIECZEŃSTWA POŚRÓD PRZEMIAN. PRAWDA, PRACA, WOLNOŚĆ""", # Rozdział IV: Strzec Człowieczeństwa Pośród Przemian. Prawda, Praca, Wolność
+    """  R4. IV: STRZEC CZŁOWIECZEŃSTWA POŚRÓD PRZEMIAN. PRAWDA, PRACA, WOLNOŚĆ""", # Rozdział IV: Strzec Człowieczeństwa Pośród Przemian. Prawda, Praca, Wolność
     """   A. Prawda jako dobro wspólne"""                             , # Prawda jako dobro wspólne
     """    1. Prawda i demokracja"""                                  , # Prawda i demokracja
     """    2. Komunikacja i wyobraźnia zbiorowa"""                    , # Komunikacja i wyobraźnia zbiorowa
@@ -59,7 +59,7 @@ TOC_LINES = [
     """    1. Uzależnienia i kontrola społeczna"""                    , # Uzależnienia i kontrola społeczna
     """    2. Rozerwać kajdany nowych zniewoleń"""                    , # Rozerwać kajdany nowych zniewoleń
     """   D. Współdzielona odpowiedzialność"""                        , # Współdzielona odpowiedzialność
-    """  R5. ROZDZIAŁ V: KULTURA POTĘGI A CYWILIZACJA MIŁOŚCI"""      , # Rozdział V: Kultura Potęgi a Cywilizacja Miłości
+    """  R5. V: KULTURA POTĘGI A CYWILIZACJA MIŁOŚCI"""               , # Rozdział V: Kultura Potęgi a Cywilizacja Miłości
     """   A. Cywilizacja miłości w erze cyfrowej"""                   , # Cywilizacja miłości w erze cyfrowej
     """   B. Kultura potęgi"""                                        , # Kultura potęgi
     """    1. Normalizacja wojny"""                                   , # Normalizacja wojny

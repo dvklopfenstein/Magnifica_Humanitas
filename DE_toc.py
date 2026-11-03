@@ -11,7 +11,7 @@ TOC_LINES = [
     """   B. Zwei biblische Bilder"""                                 , # Zwei biblische Bilder
     """   C. Im Guten aufbauen"""                                     , # Im Guten aufbauen
     """   D. Menschlich bleiben"""                                    , # Menschlich bleiben
-    """  K1. ERSTES KAPITEL: EIN DYNAMISCHES DENKEN IM GEISTE DES EVANGELIUMS""", # Erstes Kapitel: Ein Dynamisches Denken im Geiste des Evangeliums
+    """  K1. ERSTES: EIN DYNAMISCHES DENKEN IM GEISTE DES EVANGELIUMS""", # Erstes Kapitel: Ein Dynamisches Denken im Geiste des Evangeliums
     """   A. Eine Kirche unterwegs in der Geschichte der Menschheit""", # Eine Kirche unterwegs in der Geschichte der Menschheit
     """    1. Die Weisheit des Wortes Gottes und der Dialog mit den Geisteswissenschaften""", # Die Weisheit des Wortes Gottes und der Dialog mit den Geisteswissenschaften
     """    2. Die Soziallehre als gemeinschaftliche Entscheidungsfindung""", # Die Soziallehre als gemeinschaftliche Entscheidungsfindung
@@ -20,7 +20,7 @@ TOC_LINES = [
     """    2. Die Jahre des Zweiten Vatikanischen Konzils"""          , # Die Jahre des Zweiten Vatikanischen Konzils
     """    3. Das jüngere Lehramt"""                                  , # Das jüngere Lehramt
     """    4. Eine Deutung der Geschichte im Licht des Glaubens"""    , # Eine Deutung der Geschichte im Licht des Glaubens
-    """  K2. ZWEITES KAPITEL: GRUNDLAGEN UND PRINZIPIEN DER SOZIALLEHRE DER KIRCHE""", # Zweites Kapitel: Grundlagen und Prinzipien der Soziallehre der Kirche
+    """  K2. ZWEITES: GRUNDLAGEN UND PRINZIPIEN DER SOZIALLEHRE DER KIRCHE""", # Zweites Kapitel: Grundlagen und Prinzipien der Soziallehre der Kirche
     """   A. Die Grundlagen der Soziallehre"""                        , # Die Grundlagen der Soziallehre
     """    1. Der Mensch als Abbild des dreifaltigen Gottes"""        , # Der Mensch als Abbild des dreifaltigen Gottes
     """    2. Die gleiche Würde aller Menschen"""                     , # Die gleiche Würde aller Menschen
@@ -33,7 +33,7 @@ TOC_LINES = [
     """    5. Das Prinzip der sozialen Gerechtigkeit"""               , # Das Prinzip der sozialen Gerechtigkeit
     """   C. Die ganzheitliche menschliche Entwicklung"""             , # Die ganzheitliche menschliche Entwicklung
     """   D. Vergewisserung für die Kirche"""                         , # Vergewisserung für die Kirche
-    """  K3. DRITTES KAPITEL: TECHNIK UND HERRSCHAFT. DIE GRÖSSE DER MENSCHLICHEN PERSON ANGESICHTS DER VERSPRECHEN DER KI""", # Drittes Kapitel: Technik und Herrschaft. Die Grösse der Menschlichen Person Angesichts der Versprechen der KI
+    """  K3. DRITTES: TECHNIK UND HERRSCHAFT. DIE GRÖSSE DER MENSCHLICHEN PERSON ANGESICHTS DER VERSPRECHEN DER KI""", # Drittes Kapitel: Technik und Herrschaft. Die Grösse der Menschlichen Person Angesichts der Versprechen der KI
     """   A. Das Technokratisches Paradigma und die digitale Macht""" , # Das Technokratisches Paradigma und die digitale Macht
     """   B. Künstliche Intelligenz"""                                , # Künstliche Intelligenz
     """    1. Ein wertvolles Hilfsmittel, das Vorsicht erfordert"""   , # Ein wertvolles Hilfsmittel, das Vorsicht erfordert
@@ -43,7 +43,7 @@ TOC_LINES = [
     """    2. Die Begrenztheit, das Herz, die Größe des Menschen"""   , # Die Begrenztheit, das Herz, die Größe des Menschen
     """   D. Das wahre more than human: Gnade und christlicher Humanismus""", # Das wahre more than human: Gnade und christlicher Humanismus
     """   E. Zwei Städte und zwei Arten von Liebe"""                  , # Zwei Städte und zwei Arten von Liebe
-    """  K4. VIERTES KAPITEL: DAS MENSCHLICHE IN ZEITEN DES WANDELS BEWAHREN. WAHRHEIT, ARBEIT, FREIHEIT""", # Viertes Kapitel: Das Menschliche in Zeiten des Wandels Bewahren. Wahrheit, Arbeit, Freiheit
+    """  K4. VIERTES: DAS MENSCHLICHE IN ZEITEN DES WANDELS BEWAHREN. WAHRHEIT, ARBEIT, FREIHEIT""", # Viertes Kapitel: Das Menschliche in Zeiten des Wandels Bewahren. Wahrheit, Arbeit, Freiheit
     """   A. Die Wahrheit als Gemeingut"""                            , # Die Wahrheit als Gemeingut
     """    1. Wahrheit und Demokratie"""                              , # Wahrheit und Demokratie
     """    2. Kommunikation und kollektive Vorstellungswelt"""        , # Kommunikation und kollektive Vorstellungswelt
@@ -59,7 +59,7 @@ TOC_LINES = [
     """    1. Abhängigkeiten und soziale Kontrolle"""                 , # Abhängigkeiten und soziale Kontrolle
     """    2. Die Ketten der neuen Formen der Sklaverei sprengen"""   , # Die Ketten der neuen Formen der Sklaverei sprengen
     """   D. Eine gemeinsame Verantwortung"""                         , # Eine gemeinsame Verantwortung
-    """  K5. FÜNFTES KAPITEL: DIE KULTUR DER MACHT UND DIE ZIVILISATION DER LIEBE""", # Fünftes Kapitel: Die Kultur der Macht und die Zivilisation der Liebe
+    """  K5. FÜNFTES: DIE KULTUR DER MACHT UND DIE ZIVILISATION DER LIEBE""", # Fünftes Kapitel: Die Kultur der Macht und die Zivilisation der Liebe
     """   A. Die Zivilisation der Liebe im digitalen Zeitalter"""     , # Die Zivilisation der Liebe im digitalen Zeitalter
     """   B. Die Kultur der Macht"""                                  , # Die Kultur der Macht
     """    1. Die Normalisierung des Krieges"""                       , # Die Normalisierung des Krieges
