@@ -10,7 +10,7 @@
         * [**Prof.ssa Anna Rowlands**](#profssa-anna-rowlands)
         * [**Christopher Olah**](#christopher-olah)
         * [**Prof.ssa Leocadie Lushombo i.t.**](#profssa-leocadie-lushombo-it)
-        * [**S. Em. Card. Michael Caerny S.J.**](#s-em-card-michael-caerny-sj)
+        * [**S. Em. Card. Michael Czerny S.J.**](#s-em-card-michael-caerny-sj)
     * **CONCLUSION**
         * [**Pope Leo XIV**](#pope-leo-xiv)
 
@@ -401,7 +401,7 @@ And here I think, especially of all immigrant workers, including the farm worker
 Thank you.
 
 <!-- ======================================================================== -->
-## S. Em. Card. Michael Caerny S.J.
+## S. Em. Card. Michael Czerny S.J.
 [**01:16:00**](https://youtu.be/JxcXcP6NyRM?si=Yz-T9WYMGSJGXg5x&t=4560s) or
 [**Presentation (no ads)**](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/5/25/presentazione-enciclica.html)    
 
