@@ -15,7 +15,7 @@ IN THE TIME OF ARTIFICIAL INTELLIGENCE
         * [Prof.ssa Anna Rowlands](doc/Magnifica_Humanitas_Presentation.md#profssa-anna-rowlands)
         * [Christopher Olah](doc/Magnifica_Humanitas_Presentation.md#christopher-olah)
         * [Prof.ssa Leocadie Lushombo i.t.](doc/Magnifica_Humanitas_Presentation.md#profssa-leocadie-lushombo-it)
-        * [S. Em. Card. Michael Caerny S.J.](doc/Magnifica_Humanitas_Presentation.md#s-em-card-michael-caerny-sj)
+        * [S. Em. Card. Michael Czerny S.J.](doc/Magnifica_Humanitas_Presentation.md#s-em-card-michael-caerny-sj)
     * [Pope Leo XIV](doc/Magnifica_Humanitas_Presentation.md#pope-leo-xiv)
 
 # TOC: *Magnifica Humanitas* Encyclical
