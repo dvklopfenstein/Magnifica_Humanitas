@@ -34,7 +34,7 @@ Notes from the **four-minute introduction video** at the **Presentation of the E
  3| 8  | 1914 | 1922 | Benedict XV    |Power station; Electric grid towers (lots and lots); Communications device?
  4| 17 | 1922 | 1939 | Pius XI        |Company towns?; Typed letter; Newspapers made; Work ad for die makers; Factory floor; Soldiers; Nazi soldiers; Nazi pageantry; Nazi bombers; Nazi bombardment platoon; So many bombs dropped; Huge explosion
  5| 19 | 1939 | 1958 | Ven. Pius XII  |Pope next to mainframe computer; Automobiles; Shoppers
- 6| 5  | 1958 | 1963 | St John XXIII  |USA Rocket ship takeoff
+ 6| 5  | 1958 | 1963 | St John XXIII  |USA Rocket ship liftoff
  7| 15 | 1963 | 1978 | St Paul VI     |Pope looking through giant telescope; Pope speaking on a TV broadcast
  8| .1 | 1978 | -    | BI. John Paul I|Pope speaking on TV; Pope at an atheletics stadium event and on the Jumbotron; Military on wall painted with "Peace" graffiti; Wall being torn down; ?
  9| 27 | 1978 | 2005 | St&nbsp;John&nbsp;Paul&nbsp;II|Pope shaking hands on TV w/Russian Leader, Mikhail Gorbachev (Historic event); Pope on red carpet w/Kissinger w/military in background; Black and white PC monitor; Floppy drive; Tape drives; Color PC monitor; Programs running in GUI; Mouse; Keyboard; Pope being shown PC laptop; 9/11 terror attack on NYC twin towers; People on ground watching NYC's twin towers burn; Facebook; People together physically, but focused only on their own phones; Doom-scrolling
